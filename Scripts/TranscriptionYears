@@ -1,0 +1,49 @@
+#this script must be activated from within the Scripts directory
+#it counts how many transcriptions havebeen finished in each decade and year
+
+#
+#awk '{FS="\t";OFS="\t"}{if(NR>1 && $5) print $1}' ../BillboardTranscriptionData.tsv | sed 's/.*_//g' | sort > tranallyears.tmp
+grep '201[67]' ../BillboardTranscriptionData.tsv | awk '{print $1}'  | sed 's/.*_//g' | sort > tranallyears.tmp
+
+sed 's/[0-9]$//g' tranallyears.tmp  | sed 's/$/0/g' | sort | uniq -c  | sed 's/^ *//g' > trandecades.tmp
+
+uniq -c tranallyears.tmp | sed 's/^ *//g'  > tranyears.tmp
+
+cat trandecades.tmp tranyears.tmp | sed 's/ /	/g' > tran.tmp
+
+#
+
+grep -o '[^ ]19../' ../BillboardSampleData.tsv  | sed 's/ //g' |sed 's@/@@g' > corpallyears.tmp
+
+sed 's/[0-9]$//g' corpallyears.tmp  | sed 's/$/0/g' |  sort | uniq -c  | sed 's/^ *//g' > corpdecades.tmp
+
+sort corpallyears.tmp | uniq -c | sed 's/^ *//g'  > corpyears.tmp
+
+cat corpdecades.tmp corpyears.tmp | sed 's/ /	/g' > corp.tmp
+
+paste tran.tmp corp.tmp  > data.tmp
+
+awk 	'BEGIN{FS = "\t"; 
+	OFS = "\t"; 
+	Total = 0; 
+	TotalTran = 0; 
+	TotalProp = 0; 
+	print "\tDecade\tSongs\tTranscribed\t%Transcribed";
+	}
+	{
+	if($2 == '1958') {Total = 0; TotalTran = 0; 
+		print "\n\tYear\tSongs\tTranscribed\t%Transcribed\n"}
+	if($2 == '1960' || $2 == '1970' || $2 == '1980' || $2 == '1990') print '\n'
+	Total = Total + $3; 
+	TotalTran = TotalTran + $1; 
+	prop = ($1 /$3) ; 
+	print "\t" $2 "\t" $3 "\t" $1 "\t" prop;
+}
+	END{print "\nSum:\t\t" Total "\t" TotalTran "\t" (TotalTran / Total) }' data.tmp > output.tmp
+
+sed 's/\t/\t\t/g' output.tmp | cat
+
+
+
+
+rm *.tmp

@@ -1,0 +1,17 @@
+	echo '*MM' > mm.tmp
+
+for i in MelodicTranscriptions/Kern/*.krn
+do
+
+	grep $(basename $i .krn) Tempos.tsv | awk -F '\t' '{print $5}'  > temp.tmp
+	paste -d '' mm.tmp temp.tmp > temp2.tmp
+
+	paste temp2.tmp temp2.tmp > tempo.tmp
+cat tempo.tmp
+
+	
+
+	head -n 1 $i > head.tmp
+        tail -n +2 $i > rest.tmp
+        cat head.tmp tempo.tmp rest.tmp > $i.tmp
+done
