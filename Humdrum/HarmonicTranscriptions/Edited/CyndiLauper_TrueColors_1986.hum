@@ -4,9 +4,9 @@
 1r;	r	.	0	r
 =1	=1	=1	=1	=1
 *>A_introa	*>A_introa	*>A_introa	*>A_introa	*>A_introa
-1N	N	newline	0.116	r
+1N	N	newline	0.116	drums
 =2	=2	=2	=2	=2
-1N	N	.	.	r
+1N	N	.	.	drums
 =3	=3	=3	=3	=3
 *>B_introb	*>B_introb	*>B_introb	*>B_introb	*>B_introb
 2Amm	A:min7 (A C E G)	newline	5.817	guitar
@@ -87,56 +87,56 @@
 2FM	F:maj (F A C)	.	.	guitar
 =28	=28	=28	=28	=28
 *>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
-2Amm	A:min7 (A C E G)	newline	75.465	guitar
-2GM	G:maj (B G D)	.	.	guitar
+2Amm	A:min7 (A C E G)	newline	75.465	voice
+2GM	G:maj (B G D)	.	.	voice
 =29	=29	=29	=29	=29
-2CM	C:maj (C E G)	.	.	guitar
-2CM	C:maj (E C G)	.	.	guitar
+2CM	C:maj (C E G)	.	.	voice
+2CM	C:maj (E C G)	.	.	voice
 =30	=30	=30	=30	=30
-2FM	F:maj(9) (F A C G)	.	.	guitar
-2FM	F:maj (F A C)	.	.	guitar
+2FM	F:maj(9) (F A C G)	.	.	voice
+2FM	F:maj (F A C)	.	.	voice
 =31	=31	=31	=31	=31
-2Am	A:min (A C E)	.	.	guitar
-2GM	G:maj (G B D)	.	.	guitar
+2Am	A:min (A C E)	.	.	voice
+2GM	G:maj (G B D)	.	.	voice
 =32	=32	=32	=32	=32
-2CM	C:maj (C E G)	newline	86.679	guitar
-2Dm	D:min (D F A)	.	.	guitar
+2CM	C:maj (C E G)	newline	86.679	voice
+2Dm	D:min (D F A)	.	.	voice
 =33	=33	=33	=33	=33
-2CM	C:maj (E C G)	.	.	guitar
-2FM	F:maj (F A C)	.	.	guitar
+2CM	C:maj (E C G)	.	.	voice
+2FM	F:maj (F A C)	.	.	voice
 =34	=34	=34	=34	=34
-2Am	A:min (A C E)	.	.	guitar
-2GM	G:maj (G B D)	.	.	guitar
+2Am	A:min (A C E)	.	.	voice
+2GM	G:maj (G B D)	.	.	voice
 =35	=35	=35	=35	=35
-2FM	F:maj (C F A)	.	.	guitar
-2CM	C:maj (C E G)	.	.	guitar
+2FM	F:maj (C F A)	.	.	voice
+2CM	C:maj (C E G)	.	.	voice
 =36	=36	=36	=36	=36
 *>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
-2FM	F:maj (F A C)	newline	97.954	guitar
-2CM	C:maj (C E G)	.	.	guitar
+2FM	F:maj (F A C)	newline	97.954	voice
+2CM	C:maj (C E G)	.	.	voice
 =37	=37	=37	=37	=37
-2GM	G:sus4 (G C D)	.	.	guitar
-2GM	G:maj (G B D)	.	.	guitar
+2GM	G:sus4 (G C D)	.	.	voice
+2GM	G:maj (G B D)	.	.	voice
 =38	=38	=38	=38	=38
-2FM	F:maj (F A C)	newline	103.533	guitar
-2CM	C:maj (E C G)	.	.	guitar
+2FM	F:maj (F A C)	newline	103.533	voice
+2CM	C:maj (E C G)	.	.	voice
 =39	=39	=39	=39	=39
-2FM	F:maj (F A C)	.	.	guitar
-2GM	G:maj (G B D)	.	.	guitar
+2FM	F:maj (F A C)	.	.	voice
+2GM	G:maj (G B D)	.	.	voice
 =40	=40	=40	=40	=40
-2FM	F:maj (F A C)	.	.	guitar
-2CM	C:maj (C E G)	.	.	guitar
+2FM	F:maj (F A C)	.	.	voice
+2CM	C:maj (C E G)	.	.	voice
 =41	=41	=41	=41	=41
-2FM	F:maj (F A C)	.	.	guitar
-2Am	A:min (A C E)	.	.	guitar
+2FM	F:maj (F A C)	.	.	voice
+2Am	A:min (A C E)	.	.	voice
 =42	=42	=42	=42	=42
-2FM	F:maj (C F A)	newline	114.787	guitar
-2CM	C:maj (C E G)	.	.	guitar
+2FM	F:maj (C F A)	newline	114.787	voice
+2CM	C:maj (C E G)	.	.	voice
 =43	=43	=43	=43	=43
-2FM	F:maj (C F A)	.	.	guitar
-2CM	C:maj (C E G)	.	.	guitar
+2FM	F:maj (C F A)	.	.	voice
+2CM	C:maj (C E G)	.	.	voice
 =44	=44	=44	=44	=44
-1GM	G:sus4(9) (G C D A)	newline	120.378	guitar
+1GM	G:sus4(9) (G C D A)	newline	120.378	voice
 =45	=45	=45	=45	=45
 *>B_trans	*>B_trans	*>B_trans	*>B_trans	*>B_trans
 2Amm	A:min7 (A C E G)	newline	123.447	guitar
@@ -152,98 +152,99 @@
 2FM	F:maj (F A C)	.	.	guitar
 =49	=49	=49	=49	=49
 *>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
-2Amm	A:min7 (A C E G)	newline	134.407	guitar
-2GM	G:maj (B G D)	.	.	guitar
+2Amm	A:min7 (A C E G)	newline	134.407	voice
+2GM	G:maj (B G D)	.	.	voice
 =50	=50	=50	=50	=50
-2CM	C:maj (C E G)	.	.	guitar
-2CM	C:maj (E C G)	.	.	guitar
+2CM	C:maj (C E G)	.	.	voice
+2CM	C:maj (E C G)	.	.	voice
 =51	=51	=51	=51	=51
-2FM	F:maj(9) (F A C G)	.	.	guitar
-2FM	F:maj (F A C)	.	.	guitar
+2FM	F:maj(9) (F A C G)	.	.	voice
+2FM	F:maj (F A C)	.	.	voice
 =52	=52	=52	=52	=52
-2Am	A:min (A C E)	.	.	guitar
-2GM	G:maj (G B D)	.	.	guitar
+2Am	A:min (A C E)	.	.	voice
+2GM	G:maj (G B D)	.	.	voice
 =53	=53	=53	=53	=53
-2CM	C:maj (C E G)	newline	145.411	guitar
-2Dm	D:min (D F A)	.	.	guitar
+2CM	C:maj (C E G)	newline	145.411	voice
+2Dm	D:min (D F A)	.	.	voice
 =54	=54	=54	=54	=54
-2CM	C:maj (E C G)	.	.	guitar
-2FM	F:maj (F A C)	.	.	guitar
+2CM	C:maj (E C G)	.	.	voice
+2FM	F:maj (F A C)	.	.	voice
 =55	=55	=55	=55	=55
-2Am	A:min (A C E)	.	.	guitar
-2GM	G:maj (G B D)	.	.	guitar
+2Am	A:min (A C E)	.	.	voice
+2GM	G:maj (G B D)	.	.	voice
 =56	=56	=56	=56	=56
-2FM	F:maj (C F A)	.	.	guitar
-2CM	C:maj (C E G)	.	.	guitar
+2FM	F:maj (C F A)	.	.	voice
+2CM	C:maj (C E G)	.	.	voice
 =57	=57	=57	=57	=57
 *>D2_chorus	*>D2_chorus	*>D2_chorus	*>D2_chorus	*>D2_chorus
-2FM	F:maj (F A C)	newline	156.506	guitar
-2CM	C:maj (C E G)	.	.	guitar
+2FM	F:maj (F A C)	newline	156.506	voice
+2CM	C:maj (C E G)	.	.	voice
 =58	=58	=58	=58	=58
-2GM	G:sus4 (G C D)	.	.	guitar
-2GM	G:maj (G B D)	.	.	guitar
+2GM	G:sus4 (G C D)	.	.	voice
+2GM	G:maj (G B D)	.	.	voice
 =59	=59	=59	=59	=59
-2FM	F:maj (F A C)	newline	162.057	guitar
-2CM	C:maj (E C G)	.	.	guitar
+2FM	F:maj (F A C)	newline	162.057	voice
+2CM	C:maj (E C G)	.	.	voice
 =60	=60	=60	=60	=60
-2FM	F:maj (F A C)	.	.	guitar
-2GM	G:maj (G B D)	.	.	guitar
-=61	=61	=61	=61	=61
-2FM	F:maj (F A C)	.	.	guitar
-2CM	C:maj (C E G)	.	.	guitar
-=62	=62	=62	=62	=62
-2FM	F:maj (F A C)	.	.	guitar
-2Am	A:min (A C E)	.	.	guitar
-=63	=63	=63	=63	=63
-2FM	F:maj (C F A)	newline	173.279	guitar
-2CM	C:maj (C E G)	.	.	guitar
-=64	=64	=64	=64	=64
-2FM	F:maj (C F A)	.	.	guitar
-2CM	C:maj (C E G)	.	.	guitar
-=65	=65	=65	=65	=65
-2FM	F:maj (C F A)	newline	178.882	guitar
-2CM	C:maj (C E G)	.	.	guitar
-=66	=66	=66	=66	=66
-2GM	G:sus4 (G C D)	.	.	guitar
-2GM	G:maj (G B D)	.	.	guitar
-=67	=67	=67	=67	=67
-2FM	F:maj (F A C)	newline	184.391	guitar
-2CM	C:maj (C E G)	.	.	guitar
-=68	=68	=68	=68	=68
-2FM	F:maj (F A C)	.	.	guitar
-4GM	G:sus4 (G C D)	.	.	guitar
-4GM	G:maj (G B D)	.	.	guitar
-=69	=69	=69	=69	=69
-2FM	F:maj (F A C)	newline	189.977	guitar
-2CM	C:maj (C E G)	.	.	guitar
-=70	=70	=70	=70	=70
-2Emm	E:min7 (E G B D)	.	.	guitar
-2Am	A:min (A C E)	.	.	guitar
-=71	=71	=71	=71	=71
-2FM	F:maj (C F A)	newline	195.887	guitar
-2CM	C:maj (C E G)	.	.	guitar
-=72	=72	=72	=72	=72
-2FM	F:maj (C F A)	.	.	guitar
-2CM	C:maj (C E G)	.	.	guitar
-=73	=73	=73	=73	=73
-1GM	G:sus4(9) (G C D A)	newline	202.345	guitar
-1r;	r	.	.	r
-=74	=74	=74	=74	=74
-*>B2_trans	*>B2_trans	*>B2_trans	*>B2_trans	*>B2_trans
-2Amm	A:min7 (A C E G)	newline	209.482	voice
-2GM	G:maj (B G D)	.	.	voice
-=75	=75	=75	=75	=75
-2CMM	C:maj7 (C E G B)	.	.	voice
 2FM	F:maj (F A C)	.	.	voice
+2GM	G:maj (G B D)	.	.	voice
+=61	=61	=61	=61	=61
+2FM	F:maj (F A C)	.	.	voice
+2CM	C:maj (C E G)	.	.	voice
+=62	=62	=62	=62	=62
+2FM	F:maj (F A C)	.	.	voice
+2Am	A:min (A C E)	.	.	voice
+=63	=63	=63	=63	=63
+2FM	F:maj (C F A)	newline	173.279	voice
+2CM	C:maj (C E G)	.	.	voice
+=64	=64	=64	=64	=64
+2FM	F:maj (C F A)	.	.	voice
+2CM	C:maj (C E G)	.	.	voice
+=65	=65	=65	=65	=65
+2FM	F:maj (C F A)	newline	178.882	voice
+2CM	C:maj (C E G)	.	.	voice
+=66	=66	=66	=66	=66
+2GM	G:sus4 (G C D)	.	.	voice
+2GM	G:maj (G B D)	.	.	voice
+=67	=67	=67	=67	=67
+2FM	F:maj (F A C)	newline	184.391	voice
+2CM	C:maj (C E G)	.	.	voice
+=68	=68	=68	=68	=68
+2FM	F:maj (F A C)	.	.	voice
+4GM	G:sus4 (G C D)	.	.	voice
+4GM	G:maj (G B D)	.	.	voice
+=69	=69	=69	=69	=69
+2FM	F:maj (F A C)	newline	189.977	voice
+2CM	C:maj (C E G)	.	.	voice
+=70	=70	=70	=70	=70
+2Emm	E:min7 (E G B D)	.	.	voice
+2Am	A:min (A C E)	.	.	voice
+=71	=71	=71	=71	=71
+2FM	F:maj (C F A)	newline	195.887	voice
+2CM	C:maj (C E G)	.	.	voice
+=72	=72	=72	=72	=72
+2FM	F:maj (C F A)	.	.	voice
+2CM	C:maj (C E G)	.	.	voice
+=73	=73	=73	=73	=73
+1GM	G:sus4(9) (G C D A)	newline	202.345	voice
+=74	=74	=74	=74	=74
+1r;	r	.	.	r
+=75	=75	=75	=75	=75
+*>B2_trans	*>B2_trans	*>B2_trans	*>B2_trans	*>B2_trans
+2Amm	A:min7 (A C E G)	newline	209.482	guitar
+2GM	G:maj (B G D)	.	.	guitar
 =76	=76	=76	=76	=76
+*M3/8	*M3/8	*	*	*
+4.CMM	C:maj7 (C E G B)	.	.	guitar
 *>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro
-1N	N	newline	213.783	voice
 =77	=77	=77	=77	=77
-1N	N	.	.	voice
+1FM	F:maj (F A C)	newline	.	drums
 =78	=78	=78	=78	=78
-1N	N	.	.	voice
+1N	N	.	.	drums
 =79	=79	=79	=79	=79
-1N	N	.	.	voice
+1N	N	.	.	drums
+=80	=80	=80	=80	=80
+1N	N	.	.	drums
 1r;	r	.	225.375	r
 1r;	r	.	228.222	r
 *-	*-	*-	*-	*-
@@ -263,4 +264,5 @@
 !!!RDT: 2017/01/12/
 !!!ENC: Nathaniel Condit-Schultz
 !!!EST: Awating manual error checking and editing.
-!!!EMD:
+!!!EMD: Emm chord should be major? Lots of 4. [8 2] rhythm needs to be added.
+!!!EMD: Made fixes to "leadinstrument" spine, which had "guitar" throughout verses and choruses.

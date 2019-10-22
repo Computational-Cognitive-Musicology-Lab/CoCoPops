@@ -56,6 +56,19 @@
       </score-part>
     </part-list>
   <part id="P1">
+  <measure number="0">
+   <note default-x="72">
+    <rest />
+    <duration>3</duration>
+    <voice>1</voice>
+    <type>half</type>
+    </dot>
+    <staff>1</staff>
+    <notations>
+    <fermata type="upright"/>
+    </notations>
+   </note>
+  </measure>
     <measure number="1" width="231.65">
       <print>
         <system-layout>
@@ -1846,6 +1859,26 @@
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="X1" implicit="yes" width="112.25">
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="X2" implicit="yes" width="112.25">
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

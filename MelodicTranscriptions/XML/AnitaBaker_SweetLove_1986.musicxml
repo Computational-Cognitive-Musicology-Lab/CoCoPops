@@ -90,6 +90,18 @@
   </score-part>
  </part-list>
  <part id="P1">
+  <measure number="0">
+   <note default-x="72">
+    <rest />
+    <duration>4</duration>
+    <voice>1</voice>
+    <type>whole</type>
+    <staff>1</staff>
+    <notations>
+    <fermata type="upright"/>
+    </notations>
+   </note>
+  </measure>
   <!--============== Part: P1, Measure: 1 ==============-->
   <measure number="1" width="187">
    <print new-page="yes">
@@ -9907,5 +9919,28 @@
     <bar-style>light-heavy</bar-style>
    </barline>
   </measure>
+    <measure number="X1" implicit="yes" width="112.25">
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="X2" implicit="yes" width="112.25">
+      <note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
  </part>
 </score-partwise>
