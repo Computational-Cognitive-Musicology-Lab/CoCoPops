@@ -103,10 +103,9 @@
 =38	=38	=38	=38	=38
 1.DM	D:maj (D F# A)	.	.	voice
 =39	=39	=39	=39	=39
+*c:	*c:	*c:	*c:	*c:
 1.GMm	G:7(b13) (G B D F E-)	newline	115.884	saxophone
 =40	=40	=40	=40	=40
-*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-*c:	*c:	*c:	*c:	*c:
 1.Cm	C:min(9) (C E- G D)	newline	118.868	saxophone
 =41	=41	=41	=41	=41
 1.Cm	C:min(9) (C E- G D)	.	.	saxophone
@@ -115,6 +114,7 @@
 =43	=43	=43	=43	=43
 1.Fm	F:min (F A- C)	.	.	saxophone
 =44	=44	=44	=44	=44
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
 2.Gdm	G:hdim7 (D- G B- F)	newline	130.671	voice
 2.CMm	C:7 (C E G B-)	.	.	voice
 =45	=45	=45	=45	=45
@@ -138,22 +138,23 @@
 =51	=51	=51	=51	=51
 4.FM	F:maj (A F C)	.	.	voice
 4.Fm	F:min (A- F C)	.	.	voice
-2.GM	G:maj (G B D)	.	.	voice
-1r;	r	.	.	r
+2.GM;	G:maj (G B D)	.	.	voice
 =52	=52	=52	=52	=52
-1.Cm	C:min(9) (C E- G D)	newline	158.324	voice
+1.GM;	G:maj (G B D)	.	.	.
 =53	=53	=53	=53	=53
-1.Fm	F:min(9) (F A- C G)	.	.	voice
+1.Cm	C:min(9) (C E- G D)	newline	158.324	voice
 =54	=54	=54	=54	=54
+1.Fm	F:min(9) (F A- C G)	.	.	voice
+=55	=55	=55	=55	=55
 1.CMM	C:maj6(7) (C E G A B)	newline	164.531	voice
 1r;	r	.	171.294	r
 1r;	r	.	172.121	r
-*-	*-	*-	*-	*-
 !!!OTL: Town Without Pity
+*-	*-	*-	*-	*-
 !!!COC: Gene Pitney
 !!!BillboardChartDate: 1961/12/04
-!!!BillboardPeak: 13
 !!!BillboardWeeksOnChart: 16
+!!!BillboardPeak: 13
 !!!SampleTargetRank: 44
 !!!SampleActualRank: 44
 !!!SampleID#: 1037
@@ -165,4 +166,5 @@
 !!!RDT: 2017/01/12/
 !!!ENC: Nathaniel Condit-Schultz
 !!!EST: Awating manual error checking and editing.
-!!!EMD:
+!!!EMD: Had to add some time to make the big fermata at the end line up with the melodic transcription. -Nat
+!!!EMD: Moved the key change to c minor one measure earlier, and the first c minor *>verse section to where the vocals actually start. -Nat

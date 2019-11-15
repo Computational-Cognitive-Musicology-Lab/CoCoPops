@@ -56,7 +56,7 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="0.00">
+<measure number="0" implicit="yes">
       <print>
         <system-layout>
           <system-margins>
@@ -83,6 +83,16 @@
           <multiple-rest>12</multiple-rest>
           </measure-style>
         </attributes>
+<note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+    <measure number="1" width="0.00">
       <direction placement="above">
         <direction-type>
           </direction-type>
@@ -6161,9 +6171,26 @@
         <duration>8</duration>
         <voice>1</voice>
         </note>
-      <barline location="right">
-        <bar-style>light-heavy</bar-style>
-        </barline>
       </measure>
+<measure number="X1" implicit="yes">
+<note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+<measure number="X2" implicit="yes">
+<note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
     </part>
   </score-partwise>

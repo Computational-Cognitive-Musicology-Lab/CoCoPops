@@ -108,7 +108,7 @@
  </part-list>
  <part id="P1">
   <!--============== Part: P1, Measure: 1 ==============-->
-  <measure number="1" width="345">
+<measure number="0" implicit="yes">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -135,6 +135,16 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+<note>
+        <rest/>
+        <duration>1024</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+  <measure number="1" width="345">
    <note color="#000000" default-x="90" default-y="-17">
     <pitch>
      <step>B</step>
@@ -3758,14 +3768,31 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <barline>
-    <bar-style>light-heavy</bar-style>
-   </barline>
   </measure>
+<measure number="X1" implicit="yes">
+<note>
+        <rest/>
+        <duration>1024</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+<measure number="X2" implicit="yes">
+<note>
+        <rest/>
+        <duration>1024</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
  </part>
  <part id="P2">
   <!--============== Part: P2, Measure: 1 ==============-->
-  <measure number="1" width="345">
+<measure number="0" implicit="yes">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -3794,6 +3821,16 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+<note>
+        <rest/>
+        <duration>1024</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+  <measure number="1" width="345">
    <note color="#000000" default-x="90" default-y="-55">
     <pitch>
      <step>D</step>
@@ -7103,9 +7140,26 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <barline>
-    <bar-style>light-heavy</bar-style>
-   </barline>
   </measure>
+<measure number="X1" implicit="yes">
+<note>
+        <rest/>
+        <duration>1024</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+<measure number="X2" implicit="yes">
+<note>
+        <rest/>
+        <duration>1024</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
  </part>
 </score-partwise>

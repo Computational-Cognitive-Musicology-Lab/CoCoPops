@@ -63,7 +63,7 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="158.34">
+<measure number="0" implicit="yes">
       <print>
         <system-layout>
           <system-margins>
@@ -87,6 +87,16 @@
           <line>2</line>
           </clef>
         </attributes>
+<note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+    <measure number="1" width="158.34">
       <direction placement="above">
         <direction-type>
           <metronome parentheses="no" default-x="-35.96" relative-y="20.00">
@@ -8405,9 +8415,26 @@
         <voice>1</voice>
         <type>half</type>
         </note>
-      <barline location="right">
-        <bar-style>light-heavy</bar-style>
-        </barline>
       </measure>
+<measure number="X1" implicit="yes">
+<note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+<measure number="X2" implicit="yes">
+<note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
     </part>
   </score-partwise>

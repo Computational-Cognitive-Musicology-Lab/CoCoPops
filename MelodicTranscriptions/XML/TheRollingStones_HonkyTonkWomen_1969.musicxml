@@ -85,7 +85,7 @@
     <part-group type="stop" number="1"/>
     </part-list>
   <part id="P1">
-    <measure number="1" width="189.91">
+<measure number="0" implicit="yes">
       <print>
         <system-layout>
           <system-margins>
@@ -110,6 +110,16 @@
           <line>2</line>
           </clef>
         </attributes>
+<note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+    <measure number="1" width="189.91">
       <note>
         <rest/>
         <duration>16</duration>
@@ -4313,13 +4323,30 @@
         <voice>1</voice>
         <type>whole</type>
         </note>
-      <barline location="right">
-        <bar-style>light-heavy</bar-style>
-        </barline>
       </measure>
+<measure number="X1" implicit="yes">
+<note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+<measure number="X2" implicit="yes">
+<note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
     </part>
   <part id="P2">
-    <measure number="1" width="189.91">
+<measure number="0" implicit="yes">
       <print>
         <staff-layout number="1">
           <staff-distance>81.31</staff-distance>
@@ -4340,6 +4367,16 @@
           <line>2</line>
           </clef>
         </attributes>
+<note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+    <measure number="1" width="189.91">
       <note>
         <rest/>
         <duration>16</duration>
@@ -7429,13 +7466,30 @@
         <voice>1</voice>
         <type>whole</type>
         </note>
-      <barline location="right">
-        <bar-style>light-heavy</bar-style>
-        </barline>
       </measure>
+<measure number="X1" implicit="yes">
+<note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+<measure number="X2" implicit="yes">
+<note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
     </part>
   <part id="P3">
-    <measure number="1" width="189.91">
+<measure number="0" implicit="yes">
       <print>
         <staff-layout number="1">
           <staff-distance>65.00</staff-distance>
@@ -7456,6 +7510,16 @@
           <line>2</line>
           </clef>
         </attributes>
+<note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+    <measure number="1" width="189.91">
       <note>
         <rest/>
         <duration>16</duration>
@@ -8464,9 +8528,26 @@
         <voice>1</voice>
         <type>whole</type>
         </note>
-      <barline location="right">
-        <bar-style>light-heavy</bar-style>
-        </barline>
       </measure>
+<measure number="X1" implicit="yes">
+<note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+<measure number="X2" implicit="yes">
+<note>
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
     </part>
   </score-partwise>

@@ -76,7 +76,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="1" width="319.55">
+<measure number="0" implicit="yes">
       <print>
         <system-layout>
           <system-margins>
@@ -100,6 +100,16 @@
           <line>2</line>
           </clef>
         </attributes>
+<note>
+        <rest/>
+        <duration>48</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+    <measure number="1" width="319.55">
       <direction placement="above">
         <direction-type>
           <words relative-y="20.00">Intro 4 bars</words>
@@ -2637,9 +2647,26 @@
           <fermata type="upright"/>
           </notations>
         </note>
-      <barline location="right">
-        <bar-style>light-heavy</bar-style>
-        </barline>
       </measure>
+<measure number="X1" implicit="yes">
+<note>
+        <rest/>
+        <duration>48</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+<measure number="X2" implicit="yes">
+<note>
+        <rest/>
+        <duration>48</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
     </part>
   </score-partwise>

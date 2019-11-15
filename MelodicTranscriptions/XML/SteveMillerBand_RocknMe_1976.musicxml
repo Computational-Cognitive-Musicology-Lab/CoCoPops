@@ -90,7 +90,7 @@
  </part-list>
  <part id="P1">
   <!--============== Part: P1, Measure: 1 ==============-->
-  <measure number="1" width="218">
+<measure number="0" implicit="yes">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -117,6 +117,16 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+<note>
+        <rest/>
+        <duration>1024</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+  <measure number="1" width="218">
    <note default-x="123">
     <rest />
     <duration>1024</duration>
@@ -9253,9 +9263,26 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <barline>
-    <bar-style>light-heavy</bar-style>
-   </barline>
   </measure>
+<measure number="X1" implicit="yes">
+<note>
+        <rest/>
+        <duration>1024</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
+<measure number="X2" implicit="yes">
+<note>
+        <rest/>
+        <duration>1024</duration>
+        <voice>1</voice>
+        <notations>
+          <fermata type="upright"/>
+          </notations>
+        </note>
+</measure>
  </part>
 </score-partwise>
