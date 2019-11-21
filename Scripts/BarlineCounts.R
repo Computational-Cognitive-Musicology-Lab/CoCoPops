@@ -21,4 +21,5 @@ x <- unlist(x)
 x <- data.frame(File = basenames, Diff = x)
 
 row.names(x) <- NULL
-x
+print(warnings())
+x[x$Diff != 0,]

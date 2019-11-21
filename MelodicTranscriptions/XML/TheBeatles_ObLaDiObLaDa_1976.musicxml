@@ -5,7 +5,7 @@
     <rights>Copyright © </rights>
     <encoding>
       <software>MuseScore 3.0.5</software>
-      <encoding-date>2019-11-03</encoding-date>
+      <encoding-date>2019-11-19</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -37,6 +37,9 @@
     <word-font font-family="FreeSerif" font-size="10"/>
     <lyric-font font-family="Times New Roman" font-size="9.0133"/>
     </defaults>
+  <credit page="1">
+    <credit-words default-x="763.471" default-y="2158.4" justify="center" valign="top" font-size="8">Copyright © </credit-words>
+    </credit>
   <credit page="1">
     <credit-words default-x="763.471" default-y="145.383" justify="center" valign="bottom" font-size="8">Copyright © </credit-words>
     </credit>
@@ -94,7 +97,7 @@
         <system-layout>
           <system-margins>
             <left-margin>72.55</left-margin>
-            <right-margin>-21775.84</right-margin>
+            <right-margin>-21720.84</right-margin>
             </system-margins>
           <top-system-distance>70.00</top-system-distance>
           </system-layout>
@@ -8259,20 +8262,12 @@
         <rest/>
         <duration>16</duration>
         <voice>1</voice>
-        <type>whole</type>
-        </note>
-      </measure>
-    <measure number="X1" implicit="yes" width="55.00">
-      <note>
-        <rest/>
-        <duration>16</duration>
-        <voice>1</voice>
         <notations>
           <fermata type="upright"/>
           </notations>
         </note>
       </measure>
-    <measure number="X2" implicit="yes" width="55.00">
+    <measure number="X1" implicit="yes" width="55.00">
       <note>
         <rest/>
         <duration>16</duration>
@@ -12108,20 +12103,12 @@
         <rest/>
         <duration>16</duration>
         <voice>1</voice>
-        <type>whole</type>
-        </note>
-      </measure>
-    <measure number="X1" implicit="yes" width="55.00">
-      <note>
-        <rest/>
-        <duration>16</duration>
-        <voice>1</voice>
         <notations>
           <fermata type="upright"/>
           </notations>
         </note>
       </measure>
-    <measure number="X2" implicit="yes" width="55.00">
+    <measure number="X1" implicit="yes" width="55.00">
       <note>
         <rest/>
         <duration>16</duration>
@@ -12579,7 +12566,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="41.57" default-y="-265.00">
+      <note default-x="41.58" default-y="-265.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -13399,7 +13386,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="35.27" default-y="-255.00">
+      <note default-x="35.28" default-y="-255.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -14535,20 +14522,12 @@
         <rest/>
         <duration>16</duration>
         <voice>1</voice>
-        <type>whole</type>
-        </note>
-      </measure>
-    <measure number="X1" implicit="yes" width="55.00">
-      <note>
-        <rest/>
-        <duration>16</duration>
-        <voice>1</voice>
         <notations>
           <fermata type="upright"/>
           </notations>
         </note>
       </measure>
-    <measure number="X2" implicit="yes" width="55.00">
+    <measure number="X1" implicit="yes" width="55.00">
       <note>
         <rest/>
         <duration>16</duration>

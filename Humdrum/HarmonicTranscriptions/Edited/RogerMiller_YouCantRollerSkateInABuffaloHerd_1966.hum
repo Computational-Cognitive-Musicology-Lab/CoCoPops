@@ -23,7 +23,7 @@
 =9	=9	=9	=9	=9
 1DMm	D:7 (D F# A C)	.	.	voice
 =10	=10	=10	=10	=10
-1N	N	.	.	voice
+1GM	G:maj (G B D)	.	.	voice
 =11	=11	=11	=11	=11
 1GM	G:maj (G B D)	newline	13.877	voice
 =12	=12	=12	=12	=12
@@ -39,7 +39,7 @@
 =17	=17	=17	=17	=17
 1DMm	D:7 (D F# A C)	.	.	voice
 =18	=18	=18	=18	=18
-1N	N	.	.	voice
+1GM	G:maj (G B D)	.	.	voice
 =19	=19	=19	=19	=19
 *>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
 1CM	C:maj (C E G)	newline	24.557	voice
@@ -65,7 +65,7 @@
 =29	=29	=29	=29	=29
 1DMm	D:7 (D F# A C)	.	.	voice
 =30	=30	=30	=30	=30
-1N	N	.	.	voice
+1GM	G:maj (G B D)	.	.	voice
 =31	=31	=31	=31	=31
 *>D_solo	*>D_solo	*>D_solo	*>D_solo	*>D_solo
 1GM	G:maj (G B D)	newline	40.601	voice
@@ -105,7 +105,7 @@
 =47	=47	=47	=47	=47
 1DMm	D:7 (D F# A C)	.	.	voice
 =48	=48	=48	=48	=48
-1N	N	.	.	voice
+1GM	G:maj (G B D)	.	.	voice
 =49	=49	=49	=49	=49
 1GM	G:maj (G B D)	newline	64.217	voice
 =50	=50	=50	=50	=50
@@ -121,7 +121,7 @@
 =55	=55	=55	=55	=55
 1DMm	D:7 (D F# A C)	.	.	voice
 =56	=56	=56	=56	=56
-1N	N	.	.	voice
+1GM	G:maj (G B D)	.	.	voice
 =57	=57	=57	=57	=57
 *>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
 1CM	C:maj (C E G)	newline	75.061	voice
@@ -147,7 +147,7 @@
 =67	=67	=67	=67	=67
 1DMm	D:7 (D F# A C)	.	.	voice
 =68	=68	=68	=68	=68
-1N	N	.	.	voice
+1GM	G:maj (G B D)	.	.	voice
 =69	=69	=69	=69	=69
 1GM	G:maj (G B D)	newline	91.168	voice
 =70	=70	=70	=70	=70
@@ -163,15 +163,23 @@
 =75	=75	=75	=75	=75
 1DMm	D:7 (D F# A C)	.	.	voice
 =76	=76	=76	=76	=76
-1N	N	.	.	voice
+1GM	G:maj (G B D)	.	.	voice
 =77	=77	=77	=77	=77
-1GM	G:maj (G B D)	newline	101.93	fadeout, voice
+1GM	G:maj (G B D)	newline	101.93	voice
 =78	=78	=78	=78	=78
-1GM	G:maj (G B D)	.	.	fadeout, voice
+1GM	G:maj (G B D)	.	.	voice
 =79	=79	=79	=79	=79
-1DMm	D:7 (D F# A C)	.	.	fadeout, voice
+1DMm	D:7 (D F# A C)	.	.	voice
 =80	=80	=80	=80	=80
-1DMm	D:7 (D F# A C)	.	.	fadeout, voice
+1DMm	D:7 (D F# A C)	.	.	voice
+=81	=81	=81	=81	=81
+1GM	G:maj (G B D)	newline	.	voice
+=82	=82	=82	=82	=82
+1GM	G:maj (G B D)	.	.	voice
+=83	=83	=83	=83	=83
+1DMm	D:7 (D F# A C)	.	.	voice
+=84	=84	=84	=84	=84
+1GM	G:maj (G B D)	.	.	voice
 1r;	r	.	107.319	r
 1r;	r	.	112.28	r
 *-	*-	*-	*-	*-
@@ -189,5 +197,6 @@
 !!!RDF**timestamp: McGill audio timestamp in seconds
 !!!RDF**leadinstrument: original McGill primary instrumentation annotation
 !!!RDT: 2017/01/12/
-!!!ENC: Nathaniel Condit-Schultz
+!!!EC: Nathaniel Condit-Schultz
 !!!EST: Awating manual error checking and editing.
+!!!EMD: The "N" (no chord) label is really cadence on tonic GM. 
