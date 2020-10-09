@@ -2822,10 +2822,9 @@
           <alter>-1</alter>
           <octave>3</octave>
         </pitch>
-        <duration>9</duration>
+        <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
         <stem default-y="11">up</stem>
         <lyric default-y="-80" number="1">
           <syllabic>single</syllabic>
@@ -8588,6 +8587,11 @@
           <tied type="stop"/>
         </notations>
       </note>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>1</voice>
+      </note>
     </measure>
     <!--=======================================================-->
     <measure number="19" width="346">
@@ -11295,6 +11299,11 @@
           <tied type="stop"/>
         </notations>
       </note>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>1</voice>
+      </note>
     </measure>
     <!--=======================================================-->
     <measure number="44" width="346">
@@ -13916,8 +13925,41 @@
           <step>G</step>
           <octave>3</octave>
         </pitch>
-        <duration>12</duration>
+        <duration>3</duration>
         <tie type="start"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-40.5">down</stem>
+        <notations>
+          <tied type="start"/>
+        </notations>
+        <lyric default-y="-80" justify="left" number="1">
+          <syllabic>single</syllabic>
+          <text>down</text>
+          <extend type="start"/>
+        </lyric>
+      </note>
+      <note default-x="111">
+        <chord/>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>3</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="start"/>
+        </notations>
+      </note>
+      <note default-x="111">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>12</duration>
         <voice>1</voice>
         <type>half</type>
         <stem default-y="-40.5">down</stem>
@@ -13937,7 +13979,6 @@
           <octave>4</octave>
         </pitch>
         <duration>12</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
@@ -15164,7 +15205,7 @@
           <alter>-1</alter>
           <octave>3</octave>
         </pitch>
-        <duration>15</duration>
+        <duration>12</duration>
         <tie type="stop"/>
         <voice>1</voice>
         <stem default-y="-55">down</stem>
@@ -15182,7 +15223,7 @@
           <alter>-1</alter>
           <octave>3</octave>
         </pitch>
-        <duration>15</duration>
+        <duration>12</duration>
         <tie type="stop"/>
         <voice>1</voice>
         <stem>down</stem>
