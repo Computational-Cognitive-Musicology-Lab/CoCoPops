@@ -34,7 +34,7 @@
 8r	.	.	.
 8B	There's	.	.
 8B	a	.	.
-dq	_	.	.
+8dq	_	.	.
 [8e	light	.	.
 =15	=15	=15	=15
 4e]	_	1r	.
@@ -73,7 +73,7 @@ dq	_	.	.
 [8B	me	.	.
 8B]	_	.	.
 4A	it's	.	.
-Eq	_	.	.
+8Eq	_	.	.
 [8F#	o	.	.
 =20	=20	=20	=20
 8F#]	_	1r	.
@@ -119,7 +119,7 @@ Eq	_	.	.
 8B	I'd	.	.
 8d	e-	.	.
 4d	-ver	.	.
-Aq	_	.	.
+8Aq	_	.	.
 [8B	do	.	.
 =26	=26	=26	=26
 4B]	_	1r	.
@@ -164,7 +164,7 @@ Aq	_	.	.
 2r	.	2r	.
 4r	.	4r	.
 8r	.	8r	.
-dq	_	f#q	_
+8dq	_	8f#q	_
 [8e	Dar	[8g	Dar
 =33	=33	=33	=33
 8e]	_	8g]	_
@@ -210,7 +210,7 @@ dq	_	f#q	_
 8B	you	.	.
 8d	on	.	.
 4d	my	.	.
-Aq	_	.	.
+8Aq	_	.	.
 [8B	mind	.	.
 =42	=42	=42	=42
 4B]	_	1r	.
@@ -224,7 +224,7 @@ Aq	_	.	.
 8d	like	.	.
 8B	an	.	.
 4.d	old	.	.
-Aq	_	.	.
+8Aq	_	.	.
 [8B	juke	.	.
 =44	=44	=44	=44
 8B]	_	1r	.
@@ -239,7 +239,7 @@ Aq	_	.	.
 4D	song	.	.
 8F#	all	.	.
 4A	the	.	.
-Aq	_	.	.
+8Aq	_	.	.
 [8B	time	.	.
 =46	=46	=46	=46
 8B]	_	1r	.
@@ -255,7 +255,7 @@ Aq	_	.	.
 [8d	dreams	.	.
 8d]	_	.	.
 4e	don't	.	.
-e#q	_	.	.
+8e#q	_	.	.
 [8f#	kill	.	.
 =48	=48	=48	=48
 8f#]	_	1r	.
@@ -286,7 +286,7 @@ e#q	_	.	.
 [8d	when	.	.
 8d]	_	.	.
 4e	I'll	.	.
-e	_	.	.
+4eQ	_	.	.
 [8f#	see	.	.
 =52	=52	=52	=52
 8f#]	_	1r	.
@@ -323,13 +323,13 @@ e	_	.	.
 =57	=57	=57	=57
 4e	_	4r	.
 4e	\"don't	4f# a	Hoo,
-eq	_	4f# a	hoo
-4d	go	.	.
+8eq	_	.	.
+4d	go	4f# a	hoo
 8d	to	4r	.
 [8d	pie	.	.
 =58	=58	=58	=58
-8d]	_	f#q aq	_
-.	.	4.g b	hoo
+.	.	8f#q 8aq	_
+8d]	_	4.g b	hoo
 8E	ces,\"	.	.
 8r	.	.	.
 8F#	I	8f# a	_
@@ -345,11 +345,11 @@ eq	_	4f# a	hoo
 .	.	4r	.
 8f	lose	.	.
 =60	=60	=60	=60
-4e	_	eq aq	_
-.	.	4.f# b	hoo
+.	.	8eq 8aq	_
+4e	_	4.f# b	hoo
 8r	.	.	.
-eq	_	8e a	_
-8f	I	.	.
+8eq	_	.	.
+8f	I	8e a	_
 4e	_	2r	.
 8e	wan-	.	.
 8d	-na	.	.
@@ -359,11 +359,11 @@ eq	_	8e a	_
 [8d	in	4e g	_
 8d]	_	.	.
 4e	my	4r	.
-eq	_	8r	.
-[8f#	foot	.	.
+8eq	_	.	.
+[8f#	foot	8r	.
 =62	=62	=62	=62
-8f#]	_	eq gq	_
-.	.	4.f# a	hoo
+.	.	8eq 8gq	_
+8f#]	_	4.f# a	hoo
 4d	steps	.	.
 8r	.	8e g	_
 8r	.	2r	.
@@ -393,8 +393,8 @@ eq	_	8r	.
 .	.	4r	.
 [8d	cra	.	.
 =66	=66	=66	=66
-8d]	_	f#q aq	_
-.	.	4.g b	hoo
+.	.	8f#q 8aq	_
+8d]	_	4.g b	hoo
 8E	zy	.	.
 8r	.	.	.
 8F#	I	8f# a	_
@@ -410,11 +410,11 @@ eq	_	8r	.
 8d	_	4r	.
 8f	true	.	.
 =68	=68	=68	=68
-4e	_	eq aq	_
-.	.	4.f# b	hoo
+.	.	8eq 8aq	_
+4e	_	4.f# b	hoo
 8r	.	.	.
-eq	_	8e a	_
-8f	I	.	.
+8eq	_	.	.
+8f	I	8e a	_
 4e	_	2r	.
 8e	wan-	.	.
 8d	-na	.	.
@@ -424,7 +424,7 @@ eq	_	8e a	_
 [8d	in	.	.
 8d]	_	.	.
 4e	my	.	.
-eq	_	.	.
+8eq	_	.	.
 [8f#	foot	.	.
 =70	=70	=70	=70
 8f#]	_	1r	.
@@ -443,7 +443,7 @@ eq	_	.	.
 8e	wears	1r	.
 8d	_	.	.
 8.r	.	.	.
-e	_	.	.
+16eQ	_	.	.
 16f	these	.	.
 4.e	_	.	.
 16e	shoes	.	.
@@ -456,7 +456,7 @@ e	_	.	.
 2r	.	2r	.
 4r	.	4r	.
 8r	.	8r	.
-dq	_	f#q	_
+8dq	_	8f#q	_
 [8e	Dar	[8g	Dar
 =75	=75	=75	=75
 8e]	_	8g]	_
@@ -474,8 +474,8 @@ dq	_	f#q	_
 =80	=80	=80	=80
 4r	.	1r	.
 8r	.	.	.
-8f	Oh	.	.
-8e	,	.	.
+8f	Oh,	.	.
+8e	_	.	.
 8e	and	.	.
 8e	it's	.	.
 8d	a	.	.
@@ -492,8 +492,8 @@ dq	_	f#q	_
 8f#	when	.	.
 4f#	I	.	.
 =83	=83	=83	=83
-fq	_	1r	.
-4.f#	can't	.	.
+8fq	_	.	.
+4.f#	can't	1r	.
 [8f#	see	.	.
 8f#]	_	.	.
 8e	him	.	.
@@ -501,7 +501,7 @@ fq	_	1r	.
 =84	=84	=84	=84
 4r	.	1r	.
 8r	.	.	.
-fq	_	.	.
+8fq	_	.	.
 [8f#	What	.	.
 8f#]	_	.	.
 8e	do	.	.
@@ -512,7 +512,7 @@ fq	_	.	.
 =86	=86	=86	=86
 4r	.	1r	.
 8r	.	.	.
-fq	_	.	.
+8fq	_	.	.
 [8f#	when	.	.
 8f#]	_	.	.
 8f#	I	.	.
@@ -521,14 +521,14 @@ fq	_	.	.
 =87	=87	=87	=87
 4f#	two	2f# a	Two
 4d	_	.	.
-d	_	2g b	of
-2e	of	.	.
+4dQ	_	.	.
+2e	of	2g b	of
 =88	=88	=88	=88
 4d	you	2.a cc	you
 8r	.	.	.
-fq	_	.	.
-[8f#	Oh	.	.
-8f#]	,	.	.
+8fq	_	.	.
+[8f#	Oh,	.	.
+8f#]	_	.	.
 8d	and	.	.
 8e	it's	4r	.
 8d	a	.	.
@@ -545,8 +545,8 @@ fq	_	.	.
 8f#	when	.	.
 4f#	I	.	.
 =91	=91	=91	=91
-fq	_	1r	.
-4.f#	can't	.	.
+8fq	_	.	.
+4.f#	can't	1r	.
 [8f#	see	.	.
 8f#]	_	.	.
 8e	him	.	.
@@ -564,27 +564,27 @@ fq	_	1r	.
 8f#	What	.	.
 8e	do	.	.
 8d	I	.	.
-fq	_	.	.
-[8f#	do	.	.
+8fq	_	.	.
+[8f#	do,	.	.
 =95	=95	=95	=95
 1f#]	_	1r	.
 =96	=96	=96	=96
-8e	,	1r	.
+8e	_	1r	.
 4f#	my	.	.
 [8f#	friends	.	.
 8f#]	_	.	.
 4f#	all	.	.
-8f	say	.	.
+8f	say,	.	.
 =97	=97	=97	=97
-4e	,	4r	.
+4e	_	4r	.
 4e	\"don't	4f# a	Hoo,
-eq	_	4f# a	hoo
-4d	go	.	.
+8eq	_	.	.
+4d	go	4f# a	hoo
 8d	to	4r	.
 [8d	pie	.	.
 =98	=98	=98	=98
-8d]	_	f#q aq	_
-.	.	4.g b	hoo
+.	.	8f#q 8aq	_
+8d]	_	4.g b	hoo
 8E	ces	.	.
 8r	.	.	.
 8F#	I	8f# a	_
@@ -600,11 +600,11 @@ eq	_	4f# a	hoo
 .	.	4r	.
 8f	lose	.	.
 =100	=100	=100	=100
-4e	_	eq aq	_
-.	.	4.f# b	hoo
+.	.	8eq 8aq	_
+4e	_	4.f# b	hoo
 8r	.	.	.
-eq	_	8e a	_
-8f	I	.	.
+8eq	_	.	.
+8f	I	8e a	_
 4e	_	2r	.
 8e	wan-	.	.
 8d	-na	.	.
@@ -614,11 +614,11 @@ eq	_	8e a	_
 [8d	in	4e g	_
 8d]	_	.	.
 4e	my	4r	.
-eq	_	8r	.
-[8f#	foot	.	.
+8eq	_	.	.
+[8f#	foot	8r	.
 =102	=102	=102	=102
-8f#]	_	eq gq	_
-.	.	4.f# a	hoo
+.	.	8eq 8gq	_
+8f#]	_	4.f# a	hoo
 4d	steps	.	.
 8r	.	8e g	_
 8r	.	2r	.
@@ -647,13 +647,13 @@ eq	_	8r	.
 .	.	4r	.
 [8d	cra	.	.
 =106	=106	=106	=106
-8d]	_	f#q aq	_
-.	.	4.g b	hoo
+.	.	8f#q 8aq	_
+8d]	_	4.g b	hoo
 8E	zy	.	.
 8r	.	.	.
 8F#	I	8f# a	_
-eq	_	2r	.
-4f	see	.	.
+8eq	_	.	.
+4f	see	2r	.
 8e	the	.	.
 8e	facts	.	.
 =107	=107	=107	=107
@@ -665,11 +665,11 @@ eq	_	2r	.
 8d	_	4r	.
 8f	true	.	.
 =108	=108	=108	=108
-4e	_	eq aq	_
-.	.	4.f# b	hoo
+.	.	8eq 8aq	_
+4e	_	4.f# b	hoo
 8r	.	.	.
-eq	_	8e a	_
-8f	I	.	.
+8eq	_	.	.
+8f	I	8e a	_
 4e	_	2r	.
 8e	wan-	.	.
 8d	-na	.	.
@@ -679,11 +679,11 @@ eq	_	8e a	_
 [8d	in	4e g	_
 8d]	_	.	.
 4e	my	4r	.
-eq	_	8r	.
-[8f#	foot	.	.
+8eq	_	.	.
+[8f#	foot	8r	.
 =110	=110	=110	=110
-8f#]	_	eq gq	_
-.	.	4.f# a	hoo
+.	.	8eq 8gq	_
+8f#]	_	4.f# a	hoo
 4d	steps	.	.
 8r	.	8e g	_
 8r	.	2r	.
@@ -699,7 +699,7 @@ eq	_	8r	.
 8e	wears	1r	.
 8d	_	.	.
 8.r	.	.	.
-e	_	.	.
+16eQ	_	.	.
 16f	these	.	.
 4.e	_	.	.
 16e	shoes	.	.
@@ -712,7 +712,7 @@ e	_	.	.
 2r	.	2r	.
 4r	.	4r	.
 8r	.	8r	.
-dq	_	f#q	_
+8dq	_	8f#q	_
 [8e	Dar	[8g	Dar
 =115	=115	=115	=115
 8e]	_	8g]	_
@@ -727,7 +727,7 @@ dq	_	f#q	_
 2r	.	2r	.
 4r	.	4r	.
 8r	.	8r	.
-dq	_	f#q	_
+8dq	_	8f#q	_
 [8e	Dar	[8g	Dar
 =119	=119	=119	=119
 8e]	_	8g]	_
@@ -750,9 +750,9 @@ dq	_	f#q	_
 8d	no-	1r	.
 8d	-thing	.	.
 8e	to	.	.
-fq	_	.	.
-[8f#	lose	.	.
-8f#]	,	.	.
+8fq	_	.	.
+[8f#	lose,	.	.
+8f#]	_	.	.
 8f#	I	.	.
 8e	wan-	.	.
 8d	-na	.	.
@@ -766,9 +766,9 @@ fq	_	.	.
 =124	=124	=124	=124
 8d	wears	1r	.
 4e	these	.	.
-8f	shoes	.	.
-4.e	?	.	.
-fq	_	.	.
+8f	shoes?	.	.
+4.e	_	.	.
+8fq	_	.	.
 [8e	Come	.	.
 =125	=125	=125	=125
 8e]	_	1r	.
@@ -781,9 +781,9 @@ fq	_	.	.
 8d	no-	1r	.
 8d	-thing	.	.
 8e	to	.	.
-fq	_	.	.
-[8e	lose	.	.
-8e]	,	.	.
+8fq	_	.	.
+[8e	lose,	.	.
+8e]	_	.	.
 8f#	I	.	.
 8e	wan-	.	.
 8d	-na	.	.
@@ -797,8 +797,8 @@ fq	_	.	.
 =128	=128	=128	=128
 8d	wears	1r	.
 4e	these	.	.
-[8f	shoes	.	.
-8f#	,	.	.
+[8f	shoes,	.	.
+8f#	_	.	.
 8f#	I	.	.
 8e	got	.	.
 8d	the	.	.
@@ -812,8 +812,8 @@ fq	_	.	.
 8d	-whe-	1r	.
 8d	-ther	.	.
 8e	it's	.	.
-8f_	true	.	.
-8f#	,	.	.
+8f_	true,	.	.
+8f#	_	.	.
 8f#	I	.	.
 8e	got	.	.
 8d	the	.	.
@@ -827,8 +827,8 @@ fq	_	.	.
 8d	-whe-	1r	.
 8d	-ther	.	.
 8e	it's	.	.
-8f_	true	.	.
-8f#	,	.	.
+8f_	true,	.	.
+8f#	_	.	.
 8f#	I	.	.
 8e	wan-	.	.
 8d	-na	.	.
@@ -842,8 +842,8 @@ fq	_	.	.
 8d	no-	1r	.
 8d	-thing	.	.
 8e	to	.	.
-8f_	lose	.	.
-8f#	,	.	.
+8f_	lose,	.	.
+8f#	_	.	.
 8f#	I	.	.
 8e	wan-	.	.
 8d	-na	.	.
@@ -859,8 +859,8 @@ fq	_	.	.
 =136	=136	=136	=136
 8d	wears	1r	.
 4e	these	.	.
-[8f	shoes	.	.
-8f#	!	.	.
+[8f	shoes!	.	.
+8f#	_	.	.
 8f#	I	.	.
 8e	got	.	.
 8d	the	.	.
@@ -871,12 +871,12 @@ fq	_	.	.
 8r	.	4r	.
 8B	_	.	.
 =138	=138	=138	=138
-8d	whe-	gq bq	_
-.	.	4.a cc	hoo
+.	.	8gq 8bq	_
+8d	whe-	4.a cc	hoo
 8d	-ther	.	.
 8e	it's	.	.
-8f_	true	8g b	_
-8f#	,	2r	.
+8f_	true,	8g b	_
+8f#	_	2r	.
 8f#	I	.	.
 8e	got	.	.
 8d	the	.	.
@@ -887,12 +887,12 @@ fq	_	.	.
 8r	.	4r	.
 8B	W-	.	.
 =140	=140	=140	=140
-8d	-whe-	f#q aq	_
-.	.	4.g b	hoo
+.	.	8f#q 8aq	_
+8d	-whe-	4.g b	hoo
 8d	-ther	.	.
 8e	it's	.	.
-8f_	true	8f# a	_
-8f#	,	2r	.
+8f_	true,	8f# a	_
+8f#	_	2r	.
 8f#	I	.	.
 8e	got	.	.
 8d	the	.	.
@@ -903,12 +903,12 @@ fq	_	.	.
 8r	.	4r	.
 8B	Got	.	.
 =142	=142	=142	=142
-8d	no	gq bq	_
-.	.	4.a cc	hoo
+.	.	8gq 8bq	_
+8d	no	4.a cc	hoo
 8d	thing	.	.
 8e	to	.	.
-8f_	lose	8g b	_
-8f#	,	4r	.
+8f_	lose,	8g b	_
+8f#	_	4r	.
 8f#	I	.	.
 8e	wan	[4f# [a	hoo
 8d	na	.	.
@@ -924,8 +924,8 @@ fq	_	.	.
 =144	=144	=144	=144
 8d	wears	1r	.
 4e	these	.	.
-[8f	shoes	.	.
-8f#	,	.	.
+[8f	shoes,	.	.
+8f#	_	.	.
 8f#	I	.	.
 8e	wan-	.	.
 8d	-na	.	.
@@ -936,12 +936,12 @@ fq	_	.	.
 8r	.	4r	.
 8B	W-	.	.
 =146	=146	=146	=146
-8d	-whe-	gq bq	_
-.	.	4.a cc	hoo
+.	.	8gq 8bq	_
+8d	-whe-	4.a cc	hoo
 8d	-ther	.	.
 8e	it's	.	.
-8f_	true	8g b	_
-8f#	,	2r	.
+8f_	true,	8g b	_
+8f#	_	2r	.
 8f#	I	.	.
 8e	got	.	.
 8d	the	.	.
@@ -952,12 +952,12 @@ fq	_	.	.
 8r	.	4r	.
 8B	W-	.	.
 =148	=148	=148	=148
-8d	-whe-	f#q aq	_
-.	.	4.g b	hoo
+.	.	8f#q 8aq	_
+8d	-whe-	4.g b	hoo
 8d	-ther	.	.
 8e	it's	.	.
-8f_	true	8f# a	_
-8f#	,	2r	.
+8f_	true,	8f# a	_
+8f#	_	2r	.
 8f#	I	.	.
 8e	wan-	.	.
 8d	-na	.	.
@@ -968,12 +968,12 @@ fq	_	.	.
 8r	.	4r	.
 8B	Got	.	.
 =150	=150	=150	=150
-8d	no-	gq bq	_
-.	.	4.a cc	hoo
+.	.	8gq 8bq	_
+8d	no-	4.a cc	hoo
 8d	-thing	.	.
 8e	to	.	.
-8f_	lose	8g b	_
-8f#	,	4r	.
+8f_	lose,	8g b	_
+8f#	_	4r	.
 8f#	I	.	.
 8e	wan-	[4f# [a	hoo
 8d	-na	.	.
@@ -989,8 +989,8 @@ fq	_	.	.
 =152	=152	=152	=152
 8d	wears	1r	.
 4e	these	.	.
-[8f	shoes	.	.
-8f#	!	.	.
+[8f	shoes!	.	.
+8f#	_	.	.
 8f#	I	.	.
 8e	got	.	.
 8d	the	.	.
@@ -1001,12 +1001,12 @@ fq	_	.	.
 8r	.	4r	.
 8B	W-	.	.
 =154	=154	=154	=154
-8d	-whe-	gq bq	_
-.	.	4.a cc	hoo
+.	.	8gq 8bq	_
+8d	-whe-	4.a cc	hoo
 8d	-ther	.	.
 8e	it's	.	.
-8f_	true	8g b	_
-8f#	,	2r	.
+8f_	true,	8g b	_
+8f#	_	2r	.
 8f#	I	.	.
 8e	got	.	.
 8d	the	.	.
@@ -1017,12 +1017,12 @@ fq	_	.	.
 8r	.	4r	.
 8B	W-	.	.
 =156	=156	=156	=156
-8d	-whe-	f#q aq	_
-.	.	4.g b	hoo
+.	.	8f#q 8aq	_
+8d	-whe-	4.g b	hoo
 8d	-ther	.	.
 8e	it's	.	.
-8f_	true	8f# a	_
-8f#	,	2r	.
+8f_	true,	8f# a	_
+8f#	_	2r	.
 8f#	I	.	.
 8e	wan-	.	.
 8d	-na	.	.
@@ -1033,12 +1033,12 @@ fq	_	.	.
 8r	.	4r	.
 8B	Got	.	.
 =158	=158	=158	=158
-8d	no-	gq bq	_
-.	.	4.a cc	hoo
+.	.	8gq 8bq	_
+8d	no-	4.a cc	hoo
 8d	-thing	.	.
 8e	to	.	.
-8f_	lose	8g b	_
-8f#	,	4r	.
+8f_	lose,	8g b	_
+8f#	_	4r	.
 8f#	I	.	.
 8e	wan-	[4f# [a	hoo
 8d	-na	.	.
@@ -1054,39 +1054,39 @@ fq	_	.	.
 =160	=160	=160	=160
 8d	wears	1r	.
 4e	these	.	.
-[8f	shoes	.	.
-8f#	!	.	.
+[8f	shoes!	.	.
+8f#	_	.	.
 8f#	I	.	.
 8e	got	.	.
 8d	the	.	.
 =161	=161	=161	=161
-eq	_	4r	.
-4f]	blues	.	.
+8eq	_	.	.
+4f]	blues	4r	.
 4r	.	4g b	Hoo,
 2r	.	4g b	hoo
 .	.	4r	.
 =162	=162	=162	=162
-4r	.	gq bq	_
-.	.	4.a cc	hoo
+.	.	8gq 8bq	_
+4r	.	4.a cc	hoo
 8r	.	.	.
-[8b	Hoo	8g b	_
-8b]	,	2r	.
+[8b	Hoo,	8g b	_
+8b]	_	2r	.
 8d	I	.	.
 8e	got	.	.
 8d	the	.	.
 =163	=163	=163	=163
-fq	_	4r	.
-4f#	blues	.	.
+8fq	_	.	.
+4f#	blues	4r	.
 4r	.	4f# a	Hoo,
 2r	.	4f# a	hoo
 .	.	4r	.
 =164	=164	=164	=164
-4r	.	f#q aq	_
-.	.	4.g b	hoo
+.	.	8f#q 8aq	_
+4r	.	4.g b	hoo
 8r	.	.	.
-16d	Hoo	8f# a	_
+16d	Hoo,	8f# a	_
 16e	_	.	.
-4.f	,	2r	.
+4.f	_	2r	.
 16d	hoo	.	.
 16e	_	.	.
 =165	=165	=165	=165
@@ -1096,8 +1096,8 @@ fq	_	4r	.
 8r	.	4r	.
 [8f	Who	.	.
 =166	=166	=166	=166
-8f]	_	gq bq	_
-.	.	4.a cc	hoo
+.	.	8gq 8bq	_
+8f]	_	4.a cc	hoo
 4d	_	.	.
 [8f	wears	8g b	_
 8f]	_	4r	.
@@ -1112,20 +1112,20 @@ fq	_	4r	.
 =168	=168	=168	=168
 4r	.	1r	.
 8r	.	.	.
-[8f	Ah	.	.
-8f#	,	.	.
+[8f	Ah,	.	.
+8f#	_	.	.
 8f#	I	.	.
 8e	got	.	.
 8d	the	.	.
 =169	=169	=169	=169
-f]q	_	4r	.
-4f#	blues	.	.
+8f]q	_	.	.
+4f#	blues	4r	.
 4r	.	4g b	Hoo
 2r	.	4g b	hoo
 .	.	4r	.
 =170	=170	=170	=170
-1r	.	gq bq	_
-.	.	4.a cc	hoo
+.	.	8gq 8bq	_
+1r	.	4.a cc	hoo
 .	.	8g b	_
 .	.	2r	.
 =171	=171	=171	=171

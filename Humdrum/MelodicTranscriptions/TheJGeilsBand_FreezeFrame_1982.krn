@@ -5,8 +5,8 @@
 *M4/4	*	*M4/4	*
 *clefG2	*	*clefC3	*
 4g	Freeze	1r	.
-4e	frame	.	.
-r;	!	.	.
+4e	frame!	.	.
+r;	_	.	.
 =2	=2	=2	=2
 1r	.	1r	.
 =3	=3	=3	=3
@@ -52,9 +52,9 @@ r;	!	.	.
 4e	rough-	4g	rough-
 4c	-cut	4e	-cut
 4B-	Tues-	4d	Tues-
-4c	-day	4e	-day
+4c	-day,	4e	-day,
 =20	=20	=20	=20
-4r	,	4r	,
+4r	_	4r	_
 4B-	slow	4d	slow
 4B-	mo-	4d	mo-
 8c	-tion	8e-	-tion
@@ -110,15 +110,15 @@ r;	!	.	.
 4B-	-shot	4d	-shot
 8B-	i-	8d	i-
 4c	-mage	4e-	-mage
-dq	_	fq	_
+8dq	_	8fq	_
 [8e-	froze	[8g	froze
 =33	=33	=33	=33
 4.e-]	_	4.g]	_
 8d	with-	8f	with-
 4c	-out	4e-	-out
 8B-	a	8d	a
-B-q	_	[8d	sound
-[8B	sound	.	.
+8B-q	_	.	.
+[8B	sound	[8d	sound
 =34	=34	=34	=34
 1B_	_	1d_	_
 =35	=35	=35	=35
@@ -147,13 +147,13 @@ B-q	_	[8d	sound
 8c	was	8e	was
 8c	a	8e	a
 =43	=43	=43	=43
-dq	_	4g	hot
-4e-	hot	.	.
+8dq	_	.	.
+4e-	hot	4g	hot
 4c	flash	4e	flash
 4B-	fac-	4d	fac-
-4c	-tor	4e	-tor
+4c	-tor,	4e	-tor,
 =44	=44	=44	=44
-4r	,	4r	,
+4r	_	4r	_
 4B-	her	4d	her
 4B-	face	4d	face
 4c	still	4e-	still
@@ -163,7 +163,7 @@ dq	_	4g	hot
 4c	in	4e-	in
 4A	my	4c	my
 =46	=46	=46	=46
-Aq	mind	dq	mind
+8Aq	mind	8dq	mind
 4.c	_	4.e	_
 8A	_	8d	_
 2G	_	2c	_
@@ -179,14 +179,14 @@ Aq	mind	dq	mind
 4B-	strip	4d	strip
 4B-	proof	4d	proof
 8c	sheet	8e-	sheet
-dq	_	fq	_
+8dq	_	8fq	_
 [8e-	love	[8g	love
 =49	=49	=49	=49
 4e-]	_	4g]	_
 4d	is	4f	is
 4c	hard	4e-	hard
 8B-	to	8d	to
-Aq	_	dq	_
+8Aq	_	8dq	_
 [8c	find	[8e	find
 =50	=50	=50	=50
 4.c]	_	4.e]	_
@@ -202,10 +202,10 @@ Aq	_	dq	_
 =52	=52	=52	=52
 4B-	Fri-	4d	Fri-
 8B-	-day	8d	-day
-[8B-	night	[8d	night
-4B-]	,	4d]	,
+[8B-	night,	[8d	night,
+4B-]	_	4d]	_
 8c	we'll	8e-	we'll
-dq	_	fq	_
+8dq	_	8fq	_
 [8e-	dance	[8g	dance
 =53	=53	=53	=53
 4e-]	_	4g]	_
@@ -228,15 +228,15 @@ dq	_	fq	_
 4B-	time	4d	time
 4B-	heart	4d	heart
 8c	for	8e-	for
-dq	_	fq	_
-8e-	me	8g	me
+8dq	_	8fq	_
+8e-	me,	8g	me,
 =57	=57	=57	=57
-8d	,	8f	,
+8d	_	8f	_
 4.d	if	4.f	if
 4c	she's	4e-	she's
 4A	not	4d	not
 =58	=58	=58	=58
-[1B	mine	[1d	mine
+[1B	mine!	[1d	mine!
 =59	=59	=59	=59
 2B_	_	2d_	_
 8B]	_	8d]	_
@@ -245,7 +245,7 @@ dq	_	fq	_
 =60	=60	=60	=60
 [2A	_	[2c	_
 8A]	_	8c]	_
-8r	!	8r	!
+8r	_	8r	_
 4r	.	4r	.
 =61	=61	=61	=61
 1r	.	1r	.
@@ -259,21 +259,21 @@ dq	_	fq	_
 1r	.	1r	.
 =66	=66	=66	=66
 2r	.	4g	Freeze
-.	.	4e	frame
-4c	Freeze	2r	!
-4A	frame	.	.
+.	.	4e	frame!
+4c	Freeze	2r	_
+4A	frame!	.	.
 =67	=67	=67	=67
-2r	!	4g	Freeze
-.	.	4e	frame
-4c	Freeze	2r	!
-dq	_	.	.
-4e-	frame	.	.
+2r	_	4g	Freeze
+.	.	4e	frame!
+4c	Freeze	2r	_
+8dq	_	.	.
+4e-	frame!	.	.
 =68	=68	=68	=68
 *clefG2	*	*	*
-2r	!	4g	Freeze
-.	.	4e	frame
-gq	_	2r	!
-4bb-	Freeze	.	.
+2r	_	4g	Freeze
+.	.	4e	frame!
+8gq	_	.	.
+4bb-	Freeze	2r	_
 4d-	frame!	.	.
 =69	=69	=69	=69
 *clefC3	*	*clefG2	*
@@ -281,11 +281,11 @@ gq	_	2r	!
 .	.	4e	frame,
 8r	.	2bb-	woo!
 8c	N-	.	.
-dq	_	.	.
+8dq	_	.	.
 4e-	-now,	.	.
 =70	=70	=70	=70
-4d	freeze	1r	.
-4r	!	.	.
+4d	freeze!	1r	.
+4r	_	.	.
 2r	.	.	.
 =71	=71	=71	=71
 1r	.	1r	.
@@ -299,8 +299,8 @@ dq	_	.	.
 8c	at	8e	at
 8c	a	8e	a
 =73	=73	=73	=73
-dq	_	4g	flash-
-4e-	flash-	.	.
+8dq	_	.	.
+4e-	flash-	4g	flash-
 4c	-back	4e	-back
 4B-	Sun-	4d	Sun-
 4c	-day,	4e	-day,
@@ -311,14 +311,14 @@ dq	_	4g	flash-
 8B-	-l-	8d	-l-
 4c	-ings	4e-	-ings
 =75	=75	=75	=75
-dq	_	fq	_
+8dq	_	8fq	_
 4e-	just	4g	just
 4d	won't	4f	won't
 4c	dis-	4e-	dis-
 8A	-ap-	8c	-ap-
 [8c	-pear	[8e	-pear
 =76	=76	=76	=76
-Aq	_	dq	_
+8Aq	_	8dq	_
 4.c	_	4.e	_
 8A	_	8d	_
 2G	_	2c	_
@@ -406,31 +406,31 @@ Aq	_	dq	_
 1r	.	1r	.
 =96	=96	=96	=96
 2r	.	4g	Freeze
-.	.	4e	frame
-4c	Freeze	2r	!
-4A	frame	.	.
+.	.	4e	frame!
+4c	Freeze	2r	_
+4A	frame!	.	.
 =97	=97	=97	=97
-2r	!	4g	Freeze
-.	.	4e	frame
-4e-	Freeze	2r	!
-dq	_	.	.
-[4e-	frame	.	.
+2r	_	4g	Freeze
+.	.	4e	frame!
+4e-	Freeze	2r	_
+8dq	_	.	.
+[4e-	frame!	.	.
 =98	=98	=98	=98
 4e	_	4g	Freeze
-4r	!	4e	frame
-gq	_	2r	!
-4bb-	Freeze	.	.
+4r	_	4e	frame!
+8gq	_	.	.
+4bb-	Freeze	2r	_
 4d-	frame!	.	.
 =99	=99	=99	=99
 2r	.	4g	Freeze
 .	.	4e	frame,
 8r	.	2bb-	woo!
 8c	N-	.	.
-dq	_	.	.
+8dq	_	.	.
 4e-	-now,	.	.
 =100	=100	=100	=100
-4d	freeze	1r	.
-4r	!	.	.
+4d	freeze!	1r	.
+4r	_	.	.
 2r	.	.	.
 =101	=101	=101	=101
 1r	.	1r	.
@@ -459,10 +459,10 @@ dq	_	.	.
 =113	=113	=113	=113
 1r	.	1r	.
 =114	=114	=114	=114
-4c e	Shoot	1r	.
-4r	!	.	.
-4c e	Shoot	.	.
-4r	!	.	.
+4c e	Shoot!	1r	.
+4r	_	.	.
+4c e	Shoot!	.	.
+4r	_	.	.
 =115	=115	=115	=115
 4r	.	1r	.
 8c e	Dee-	.	.
@@ -475,10 +475,10 @@ dq	_	.	.
 =117	=117	=117	=117
 1r	.	1r	.
 =118	=118	=118	=118
-4c e	Shoot	1r	.
-4r	!	.	.
-4c e	Shoot	.	.
-4r	!	.	.
+4c e	Shoot!	1r	.
+4r	_	.	.
+4c e	Shoot!	.	.
+4r	_	.	.
 =119	=119	=119	=119
 4r	.	1r	.
 8c e	Dee-	.	.
@@ -491,10 +491,10 @@ dq	_	.	.
 =121	=121	=121	=121
 1r	.	1r	.
 =122	=122	=122	=122
-4c e	Shoot	1r	.
-4r	!	.	.
-4c e	Shoot	.	.
-4r	!	.	.
+4c e	Shoot!	1r	.
+4r	_	.	.
+4c e	Shoot!	.	.
+4r	_	.	.
 =123	=123	=123	=123
 4r	.	1r	.
 8c e	Dee-	.	.
@@ -524,27 +524,27 @@ dq	_	.	.
 1r	.	1r	.
 =134	=134	=134	=134
 2r	.	4g	Freeze
-.	.	4e	frame
-4c	Freeze	2r	!
-[4A	frame	.	.
+.	.	4e	frame!
+4c	Freeze	2r	_
+[4A	frame!	.	.
 =135	=135	=135	=135
 4A]	_	4g	Freeze
-4r	!	4e	frame
-4c e-	Freeze	2r	!
-dq f#	_	.	.
-4e- g	frame	.	.
+4r	_	4e	frame!
+4c e-	Freeze	2r	_
+8dq 8f#Q	_	.	.
+4e- g	frame!	.	.
 =136	=136	=136	=136
-2r	!	4g	Freeze
-.	.	4e	frame
-gq	_	2r	!
-4bb-	Freeze	.	.
-4d-	frame	.	.
+2r	_	4g	Freeze
+.	.	4e	frame!
+8gq	_	.	.
+4bb-	Freeze	2r	_
+4d-	frame!	.	.
 =137	=137	=137	=137
-2r	!	4g	Freeze
+2r	_	4g	Freeze
 .	.	4e	frame,
 8r	.	2bb-	woo!
 8c	N-	.	.
-dq	_	.	.
+8dq	_	.	.
 4e-	-now,	.	.
 =138	=138	=138	=138
 1d	freeze!	1r	.
@@ -568,82 +568,82 @@ dq	_	.	.
 1r	.	1r	.
 =148	=148	=148	=148
 1r	.	4c e	Freeze
-.	.	4c e	frame
-.	.	2r	!
+.	.	4c e	frame!
+.	.	2r	_
 =149	=149	=149	=149
 4r	.	1r	.
 8e	Oh,	.	.
-[8d	yeah	.	.
+[8d	yeah!	.	.
 16d]	_	.	.
 [8.c	_	.	.
-4c]	!	.	.
+4c]	_	.	.
 =150	=150	=150	=150
 1r	.	4d f b-	Freeze
-.	.	[4d [f [b-	frame
+.	.	[4d [f [b-	frame!
 .	.	8d] f] b-]	_
 .	.	8e g cc	_
 .	.	4d f b-	_
 =151	=151	=151	=151
 1r	.	2c f a	_
-.	.	8r	!
+.	.	8r	_
 .	.	8A	It's
 .	.	8A	time
 .	.	8A	to
 =152	=152	=152	=152
 2r	.	4c e	Freeze
-.	.	4c e	frame
-d#q	_	2r	!
-4e	Freeze	.	.
-[4c	frame	.	.
+.	.	4c e	frame!
+8d#q	_	.	.
+4e	Freeze	2r	_
+[4c	frame!	.	.
 =153	=153	=153	=153
 2c_	_	1r	.
 8c]	_	.	.
 8A	_	.	.
-4r	!	.	.
+4r	_	.	.
 =154	=154	=154	=154
 1r	.	4d f b-	Freeze
-.	.	[4d [f [b-	frame
+.	.	[4d [f [b-	frame!
 .	.	8d] f] b-]	_
 .	.	8e g cc	_
 .	.	4d f b-	_
 =155	=155	=155	=155
 2r	.	2c f a	_
-8r	.	8r	!
+8r	.	8r	_
 8A	It's	8A	It's
 8e	like	8A	time
 8c	a	8A	to
 =156	=156	=156	=156
-4c	freeze	4c e	Shoot
-4r	,	4r	,
-4c	freeze	4c e	shoot
-4r	,	4r	,
+4c	freeze,	4c e	Shoot,
+4r	_	4r	_
+4c	freeze,	4c e	shoot,
+4r	_	4r	_
 =157	=157	=157	=157
-4c	freeze	4r	.
-4r	,	8c e	dee-
+4c	freeze,	4r	.
+4r	_	8c e	dee-
 .	.	8c e	-dle
 2aa-	woo!	8c e	lee-
 .	.	8c e	-dle
 .	.	4c e	lee!
 =158	=158	=158	=158
 1r	.	4d f b-	Freeze
-.	.	[4d [f [b-	frame
+.	.	[4d [f [b-	frame!
 .	.	8d] f] b-]	_
 .	.	8e g cc	_
 .	.	4d f b-	_
 =159	=159	=159	=159
 2r	.	2c f a	_
-8r	.	8r	!
+8r	.	8r	_
 8A	It's	8A	It's
 8e	like	8A	time
 8c	a	8A	to
 =160	=160	=160	=160
-4c	freeze	4c e	Shoot
-4r	,	4r	,
-4c	freeze	4c e	shoot
-4r	,	4r	,
+4c	freeze,	4c e	Shoot,
+4r	_	4r	_
+4c	freeze,	4c e	shoot,
+4r	_	4r	_
 =161	=161	=161	=161
 *clefG2	*	*	*
-[1gg	ah	4r	.
+[1gg	ah!	4r	.
 .	.	8c e	dee-
 .	.	8c e	-dle
 .	.	8c e	lee-
@@ -651,21 +651,21 @@ d#q	_	2r	!
 .	.	4c e	lee!
 =162	=162	=162	=162
 1gg_	_	4d f b-	Freeze
-.	.	[4d [f [b-	frame
+.	.	[4d [f [b-	frame!
 .	.	8d] f] b-]	_
 .	.	8e g cc	_
 .	.	4d f b-	_
 =163	=163	=163	=163
 1gg_	_	2c f a	_
-.	.	8r	!
+.	.	8r	_
 .	.	8A	It's
 .	.	8A	time
 .	.	8A	to
 =164	=164	=164	=164
-1gg_	_	4c e	Shoot
-.	.	4r	,
-.	.	4c e	shoot
-.	.	4r	,
+1gg_	_	4c e	Shoot,
+.	.	4r	_
+.	.	4c e	shoot,
+.	.	4r	_
 =165	=165	=165	=165
 2.gg]	_	4r	.
 .	.	8c e	dee-
@@ -675,22 +675,22 @@ d#q	_	2r	!
 [4cc	_	4c e	lee!
 =166	=166	=166	=166
 4.cc]	_	4d f b-	Freeze
-.	.	[4d [f [b-	frame
-8r	!	.	.
+.	.	[4d [f [b-	frame!
+8r	_	.	.
 2r	.	8d] f] b-]	_
 .	.	8e g cc	_
 .	.	4d f b-	_
 =167	=167	=167	=167
 1r	.	2c f a	_
-.	.	8r	!
+.	.	8r	_
 .	.	8A	It's
 .	.	8A	time
 .	.	8A	to
 =168	=168	=168	=168
-1r	.	4c e	Shoot
-.	.	4r	,
-.	.	4c e	shoot
-.	.	4r	,
+1r	.	4c e	Shoot,
+.	.	4r	_
+.	.	4c e	shoot,
+.	.	4r	_
 =169	=169	=169	=169
 1r	.	4r	.
 .	.	8c e	dee-
@@ -700,11 +700,11 @@ d#q	_	2r	!
 .	.	4c e	lee!
 =170	=170	=170	=170
 1r	.	4d f b-	Freeze
-.	.	[4d [f [b-	frame
+.	.	[4d [f [b-	frame!
 .	.	8d] f] b-]	_
 .	.	8e g cc	_
 .	.	4d f b-	_
 =171	=171	=171	=171
-1r	.	1c; f a	!
+1r	.	1c; f a	_
 *-	*-	*-	*-
 !!!ENC: Nathaniel Condit-Schultz

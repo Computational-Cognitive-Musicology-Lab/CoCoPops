@@ -6,23 +6,26 @@
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1DMM	D:maj9 (D F# C# E)	newline	0.395	voice
 =2	=2	=2	=2	=2
-2FM	F:maj (G F A C)	.	.	voice
+4.FM	F:maj (G F A C)	.	.	voice
 2Amm	A:min7 (A C E G)	.	.	voice
+8CM	C:sus4(b7,9,13) (C F G B- D A)	.	.	voice
 =3	=3	=3	=3	=3
 1CM	C:sus4(b7,9,13) (C F G B- D A)	.	.	voice
 =4	=4	=4	=4	=4
-2Gmm	G:min7 (G B- D F)	.	.	voice
+4.Gmm	G:min7 (G B- D F)	.	.	voice
 2AM	A:sus4(b7) (A D E G)	.	.	voice
+8DMM	D:maj9 (D F# C# E)	.	.	voice
 =5	=5	=5	=5	=5
 1DMM	D:maj9 (D F# C# E)	newline	11.171	voice
 =6	=6	=6	=6	=6
-2FM	F:maj (G F A C)	.	.	voice
+4.FM	F:maj (G F A C)	.	.	voice
 2Amm	A:min7 (A C E G)	.	.	voice
+8CM	C:sus4(b7,9,13) (C F G B- D A)	.	.	voice
 =7	=7	=7	=7	=7
 1CM	C:sus4(b7,9,13) (C F G B- D A)	.	.	voice
 =8	=8	=8	=8	=8
-2Gmm	G:min7 (G B- D F)	.	.	voice
-2AM	A:sus4(b7) (A D E G)	.	.	voice
+4.Gmm	G:min7 (G B- D F)	.	.	voice
+8%5AM	A:sus4(b7) (A D E G)	.	.	voice
 =9	=9	=9	=9	=9
 *>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
 1DMM	D:maj7 (D F# A C#)	newline	21.658	voice
@@ -41,7 +44,7 @@
 =16	=16	=16	=16	=16
 1CM	C:sus4(b7,9,13) (C F G B- D A)	.	.	voice
 =17	=17	=17	=17	=17
-*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
 2C#m	C#:1(b3,b7,11,9) (C# E B F# D#)	newline	42.655	voice
 2F#Mm	F#:7 (F# A# C# E)	.	.	voice
 =18	=18	=18	=18	=18
@@ -62,9 +65,11 @@
 =23	=23	=23	=23	=23
 1AM	A:sus4(b7,9) (A D E G B)	.	.	voice
 =24	=24	=24	=24	=24
-1AM	A:sus4(b7,9) (A D E G B)	.	.	voice
+2..AM	A:sus4(b7,9) (A D E G B)	.	.	voice
+8Bmm	B:min7 (B D F# A)	.	.	voice
 =25	=25	=25	=25	=25
-*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+*b:	*b:	*	*	*
 1Bmm	B:min7 (B D F# A)	newline	63.761	voice
 =26	=26	=26	=26	=26
 1Bmm	B:min7 (B D F# A)	.	.	voice
@@ -80,19 +85,23 @@
 =31	=31	=31	=31	=31
 1GMM	G:maj7 (G B D F#)	.	.	voice
 =32	=32	=32	=32	=32
-2Emm	E:min7 (E G B D)	.	.	voice
+4.Emm	E:min7 (E G B D)	.	.	voice
 2AM	A:sus4(b7) (A D E G)	.	.	voice
+8DMM	D:maj9 (D F# C# E)	newline	84.777	voice
 =33	=33	=33	=33	=33
 *>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
+*D:	*D:	*	*	*
 1DMM	D:maj9 (D F# C# E)	newline	84.777	voice
 =34	=34	=34	=34	=34
-2FM	F:maj (G F A C)	.	.	voice
+4.FM	F:maj (G F A C)	.	.	voice
 2Amm	A:min7 (A C E G)	.	.	voice
+8CM	C:sus4(b7,9,13) (C F G B- D A)	.	.	voice
 =35	=35	=35	=35	=35
 1CM	C:sus4(b7,9,13) (C F G B- D A)	.	.	voice
 =36	=36	=36	=36	=36
-2Gmm	G:min7 (G B- D F)	.	.	voice
+4.Gmm	G:min7 (G B- D F)	.	.	voice
 2AM	A:sus4(b7) (A D E G)	.	.	voice
+8DMM	D:maj7 (D F# A C#)	newline	95.271	voice
 =37	=37	=37	=37	=37
 *>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
 1DMM	D:maj7 (D F# A C#)	newline	95.271	voice
@@ -111,7 +120,7 @@
 =44	=44	=44	=44	=44
 1CM	C:sus4(b7,9,13) (C F G B- D A)	.	.	voice
 =45	=45	=45	=45	=45
-*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
 2C#m	C#:1(b3,b7,11,9) (C# E B F# D#)	newline	116.286	voice
 2F#Mm	F#:7 (F# A# C# E)	.	.	voice
 =46	=46	=46	=46	=46
@@ -132,9 +141,11 @@
 =51	=51	=51	=51	=51
 1AM	A:sus4(b7,9) (A D E G B)	.	.	voice
 =52	=52	=52	=52	=52
-1AM	A:sus4(b7,9) (A D E G B)	.	.	voice
+2..AM	A:sus4(b7,9) (A D E G B)	.	.	voice
+8Bmm	B:min7 (B D F# A)	.	.	voice
 =53	=53	=53	=53	=53
-*>D2_bridge	*>D2_bridge	*>D2_bridge	*>D2_bridge	*>D2_bridge
+*>D2_chorus	*>D2_chorus	*>D2_chorus	*>D2_chorus	*>D2_chorus
+*b:	*b:	*	*	*
 1Bmm	B:min7 (B D F# A)	newline	137.323	voice
 =54	=54	=54	=54	=54
 1Bmm	B:min7 (B D F# A)	.	.	voice
@@ -163,27 +174,31 @@
 2AM	A:sus4(b7) (A D E G)	.	.	voice
 =65	=65	=65	=65	=65
 *>A2_interlude	*>A2_interlude	*>A2_interlude	*>A2_interlude	*>A2_interlude
+*D:	*D:	*	*	*
 1DMM	D:maj9 (D F# C# E)	newline	168.868	voice
 =66	=66	=66	=66	=66
-2FM	F:maj (G F A C)	.	.	voice
+4.FM	F:maj (G F A C)	.	.	voice
 2Amm	A:min7 (A C E G)	.	.	voice
+8CM	C:sus4(b7,9,13) (C F G B- D A)	.	.	voice
 =67	=67	=67	=67	=67
 1CM	C:sus4(b7,9,13) (C F G B- D A)	.	.	voice
 =68	=68	=68	=68	=68
-2Gmm	G:min7 (G B- D F)	.	.	voice
+4.Gmm	G:min7 (G B- D F)	.	.	voice
 2AM	A:sus4(b7) (A D E G)	.	.	voice
+8DMM	D:maj9 (D F# C# E)	.	.	voice
 =69	=69	=69	=69	=69
 1DMM	D:maj9 (D F# C# E)	newline	179.351	voice
 =70	=70	=70	=70	=70
-2FM	F:maj (G F A C)	.	.	voice
+4.FM	F:maj (G F A C)	.	.	voice
 2Amm	A:min7 (A C E G)	.	.	voice
+8CM	C:sus4(b7,9,13) (C F G B- D A)	.	.	voice
 =71	=71	=71	=71	=71
 1CM	C:sus4(b7,9,13) (C F G B- D A)	.	.	voice
 =72	=72	=72	=72	=72
-2Gmm	G:min7 (G B- D F)	.	.	voice
-2AM	A:sus4(b7) (A D E G)	.	.	voice
+4.Gmm	G:min7 (G B- D F)	.	.	voice
+8%5AM	A:sus4(b7) (A D E G)	.	.	voice
 =73	=73	=73	=73	=73
-*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
 2C#m	C#:1(b3,b7,11,9) (C# E B F# D#)	newline	189.902	voice
 2F#Mm	F#:7 (F# A# C# E)	.	.	voice
 =74	=74	=74	=74	=74
@@ -204,9 +219,11 @@
 =79	=79	=79	=79	=79
 1AM	A:sus4(b7,9) (A D E G B)	.	.	voice
 =80	=80	=80	=80	=80
-1AM	A:sus4(b7,9) (A D E G B)	.	.	voice
+2..AM	A:sus4(b7,9) (A D E G B)	.	.	voice
+8Bmm	B:min7 (B D F# A)	.	.	voice
 =81	=81	=81	=81	=81
-*>D3_bridge	*>D3_bridge	*>D3_bridge	*>D3_bridge	*>D3_bridge
+*>D_solo	*>D_solo	*>D_solo	*>D_solo	*>D_solo
+*b:	*b:	*	*	*
 1Bmm	B:min7 (B D F# A)	newline	210.907	voice
 =82	=82	=82	=82	=82
 1Bmm	B:min7 (B D F# A)	.	.	voice
@@ -242,63 +259,7 @@
 =96	=96	=96	=96	=96
 2Emm	E:min7 (E G B D)	.	.	voice
 2F#Am	F#:aug(b7) (F# A# C## E)	.	.	voice
-=97	=97	=97	=97	=97
-1Bmm	B:min7 (B D F# A)	newline	253.051	voice
-=98	=98	=98	=98	=98
-1Bmm	B:min7 (B D F# A)	.	.	voice
-=99	=99	=99	=99	=99
-1GMM	G:maj7 (G B D F#)	.	.	voice
-=100	=100	=100	=100	=100
-2Emm	E:min7 (E G B D)	.	.	voice
-2F#Am	F#:aug(b7) (F# A# C## E)	.	.	voice
-=101	=101	=101	=101	=101
-*>D_solo	*>D_solo	*>D_solo	*>D_solo	*>D_solo
-1Bmm	B:min7 (B D F# A)	newline	263.523	guitar
-=102	=102	=102	=102	=102
-1Bmm	B:min7 (B D F# A)	.	.	guitar
-=103	=103	=103	=103	=103
-1GMM	G:maj7 (G B D F#)	.	.	guitar
-=104	=104	=104	=104	=104
-2Emm	E:min7 (E G B D)	.	.	guitar
-2F#Am	F#:aug(b7) (F# A# C## E)	.	.	guitar
-=105	=105	=105	=105	=105
-1Bmm	B:min7 (B D F# A)	newline	274.019	guitar
-=106	=106	=106	=106	=106
-1Bmm	B:min7 (B D F# A)	.	.	guitar
-=107	=107	=107	=107	=107
-1GMM	G:maj7 (G B D F#)	.	.	guitar
-=108	=108	=108	=108	=108
-2Emm	E:min7 (E G B D)	.	.	guitar
-2F#Am	F#:aug(b7) (F# A# C## E)	.	.	guitar
-=109	=109	=109	=109	=109
-1Bmm	B:min7 (B D F# A)	newline	284.566	guitar
-=110	=110	=110	=110	=110
-1Bmm	B:min7 (B D F# A)	.	.	guitar
-=111	=111	=111	=111	=111
-1GMM	G:maj7 (G B D F#)	.	.	guitar
-=112	=112	=112	=112	=112
-2Emm	E:min7 (E G B D)	.	.	guitar
-2F#Am	F#:aug(b7) (F# A# C## E)	.	.	guitar
-=113	=113	=113	=113	=113
-1Bmm	B:min7 (B D F# A)	newline	295.056	fadeout
-=114	=114	=114	=114	=114
-1Bmm	B:min7 (B D F# A)	.	.	fadeout
-=115	=115	=115	=115	=115
-1GMM	G:maj7 (G B D F#)	.	.	fadeout
-=116	=116	=116	=116	=116
-2Emm	E:min7 (E G B D)	.	.	fadeout
-2F#Am	F#:aug(b7) (F# A# C## E)	.	.	fadeout
-=117	=117	=117	=117	=117
-1Bmm	B:min7 (B D F# A)	newline	305.575	guitar
-=118	=118	=118	=118	=118
-1Bmm	B:min7 (B D F# A)	.	.	guitar
-=119	=119	=119	=119	=119
-1GMM	G:maj7 (G B D F#)	.	.	guitar
-=120	=120	=120	=120	=120
-2Emm	E:min7 (E G B D)	.	.	guitar
-2F#Am	F#:aug(b7) (F# A# C## E)	.	.	guitar
-1r;	r	.	314.279	r
-1r;	r	.	317.571	r
+1r;	r	.	248	r
 *-	*-	*-	*-	*-
 !!!OTL: Caught Up In The Rapture
 !!!COC: Anita Baker
