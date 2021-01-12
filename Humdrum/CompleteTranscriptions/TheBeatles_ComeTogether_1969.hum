@@ -1,19 +1,19 @@
 **kern	**silbe	**kern	**silbe	**harmony	**chordsym	**phrase	**timestamp	**leadinstrument
 *ICvox	*	*ICvox	*	*M4/4	*M4/4	*	*	*
-*	*	*	*	*d:	*d:	*d:	*d:	*d:
-=1	=1	=1	=1	=1	=1	=1	=1	=1
-*d:	*	*d:	*	*	*	*	*	*
+*d:	*	*d:	*	*d:	*d:	*d:	*d:	*d:
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefC3	*	*clefC3	*	*	*	*	*	*
-16d	Shoo!	1r	.	1r;	r	.	0	r
+r;	.	r;	.	1r;	r	.	0	r
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+16d	Shoo!	1r	.	1Dm	D:min (D F A)	newline	0.392	guitar
 8.r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 8.r	.	.	.	.	.	.	.	.
 16d	Sh-	.	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2
-*	*	*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
-16d	-oo!	1r	.	1Dm	D:min (D F A)	newline	0.392	guitar
+16d	-oo!	1r	.	1Dm	D:min (D F A)	.	.	guitar
 8.r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
@@ -33,7 +33,8 @@
 4r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5
-8r	.	1r	.	1Dm	D:min (D F A)	.	.	guitar
+*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+8r	.	1r	.	1Dm	D:min (D F A)	newline	11.934	voice
 8eq	_	.	.	.	.	.	.	.
 8f	Here	.	.	.	.	.	.	.
 16f	come	.	.	.	.	.	.	.
@@ -43,8 +44,7 @@
 8c	he	.	.	.	.	.	.	.
 8d	come	.	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-8r	.	1r	.	1Dm	D:min (D F A)	newline	11.934	voice
+8r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 8eq	_	.	.	.	.	.	.	.
 8f	groo-	.	.	.	.	.	.	.
 16f	-ving	.	.	.	.	.	.	.
@@ -71,7 +71,7 @@
 8c	he	.	.	.	.	.	.	.
 8d	got	.	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9
-8r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
+8r	.	1r	.	1Am	A:min (A C E)	newline	23.753	voice
 8dq	_	.	.	.	.	.	.	.
 8e	hair	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
@@ -79,13 +79,13 @@
 4e	down	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10
-4.e	to	1r	.	1Am	A:min (A C E)	newline	23.753	voice
+4.e	to	1r	.	1Am	A:min (A C E)	.	.	voice
 8d	his	.	.	.	.	.	.	.
 8e	knee	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11
-8f	got	1r	.	1Am	A:min (A C E)	.	.	voice
+8f	got	1r	.	1Gm	G:1 (G)	.	.	voice
 8f	to	.	.	.	.	.	.	.
 8f	be	.	.	.	.	.	.	.
 8f	a	.	.	.	.	.	.	.
@@ -102,15 +102,15 @@
 8.r	.	.	.	.	.	.	.	.
 16d	Sh-	.	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13
-16d	-oo!	1r	.	1Gm	G:1 (G)	.	.	voice
+*	*	*	*	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
+16d	-oo!	1r	.	1Dm	D:min (D F A)	newline	35.387	guitar
 8.r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 8.r	.	.	.	.	.	.	.	.
 16d	Sh-	.	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14
-*	*	*	*	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
-16d	-oo!	1r	.	1Dm	D:min (D F A)	newline	35.387	guitar
+16d	-oo!	1r	.	1Dm	D:min (D F A)	.	.	guitar
 8.r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
@@ -130,7 +130,8 @@
 4r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17
-8r	.	1r	.	1Dm	D:min (D F A)	.	.	guitar
+*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+8r	.	1r	.	1Dm	D:min (D F A)	newline	46.768	voice
 8eq	_	.	.	.	.	.	.	.
 8f	He	.	.	.	.	.	.	.
 8f	wear	.	.	.	.	.	.	.
@@ -140,8 +141,7 @@
 8c	he	.	.	.	.	.	.	.
 8d	got	.	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-8r	.	8r	.	1Dm	D:min (D F A)	newline	46.768	voice
+8r	.	8r	.	1Dm	D:min (D F A)	.	.	voice
 8eq	_	8Bq	_	.	.	.	.	.
 4f	toe	4c	toe	.	.	.	.	.
 8f	jam	8B	jam	.	.	.	.	.
@@ -168,7 +168,7 @@
 8c	he	4r	.	.	.	.	.	.
 8d	say	.	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21
-8r	.	8r	.	1Dm	D:min (D F A)	.	.	voice
+8r	.	8r	.	1Am	A:min (A C E)	newline	58.538	voice
 8e	\\\"I	8c	\\\"I	.	.	.	.	.
 .	.	8cq	_	.	.	.	.	.
 8e	know	8c#	know	.	.	.	.	.
@@ -178,13 +178,13 @@
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22
-8e	you	8e	you	1Am	A:min (A C E)	newline	58.538	voice
+8e	you	8e	you	1Am	A:min (A C E)	.	.	voice
 8e	know	8e	know	.	.	.	.	.
 8d#	_	8d#	_	.	.	.	.	.
 8e	me	8e	me	.	.	.	.	.
 2r	.	2r	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23
-8f	one	1r	.	1Am	A:min (A C E)	.	.	voice
+8f	one	1r	.	1Gm	G:1 (G)	.	.	voice
 8f	thing	.	.	.	.	.	.	.
 8f	I	.	.	.	.	.	.	.
 8f	can	.	.	.	.	.	.	.
@@ -193,7 +193,7 @@
 8f	is	.	.	.	.	.	.	.
 8f	you	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24
-8f	got	2r	.	1Gm	G:1 (G)	.	.	voice
+8f	got	2r	.	1N	N	.	.	voice
 8f	to	.	.	.	.	.	.	.
 8f	be	.	.	.	.	.	.	.
 [8f	free!\\\"	.	.	.	.	.	.	.
@@ -204,32 +204,32 @@
 8gq	_	.	.	.	.	.	.	.
 [16a	_	[16d	_	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25
-16a]	_	16d]	_	1N	N	.	.	voice
+*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+16a]	_	16d]	_	2.Bm	B:5 (B F#)	newline	70.145	voice
 16eQ	_	16AQ	_	.	.	.	.	.
 8.f#	_	8.B	_	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 4r	.	2r	.	.	.	.	.	.
 8eq	_	.	.	.	.	.	.	.
-4f#	right	.	.	.	.	.	.	.
+4f#	right	.	.	4Am	A:5 (A E)	.	.	voice
 =26	=26	=26	=26	=26	=26	=26	=26	=26
-*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
-16e	now	1r	.	2.Bm	B:5 (B F#)	newline	70.145	voice
+16e	now	1r	.	2Gm	G:5 (G D)	.	.	voice
 16d	_	.	.	.	.	.	.	.
 8B	_	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
-4r	.	.	.	.	.	.	.	.
+4r	.	.	.	2Am	A:5 (A E)	.	.	voice
 8Aq	_	.	.	.	.	.	.	.
-8B	o-	.	.	4Am	A:5 (A E)	.	.	voice
+8B	o-	.	.	.	.	.	.	.
 16d	-ver	.	.	.	.	.	.	.
 16d	me!	.	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27
-2r	.	1r	.	2Gm	G:5 (G D)	.	.	voice
-4r	.	.	.	2Am	A:5 (A E)	.	.	voice
+*	*	*	*	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
+2r	.	1r	.	1Dm	D:min (D F A)	newline	75.906	guitar
+4r	.	.	.	.	.	.	.	.
 8.r	.	.	.	.	.	.	.	.
 16d	Sh-	.	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28
-*	*	*	*	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
-16d	-oo!	1r	.	1Dm	D:min (D F A)	newline	75.906	guitar
+16d	-oo!	1r	.	1Dm	D:min (D F A)	.	.	guitar
 8.r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
@@ -249,7 +249,8 @@
 4r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31
-8r	.	1r	.	1Dm	D:min (D F A)	.	.	guitar
+*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+8r	.	1r	.	1Dm	D:min (D F A)	newline	87.252	voice
 8eq	_	.	.	.	.	.	.	.
 8f	He	.	.	.	.	.	.	.
 8f	bag	.	.	.	.	.	.	.
@@ -261,8 +262,7 @@
 8c	he	.	.	.	.	.	.	.
 8d	got	.	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-8r	.	8r	.	1Dm	D:min (D F A)	newline	87.252	voice
+8r	.	8r	.	1Dm	D:min (D F A)	.	.	voice
 8eq	_	8Bq	_	.	.	.	.	.
 4f	wal-	4c	wal-	.	.	.	.	.
 8d	-rus	8B	-rus	.	.	.	.	.
@@ -289,7 +289,7 @@
 8c	he	4r	.	.	.	.	.	.
 8d	got	.	.	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35
-8r	.	8r	.	1Dm	D:min (D F A)	.	.	voice
+8r	.	8r	.	1Am	A:min (A C E)	newline	98.93	voice
 8dq	_	8Bq	_	.	.	.	.	.
 8e	feet	8c	feet	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
@@ -298,13 +298,13 @@
 8d	be-	8c	be-	.	.	.	.	.
 [8e	-low	8c	-low	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36
-4e]	_	8c#	_	1Am	A:min (A C E)	newline	98.93	voice
+4e]	_	8c#	_	1Am	A:min (A C E)	.	.	voice
 .	.	8c	_	.	.	.	.	.
 8d	his	8B-	his	.	.	.	.	.
 8e	knee	8c	knee	.	.	.	.	.
 2r	.	2r	.	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37
-8f	hold	1r	.	1Am	A:min (A C E)	.	.	voice
+8f	hold	1r	.	1Gm	G:1 (G)	.	.	voice
 8f	you	.	.	.	.	.	.	.
 8f	in	.	.	.	.	.	.	.
 8f	his	.	.	.	.	.	.	.
@@ -324,31 +324,31 @@
 8gq	_	.	.	.	.	.	.	.
 [16a	-ge	[16d	-ge	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39
-16a]	_	16d]	_	1Gm	G:1 (G)	.	.	voice
+*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+16a]	_	16d]	_	2.Bm	B:5 (B F#)	newline	110.644	voice
 16eQ	_	16AQ	_	.	.	.	.	.
 8.f#	ther	8.B	ther	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 4r	.	2r	.	.	.	.	.	.
 8eq	_	.	.	.	.	.	.	.
-4f#	right	.	.	.	.	.	.	.
+4f#	right	.	.	4Am	A:5 (A E)	.	.	voice
 =40	=40	=40	=40	=40	=40	=40	=40	=40
-*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
-16e	now	1r	.	2.Bm	B:5 (B F#)	newline	110.644	voice
+16e	now	1r	.	2Gm	G:5 (G D)	.	.	voice
 16d	_	.	.	.	.	.	.	.
 8B	_	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
-4r	.	.	.	.	.	.	.	.
-8B	o-	.	.	4Am	A:5 (A E)	.	.	voice
+4r	.	.	.	2Am	A:5 (A E)	.	.	voice
+8B	o-	.	.	.	.	.	.	.
 16d	-ver	.	.	.	.	.	.	.
 16d	me!	.	.	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41
-2r	.	1r	.	2Gm	G:5 (G D)	.	.	voice
-4r	.	.	.	2Am	A:5 (A E)	.	.	voice
+*	*	*	*	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
+2r	.	1r	.	1Dmm	D:min7 (D F A C)	newline	116.425	guitar
+4r	.	.	.	.	.	.	.	.
 8.r	.	.	.	.	.	.	.	.
 16d	Sh-	.	.	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42
-*	*	*	*	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
-16d	-oo!	1r	.	1Dmm	D:min7 (D F A C)	newline	116.425	guitar
+16d	-oo!	1r	.	1Dmm	D:min7 (D F A C)	.	.	guitar
 16r	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
@@ -356,10 +356,10 @@
 [16b-	Right!	.	.	.	.	.	.	.
 4b-]	_	.	.	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43	=43	=43
-1r	.	1r	.	1Dmm	D:min7 (D F A C)	.	.	guitar
-=44	=44	=44	=44	=44	=44	=44	=44	=44
 *	*	*	*	*>B2_solo	*>B2_solo	*>B2_solo	*>B2_solo	*>B2_solo
 1r	.	1r	.	1Dm	D:min (D F A)	newline	122.023	guitar
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+1r	.	1r	.	1Dm	D:min (D F A)	.	.	guitar
 =45	=45	=45	=45	=45	=45	=45	=45	=45
 1r	.	1r	.	1Dm	D:min (D F A)	.	.	guitar
 =46	=46	=46	=46	=46	=46	=46	=46	=46
@@ -370,20 +370,21 @@
 8d	on	.	.	.	.	.	.	.
 16r	.	.	.	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47	=47
-1r	.	1r	.	1Dm	D:min (D F A)	.	.	guitar
-=48	=48	=48	=48	=48	=48	=48	=48	=48
 1r	.	1r	.	1Am	A:min (A C E)	newline	133.603	guitar
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+1r	.	1r	.	1Am	A:min (A C E)	.	.	guitar
 =49	=49	=49	=49	=49	=49	=49	=49	=49
 1r	.	1r	.	1Am	A:min (A C E)	.	.	guitar
 =50	=50	=50	=50	=50	=50	=50	=50	=50
 1r	.	1r	.	1Am	A:min (A C E)	.	.	guitar
 =51	=51	=51	=51	=51	=51	=51	=51	=51
-1r	.	1r	.	1Am	A:min (A C E)	.	.	guitar
-=52	=52	=52	=52	=52	=52	=52	=52	=52
 *	*	*	*	*>A2_interlude	*>A2_interlude	*>A2_interlude	*>A2_interlude	*>A2_interlude
 1r	.	1r	.	1Dmm	D:min7 (D F A C)	newline	145.145	guitar
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+1r	.	1r	.	1Dmm	D:min7 (D F A C)	.	.	guitar
 =53	=53	=53	=53	=53	=53	=53	=53	=53
-8r	.	1r	.	1Dmm	D:min7 (D F A C)	.	.	guitar
+*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+8r	.	1r	.	1Dm	D:min (D F A)	newline	150.881	voice
 8eq	_	.	.	.	.	.	.	.
 8f	He	.	.	.	.	.	.	.
 8f	rol-	.	.	.	.	.	.	.
@@ -395,8 +396,7 @@
 8c	he	.	.	.	.	.	.	.
 8d	got	.	.	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54	=54	=54
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-8r	.	8r	.	1Dm	D:min (D F A)	newline	150.881	voice
+8r	.	8r	.	1Dm	D:min (D F A)	.	.	voice
 8eq	_	8Bq	_	.	.	.	.	.
 4f	ear-	8c	ear-	.	.	.	.	.
 .	.	4B	_	.	.	.	.	.
@@ -424,7 +424,7 @@
 8c	he	4r	.	.	.	.	.	.
 8d	say	.	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57
-8r	.	8r	.	1Dm	D:min (D F A)	.	.	voice
+8r	.	8r	.	1Am	A:min (A C E)	newline	162.704	voice
 8dq	_	8B#q	_	.	.	.	.	.
 4e	\\\"one	4c#	\\\"one	.	.	.	.	.
 8d	and	8B#	and	.	.	.	.	.
@@ -432,12 +432,12 @@
 8d	and	8B#	and	.	.	.	.	.
 [8e	one	[8c#	one	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58
-4e]	_	4c#]	_	1Am	A:min (A C E)	newline	162.704	voice
+4e]	_	4c#]	_	1Am	A:min (A C E)	.	.	voice
 8d	is	8B#	is	.	.	.	.	.
 8e	three,\\\"	8c#	three,\\\"	.	.	.	.	.
 2r	.	2r	.	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59
-8f	got	8f	got	1Am	A:min (A C E)	.	.	voice
+8f	got	8f	got	1Gm	G:1 (G)	.	.	voice
 8f	to	8f	to	.	.	.	.	.
 8f	be	8f	be	.	.	.	.	.
 8f	good	16f	good	.	.	.	.	.
@@ -458,31 +458,31 @@
 8gq	_	.	.	.	.	.	.	.
 [16a	ge	[16d	ge	.	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61
-16a]	_	16d]	_	1Gm	G:1 (G)	.	.	voice
+*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+16a]	_	16d]	_	2.Bm	B:5 (B F#)	newline	174.405	voice
 16eQ	_	16AQ	_	.	.	.	.	.
 8.f#	ther	8.B	ther	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 4r	.	2r	.	.	.	.	.	.
 8eq	_	.	.	.	.	.	.	.
-4f#	right	.	.	.	.	.	.	.
+4f#	right	.	.	4Am	A:5 (A E)	.	.	voice
 =62	=62	=62	=62	=62	=62	=62	=62	=62
-*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
-16e	now	1r	.	2.Bm	B:5 (B F#)	newline	174.405	voice
+16e	now	1r	.	2Gm	G:5 (G D)	.	.	voice
 16d	_	.	.	.	.	.	.	.
 8B	_	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
-4r	.	.	.	.	.	.	.	.
-8B	o-	.	.	4Am	A:5 (A E)	.	.	voice
+4r	.	.	.	2Am	A:5 (A E)	.	.	voice
+8B	o-	.	.	.	.	.	.	.
 16d	-ver	.	.	.	.	.	.	.
 16d	me!	.	.	.	.	.	.	.
 =63	=63	=63	=63	=63	=63	=63	=63	=63
-2r	.	1r	.	2Gm	G:5 (G D)	.	.	voice
-4r	.	.	.	2Am	A:5 (A E)	.	.	voice
+*	*	*	*	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
+2r	.	1r	.	1Dm	D:min (D F A)	newline	180.257	guitar
+4r	.	.	.	.	.	.	.	.
 8.r	.	.	.	.	.	.	.	.
 16d	Sh-	.	.	.	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64	=64	=64
-*	*	*	*	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
-16d	-oo!	1r	.	1Dm	D:min (D F A)	newline	180.257	guitar
+16d	-oo!	1r	.	1Dm	D:min (D F A)	.	.	guitar
 8.r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
@@ -504,10 +504,10 @@
 16r	.	.	.	.	.	.	.	.
 8.a-	Ungh!	.	.	.	.	.	.	.
 =67	=67	=67	=67	=67	=67	=67	=67	=67
-1r	.	1r	.	1Dm	D:min (D F A)	.	.	guitar
-=68	=68	=68	=68	=68	=68	=68	=68	=68
 *	*	*	*	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro
 1r	.	1r	.	1Dmm	D:min13 (D F C B)	newline	191.589	guitar
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+1r	.	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
 =69	=69	=69	=69	=69	=69	=69	=69	=69
 4r	.	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
 8e	Come	.	.	.	.	.	.	.
@@ -523,7 +523,7 @@
 2r	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 =71	=71	=71	=71	=71	=71	=71	=71	=71
-4r	.	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
+4r	.	1r	.	1Dmm	D:min13 (D F C B)	newline	203.082	guitar
 8e	Come	.	.	.	.	.	.	.
 16f	to-	.	.	.	.	.	.	.
 [16e	-ge	.	.	.	.	.	.	.
@@ -532,7 +532,7 @@
 16r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 =72	=72	=72	=72	=72	=72	=72	=72	=72
-4c	Yeah!	1r	.	1Dmm	D:min13 (D F C B)	newline	203.082	guitar
+4c	Yeah!	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
 4r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =73	=73	=73	=73	=73	=73	=73	=73	=73
@@ -549,7 +549,7 @@
 4r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =75	=75	=75	=75	=75	=75	=75	=75	=75
-4r	.	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
+4r	.	1r	.	1Dmm	D:min13 (D F C B)	newline	214.39	guitar
 8e	Come	.	.	.	.	.	.	.
 16f	to-	.	.	.	.	.	.	.
 [16e	-ge	.	.	.	.	.	.	.
@@ -558,7 +558,7 @@
 16r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 =76	=76	=76	=76	=76	=76	=76	=76	=76
-4d	Yeah!	1r	.	1Dmm	D:min13 (D F C B)	newline	214.39	guitar
+4d	Yeah!	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
 4r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =77	=77	=77	=77	=77	=77	=77	=77	=77
@@ -576,7 +576,7 @@
 4r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =79	=79	=79	=79	=79	=79	=79	=79	=79
-4r	.	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
+4r	.	1r	.	1Dmm	D:min13 (D F C B)	newline	225.74	guitar
 8e	Come	.	.	.	.	.	.	.
 16f	to-	.	.	.	.	.	.	.
 [16e	-ge	.	.	.	.	.	.	.
@@ -587,8 +587,8 @@
 16ccQ	_	.	.	.	.	.	.	.
 [16dd	Yeah	.	.	.	.	.	.	.
 =80	=80	=80	=80	=80	=80	=80	=80	=80
-2.dd_	_	1r	.	1Dmm	D:min13 (D F C B)	newline	225.74	guitar
-8dd]	_	.	.	.	.	.	.	.
+2.dd]	_	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
+8r	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81	=81	=81
 4r	.	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
@@ -602,22 +602,14 @@
 16ccQ	_	.	.	.	.	.	.	.
 [16dd	Yeah	.	.	.	.	.	.	.
 =82	=82	=82	=82	=82	=82	=82	=82	=82
-2.dd]	_	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
-4r	.	.	.	.	.	.	.	.
+2dd]	_	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
+2r	.	.	.	.	.	.	.	.
 =83	=83	=83	=83	=83	=83	=83	=83	=83
-4r	.	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
-8e	Come	.	.	.	.	.	.	.
-16f	to-	.	.	.	.	.	.	.
-[16e	-ge	.	.	.	.	.	.	.
-16e]	_	.	.	.	.	.	.	.
-8d	ther	.	.	.	.	.	.	.
-16r	.	.	.	.	.	.	.	.
-8.r	.	.	.	.	.	.	.	.
-[16e	_	.	.	.	.	.	.	.
-=84	=84	=84	=84	=84	=84	=84	=84	=84
 *	*	*	*	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
-8.e]	_	1r	.	1Dmm	D:min13 (D F C B)	newline	237.024	guitar
-16r	.	.	.	.	.	.	.	.
+4r	.	1r	.	1Dmm	D:min13 (D F C B)	newline	237.024	guitar
+[2.D	Uh!	.	.	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84
+4D]	_	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
 4r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =85	=85	=85	=85	=85	=85	=85	=85	=85
@@ -629,28 +621,43 @@
 8d	ther	.	.	.	.	.	.	.
 16r	.	.	.	.	.	.	.	.
 8.r	.	.	.	.	.	.	.	.
+[16e	Yeah!	.	.	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86	=86
+8.e]	_	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
+16r	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	.	.	.
+2r	.	.	.	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87	=87	=87
+4r	.	1r	.	1Dmm	D:min13 (D F C B)	newline	248.221	guitar
+8e	Come	.	.	.	.	.	.	.
+16f	to-	.	.	.	.	.	.	.
+[16e	-ge	.	.	.	.	.	.	.
+16e]	_	.	.	.	.	.	.	.
+8d	ther	.	.	.	.	.	.	.
+16r	.	.	.	.	.	.	.	.
+8.r	.	.	.	.	.	.	.	.
 16ccQ	_	.	.	.	.	.	.	.
 [16dd	Yeah	.	.	.	.	.	.	.
-=86	=86	=86	=86	=86	=86	=86	=86	=86
+=88	=88	=88	=88	=88	=88	=88	=88	=88
 2.dd_	_	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
 8dd]	_	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
-*-	*-	*-	*-	*	*	*	*
-=86	=86	=86	=86	=86
-1Dmm	D:min13 (D F C B)	.	.	guitar
-=87	=87	=87	=87	=87
-1Dmm	D:min13 (D F C B)	newline	248.221	guitar
-=88	=88	=88	=88	=88
-1Dmm	D:min13 (D F C B)	.	.	guitar
-=89	=89	=89	=89	=89
-1Dmm	D:min13 (D F C B)	.	.	guitar
-=90	=90	=90	=90	=90
-1Dmm	D:min13 (D F C B)	.	.	guitar
-=91	=91	=91	=91	=91
-1Dmm	D:min13 (D F C B)	.	.	guitar
-1r;	r	.	254.514	r
-1r;	r	.	259.997	r
-*-	*-	*-	*-	*-
+=89	=89	=89	=89	=89	=89	=89	=89	=89
+4r	.	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
+8e	Come	.	.	.	.	.	.	.
+16f	to-	.	.	.	.	.	.	.
+[16e	-ge	.	.	.	.	.	.	.
+16e]	_	.	.	.	.	.	.	.
+8d	ther	.	.	.	.	.	.	.
+16r	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90	=90
+1r	.	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
+=91	=91	=91	=91	=91	=91	=91	=91	=91
+1r	.	1r	.	1Dmm	D:min13 (D F C B)	.	.	guitar
+r;	.	r;	.	1r;	r	.	254.514	r
+r;	.	r;	.	1r;	r	.	259.997	r
+*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1969/10/25
 !!!BillboardPeak: 1
 !!!BillboardWeeksOnChart: 16

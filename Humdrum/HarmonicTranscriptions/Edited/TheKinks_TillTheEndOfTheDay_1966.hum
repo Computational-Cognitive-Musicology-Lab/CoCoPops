@@ -1,19 +1,19 @@
 **harmony	**chordsym	**phrase	**timestamp	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *D:	*D:	*	*	*
-1r;	r	.	0	r
-1r;	r	.	0.033	r
+1r;	r	.	.	r
+1r;	r	.	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
-1DM	D:5 (D A)	newline	0.131	r
+2DM	D:5 (D A)	newline	.	guitar
+2CM	C:5 (C G)	.	.	guitar
 =2	=2	=2	=2	=2
-1CM	C:5 (C G)	.	.	r
+1AM	A:5 (A E)	.	.	guitar
 =3	=3	=3	=3	=3
-1AM	A:5 (A E)	.	.	r
-1r;	r	.	.	r
+1AM	A:5 (A E)	.	.	voice
 =4	=4	=4	=4	=4
 *>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
-4CM	C:5 (C G)	newline	21.094	voice
+4CM	C:5 (C G)	newline	.	voice
 4DM	D:5 (D A)	.	.	voice
 4FM	F:5 (F C)	.	.	voice
 4CM	C:5 (C G)	.	.	voice
@@ -27,13 +27,13 @@
 =7	=7	=7	=7	=7
 1DM	D:5 (D A)	.	.	voice
 =8	=8	=8	=8	=8
-2FM	F:5 (F C)	newline	27.409	voice
+2FM	F:5 (F C)	newline	.	voice
 2GM	G:5 (G D)	.	.	voice
 =9	=9	=9	=9	=9
 2B-M	B-:5 (B- F)	.	.	voice
 2AM	A:5 (A E)	.	.	voice
 =10	=10	=10	=10	=10
-4CM	C:5 (C G)	newline	30.46	voice
+4CM	C:5 (C G)	newline	.	voice
 4DM	D:5 (D A)	.	.	voice
 4FM	F:5 (F C)	.	.	voice
 4CM	C:5 (C G)	.	.	voice
@@ -48,8 +48,8 @@
 2DM	D:5 (D A)	.	.	voice
 2CM	C:5 (C G)	.	.	voice
 =14	=14	=14	=14	=14
-*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
-2DM	D:5 (D A)	newline	36.567	voice
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+2DM	D:5 (D A)	newline	.	voice
 2CM	C:5 (C G)	.	.	voice
 =15	=15	=15	=15	=15
 2FM	F:5 (F C)	.	.	voice
@@ -61,7 +61,7 @@
 2FM	F:5 (F C)	.	.	voice
 2CM	C:5 (C G)	.	.	voice
 =18	=18	=18	=18	=18
-1DM	D:5 (D A)	newline	42.69	voice
+1DM	D:5 (D A)	newline	.	voice
 =19	=19	=19	=19	=19
 1CM	C:5 (C G)	.	.	voice
 =20	=20	=20	=20	=20
@@ -69,7 +69,8 @@
 =21	=21	=21	=21	=21
 1AM	A:5 (A E)	.	.	voice
 =22	=22	=22	=22	=22
-1DM	D:5 (D A)	newline	48.727	voice
+*D_chorus	*D_chorus	*D_chorus	*D_chorus	*D_chorus
+1DM	D:5 (D A)	newline	.	voice
 =23	=23	=23	=23	=23
 1CM	C:5 (C G)	.	.	voice
 =24	=24	=24	=24	=24
@@ -78,13 +79,13 @@
 2CM	C:5 (C G)	.	.	voice
 2B-M	B-:5 (B- F)	.	.	voice
 =26	=26	=26	=26	=26
-2FM	F:5 (F C)	newline	54.803	voice
+2FM	F:5 (F C)	newline	.	voice
 2GM	G:5 (G D)	.	.	voice
 =27	=27	=27	=27	=27
 2B-M	B-:5 (B- F)	.	.	voice
 2AM	A:5 (A E)	.	.	voice
 =28	=28	=28	=28	=28
-4CM	C:5 (C G)	newline	57.824	guitar
+4CM	C:5 (C G)	newline	.	guitar
 4DM	D:5 (D A)	.	.	guitar
 4FM	F:5 (F C)	.	.	guitar
 4CM	C:5 (C G)	.	.	guitar
@@ -99,8 +100,8 @@
 2DM	D:5 (D A)	.	.	guitar
 2CM	C:5 (C G)	.	.	guitar
 =32	=32	=32	=32	=32
-*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
-2DM	D:5 (D A)	newline	63.886	voice
+*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+2DM	D:5 (D A)	newline	.	voice
 2CM	C:5 (C G)	.	.	voice
 =33	=33	=33	=33	=33
 2FM	F:5 (F C)	.	.	voice
@@ -112,7 +113,7 @@
 2FM	F:5 (F C)	.	.	voice
 2CM	C:5 (C G)	.	.	voice
 =36	=36	=36	=36	=36
-1DM	D:5 (D A)	newline	69.859	voice
+1DM	D:5 (D A)	newline	.	voice
 =37	=37	=37	=37	=37
 1CM	C:5 (C G)	.	.	voice
 =38	=38	=38	=38	=38
@@ -120,7 +121,8 @@
 =39	=39	=39	=39	=39
 1AM	A:5 (A E)	.	.	voice
 =40	=40	=40	=40	=40
-1DM	D:5 (D A)	newline	75.843	voice
+*D_chorus	*D_chorus	*D_chorus	*D_chorus	*D_chorus
+1DM	D:5 (D A)	newline	.	voice
 =41	=41	=41	=41	=41
 1CM	C:5 (C G)	.	.	voice
 =42	=42	=42	=42	=42
@@ -129,13 +131,13 @@
 2CM	C:5 (C G)	.	.	voice
 2B-M	B-:5 (B- F)	.	.	voice
 =44	=44	=44	=44	=44
-2FM	F:5 (F C)	newline	81.879	voice
+2FM	F:5 (F C)	newline	.	voice
 2GM	G:5 (G D)	.	.	voice
 =45	=45	=45	=45	=45
 2B-M	B-:5 (B- F)	.	.	voice
 2AM	A:5 (A E)	.	.	voice
 =46	=46	=46	=46	=46
-1DM	D:5 (D A)	newline	84.843	guitar
+1DM	D:5 (D A)	newline	.	guitar
 =47	=47	=47	=47	=47
 1CM	C:5 (C G)	.	.	guitar
 =48	=48	=48	=48	=48
@@ -143,100 +145,77 @@
 =49	=49	=49	=49	=49
 1CM	C:5 (C G)	.	.	guitar
 =50	=50	=50	=50	=50
-1DM	D:5 (D A)	newline	90.791	guitar
+1DM	D:5 (D A)	newline	.	guitar
 =51	=51	=51	=51	=51
 1CM	C:5 (C G)	.	.	guitar
 =52	=52	=52	=52	=52
-1DM	D:5 (D A)	.	.	guitar
-=53	=53	=53	=53	=53
-1CM	C:5 (C G)	.	.	guitar
-=54	=54	=54	=54	=54
 *>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
-2DM	D:5 (D A)	newline	96.735	guitar
+2DM	D:5 (D A)	newline	.	guitar
+2CM	C:5 (C G)	.	.	guitar
+=53	=53	=53	=53	=53
+2FM	F:5 (F C)	.	.	guitar
+2CM	C:5 (C G)	.	.	guitar
+=54	=54	=54	=54	=54
+2DM	D:5 (D A)	.	.	guitar
 2CM	C:5 (C G)	.	.	guitar
 =55	=55	=55	=55	=55
 2FM	F:5 (F C)	.	.	guitar
 2CM	C:5 (C G)	.	.	guitar
 =56	=56	=56	=56	=56
-2DM	D:5 (D A)	.	.	guitar
-2CM	C:5 (C G)	.	.	guitar
+1DM	D:5 (D A)	newline	.	guitar
 =57	=57	=57	=57	=57
-2FM	F:5 (F C)	.	.	guitar
-2CM	C:5 (C G)	.	.	guitar
-=58	=58	=58	=58	=58
-1DM	D:5 (D A)	newline	102.701	guitar
-=59	=59	=59	=59	=59
 1CM	C:5 (C G)	.	.	guitar
-=60	=60	=60	=60	=60
+=58	=58	=58	=58	=58
 1FM	F:5 (F C)	.	.	guitar
-=61	=61	=61	=61	=61
+=59	=59	=59	=59	=59
 1AM	A:5 (A E)	.	.	guitar
-=62	=62	=62	=62	=62
-1DM	D:5 (D A)	newline	108.541	voice
-=63	=63	=63	=63	=63
+=60	=60	=60	=60	=60
+*D_chorus	*D_chorus	*D_chorus	*D_chorus	*D_chorus
+1DM	D:5 (D A)	newline	.	voice
+=61	=61	=61	=61	=61
 1CM	C:5 (C G)	.	.	voice
-=64	=64	=64	=64	=64
+=62	=62	=62	=62	=62
 1DM	D:5 (D A)	.	.	voice
-=65	=65	=65	=65	=65
+=63	=63	=63	=63	=63
 2CM	C:5 (C G)	.	.	voice
 2B-M	B-:5 (B- F)	.	.	voice
-=66	=66	=66	=66	=66
-2FM	F:5 (F C)	newline	114.587	voice
+=64	=64	=64	=64	=64
+2FM	F:5 (F C)	newline	.	voice
 2GM	G:5 (G D)	.	.	voice
-=67	=67	=67	=67	=67
+=65	=65	=65	=65	=65
 2B-M	B-:5 (B- F)	.	.	voice
 2AM	A:5 (A E)	.	.	voice
+=66	=66	=66	=66	=66
+*E_outro	*E_outro	*E_outro	*E_outro	*E_outro
+1DM	D:5 (D A)	newline	.	voice
+=67	=67	=67	=67	=67
+1CM	C:5 (C G)	.	.	voice
 =68	=68	=68	=68	=68
-1DM	D:5 (D A)	newline	117.618	voice
+1DM	D:5 (D A)	.	.	voice
 =69	=69	=69	=69	=69
 1CM	C:5 (C G)	.	.	voice
 =70	=70	=70	=70	=70
-1DM	D:5 (D A)	.	.	voice
+1DM	D:5 (D A)	newline	.	voice
 =71	=71	=71	=71	=71
 1CM	C:5 (C G)	.	.	voice
 =72	=72	=72	=72	=72
-1DM	D:5 (D A)	newline	123.585	voice
+1DM	D:5 (D A)	.	.	voice
 =73	=73	=73	=73	=73
 1CM	C:5 (C G)	.	.	voice
 =74	=74	=74	=74	=74
-1DM	D:5 (D A)	.	.	voice
+1DM	D:5 (D A)	newline	.	voice
 =75	=75	=75	=75	=75
 1CM	C:5 (C G)	.	.	voice
 =76	=76	=76	=76	=76
-1DM	D:5 (D A)	newline	129.419	voice
+2DM	D:5 (D A)	.	.	guitar
+2CM	C:5 (C G)	.	.	guitar
 =77	=77	=77	=77	=77
-1CM	C:5 (C G)	.	.	voice
+2GM	G:M (G B D)	.	.	guitar
+2B-M	B-:M (B- D F)	.	.	guitar
 =78	=78	=78	=78	=78
-1DM	D:5 (D A)	.	.	voice
-=79	=79	=79	=79	=79
-1CM	C:5 (C G)	.	.	voice
-=80	=80	=80	=80	=80
-1DM	D:5 (D A)	newline	135.403	voice
-=81	=81	=81	=81	=81
-1CM	C:5 (C G)	.	.	voice
-=82	=82	=82	=82	=82
-2DM	D:5 (D A)	.	.	voice
-2CM	C:5 (C G)	.	.	voice
-=83	=83	=83	=83	=83
-*M6/4	*M6/4	*M6/4	*M6/4	*M6/4
-4AM	A:5 (A E)	.	.	voice
-4B-M	B-:5 (B- F)	.	.	voice
-4AM	A:5 (A E)	.	.	voice
-4B-M	B-:5 (B- F)	.	.	voice
-4AM	A:5 (A E)	.	.	voice
-4B-M	B-:5 (B- F)	.	.	voice
-=84	=84	=84	=84	=84
-4AM	A:5 (A E)	.	.	voice
-4B-M	B-:5 (B- F)	.	.	voice
-4AM	A:5 (A E)	.	.	voice
-4B-M	B-:5 (B- F)	.	.	voice
-4AM	A:5 (A E)	.	.	voice
-4B-M	B-:5 (B- F)	.	.	voice
-=85	=85	=85	=85	=85
-*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
-1AM	A:maj (A C# E)	newline	143.837	guitar
-1r;	r	.	150.824	r
-1r;	r	.	157.309	r
+1AM	A:maj (A C# E)	newline	.	guitar
+1r;	r	.	.	r
+1r;	r	.	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Till The End Of The Day
 !!!COC: The Kinks

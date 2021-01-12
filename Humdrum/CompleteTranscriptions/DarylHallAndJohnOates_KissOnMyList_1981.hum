@@ -1,33 +1,34 @@
 **kern	**silbe	**kern	**silbe	**harmony	**chordsym	**phrase	**timestamp	**leadinstrument
 *ICvox	*	*ICvox	*	*M4/4	*M4/4	*	*	*
-*	*	*	*	*C:	*C:	*C:	*C:	*C:
-=1	=1	=1	=1	=1	=1	=1	=1	=1
-*C:	*	*C:	*	*	*	*	*	*
+*C:	*	*C:	*	*C:	*C:	*C:	*C:	*C:
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefG2	*	*clefF4	*	*	*	*	*	*
-1r	.	1r	.	1r;	r	.	0	r
-=2	=2	=2	=2	=2	=2	=2	=2	=2
+r;	.	r;	.	1r;	r	.	0	r
+=1	=1	=1	=1	=1	=1	=1	=1	=1
 *	*	*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1r	.	1r	.	2CM	C:maj (C E G)	newline	0.443	keyboard
 .	.	.	.	2GM	G:maj (C G B D)	.	.	keyboard
-=3	=3	=3	=3	=3	=3	=3	=3	=3
+=2	=2	=2	=2	=2	=2	=2	=2	=2
 1r	.	1r	.	2Am	A:min (C A E)	.	.	keyboard
 .	.	.	.	2GM	G:maj (C G B D)	.	.	keyboard
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+1r	.	1r	.	1Cmm	C:min7 (C E- G B-)	.	.	keyboard
 =4	=4	=4	=4	=4	=4	=4	=4	=4
 1r	.	1r	.	1Cmm	C:min7 (C E- G B-)	.	.	keyboard
 =5	=5	=5	=5	=5	=5	=5	=5	=5
-1r	.	1r	.	1Cmm	C:min7 (C E- G B-)	.	.	keyboard
+1r	.	1r	.	1FM	F:maj (F A C)	.	.	keyboard
 =6	=6	=6	=6	=6	=6	=6	=6	=6
 1r	.	1r	.	1FM	F:maj (F A C)	.	.	keyboard
 =7	=7	=7	=7	=7	=7	=7	=7	=7
-1r	.	1r	.	1FM	F:maj (F A C)	.	.	keyboard
+1r	.	1r	.	1CM	C:maj (C E G)	.	.	keyboard
 =8	=8	=8	=8	=8	=8	=8	=8	=8
 2r	.	1r	.	1CM	C:maj (C E G)	.	.	keyboard
 4r	.	.	.	.	.	.	.	.
 16f	My	.	.	.	.	.	.	.
 8.g	_	.	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9
-16g	friends	1r	.	1CM	C:maj (C E G)	.	.	keyboard
+*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+16g	friends	1r	.	1Cm	C:min (C E- G)	newline	17.081	voice
 8.f	_	.	.	.	.	.	.	.
 8fQ	_	.	.	.	.	.	.	.
 8e	won-	.	.	.	.	.	.	.
@@ -37,8 +38,8 @@
 8d	call	.	.	.	.	.	.	.
 8d	you	.	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10
-*clefF4	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-8d	all	1r	.	1Cm	C:min (C E- G)	newline	17.081	voice
+*clefF4	*	*	*	*	*	*	*	*
+8d	all	1r	.	1Cm	C:min (C E- G)	.	.	voice
 8e-	the	.	.	.	.	.	.	.
 8c	time,	.	.	.	.	.	.	.
 8G	_	.	.	.	.	.	.	.
@@ -47,7 +48,7 @@
 8G	I	.	.	.	.	.	.	.
 [8B-	say	.	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11
-8B-]	_	1r	.	1Cm	C:min (C E- G)	.	.	voice
+8B-]	_	1r	.	1Fm	F:min (F A- C)	.	.	voice
 16G	_	.	.	.	.	.	.	.
 16F	_	.	.	.	.	.	.	.
 8E-	_	.	.	.	.	.	.	.
@@ -57,14 +58,14 @@
 =12	=12	=12	=12	=12	=12	=12	=12	=12
 1r	.	1r	.	1Fm	F:min (F A- C)	.	.	voice
 =13	=13	=13	=13	=13	=13	=13	=13	=13
-4e-	I	1r	.	1Fm	F:min (F A- C)	.	.	voice
+4e-	I	1r	.	1A-M	A-:maj (A- C E-)	.	.	voice
 4e-	don't	.	.	.	.	.	.	.
 8e-	feel	.	.	.	.	.	.	.
 8c	the	.	.	.	.	.	.	.
 8e-	need	.	.	.	.	.	.	.
 8c	to	.	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14
-4f	give	1r	.	1A-M	A-:maj (A- C E-)	.	.	voice
+4f	give	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
 4f	such	.	.	.	.	.	.	.
 8g	se-	.	.	.	.	.	.	.
 8f	-crets	.	.	.	.	.	.	.
@@ -72,7 +73,7 @@
 16f	-way	.	.	.	.	.	.	.
 16e-	_	.	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15
-[1c	_	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
+[1c	_	1r	.	1CM	C:maj(9) (C E G D)	.	.	voice
 =16	=16	=16	=16	=16	=16	=16	=16	=16
 2c_	_	1r	.	1CM	C:maj(9) (C E G D)	.	.	voice
 8c]	_	.	.	.	.	.	.	.
@@ -80,7 +81,7 @@
 8r	.	.	.	.	.	.	.	.
 8g	You	.	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17
-16g	think	1r	.	1CM	C:maj(9) (C E G D)	.	.	voice
+16g	think	1r	.	1Cm	C:min (C E- G)	newline	32.769	voice
 8.f	_	.	.	.	.	.	.	.
 8fQ	_	.	.	.	.	.	.	.
 8e-	may-	.	.	.	.	.	.	.
@@ -90,7 +91,7 @@
 16e-	help	.	.	.	.	.	.	.
 16d	_	.	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18
-8c	_	1r	.	1Cm	C:min (C E- G)	newline	32.769	voice
+8c	_	1r	.	1Cm	C:min (C E- G)	.	.	voice
 8r	.	.	.	.	.	.	.	.
 8G	though	.	.	.	.	.	.	.
 8G	I	.	.	.	.	.	.	.
@@ -99,7 +100,7 @@
 8G	_	.	.	.	.	.	.	.
 [8B-	right	.	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19
-8B-]	_	1r	.	1Cm	C:min (C E- G)	.	.	voice
+8B-]	_	1r	.	1Fm	F:min (F A- C)	.	.	voice
 8c	_	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
@@ -111,14 +112,14 @@
 8r	.	.	.	.	.	.	.	.
 8c	I'm	.	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21
-4e-	just	1r	.	1Fm	F:min (F A- C)	.	.	voice
+4e-	just	1r	.	1A-M	A-:maj (A- C E-)	.	.	voice
 8e-	bet-	.	.	.	.	.	.	.
 8c	-ter	.	.	.	.	.	.	.
 4e-	off	.	.	.	.	.	.	.
 8e-	not	.	.	.	.	.	.	.
 8f	l-	.	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22
-8f	-lis-	1r	.	1A-M	A-:maj (A- C E-)	.	.	voice
+8f	-lis-	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
 8f	-ten-	.	.	.	.	.	.	.
 8f	-ing	.	.	.	.	.	.	.
 8f	to	.	.	.	.	.	.	.
@@ -129,7 +130,7 @@
 8fq	_	.	.	.	.	.	.	.
 8e-	_	.	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23
-[1c	_	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
+[1c	_	1r	.	1CM	C:maj(9) (C E G D)	.	.	voice
 =24	=24	=24	=24	=24	=24	=24	=24	=24
 2c]	_	1r	.	1CM	C:maj(9) (C E G D)	.	.	voice
 8r	.	.	.	.	.	.	.	.
@@ -137,21 +138,21 @@
 8g	they	.	.	.	.	.	.	.
 8g	in-	.	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25
-8g	-sist	1r	.	1CM	C:maj(9) (C E G D)	.	.	voice
+*	*	*	*	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
+8g	-sist	1r	.	2Fm	F:sus2 (F G C)	newline	48.636	voice
 4r	.	.	.	.	.	.	.	.
 8c	on	.	.	.	.	.	.	.
-8e-	kno-	.	.	.	.	.	.	.
+8e-	kno-	.	.	2Fm	F:min (F A- C)	.	.	voice
 8f	-wing	.	.	.	.	.	.	.
 8g	my	.	.	.	.	.	.	.
 16g	bliss	.	.	.	.	.	.	.
 16a-	_	.	.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26
-*	*	*	*	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
-4g	_	1r	.	2Fm	F:sus2 (F G C)	newline	48.636	voice
+4g	_	1r	.	1Gmm	G:min7 (D G B- F)	.	.	voice
 4r	.	.	.	.	.	.	.	.
-2r	.	.	.	2Fm	F:min (F A- C)	.	.	voice
+2r	.	.	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27
-4r	.	1r	.	1Gmm	G:min7 (D G B- F)	.	.	voice
+4r	.	1r	.	1Fmm	F:min9 (F A- E- G)	.	.	voice
 8r	.	.	.	.	.	.	.	.
 8c	I	.	.	.	.	.	.	.
 8e-	tell	.	.	.	.	.	.	.
@@ -159,13 +160,13 @@
 8g	_	.	.	.	.	.	.	.
 8g	this	.	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28
-2r	.	1r	.	1Fmm	F:min9 (F A- E- G)	.	.	voice
+2r	.	1r	.	1Gmm	G:min7 (D G B- F)	.	.	voice
 8c	When	.	.	.	.	.	.	.
 8e-	they	.	.	.	.	.	.	.
 8e-	wan-	.	.	.	.	.	.	.
 8c	-na	.	.	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29
-4e-	know	1r	.	1Gmm	G:min7 (D G B- F)	.	.	voice
+4e-	know	1r	.	1Fmm	F:min9 (F A- E- G)	.	.	voice
 8e-	what	.	.	.	.	.	.	.
 8c	the	.	.	.	.	.	.	.
 8e-	rea	.	.	.	.	.	.	.
@@ -174,7 +175,7 @@
 16g	is	.	.	.	.	.	.	.
 16a-	_	.	.	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30
-4g	_	1r	.	1Fmm	F:min9 (F A- E- G)	.	.	voice
+4g	_	1r	.	1Gmm	G:min7 (D G B- F)	.	.	voice
 4r	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 8c	I	.	.	.	.	.	.	.
@@ -182,7 +183,7 @@
 8c	-ly	.	.	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31
 *	*	*clefG2	*	*	*	*	*	*
-4e-	smile	1r	.	1Gmm	G:min7 (D G B- F)	.	.	voice
+4e-	smile	1r	.	1Fmm	F:min9 (F A- E- G)	.	.	voice
 8e-	when	.	.	.	.	.	.	.
 8c	I	.	.	.	.	.	.	.
 4e-	lie,	.	.	.	.	.	.	.
@@ -190,24 +191,24 @@
 8e-	I	.	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32
 8fq	_	.	.	.	.	.	.	.
-8g	tell	2r	.	1Fmm	F:min9 (F A- E- G)	.	.	voice
+8g	tell	2r	.	2FM	F:maj (G F A C)	.	.	voice
 8g	them	.	.	.	.	.	.	.
 [4g	why	.	.	.	.	.	.	.
-8g]	_	8r	.	.	.	.	.	.
+8g]	_	8r	.	2GM	G:maj (G B D)	.	.	voice
 8r	.	8d g b	Be-	.	.	.	.	.
 4r	.	8d g b	-cause	.	.	.	.	.
 .	.	8e g cc	your	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33
-4r	.	8e g cc	kiss	2FM	F:maj (G F A C)	.	.	voice
+*	*	*	*	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+4r	.	8e g cc	kiss	2CM	C:maj (C E G)	newline	64.37	voice
 .	.	8r	.	.	.	.	.	.
 8e	Your	4r	.	.	.	.	.	.
 8d	kiss	.	.	.	.	.	.	.
-4r	.	2r	.	2GM	G:maj (G B D)	.	.	voice
+4r	.	2r	.	2GM	G:maj (C G B D)	.	.	voice
 8d	is	.	.	.	.	.	.	.
 [8c	on	.	.	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34
-*	*	*	*	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
-4c]	_	2r	.	2CM	C:maj (C E G)	newline	64.37	voice
+4c]	_	2r	.	2Am	A:min (C A E)	.	.	voice
 8cq	_	.	.	.	.	.	.	.
 8d	my	.	.	.	.	.	.	.
 8d	list	.	.	.	.	.	.	.
@@ -216,11 +217,11 @@
 8d	-cause	8B d g	-cause	.	.	.	.	.
 8e-	your	8B- e- g	your	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35
-8e-	kiss	8B- e- g	kiss	2Am	A:min (C A E)	.	.	voice
+8e-	kiss	8B- e- g	kiss	1Cmm	C:min7 (C E- G B-)	.	.	voice
 8r	.	8r	.	.	.	.	.	.
 8g	your	4r	.	.	.	.	.	.
 8f	kiss	.	.	.	.	.	.	.
-4r	.	2r	.	2GM	G:maj (C G B D)	.	.	voice
+4r	.	2r	.	.	.	.	.	.
 8d	is	.	.	.	.	.	.	.
 [8e-	on	.	.	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36
@@ -233,7 +234,7 @@
 8g	-cause	8c a	-cause	.	.	.	.	.
 8g	your	8c a	your	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37
-16g	kiss	4c f a	kiss	1Cmm	C:min7 (C E- G B-)	.	.	voice
+16g	kiss	4c f a	kiss	1FM	F:maj (F A C)	.	.	voice
 8.f	_	.	.	.	.	.	.	.
 8f	is	8c f a	is	.	.	.	.	.
 [8f	on	[8c [f [a	on	.	.	.	.	.
@@ -251,7 +252,7 @@
 8dq	_	.	.	.	.	.	.	.
 8g	life	.	.	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39
-[2.e	_	4.B d g	Ah	1FM	F:maj (F A C)	.	.	voice
+[2.e	_	4.B d g	Ah	1CM	C:maj (C E G)	.	.	voice
 .	.	[8c [e [g	_	.	.	.	.	.
 .	.	4c] e] g]	_	.	.	.	.	.
 8e_	_	4B d g	_	.	.	.	.	.
@@ -269,16 +270,16 @@
 8d	-cause	8B d g	-cause	.	.	.	.	.
 8e	your	8c e g	your	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41
-4r	.	8e g cc	kiss	1CM	C:maj (C E G)	.	.	voice
+*	*	*	*	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+4r	.	8e g cc	kiss	2CM	C:maj (C E G)	newline	80.189	voice
 .	.	8r	.	.	.	.	.	.
 8e	Your	4r	.	.	.	.	.	.
 8d	kiss	.	.	.	.	.	.	.
-4r	.	2r	.	.	.	.	.	.
+4r	.	2r	.	2GM	G:maj (C G B D)	.	.	voice
 8d	is	.	.	.	.	.	.	.
 [8c	on	.	.	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42
-*	*	*	*	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
-4c]	_	2r	.	2CM	C:maj (C E G)	newline	80.189	voice
+4c]	_	2r	.	2Am	A:min (C A E)	.	.	voice
 8cq	_	.	.	.	.	.	.	.
 8d	my	.	.	.	.	.	.	.
 8d	list	.	.	.	.	.	.	.
@@ -287,11 +288,11 @@
 8d	-cause	8B d g	-cause	.	.	.	.	.
 8e-	your	8B- e- g	your	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43	=43	=43
-8e-	kiss	8B- e- g	kiss	2Am	A:min (C A E)	.	.	voice
+8e-	kiss	8B- e- g	kiss	1Cmm	C:min7 (C E- G B-)	.	.	voice
 8r	.	8r	.	.	.	.	.	.
 8g	your	4r	.	.	.	.	.	.
 8f	kiss	.	.	.	.	.	.	.
-4r	.	2r	.	2GM	G:maj (C G B D)	.	.	voice
+4r	.	2r	.	.	.	.	.	.
 8d	I	.	.	.	.	.	.	.
 [8e-	can't	.	.	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44
@@ -304,7 +305,7 @@
 8g	-cause	8c a	-cause	.	.	.	.	.
 8g	your	8c a	your	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45
-16g	kiss	4c f a	kiss	1Cmm	C:min7 (C E- G B-)	.	.	voice
+16g	kiss	4c f a	kiss	1FM	F:maj (F A C)	.	.	voice
 8.f	_	.	.	.	.	.	.	.
 8f	is	8c f a	is	.	.	.	.	.
 [8f	what	[8c [f [a	what	.	.	.	.	.
@@ -322,14 +323,15 @@
 8dq	_	.	.	.	.	.	.	.
 8g	light	.	.	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47	=47
-[1e	_	1r	.	1FM	F:maj (F A C)	.	.	voice
+[1e	_	1r	.	1CM	C:maj (C E G)	.	.	voice
 =48	=48	=48	=48	=48	=48	=48	=48	=48
 2e]	_	1r	.	1CM	C:maj (C E G)	.	.	voice
 8r	.	.	.	.	.	.	.	.
 8g	I	.	.	.	.	.	.	.
 4g	go	.	.	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49
-16b-	cra	1r	.	1CM	C:maj (C E G)	.	.	voice
+*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+16b-	cra	1r	.	1Cm	C:min (C E- G)	newline	95.983	voice
 8.g	_	.	.	.	.	.	.	.
 16g	zy	.	.	.	.	.	.	.
 8.f	_	.	.	.	.	.	.	.
@@ -340,8 +342,7 @@
 16d	what	.	.	.	.	.	.	.
 16c	_	.	.	.	.	.	.	.
 =50	=50	=50	=50	=50	=50	=50	=50	=50
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-8r	.	1r	.	1Cm	C:min (C E- G)	newline	95.983	voice
+8r	.	1r	.	1Cm	C:min (C E- G)	.	.	voice
 8c	there	.	.	.	.	.	.	.
 8c	real-	.	.	.	.	.	.	.
 8G	-ly	.	.	.	.	.	.	.
@@ -349,7 +350,7 @@
 8G	to	.	.	.	.	.	.	.
 [4B-	see	.	.	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51	=51
-8B-]	_	1r	.	1Cm	C:min (C E- G)	.	.	voice
+8B-]	_	1r	.	1Fm	F:min (F A- C)	.	.	voice
 16G	_	.	.	.	.	.	.	.
 16F	_	.	.	.	.	.	.	.
 4E-	_	.	.	.	.	.	.	.
@@ -364,21 +365,21 @@
 8c	Did	.	.	.	.	.	.	.
 8e-	the	.	.	.	.	.	.	.
 =53	=53	=53	=53	=53	=53	=53	=53	=53
-4e-	night	1r	.	1Fm	F:min (F A- C)	.	.	voice
+4e-	night	1r	.	1A-M	A-:maj (A- C E-)	.	.	voice
 4e-	just	.	.	.	.	.	.	.
 8e-	take	.	.	.	.	.	.	.
 8c	up	.	.	.	.	.	.	.
 8g	your	.	.	.	.	.	.	.
 8f	time	.	.	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54	=54	=54
-4r	.	1r	.	1A-M	A-:maj (A- C E-)	.	.	voice
+4r	.	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
 8B-	Cuz'	.	.	.	.	.	.	.
 8B-	it	.	.	.	.	.	.	.
 6g	means	.	.	.	.	.	.	.
 6f	more	.	.	.	.	.	.	.
 6e-	to	.	.	.	.	.	.	.
 =55	=55	=55	=55	=55	=55	=55	=55	=55
-16f	me	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
+16f	me	1r	.	1CM	C:maj(9) (C E G D)	.	.	voice
 16e-	_	.	.	.	.	.	.	.
 [8c	_	.	.	.	.	.	.	.
 2.c_	_	.	.	.	.	.	.	.
@@ -389,7 +390,7 @@
 16f	Some	.	.	.	.	.	.	.
 8.g	_	.	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57
-16g	times	1r	.	1CM	C:maj(9) (C E G D)	.	.	voice
+16g	times	1r	.	1Cm	C:min (C E- G)	newline	111.778	voice
 8.f	_	.	.	.	.	.	.	.
 8gq	_	.	.	.	.	.	.	.
 8f	I	.	.	.	.	.	.	.
@@ -399,7 +400,7 @@
 8d	I'm	.	.	.	.	.	.	.
 8c	do-	.	.	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58
-8c	-ing,	1r	.	1Cm	C:min (C E- G)	newline	111.778	voice
+8c	-ing,	1r	.	1Cm	C:min (C E- G)	.	.	voice
 8G	I	.	.	.	.	.	.	.
 8G	don't	.	.	.	.	.	.	.
 8G	for-	.	.	.	.	.	.	.
@@ -408,7 +409,7 @@
 8G	I	.	.	.	.	.	.	.
 [8B-	want	.	.	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59
-8B-]	_	1r	.	1Cm	C:min (C E- G)	.	.	voice
+8B-]	_	1r	.	1Fm	F:min (F A- C)	.	.	voice
 8c	_	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
@@ -420,14 +421,14 @@
 8r	.	.	.	.	.	.	.	.
 8c	Re-	.	.	.	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61
-4e-	-gret	1r	.	1Fm	F:min (F A- C)	.	.	voice
+4e-	-gret	1r	.	1A-M	A-:maj (A- C E-)	.	.	voice
 8e-	what	.	.	.	.	.	.	.
 8c	I've	.	.	.	.	.	.	.
 4e-	done,	.	.	.	.	.	.	.
 8e-	re-	.	.	.	.	.	.	.
 8f	-gret	.	.	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62	=62
-8f	you	1r	.	1A-M	A-:maj (A- C E-)	.	.	voice
+8f	you	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
 4r	.	.	.	.	.	.	.	.
 8B-	I	.	.	.	.	.	.	.
 8g	could-	.	.	.	.	.	.	.
@@ -436,7 +437,7 @@
 16f	on	.	.	.	.	.	.	.
 16e-	_	.	.	.	.	.	.	.
 =63	=63	=63	=63	=63	=63	=63	=63	=63
-[1c	_	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
+[1c	_	1r	.	1CM	C:maj(9) (C E G D)	.	.	voice
 =64	=64	=64	=64	=64	=64	=64	=64	=64
 4.c]	_	1r	.	1CM	C:maj(9) (C E G D)	.	.	voice
 8r	.	.	.	.	.	.	.	.
@@ -445,21 +446,21 @@
 8g	you	.	.	.	.	.	.	.
 8g	in-	.	.	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65
-8g	-sist	1r	.	1CM	C:maj(9) (C E G D)	.	.	voice
+*	*	*	*	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
+8g	-sist	1r	.	2Fm	F:sus2 (F G C)	newline	127.535	voice
 4r	.	.	.	.	.	.	.	.
 8c	on	.	.	.	.	.	.	.
-8e-	kno-	.	.	.	.	.	.	.
+8e-	kno-	.	.	2Fm	F:min (F A- C)	.	.	voice
 8f	-wing	.	.	.	.	.	.	.
 8g	my	.	.	.	.	.	.	.
 16g	bliss	.	.	.	.	.	.	.
 16a-	_	.	.	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66	=66
-*	*	*	*	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
-4g	_	1r	.	2Fm	F:sus2 (F G C)	newline	127.535	voice
+4g	_	1r	.	1Gmm	G:min7 (D G B- F)	.	.	voice
 4r	.	.	.	.	.	.	.	.
-2r	.	.	.	2Fm	F:min (F A- C)	.	.	voice
+2r	.	.	.	.	.	.	.	.
 =67	=67	=67	=67	=67	=67	=67	=67	=67
-4r	.	1r	.	1Gmm	G:min7 (D G B- F)	.	.	voice
+4r	.	1r	.	1Fmm	F:min9 (F A- E- G)	.	.	voice
 8g	I'll	.	.	.	.	.	.	.
 8b-	tell	.	.	.	.	.	.	.
 8g	_	.	.	.	.	.	.	.
@@ -467,13 +468,13 @@
 8f	_	.	.	.	.	.	.	.
 8g	this	.	.	.	.	.	.	.
 =68	=68	=68	=68	=68	=68	=68	=68	=68
-2r	.	1r	.	1Fmm	F:min9 (F A- E- G)	.	.	voice
+2r	.	1r	.	1Gmm	G:min7 (D G B- F)	.	.	voice
 8c	If	.	.	.	.	.	.	.
 8e-	you	.	.	.	.	.	.	.
 8e-	wan-	.	.	.	.	.	.	.
 8c	-na	.	.	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69	=69	=69
-4e-	know	1r	.	1Gmm	G:min7 (D G B- F)	.	.	voice
+4e-	know	1r	.	1Fmm	F:min9 (F A- E- G)	.	.	voice
 8e-	what	.	.	.	.	.	.	.
 8c	the	.	.	.	.	.	.	.
 8e-	rea	.	.	.	.	.	.	.
@@ -482,7 +483,7 @@
 16g	is	.	.	.	.	.	.	.
 16a-	_	.	.	.	.	.	.	.
 =70	=70	=70	=70	=70	=70	=70	=70	=70
-16g	_	1r	.	1Fmm	F:min9 (F A- E- G)	.	.	voice
+16g	_	1r	.	1Gmm	G:min7 (D G B- F)	.	.	voice
 16f	_	.	.	.	.	.	.	.
 8g	_	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
@@ -491,7 +492,7 @@
 8e-	on-	.	.	.	.	.	.	.
 8c	-ly	.	.	.	.	.	.	.
 =71	=71	=71	=71	=71	=71	=71	=71	=71
-4e-	smile	1r	.	1Gmm	G:min7 (D G B- F)	.	.	voice
+4e-	smile	1r	.	1Fmm	F:min9 (F A- E- G)	.	.	voice
 8e-	when	.	.	.	.	.	.	.
 8c	I	.	.	.	.	.	.	.
 4e-	lie,	.	.	.	.	.	.	.
@@ -499,24 +500,24 @@
 8e-	I	.	.	.	.	.	.	.
 =72	=72	=72	=72	=72	=72	=72	=72	=72
 8fq	_	.	.	.	.	.	.	.
-8g	tell	2r	.	1Fmm	F:min9 (F A- E- G)	.	.	voice
+8g	tell	2r	.	2FM	F:maj (G F A C)	.	.	voice
 8g	you	.	.	.	.	.	.	.
 [4g	why	.	.	.	.	.	.	.
-8g]	_	8r	.	.	.	.	.	.
+8g]	_	8r	.	2GM	G:maj (G B D)	.	.	voice
 8r	.	8d g b	Be-	.	.	.	.	.
 4r	.	8d g b	-cause	.	.	.	.	.
 .	.	8e g cc	your	.	.	.	.	.
 =73	=73	=73	=73	=73	=73	=73	=73	=73
-4r	.	8e g cc	kiss	2FM	F:maj (G F A C)	.	.	voice
+*	*	*	*	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+4r	.	8e g cc	kiss	2CM	C:maj (C E G)	newline	143.334	voice
 .	.	8r	.	.	.	.	.	.
 8e	Your	4r	.	.	.	.	.	.
 8d	kiss	.	.	.	.	.	.	.
-4r	.	2r	.	2GM	G:maj (G B D)	.	.	voice
+4r	.	2r	.	2GM	G:maj (C G B D)	.	.	voice
 8d	is	.	.	.	.	.	.	.
 [8c	on	.	.	.	.	.	.	.
 =74	=74	=74	=74	=74	=74	=74	=74	=74
-*	*	*	*	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
-4c]	_	2r	.	2CM	C:maj (C E G)	newline	143.334	voice
+4c]	_	2r	.	2Am	A:min (C A E)	.	.	voice
 8G	my	.	.	.	.	.	.	.
 8d	list	.	.	.	.	.	.	.
 8r	.	8r	.	2GM	G:maj (C G B D)	.	.	voice
@@ -524,11 +525,11 @@
 8d	-cause	8B d g	-cause	.	.	.	.	.
 8e-	your	8B- e- g	your	.	.	.	.	.
 =75	=75	=75	=75	=75	=75	=75	=75	=75
-8e-	kiss	8B- e- g	kiss	2Am	A:min (C A E)	.	.	voice
+8e-	kiss	8B- e- g	kiss	1Cmm	C:min7 (C E- G B-)	.	.	voice
 8r	.	8r	.	.	.	.	.	.
 8g	your	4r	.	.	.	.	.	.
 8f	kiss	.	.	.	.	.	.	.
-4r	.	2r	.	2GM	G:maj (C G B D)	.	.	voice
+4r	.	2r	.	.	.	.	.	.
 8d	I	.	.	.	.	.	.	.
 [8e-	can't	.	.	.	.	.	.	.
 =76	=76	=76	=76	=76	=76	=76	=76	=76
@@ -541,7 +542,7 @@
 8g	cause	8c a	-cause	.	.	.	.	.
 8g	your	8c a	your	.	.	.	.	.
 =77	=77	=77	=77	=77	=77	=77	=77	=77
-16g	kiss	4c f a	kiss	1Cmm	C:min7 (C E- G B-)	.	.	voice
+16g	kiss	4c f a	kiss	1FM	F:maj (F A C)	.	.	voice
 8.f	_	.	.	.	.	.	.	.
 8f	is	8c f a	is	.	.	.	.	.
 [8f	what	[8c [f [a	what	.	.	.	.	.
@@ -559,11 +560,12 @@
 8dq	_	.	.	.	.	.	.	.
 8g	light	.	.	.	.	.	.	.
 =79	=79	=79	=79	=79	=79	=79	=79	=79
-[1e	_	1r	.	1FM	F:maj (F A C)	.	.	voice
+[1e	_	1r	.	1CM	C:maj (C E G)	.	.	voice
 =80	=80	=80	=80	=80	=80	=80	=80	=80
 1e]	_	1r	.	1CM	C:maj (C E G)	.	.	voice
 =81	=81	=81	=81	=81	=81	=81	=81	=81
-[8g	_	1r	.	1CM	C:maj (C E G)	.	.	voice
+*	*	*	*	*>E_solo	*>E_solo	*>E_solo	*>E_solo	*>E_solo
+[8g	_	1r	.	1GM	G:maj (C G B D)	newline	159.12	electric guitar
 16.g]	_	.	.	.	.	.	.	.
 32f	_	.	.	.	.	.	.	.
 16.g	_	.	.	.	.	.	.	.
@@ -574,38 +576,37 @@
 8r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 =82	=82	=82	=82	=82	=82	=82	=82	=82
-*	*	*	*	*>E_solo	*>E_solo	*>E_solo	*>E_solo	*>E_solo
-1r	.	1r	.	1GM	G:maj (C G B D)	newline	159.12	electric guitar
-=83	=83	=83	=83	=83	=83	=83	=83	=83
 1r	.	1r	.	1GM	G:maj (C G B D)	.	.	electric guitar
+=83	=83	=83	=83	=83	=83	=83	=83	=83
+1r	.	1r	.	1FM	F:maj (F A C)	.	.	electric guitar
 =84	=84	=84	=84	=84	=84	=84	=84	=84
 1r	.	1r	.	1FM	F:maj (F A C)	.	.	electric guitar
 =85	=85	=85	=85	=85	=85	=85	=85	=85
-1r	.	1r	.	1FM	F:maj (F A C)	.	.	electric guitar
+1r	.	1r	.	1Adm	A:hdim7 (E- A C G)	.	.	electric guitar
 =86	=86	=86	=86	=86	=86	=86	=86	=86
 1r	.	1r	.	1Adm	A:hdim7 (E- A C G)	.	.	electric guitar
 =87	=87	=87	=87	=87	=87	=87	=87	=87
-1r	.	1r	.	1Adm	A:hdim7 (E- A C G)	.	.	electric guitar
+1r	.	1r	.	1Dmm	D:min7 (D F A C)	.	.	electric guitar
 =88	=88	=88	=88	=88	=88	=88	=88	=88
 *clefG2	*	*	*	*	*	*	*	*
 8ffq	_	.	.	.	.	.	.	.
-[1gg	Ah	2r	.	1Dmm	D:min7 (D F A C)	.	.	electric guitar
+[1gg	Ah	2r	.	1GMm	G:11 (G B F C)	.	.	electric guitar
 .	.	8r	.	.	.	.	.	.
 .	.	8B d g	Be-	.	.	.	.	.
 .	.	8B d g	-cause	.	.	.	.	.
 .	.	8c e g	your	.	.	.	.	.
 =89	=89	=89	=89	=89	=89	=89	=89	=89
-8gg]	_	8c e g	kiss	1GMm	G:11 (G B F C)	.	.	electric guitar
+*	*	*	*	*>D_outro	*>D_outro	*>D_outro	*>D_outro	*>D_outro
+8gg]	_	8c e g	kiss	2CM	C:maj (C E G)	newline	174.9	voice
 8r	.	8r	.	.	.	.	.	.
 8gq	_	.	.	.	.	.	.	.
 4a	Your	4r	.	.	.	.	.	.
-4g	kiss	2r	.	.	.	.	.	.
+4g	kiss	2r	.	2GM	G:maj (C G B D)	.	.	voice
 8e	is	.	.	.	.	.	.	.
 8gq	_	.	.	.	.	.	.	.
 [8a	on	.	.	.	.	.	.	.
 =90	=90	=90	=90	=90	=90	=90	=90	=90
-*	*	*	*	*>D_outro	*>D_outro	*>D_outro	*>D_outro	*>D_outro
-8a]	_	2r	.	2CM	C:maj (C E G)	newline	174.9	voice
+8a]	_	2r	.	2Am	A:min (C A E)	.	.	voice
 8eq	_	.	.	.	.	.	.	.
 8e	my	.	.	.	.	.	.	.
 4g	list	.	.	.	.	.	.	.
@@ -614,12 +615,12 @@
 .	.	8B d g	-cause	.	.	.	.	.
 .	.	8B- e- g	your	.	.	.	.	.
 =91	=91	=91	=91	=91	=91	=91	=91	=91
-8r	.	8B- e- g	kiss	2Am	A:min (C A E)	.	.	voice
+8r	.	8B- e- g	kiss	1Cmm	C:min7 (C E- G B-)	.	.	voice
 8aq	_	.	.	.	.	.	.	.
 4cc	Your	8r	.	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
 8a	_	.	.	.	.	.	.	.
-4f	kiss	2r	.	2GM	G:maj (C G B D)	.	.	voice
+4f	kiss	2r	.	.	.	.	.	.
 8e-	is	.	.	.	.	.	.	.
 8fq	_	.	.	.	.	.	.	.
 [8g	on	.	.	.	.	.	.	.
@@ -632,7 +633,7 @@
 8g	-cause	8c a	-cause	.	.	.	.	.
 8g	your	8c a	your	.	.	.	.	.
 =93	=93	=93	=93	=93	=93	=93	=93	=93
-16g	kiss	4c f a	kiss	1Cmm	C:min7 (C E- G B-)	.	.	voice
+16g	kiss	4c f a	kiss	1FM	F:maj (F A C)	.	.	voice
 8.f	_	.	.	.	.	.	.	.
 8f	is	8c f a	is	.	.	.	.	.
 [8f	on	[8c [f [a	on	.	.	.	.	.
@@ -649,7 +650,7 @@
 8e	in	.	.	.	.	.	.	.
 [8g	life,	.	.	.	.	.	.	.
 =95	=95	=95	=95	=95	=95	=95	=95	=95
-2g_	_	4.B d g	Ah	1FM	F:maj (F A C)	.	.	voice
+2g_	_	4.B d g	Ah	1CM	C:maj (C E G)	.	.	voice
 .	.	[8c [e [g	_	.	.	.	.	.
 8g]	_	4c] e] g]	_	.	.	.	.	.
 8e	_	.	.	.	.	.	.	.
@@ -667,16 +668,16 @@
 8a	your	8c e g	your	.	.	.	.	.
 =97	=97	=97	=97	=97	=97	=97	=97	=97
 *clefF4	*	*	*	*	*	*	*	*
-8g	kiss	8e g cc	kiss	1CM	C:maj (C E G)	.	.	voice
+8g	kiss	8e g cc	kiss	2CM	C:maj (C E G)	newline	190.649	voice
 8r	.	8r	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 4e	Your	4r	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
-4G	kiss	2r	.	.	.	.	.	.
+4G	kiss	2r	.	2GM	G:maj (C G B D)	.	.	voice
 8G	is	.	.	.	.	.	.	.
 [8c	on	.	.	.	.	.	.	.
 =98	=98	=98	=98	=98	=98	=98	=98	=98
-8c]	_	2r	.	2CM	C:maj (C E G)	newline	190.649	voice
+8c]	_	2r	.	2Am	A:min (C A E)	.	.	voice
 8G	my	.	.	.	.	.	.	.
 4d	list	.	.	.	.	.	.	.
 2r	.	8r	.	2GM	G:maj (C G B D)	.	.	voice
@@ -685,11 +686,11 @@
 .	.	8B- e- g	your	.	.	.	.	.
 =99	=99	=99	=99	=99	=99	=99	=99	=99
 *clefG2	*	*	*	*	*	*	*	*
-8r	.	8B- e- g	kiss	2Am	A:min (C A E)	.	.	voice
+8r	.	8B- e- g	kiss	1Cmm	C:min7 (C E- G B-)	.	.	voice
 8aq	_	.	.	.	.	.	.	.
 4.cc	Your	8r	.	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
-4f	kiss	2r	.	2GM	G:maj (C G B D)	.	.	voice
+4f	kiss	2r	.	.	.	.	.	.
 8e-	I	.	.	.	.	.	.	.
 8f	can't	.	.	.	.	.	.	.
 =100	=100	=100	=100	=100	=100	=100	=100	=100
@@ -704,7 +705,7 @@
 8g	-cause	8c a	-cause	.	.	.	.	.
 8g	your	8c a	your	.	.	.	.	.
 =101	=101	=101	=101	=101	=101	=101	=101	=101
-16g	kiss	4c f a	kiss	1Cmm	C:min7 (C E- G B-)	.	.	voice
+16g	kiss	4c f a	kiss	1FM	F:maj (F A C)	.	.	voice
 8.f	_	.	.	.	.	.	.	.
 8f	is	8c f a	is	.	.	.	.	.
 [8f	what	[8c [f [a	what	.	.	.	.	.
@@ -722,7 +723,7 @@
 8dq	_	.	.	.	.	.	.	.
 8g	light	.	.	.	.	.	.	.
 =103	=103	=103	=103	=103	=103	=103	=103	=103
-1e	_	4.B d g	Ah	1FM	F:maj (F A C)	.	.	voice
+1e	_	4.B d g	Ah	1CM	C:maj (C E G)	.	.	voice
 .	.	[8c [e [g	_	.	.	.	.	.
 .	.	4c] e] g]	_	.	.	.	.	.
 .	.	4B d g	_	.	.	.	.	.
@@ -739,17 +740,17 @@
 8g	-cause	8B d g	-cause	.	.	.	.	.
 8e	your	8c e g	your	.	.	.	.	.
 =105	=105	=105	=105	=105	=105	=105	=105	=105
-16g	kiss	8c e g	kiss	1CM	C:maj (C E G)	.	.	voice
+16g	kiss	8c e g	kiss	2CM	C:maj (C E G)	newline	206.406	fadeout
 16a	_	.	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.
 8fq	_	.	.	.	.	.	.	.
 8g	Your	4r	.	.	.	.	.	.
 8d	_	.	.	.	.	.	.	.
-4d	kiss	2r	.	.	.	.	.	.
+4d	kiss	2r	.	2GM	G:maj (C G B D)	.	.	fadeout
 8d	is	.	.	.	.	.	.	.
 [8c	on	.	.	.	.	.	.	.
 =106	=106	=106	=106	=106	=106	=106	=106	=106
-8c]	_	2r	.	2CM	C:maj (C E G)	newline	206.406	fadeout
+8c]	_	2r	.	2Am	A:min (C A E)	.	.	fadeout
 16c	my	.	.	.	.	.	.	.
 8.d	_	.	.	.	.	.	.	.
 8d	list	.	.	.	.	.	.	.
@@ -758,11 +759,11 @@
 .	.	8B d g	Be-	.	.	.	.	.
 .	.	8B- e- g	-cause	.	.	.	.	.
 =107	=107	=107	=107	=107	=107	=107	=107	=107
-8r	.	8B- e- g	your	2Am	A:min (C A E)	.	.	fadeout
+8r	.	8B- e- g	your	1Cmm	C:min7 (C E- G B-)	.	.	fadeout
 8aq	_	.	.	.	.	.	.	.
 4.cc	Your	8r	.	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
-4f	kiss	2r	.	2GM	G:maj (C G B D)	.	.	fadeout
+4f	kiss	2r	.	.	.	.	.	.
 8e-	I	.	.	.	.	.	.	.
 8f	can't	.	.	.	.	.	.	.
 =108	=108	=108	=108	=108	=108	=108	=108	=108
@@ -777,7 +778,7 @@
 8g	your	8c a	_	.	.	.	.	.
 8r	.	8c a	_	.	.	.	.	.
 =109	=109	=109	=109	=109	=109	=109	=109	=109
-16g	kiss	4c f a	kiss	1Cmm	C:min7 (C E- G B-)	.	.	fadeout
+16g	kiss	4c f a	kiss	1FM	F:maj (F A C)	.	.	fadeout
 8.f	_	.	.	.	.	.	.	.
 8f	is	8c f a	is	.	.	.	.	.
 [8f	on	[8c [f [a	on	.	.	.	.	.
@@ -795,7 +796,7 @@
 8dq	_	.	.	.	.	.	.	.
 8g	life	.	.	.	.	.	.	.
 =111	=111	=111	=111	=111	=111	=111	=111	=111
-[2.e	_	4.B d g	Ah	1FM	F:maj (F A C)	.	.	fadeout
+[2.e	_	4.B d g	Ah	1CM	C:maj (C E G)	.	.	fadeout
 .	.	[8c [e [g	_	.	.	.	.	.
 .	.	4c] e] g]	_	.	.	.	.	.
 8e]	_	4B d g	_	.	.	.	.	.
@@ -810,18 +811,18 @@
 8g	-cause	8B d g	-cause	.	.	.	.	.
 8e	your	8c e g	your	.	.	.	.	.
 =113	=113	=113	=113	=113	=113	=113	=113	=113
-16g	kiss	8c e g	kiss	1CM	C:maj (C E G)	.	.	fadeout
+16g	kiss	8c e g	kiss	2CM	C:maj (C E G)	newline	222.203	voice
 16a	_	.	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.
 8fq	_	.	.	.	.	.	.	.
 8g	Your	4r	.	.	.	.	.	.
 8d	_	.	.	.	.	.	.	.
-4d	kiss	2r	.	.	.	.	.	.
+4d	kiss	2r	.	2GM	G:maj (C G B D)	.	.	voice
 *clefF4	*	*	*	*	*	*	*	*
 8d	is	.	.	.	.	.	.	.
 [8c	on	.	.	.	.	.	.	.
 =114	=114	=114	=114	=114	=114	=114	=114	=114
-4c]	_	2r	.	2CM	C:maj (C E G)	newline	222.203	voice
+4c]	_	2r	.	2Am	A:min (C A E)	.	.	voice
 8G	my	.	.	.	.	.	.	.
 8d	list	.	.	.	.	.	.	.
 8r	.	8r	.	2GM	G:maj (C G B D)	.	.	voice
@@ -830,24 +831,21 @@
 8e-	your	8B- e- g	your	.	.	.	.	.
 =115	=115	=115	=115	=115	=115	=115	=115	=115
 *clefG2	*	*	*	*	*	*	*	*
-8r	.	8B- e- g	kiss	2Am	A:min (C A E)	.	.	voice
+8r	.	8B- e- g	kiss	1Cmm	C:min7 (C E- G B-)	.	.	voice
 8aq	_	.	.	.	.	.	.	.
 [4.cc	your	8r	.	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
-8cc]	_	2r	.	2GM	G:maj (C G B D)	.	.	voice
+8cc]	_	2r	.	.	.	.	.	.
 8f	kiss,	.	.	.	.	.	.	.
 8e-	I	.	.	.	.	.	.	.
 8f	can't	.	.	.	.	.	.	.
-*-	*-	*-	*-	*	*	*	*
-=115	=115	=115	=115	=115
-1Cmm	C:min7 (C E- G B-)	.	.	voice
-=116	=116	=116	=116	=116
-1Cmm	C:min7 (C E- G B-)	.	.	voice
-=117	=117	=117	=117	=117
-1FM	F:maj (F A C)	.	.	voice
-1r;	r	.	228.392	r
-1r;	r	.	231.34	r
-*-	*-	*-	*-	*-
+=116	=116	=116	=116	=116	=116	=116	=116	=116
+1r	.	1r	.	1Cmm	C:min7 (C E- G B-)	.	.	voice
+=117	=117	=117	=117	=117	=117	=117	=117	=117
+1r	.	1r	.	1FM	F:maj (F A C)	.	.	voice
+r;	.	r;	.	1r;	r	.	228.392	r
+r;	.	r;	.	1r;	r	.	231.34	r
+*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1981/01/31
 !!!BillboardPeak: 1
 !!!BillboardWeeksOnChart: 23

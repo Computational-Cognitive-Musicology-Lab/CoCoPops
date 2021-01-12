@@ -7,7 +7,7 @@
     <rights>©</rights>
     <encoding>
       <software>MuseScore 3.4.2</software>
-      <encoding-date>2020-10-14</encoding-date>
+      <encoding-date>2020-11-29</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -40,10 +40,10 @@
     <lyric-font font-family="Finale Lyrics" font-size="10.25"/>
     </defaults>
   <credit page="1">
-    <credit-words default-x="1106.21" default-y="1524.72" justify="right" valign="bottom" font-size="12">Simon &amp; Garkfunkel</credit-words>
+    <credit-words default-x="1106.21" default-y="1499.72" justify="right" valign="bottom" font-size="12">Simon &amp; Garkfunkel</credit-words>
     </credit>
   <credit page="1">
-    <credit-words default-x="55.3105" default-y="1595.72" justify="left" valign="bottom" font-size="12">Score</credit-words>
+    <credit-words default-x="55.3105" default-y="1570.72" justify="left" valign="bottom" font-size="12">Score</credit-words>
     </credit>
   <credit page="1">
     <credit-words default-x="580.76" default-y="1642.72" justify="center" valign="top" font-size="24">Sounds of Silence</credit-words>
@@ -80,7 +80,7 @@
         <midi-channel>2</midi-channel>
         <midi-program>1</midi-program>
         <volume>79.5276</volume>
-        <pan>77</pan>
+        <pan>75</pan>
         </midi-instrument>
       </score-part>
     <part-group type="stop" number="1"/>
@@ -6119,7 +6119,7 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="83" width="55.00">
+    <measure number="X1" implicit="yes" width="55.00">
       <note>
         <rest/>
         <duration>16</duration>
@@ -6129,7 +6129,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="X1" implicit="yes" width="55.00">
+    <measure number="X2" implicit="yes" width="55.00">
       <note>
         <rest/>
         <duration>16</duration>
@@ -12171,7 +12171,7 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="83" width="55.00">
+    <measure number="X1" implicit="yes" width="55.00">
       <note>
         <rest/>
         <duration>16</duration>
@@ -12181,7 +12181,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="X1" implicit="yes" width="55.00">
+    <measure number="X2" implicit="yes" width="55.00">
       <note>
         <rest/>
         <duration>16</duration>
