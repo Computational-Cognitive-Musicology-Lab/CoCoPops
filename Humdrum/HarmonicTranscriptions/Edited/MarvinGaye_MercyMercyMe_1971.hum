@@ -12,7 +12,7 @@
 =4	=4	=4	=4	=4
 1BM	B:sus4(b7) (B E F# A)	.	.	r
 =5	=5	=5	=5	=5
-*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
 1EMM	E:maj7 (E G# B D#)	newline	10.805	voice
 =6	=6	=6	=6	=6
 1EMM	E:maj7 (E G# B D#)	.	.	voice
@@ -29,7 +29,7 @@
 =12	=12	=12	=12	=12
 1BM	B:sus4(b7) (B E F# A)	.	.	voice
 =13	=13	=13	=13	=13
-*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
 1EMM	E:maj7 (E G# B D#)	newline	31.354	voice
 =14	=14	=14	=14	=14
 1EMM	E:maj7 (E G# B D#)	.	.	voice
@@ -46,7 +46,7 @@
 =20	=20	=20	=20	=20
 1BM	B:sus4(b7) (B E F# A)	.	.	voice
 =21	=21	=21	=21	=21
-*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
 1EMM	E:maj7 (E G# B D#)	newline	51.876	voice
 =22	=22	=22	=22	=22
 1EMM	E:maj7 (E G# B D#)	.	.	voice
@@ -63,7 +63,7 @@
 =28	=28	=28	=28	=28
 1BM	B:sus4(b7) (B E F# A)	.	.	voice
 =29	=29	=29	=29	=29
-*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
 1EMM	E:maj7 (E G# B D#)	newline	72.356	voice
 =30	=30	=30	=30	=30
 1EMM	E:maj7 (E G# B D#)	.	.	voice
@@ -80,7 +80,7 @@
 =36	=36	=36	=36	=36
 1BM	B:sus4(b7) (B E F# A)	.	.	voice
 =37	=37	=37	=37	=37
-*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
 1EMM	E:maj7 (E G# B D#)	newline	92.823	voice
 =38	=38	=38	=38	=38
 1EMM	E:maj7 (E G# B D#)	.	.	voice
@@ -98,6 +98,7 @@
 1BM	B:sus4(b7) (B E F# A)	.	.	voice
 =45	=45	=45	=45	=45
 *>C_solo	*>C_solo	*>C_solo	*>C_solo	*>C_solo
+*F:	*F:	*F:	*F:	*F:
 1FMM	F:maj7 (F A C E)	newline	113.34	saxophone
 =46	=46	=46	=46	=46
 1FMM	F:maj7 (F A C E)	.	.	saxophone
@@ -115,15 +116,23 @@
 1Csus4	C:sus4(b7) (C F G B-)	.	.	saxophone
 =53	=53	=53	=53	=53
 *>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
-1Fmm	F:min7 (F A- C E-)	newline	133.981	saxophone
+*b-:	*b-:	*b-:	*b-:	*b-:
+1B-mm	B-:min9 (B- D- F A- C)	newline	133.981	saxophone
 =54	=54	=54	=54	=54
-1Fmm	F:min7 (F A- C E-)	.	.	saxophone
+1B-mm	B-:min9 (B- D- F A- C)	.	.	saxophone
 =55	=55	=55	=55	=55
-1Bmm	B:min7 (B D F# A)	.	.	saxophone
+1B-mm	B-:min9 (B- D- F A- C)	.	.	saxophone
 =56	=56	=56	=56	=56
-1Bmm	B:min7 (B D F# A)	.	.	saxophone
-1r;	r	.	148.473	r
-1r;	r	.	151.286	r
+1B-mm	B-:min9 (B- D- F A- C)	.	.	saxophone
+=57	=57	=57	=57	=57
+1B-mm	B-:min9 (B- D- F A- C)	.	.	saxophone
+=58	=58	=58	=58	=58
+1B-mm	B-:min9 (B- D- F A- C)	.	.	saxophone
+=59	=59	=59	=59	=59
+1B-mm	B-:min9 (B- D- F A- C)	.	.	saxophone
+=60	=60	=60	=60	=60
+1B-mm	B-:min9 (B- D- F A- C)	.	.	saxophone
+1r;	r	.	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Mercy Mercy Me (The Ecology)
 !!!COC: Marvin Gaye

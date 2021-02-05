@@ -1,82 +1,82 @@
 **kern	**silbe	**harmony	**chordsym	**phrase	**timestamp	**leadinstrument
 *ICvox	*	*M4/4	*M4/4	*	*	*
-*	*	*D:	*D:	*	*	*
-=1	=1	=1	=1	=1	=1	=1
-*D:	*	*	*	*	*	*
+*D:	*	*D:	*D:	*	*	*
 *M4/4	*	*	*	*	*	*
 *clefF4	*	*	*	*	*	*
-1r	.	1r;	r	.	0	r
-=2	=2	=2	=2	=2	=2	=2
+r;	.	1r;	r	.	0	r
+=1	=1	=1	=1	=1	=1	=1
 *	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1r	.	1DM	D:maj (D F# A)	newline	0.877	synthesiser
+=2	=2	=2	=2	=2	=2	=2
+1r	.	1DM	D:maj (C D F# A)	.	.	synthesiser
 =3	=3	=3	=3	=3	=3	=3
-1r	.	1DM	D:maj (C D F# A)	.	.	synthesiser
+1r	.	1DM	D:maj (B D F# A)	.	.	synthesiser
 =4	=4	=4	=4	=4	=4	=4
-1r	.	1DM	D:maj (B D F# A)	.	.	synthesiser
-=5	=5	=5	=5	=5	=5	=5
 1r	.	1DM	D:maj (A D F#)	.	.	synthesiser
-=6	=6	=6	=6	=6	=6	=6
+=5	=5	=5	=5	=5	=5	=5
 1r	.	1DM	D:maj (D F# A)	.	.	synthesiser
-=7	=7	=7	=7	=7	=7	=7
+=6	=6	=6	=6	=6	=6	=6
 1r	.	1DM	D:maj (C D F# A)	.	.	synthesiser
-=8	=8	=8	=8	=8	=8	=8
+=7	=7	=7	=7	=7	=7	=7
 1r	.	1DM	D:maj (B D F# A)	.	.	synthesiser
+=8	=8	=8	=8	=8	=8	=8
+1r	.	1DM	D:maj (A D F#)	.	.	synthesiser
 =9	=9	=9	=9	=9	=9	=9
-4r	.	1DM	D:maj (A D F#)	.	.	synthesiser
+*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+4r	.	1DM	D:maj (D F# A)	newline	14.572	voice
 8r	.	.	.	.	.	.
 8D	I	.	.	.	.	.
 8F#	walk	.	.	.	.	.
 4G	a-	.	.	.	.	.
 [8A	-long	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-8A]	_	1DM	D:1 (D)	newline	14.572	voice
+8A]	_	1AM	A:maj (C# A E)	.	.	voice
 4F#	the	.	.	.	.	.
 [8A	ci	.	.	.	.	.
 8A]	_	.	.	.	.	.
 4B	ty	.	.	.	.	.
 [8c	streets	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11
-8c]	_	1C#m	C#:1 (C#)	.	.	voice
+8c]	_	1CM	C:maj (C E G)	.	.	voice
 4c	you	.	.	.	.	.
 [8B	used	.	.	.	.	.
 8B]	_	.	.	.	.	.
 4A	to	.	.	.	.	.
 [8G	walk	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12
-8G]	_	1CM	C:1 (C)	.	.	voice
+8G]	_	1GM	G:maj (B G D)	.	.	voice
 4A	a-	.	.	.	.	.
 [8G	-long	.	.	.	.	.
 8G]	_	.	.	.	.	.
 4F#	with	.	.	.	.	.
 [8E	me	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13
-4E]	_	1Bm	B:1 (B)	.	.	voice
+4E]	_	1B-M	B-:maj (B- D F)	.	.	voice
 4r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14
-4r	.	1B-M	B-:1 (B-)	.	.	voice
+4r	.	1DM	D:maj (D F# A)	.	.	voice
 8r	.	.	.	.	.	.
 8D	And	.	.	.	.	.
 8F#	ev-	.	.	.	.	.
 4G	-'ry	.	.	.	.	.
 [8A	step	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15
-8A]	_	1DM	D:1 (D)	.	.	voice
+8A]	_	1AM	A:maj (C# A E)	.	.	voice
 4F#	I	.	.	.	.	.
 [8A	take	.	.	.	.	.
 8A]	_	.	.	.	.	.
 4B	re-	.	.	.	.	.
 [8c	-minds	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16
-8c]	_	1C#m	C#:1 (C#)	.	.	voice
+8c]	_	1CM	C:maj (C E G)	.	.	voice
 4c	me	.	.	.	.	.
 [8B	of	.	.	.	.	.
 8B]	_	.	.	.	.	.
 4A	just	.	.	.	.	.
 [8G	how	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17
-4G]	_	1CM	C:1 (C)	.	.	voice
+4G]	_	1GM	G:maj (B G D)	.	.	voice
 8r	.	.	.	.	.	.
 8D	we	.	.	.	.	.
 4G	used	.	.	.	.	.
@@ -84,46 +84,46 @@
 8Bq	_	.	.	.	.	.
 [8c	be	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18
-8c]	_	1Bm	B:1 (B)	.	.	voice
+8c]	_	1GM	G:maj (B G D)	.	.	voice
 8B	_	.	.	.	.	.
 8r	.	.	.	.	.	.
 8G	Oh,	.	.	.	.	.
 4B	how	.	.	.	.	.
 4c#	can	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19
-2d	I	1Bm	B:1 (B)	.	.	voice
+2d	I	1GM	G:maj (D G B)	newline	30.64	voice
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8c#	for-	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20
 8dq	_	.	.	.	.	.
-4e	-get	1GM	G:maj (D G B)	newline	30.64	voice
+4e	-get	1DM	D:maj (D F# A)	.	.	voice
 4d	you,	.	.	.	.	.
-2A	girl?	.	.	.	.	.
+2A	girl	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21
-4r	_	1DM	D:maj (D F# A)	.	.	voice
+4r	.	1Em	E:min (E G B)	.	.	voice
 8r	.	.	.	.	.	.
 8A	When	.	.	.	.	.
 4d	there	.	.	.	.	.
 4e	is	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22
-4f#	al-	1Em	E:min (E G B)	.	.	voice
+*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+4f#	al-	1DM	D:maj (D F# A)	newline	35.399	.
 4f#	-ways	.	.	.	.	.
 4g	some-	.	.	.	.	.
 8f#	-thing	.	.	.	.	.
 [8e	there	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
-8e]	_	1DM	D:maj (D F# A)	newline	35.399	.
+8e]	_	1GM	G:maj (D G B)	.	.	.
 4f#	to	.	.	.	.	.
 8g	re-	.	.	.	.	.
 8eq	_	.	.	.	.	.
 4f#	-mind	.	.	.	.	.
-8e	me?	.	.	.	.	.
+8e	me	.	.	.	.	.
 [8d	_	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24
-4d]	_	1GM	G:maj (D G B)	.	.	.
-4r	_	.	.	.	.	.
+4d]	_	1DM	D:maj (D F# A)	.	.	.
+4r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25
 1r	.	1DM	D:maj (D F# A)	.	.	.
@@ -135,679 +135,582 @@
 8f#q	_	.	.	.	.	.
 [8e	there	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27
-4e]	_	1DM	D:maj (D F# A)	.	.	.
+4e]	_	1GM	G:maj (D G B)	.	.	.
 8d	to	.	.	.	.	.
 8B	re-	.	.	.	.	.
 8e#q	_	.	.	.	.	.
 4f#	-mind	.	.	.	.	.
 8e#q	_	.	.	.	.	.
-[4f#	me!	.	.	.	.	.
+[4f#	me	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28
-4.f#]	_	1GM	G:maj (D G B)	.	.	.
-8r	_	.	.	.	.	.
-4r	.	.	.	.	.	.
+4.f#]	_	1DM	D:maj (D F# A)	.	.	.
+8r	.	.	.	.	.	.
+2r	.	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29
-1r	.	.	.	.	.	.
-=28	=28	=28	=28	=28	=28	=28
-.	.	1DM	D:maj (D F# A)	.	.	.
-=30	=30	=30	=30	=30	=30	=30
-1r	.	.	.	.	.	.
-=29	=29	=29	=29	=29	=29	=29
-.	.	1DM	D:maj (D F# A)	.	.	.
-=31	=31	=31	=31	=31	=31	=31
-4r	.	.	.	.	.	.
+1r	.	1DM	D:maj (D F# A)	.	.	.
 =30	=30	=30	=30	=30	=30	=30
 *	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-8r	.	1DM	D:1 (D)	newline	48.318	.
+4r	.	1DM	D:maj (D F# A)	newline	48.318	.
+8r	.	.	.	.	.	.
 8D	As	.	.	.	.	.
 8F#	sha-	.	.	.	.	.
 4G	-dows	.	.	.	.	.
 [8A	fall,	.	.	.	.	.
-=32	=32	=32	=32	=32	=32	=32
-4A]	_	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31
-8F#	I	1C#m	C#:1 (C#)	.	.	.
+4A]	_	1AM	A:maj (C# A E)	.	.	.
+8F#	I	.	.	.	.	.
 [8A	pass	.	.	.	.	.
 8A]	_	.	.	.	.	.
 4B	a	.	.	.	.	.
 [8c	small	.	.	.	.	.
-=33	=33	=33	=33	=33	=33	=33
-8c]	_	.	.	.	.	.
-4c	ca-	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32
-.	.	1CM	C:1 (C)	.	.	.
+8c]	_	1CM	C:maj (C E G)	.	.	.
+4c	ca-	.	.	.	.	.
 [8B	-fe	.	.	.	.	.
 8B]	_	.	.	.	.	.
 8A	where	.	.	.	.	.
 4r	.	.	.	.	.	.
-=34	=34	=34	=34	=34	=34	=34
-4G	we	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33
-4A	would	1Bm	B:1 (B)	.	.	.
+4G	we	1GM	G:maj (B G D)	.	.	.
+4A	would	.	.	.	.	.
 4G	dance	.	.	.	.	.
 8F#	at	.	.	.	.	.
 [8E	night	.	.	.	.	.
-=35	=35	=35	=35	=35	=35	=35
-4E]	_	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34
-4r	.	1B-M	B-:1 (B-)	.	.	.
-2r	.	.	.	.	.	.
-=36	=36	=36	=36	=36	=36	=36
+4E]	_	1B-M	B-:maj (B- D F)	.	.	.
 4r	.	.	.	.	.	.
+2r	.	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35
-8r	.	1DM	D:1 (D)	.	.	.
+4r	.	1DM	D:maj (D F# A)	.	.	.
+8r	.	.	.	.	.	.
 8D	And	.	.	.	.	.
 8F#	I	.	.	.	.	.
 4G	can't	.	.	.	.	.
 [8A	help	.	.	.	.	.
-=37	=37	=37	=37	=37	=37	=37
-8A]	_	.	.	.	.	.
-8r	.	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36
-8F#	re-	1C#m	C#:1 (C#)	.	.	.
+8A]	_	1AM	A:maj (C# A E)	.	.	.
+8r	.	.	.	.	.	.
+8F#	re-	.	.	.	.	.
 [8A	-call	.	.	.	.	.
 8A]	_	.	.	.	.	.
 4B	ing	.	.	.	.	.
 8r	.	.	.	.	.	.
-=38	=38	=38	=38	=38	=38	=38
-8c	how	.	.	.	.	.
-4c	it	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37
-.	.	1CM	C:1 (C)	.	.	.
+8c	how	1CM	C:maj (C E G)	.	.	.
+4c	it	.	.	.	.	.
 [8B	felt	.	.	.	.	.
 4B]	_	.	.	.	.	.
 8D	_	.	.	.	.	.
 8G	to	.	.	.	.	.
-=39	=39	=39	=39	=39	=39	=39
-4D	kiss	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38
-8r	.	1Bm	B:1 (B)	.	.	.
+4D	kiss	1GM	G:maj (B G D)	.	.	.
+8r	.	.	.	.	.	.
 8D	and	.	.	.	.	.
 4G	hold	.	.	.	.	.
 8A	you	.	.	.	.	.
 8Bq	_	.	.	.	.	.
-[8c	tight!	.	.	.	.	.
-=40	=40	=40	=40	=40	=40	=40
-8c]	_	.	.	.	.	.
-8B	_	.	.	.	.	.
+[8c	tight	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39
-8r	_	1Bm	B:1 (B)	.	.	.
+8c]	_	1GM	G:maj (B G D)	.	.	.
+8B	_	.	.	.	.	.
+8r	.	.	.	.	.	.
 8G	Oh,	.	.	.	.	.
 4B	how	.	.	.	.	.
 4c#	can	.	.	.	.	.
-=41	=41	=41	=41	=41	=41	=41
-2d	I	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40
-.	.	1GM	G:maj (D G B)	newline	64.451	.
+2d	I	1GM	G:maj (D G B)	newline	64.451	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8c#	for-	.	.	.	.	.
-=42	=42	=42	=42	=42	=42	=42
-8dq	_	.	.	.	.	.
-4e	-get	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41
-4d	you,	1DM	D:maj (D F# A)	.	.	.
-2A	girl?	.	.	.	.	.
-=43	=43	=43	=43	=43	=43	=43
-4r	_	.	.	.	.	.
+8dq	_	.	.	.	.	.
+4e	-get	1DM	D:maj (D F# A)	.	.	.
+4d	you,	.	.	.	.	.
+2A	girl	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42
-8r	.	1Em	E:min (E G B)	.	.	.
+4r	.	1Em	E:min (E G B)	.	.	.
+8r	.	.	.	.	.	.
 8A	When	.	.	.	.	.
 4d	there	.	.	.	.	.
 4e	is	.	.	.	.	.
-=44	=44	=44	=44	=44	=44	=44
-4f#	al-	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43
 *	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
-4f#	-ways	1DM	D:maj (D F# A)	newline	69.226	.
+4f#	al-	1DM	D:maj (D F# A)	newline	69.226	.
+4f#	-ways	.	.	.	.	.
 4g	some-	.	.	.	.	.
 8f#	-thing	.	.	.	.	.
 [8e	there	.	.	.	.	.
-=45	=45	=45	=45	=45	=45	=45
-8e]	_	.	.	.	.	.
-4f#	to	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44
-.	.	1GM	G:maj (D G B)	.	.	.
+8e]	_	1GM	G:maj (D G B)	.	.	.
+4f#	to	.	.	.	.	.
 8g	re-	.	.	.	.	.
 8eq	_	.	.	.	.	.
 4f#	-mind	.	.	.	.	.
-8e	me?	.	.	.	.	.
+8e	me	.	.	.	.	.
 [8d	_	.	.	.	.	.
-=46	=46	=46	=46	=46	=46	=46
-4d]	_	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45
-4r	_	1DM	D:maj (D F# A)	.	.	.
+4d]	_	1DM	D:maj (D F# A)	.	.	.
+4r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
-=47	=47	=47	=47	=47	=47	=47
-1r	.	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46
-.	.	1DM	D:maj (D F# A)	.	.	.
-=48	=48	=48	=48	=48	=48	=48
-4f#	Al-	.	.	.	.	.
+1r	.	1DM	D:maj (D F# A)	.	.	.
 =47	=47	=47	=47	=47	=47	=47
-4f#	-ways	1DM	D:maj (D F# A)	.	.	.
+4f#	Al-	1DM	D:maj (D F# A)	.	.	.
+4f#	-ways	.	.	.	.	.
 4g	some-	.	.	.	.	.
 8a	-thing	.	.	.	.	.
 8f#q	_	.	.	.	.	.
 [8e	there	.	.	.	.	.
-=49	=49	=49	=49	=49	=49	=49
-4e]	_	.	.	.	.	.
 =48	=48	=48	=48	=48	=48	=48
-8d	to	1GM	G:maj (D G B)	.	.	.
+4e]	_	1GM	G:maj (D G B)	.	.	.
+8d	to	.	.	.	.	.
 8B	re-	.	.	.	.	.
 8e#q	_	.	.	.	.	.
 4f#	-mind	.	.	.	.	.
 8e#q	_	.	.	.	.	.
-[4f#	me!	.	.	.	.	.
-=50	=50	=50	=50	=50	=50	=50
-4.f#]	_	.	.	.	.	.
+[4f#	me	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49
-.	.	1DM	D:maj (D F# A)	.	.	.
-8r	_	.	.	.	.	.
-4r	.	.	.	.	.	.
-=51	=51	=51	=51	=51	=51	=51
-4r	.	.	.	.	.	.
+4.f#]	_	1DM	D:maj (D F# A)	.	.	.
+8r	.	.	.	.	.	.
+2r	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50
+4r	.	1DM	D:maj (D F# A)	.	.	.
 8r	.	.	.	.	.	.
 8f	I	.	.	.	.	.
-=50	=50	=50	=50	=50	=50	=50
-4e	_	1DM	D:maj (D F# A)	.	.	.
+4e	_	.	.	.	.	.
 4d	was	.	.	.	.	.
-=52	=52	=52	=52	=52	=52	=52
-2.c#	born	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51
 *	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
-.	.	1F#m	F#:min (F# A C#)	newline	82.063	voice
+2.c#	born	1F#m	F#:min (F# A C#)	newline	82.063	voice
 8c#	to	.	.	.	.	.
 8d	_	.	.	.	.	.
-=53	=53	=53	=53	=53	=53	=53
-4B	love	.	.	.	.	.
-[4F#	her,	.	.	.	.	.
 =52	=52	=52	=52	=52	=52	=52
-2F#]	_	1Bm	B:min (B D F#)	.	.	voice
-=54	=54	=54	=54	=54	=54	=54
-4r	_	.	.	.	.	.
+4B	love	1Bm	B:min (B D F#)	.	.	voice
+[4F#	her	.	.	.	.	.
+2F#]	_	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53
+4r	.	1Bm	B:min (B D F#)	.	.	voice
 8r	.	.	.	.	.	.
 8F#	and	.	.	.	.	.
-=53	=53	=53	=53	=53	=53	=53
-4B	I	1Bm	B:min (B D F#)	.	.	voice
+4B	I	.	.	.	.	.
 4d	will	.	.	.	.	.
-=55	=55	=55	=55	=55	=55	=55
-8e#q	_	.	.	.	.	.
-[2f#	ne	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54
-8f#]	_	1GM	G:maj (G B D)	.	.	voice
+8e#q	_	.	.	.	.	.
+[2f#	ne	1GM	G:maj (G B D)	.	.	voice
+8f#]	_	.	.	.	.	.
 8g	ver	.	.	.	.	.
 4f#	be	.	.	.	.	.
-=56	=56	=56	=56	=56	=56	=56
-4e	free,	.	.	.	.	.
-8r	_	.	.	.	.	.
-8A	you'll	.	.	.	.	.
 =55	=55	=55	=55	=55	=55	=55
-8B	al-	1AM	A:maj (A C# E)	.	.	voice
+4e	free	1AM	A:maj (A C# E)	.	.	voice
+8r	.	.	.	.	.	.
+8A	you'll	.	.	.	.	.
+8B	al-	.	.	.	.	.
 8d	-ways	.	.	.	.	.
 8d	be	.	.	.	.	.
 8d	a	.	.	.	.	.
-=57	=57	=57	=57	=57	=57	=57
-8dq	_	.	.	.	.	.
-4.e	part	.	.	.	.	.
-[8d	of	.	.	.	.	.
 =56	=56	=56	=56	=56	=56	=56
-8d]	_	1DM	D:maj (D F# A)	.	.	voice
+8dq	_	.	.	.	.	.
+4.e	part	1DM	D:maj (D F# A)	.	.	voice
+[8d	of	.	.	.	.	.
+8d]	_	.	.	.	.	.
 4.d	me	.	.	.	.	.
-=58	=58	=58	=58	=58	=58	=58
-4r	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57
+4r	.	1DM	D:maj (D F# A)	.	.	voice
 8r	.	.	.	.	.	.
 8D	Whoa,	.	.	.	.	.
-=57	=57	=57	=57	=57	=57	=57
-8E	_	1DM	D:maj (D F# A)	.	.	voice
+8E	_	.	.	.	.	.
 8F#	_	.	.	.	.	.
 8E	whoa,	.	.	.	.	.
 8D	_	.	.	.	.	.
-=59	=59	=59	=59	=59	=59	=59
-8E	whoa	.	.	.	.	.
-[4.F#	_	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58
-4F#]	_	2.DM	D:maj (D F# A)	.	.	voice
-4r	.	.	.	.	.	.
-=60	=60	=60	=60	=60	=60	=60
-1r	.	.	.	.	.	.
-.	.	4GM	G:maj (D G B)	.	.	voice
+8E	whoa	2.DM	D:maj (D F# A)	.	.	voice
+[4.F#	_	.	.	.	.	.
+4F#]	_	.	.	.	.	.
+4r	.	4GM	G:maj (D G B)	.	.	voice
 =59	=59	=59	=59	=59	=59	=59
-.	.	1DM	D:maj (D F# A)	.	.	voice
-=61	=61	=61	=61	=61	=61	=61
-1r	.	.	.	.	.	.
+1r	.	1DM	D:maj (D F# A)	.	.	voice
 =60	=60	=60	=60	=60	=60	=60
-.	.	1F#m	F#:min (F# A C#)	newline	96.589	synthesiser
-=62	=62	=62	=62	=62	=62	=62
-1r	.	.	.	.	.	.
+1r	.	1F#m	F#:min (F# A C#)	newline	96.589	synthesiser
 =61	=61	=61	=61	=61	=61	=61
-.	.	1Bm	B:min (B D F#)	.	.	synthesiser
-=63	=63	=63	=63	=63	=63	=63
-1r	.	.	.	.	.	.
+1r	.	1Bm	B:min (B D F#)	.	.	synthesiser
 =62	=62	=62	=62	=62	=62	=62
-.	.	1Bm	B:min (B D F#)	.	.	synthesiser
-=64	=64	=64	=64	=64	=64	=64
-1r	.	.	.	.	.	.
+1r	.	1Bm	B:min (B D F#)	.	.	synthesiser
 =63	=63	=63	=63	=63	=63	=63
-.	.	1GM	G:maj (G B D)	.	.	synthesiser
-=65	=65	=65	=65	=65	=65	=65
-1r	.	.	.	.	.	.
+1r	.	1GM	G:maj (G B D)	.	.	synthesiser
 =64	=64	=64	=64	=64	=64	=64
-.	.	1AM	A:maj (A C# E)	.	.	synthesiser
-=66	=66	=66	=66	=66	=66	=66
-1r	.	.	.	.	.	.
+1r	.	1AM	A:maj (A C# E)	.	.	synthesiser
 =65	=65	=65	=65	=65	=65	=65
 *	*	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
-.	.	1DM	D:maj (D F# A)	newline	104.565	synthesiser
-=67	=67	=67	=67	=67	=67	=67
-1r	.	.	.	.	.	.
+1r	.	1DM	D:maj (D F# A)	newline	104.565	synthesiser
 =66	=66	=66	=66	=66	=66	=66
-.	.	1DM	D:maj (C D F# A)	.	.	synthesiser
-=68	=68	=68	=68	=68	=68	=68
-1r	.	.	.	.	.	.
+1r	.	1DM	D:maj (C D F# A)	.	.	synthesiser
 =67	=67	=67	=67	=67	=67	=67
-.	.	1DM	D:maj (B D F# A)	.	.	synthesiser
-=69	=69	=69	=69	=69	=69	=69
-1r	.	.	.	.	.	.
+1r	.	1DM	D:maj (B D F# A)	.	.	synthesiser
 =68	=68	=68	=68	=68	=68	=68
-.	.	1DM	D:maj (A D F#)	.	.	synthesiser
-=70	=70	=70	=70	=70	=70	=70
-1r	.	.	.	.	.	.
+1r	.	1DM	D:maj (A D F#)	.	.	synthesiser
 =69	=69	=69	=69	=69	=69	=69
-.	.	1DM	D:maj (D F# A)	.	.	synthesiser
-=71	=71	=71	=71	=71	=71	=71
-1r	.	.	.	.	.	.
+1r	.	1DM	D:maj (D F# A)	.	.	synthesiser
 =70	=70	=70	=70	=70	=70	=70
-.	.	1DM	D:maj (C D F# A)	.	.	synthesiser
-=72	=72	=72	=72	=72	=72	=72
-1r	.	.	.	.	.	.
+1r	.	1DM	D:maj (C D F# A)	.	.	synthesiser
 =71	=71	=71	=71	=71	=71	=71
-.	.	1DM	D:maj (B D F# A)	.	.	synthesiser
-=73	=73	=73	=73	=73	=73	=73
-1r	.	.	.	.	.	.
+1r	.	1DM	D:maj (B D F# A)	.	.	synthesiser
 =72	=72	=72	=72	=72	=72	=72
-.	.	1DM	D:maj (A D F#)	.	.	synthesiser
-=74	=74	=74	=74	=74	=74	=74
-4r	.	.	.	.	.	.
-8r	.	.	.	.	.	.
-8D	If	.	.	.	.	.
+1r	.	1DM	D:maj (A D F#)	.	.	synthesiser
 =73	=73	=73	=73	=73	=73	=73
 *	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-8F#	you	1DM	D:1 (D)	newline	117.502	voice
+4r	.	1DM	D:maj (D F# A)	newline	117.502	voice
+8r	.	.	.	.	.	.
+8D	If	.	.	.	.	.
+8F#	you	.	.	.	.	.
 4G	should	.	.	.	.	.
 8G	find	.	.	.	.	.
-=75	=75	=75	=75	=75	=75	=75
-4A	_	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74
+4A	_	1AM	A:maj (C# A E)	.	.	voice
 8F#	you	.	.	.	.	.
 [8A	miss	.	.	.	.	.
-=74	=74	=74	=74	=74	=74	=74
-8A]	_	1C#m	C#:1 (C#)	.	.	voice
+8A]	_	.	.	.	.	.
 4B	the	.	.	.	.	.
 8Bq	_	.	.	.	.	.
 [8c	sweet	.	.	.	.	.
-=76	=76	=76	=76	=76	=76	=76
-8c]	_	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75
+8c]	_	1CM	C:maj (C E G)	.	.	voice
 4c	and	.	.	.	.	.
 [8B	ten	.	.	.	.	.
-=75	=75	=75	=75	=75	=75	=75
-8B]	_	1CM	C:1 (C)	.	.	voice
+8B]	_	.	.	.	.	.
 4A	der	.	.	.	.	.
 [8G	love	.	.	.	.	.
-=77	=77	=77	=77	=77	=77	=77
-8G]	_	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76
+8G]	_	1GM	G:maj (B G D)	.	.	voice
 4A	we	.	.	.	.	.
 [8G	used	.	.	.	.	.
-=76	=76	=76	=76	=76	=76	=76
-8G]	_	1Bm	B:1 (B)	.	.	voice
+8G]	_	.	.	.	.	.
 4F#	to	.	.	.	.	.
-[8E	share,	.	.	.	.	.
-=78	=78	=78	=78	=78	=78	=78
-2E]	_	.	.	.	.	.
+[8E	share	.	.	.	.	.
 =77	=77	=77	=77	=77	=77	=77
-2r	_	1B-M	B-:1 (B-)	.	.	voice
-=79	=79	=79	=79	=79	=79	=79
-4r	.	.	.	.	.	.
+2E]	_	1B-M	B-:maj (B- D F)	.	.	voice
+2r	.	.	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78
+4r	.	1DM	D:maj (D F# A)	.	.	voice
 8r	.	.	.	.	.	.
 8D	just	.	.	.	.	.
-=78	=78	=78	=78	=78	=78	=78
-8F#	go	1DM	D:1 (D)	.	.	voice
+8F#	go	.	.	.	.	.
 4G	back	.	.	.	.	.
 [8A	to	.	.	.	.	.
-=80	=80	=80	=80	=80	=80	=80
-8A]	_	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79
+8A]	_	1AM	A:maj (C# A E)	.	.	voice
 4F#	the	.	.	.	.	.
 [8A	pla	.	.	.	.	.
-=79	=79	=79	=79	=79	=79	=79
-8A]	_	1C#m	C#:1 (C#)	.	.	voice
+8A]	_	.	.	.	.	.
 4B	ces	.	.	.	.	.
 8r	.	.	.	.	.	.
-=81	=81	=81	=81	=81	=81	=81
-4c	where	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80
+4c	where	1CM	C:maj (C E G)	.	.	voice
 8c	we	.	.	.	.	.
 [8B	used	.	.	.	.	.
-=80	=80	=80	=80	=80	=80	=80
-8B]	_	1CM	C:1 (C)	.	.	voice
+8B]	_	.	.	.	.	.
 4A	to	.	.	.	.	.
-[8G	go,	.	.	.	.	.
-=82	=82	=82	=82	=82	=82	=82
-4G]	_	.	.	.	.	.
-8r	_	.	.	.	.	.
-8D	and	.	.	.	.	.
+[8G	go	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81
-4G	I'll	1Bm	B:1 (B)	.	.	voice
+4G]	_	1GM	B:maj (B)	.	.	voice
+8r	.	.	.	.	.	.
+8D	and	.	.	.	.	.
+4G	I'll	.	.	.	.	.
 8A	be	.	.	.	.	.
 8Bq	_	.	.	.	.	.
 [8c	there	.	.	.	.	.
-=83	=83	=83	=83	=83	=83	=83
-8c]	_	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82
+8c]	_	1GM	B:maj (B)	.	.	voice
 8B	_	.	.	.	.	.
 8r	.	.	.	.	.	.
 8G	Oh,	.	.	.	.	.
-=82	=82	=82	=82	=82	=82	=82
-4B	how	1Bm	B:1 (B)	.	.	voice
+4B	how	.	.	.	.	.
 4c#	can	.	.	.	.	.
-=84	=84	=84	=84	=84	=84	=84
-2d	I	.	.	.	.	.
 =83	=83	=83	=83	=83	=83	=83
-4r	.	1GM	G:maj (D G B)	newline	133.547	voice
+2d	I	1GM	G:maj (D G B)	newline	133.547	voice
+4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8c#	for-	.	.	.	.	.
-=85	=85	=85	=85	=85	=85	=85
-8dq	_	.	.	.	.	.
-4e	-get	.	.	.	.	.
-4d	you,	.	.	.	.	.
 =84	=84	=84	=84	=84	=84	=84
-2A	girl?	1DM	D:maj (D F# A)	.	.	voice
-=86	=86	=86	=86	=86	=86	=86
-4r	_	.	.	.	.	.
+8dq	_	.	.	.	.	.
+4e	-get	1DM	D:maj (D F# A)	.	.	voice
+4d	you,	.	.	.	.	.
+2A	girl	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85
+4r	.	1Em	E:min (E G B)	.	.	voice
 8r	.	.	.	.	.	.
 8A	When	.	.	.	.	.
-=85	=85	=85	=85	=85	=85	=85
-4d	there	1Em	E:min (E G B)	.	.	voice
+4d	there	.	.	.	.	.
 4e	is	.	.	.	.	.
-=87	=87	=87	=87	=87	=87	=87
-4f#	al-	.	.	.	.	.
-4f#	-ways	.	.	.	.	.
 =86	=86	=86	=86	=86	=86	=86
 *	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
-4g	some-	1DM	D:maj (D F# A)	newline	138.351	.
+4f#	al-	1DM	D:maj (D F# A)	newline	138.351	.
+4f#	-ways	.	.	.	.	.
+4g	some-	.	.	.	.	.
 8f#	-thing	.	.	.	.	.
 [8e	there	.	.	.	.	.
-=88	=88	=88	=88	=88	=88	=88
-8e]	_	.	.	.	.	.
+=87	=87	=87	=87	=87	=87	=87
+8e]	_	1GM	G:maj (D G B)	.	.	.
 4f#	to	.	.	.	.	.
 8g	re-	.	.	.	.	.
-=87	=87	=87	=87	=87	=87	=87
 8eq	_	.	.	.	.	.
-4f#	-mind	1GM	G:maj (D G B)	.	.	.
-8e	me?	.	.	.	.	.
+4f#	-mind	.	.	.	.	.
+8e	me	.	.	.	.	.
 [8d	_	.	.	.	.	.
-=89	=89	=89	=89	=89	=89	=89
-4d]	_	.	.	.	.	.
-4r	_	.	.	.	.	.
 =88	=88	=88	=88	=88	=88	=88
-2r	.	1DM	D:maj (D F# A)	.	.	.
-=90	=90	=90	=90	=90	=90	=90
-1r	.	.	.	.	.	.
+4d]	_	1DM	D:maj (D F# A)	.	.	.
+4r	.	.	.	.	.	.
+2r	.	.	.	.	.	.
 =89	=89	=89	=89	=89	=89	=89
-.	.	1DM	D:maj (D F# A)	.	.	.
-=91	=91	=91	=91	=91	=91	=91
-4f#	Al-	.	.	.	.	.
-4f#	-ways	.	.	.	.	.
+1r	.	1DM	D:maj (D F# A)	.	.	.
 =90	=90	=90	=90	=90	=90	=90
-4g	some-	1DM	D:maj (D F# A)	.	.	.
+4f#	Al-	1DM	D:maj (D F# A)	.	.	.
+4f#	-ways	.	.	.	.	.
+4g	some-	.	.	.	.	.
 8a	-thing	.	.	.	.	.
 8f#q	_	.	.	.	.	.
 [8e	there	.	.	.	.	.
-=92	=92	=92	=92	=92	=92	=92
-4e]	_	.	.	.	.	.
+=91	=91	=91	=91	=91	=91	=91
+4e]	_	1GM	G:maj (D G B)	.	.	.
 8d	to	.	.	.	.	.
 8B	re-	.	.	.	.	.
-=91	=91	=91	=91	=91	=91	=91
 8e#q	_	.	.	.	.	.
-4f#	-mind	1GM	G:maj (D G B)	.	.	.
+4f#	-mind	.	.	.	.	.
 8e#q	_	.	.	.	.	.
 [4f#	me	.	.	.	.	.
-=93	=93	=93	=93	=93	=93	=93
-2f#]	_	.	.	.	.	.
 =92	=92	=92	=92	=92	=92	=92
-2r	.	1DM	D:maj (D F# A)	.	.	.
-=94	=94	=94	=94	=94	=94	=94
-4r	.	.	.	.	.	.
+2f#]	_	1DM	D:maj (D F# A)	.	.	.
+2r	.	.	.	.	.	.
+=93	=93	=93	=93	=93	=93	=93
+4r	.	1DM	D:maj (D F# A)	.	.	.
 8r	.	.	.	.	.	.
 8f	I	.	.	.	.	.
-=93	=93	=93	=93	=93	=93	=93
-4e	_	1DM	D:maj (D F# A)	.	.	.
+4e	_	.	.	.	.	.
 4d	was	.	.	.	.	.
-=95	=95	=95	=95	=95	=95	=95
-2.c#	born	.	.	.	.	.
 =94	=94	=94	=94	=94	=94	=94
 *	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
-.	.	1F#m	F#:min (F# A C#)	newline	151.209	.
+2.c#	born	1F#m	F#:min (F# A C#)	newline	151.209	.
 8c#	to	.	.	.	.	.
 8d	_	.	.	.	.	.
-=96	=96	=96	=96	=96	=96	=96
-4B	love	.	.	.	.	.
-[4F#	her	.	.	.	.	.
 =95	=95	=95	=95	=95	=95	=95
-2F#]	_	1Bm	B:min (B D F#)	.	.	.
-=97	=97	=97	=97	=97	=97	=97
-4r	.	.	.	.	.	.
+4B	love	1Bm	B:min (B D F#)	.	.	.
+[4F#	her	.	.	.	.	.
+2F#]	_	.	.	.	.	.
+=96	=96	=96	=96	=96	=96	=96
+4r	.	1Bm	B:min (B D F#)	.	.	.
 8r	.	.	.	.	.	.
 8F#	And	.	.	.	.	.
-=96	=96	=96	=96	=96	=96	=96
-4B	I	1Bm	B:min (B D F#)	.	.	.
+4B	I	.	.	.	.	.
 4d	will	.	.	.	.	.
-=98	=98	=98	=98	=98	=98	=98
-8e#q	_	.	.	.	.	.
-[2f#	ne	.	.	.	.	.
 =97	=97	=97	=97	=97	=97	=97
-8f#]	_	1GM	G:maj (G B D)	.	.	.
+8e#q	_	.	.	.	.	.
+[2f#	ne	1GM	G:maj (G B D)	.	.	.
+8f#]	_	.	.	.	.	.
 8g	ver	.	.	.	.	.
 4f#	be	.	.	.	.	.
-=99	=99	=99	=99	=99	=99	=99
-4e	free,	.	.	.	.	.
-8r	_	.	.	.	.	.
-8A	you'll	.	.	.	.	.
 =98	=98	=98	=98	=98	=98	=98
-8B	al-	1AM	A:maj (A C# E)	.	.	.
+4e	free	1AM	A:maj (A C# E)	.	.	.
+8r	.	.	.	.	.	.
+8A	you'll	.	.	.	.	.
+8B	al-	.	.	.	.	.
 8d	-ways	.	.	.	.	.
 8d	be	.	.	.	.	.
 8d	a	.	.	.	.	.
-=100	=100	=100	=100	=100	=100	=100
-8dq	_	.	.	.	.	.
-4.e	part	.	.	.	.	.
-[8d	of	.	.	.	.	.
 =99	=99	=99	=99	=99	=99	=99
-8d]	_	1DM	D:maj (D F# A)	.	.	.
-4.d	me!	.	.	.	.	.
-=101	=101	=101	=101	=101	=101	=101
-4r	_	.	.	.	.	.
+8dq	_	.	.	.	.	.
+4.e	part	1DM	D:maj (D F# A)	.	.	.
+[8d	of	.	.	.	.	.
+8d]	_	.	.	.	.	.
+4.d	me	.	.	.	.	.
+=100	=100	=100	=100	=100	=100	=100
+4r	.	1DM	D:maj (D F# A)	.	.	.
 8r	.	.	.	.	.	.
 8A	Cuz	.	.	.	.	.
-=100	=100	=100	=100	=100	=100	=100
-4d	there	1DM	D:maj (D F# A)	.	.	.
+4d	there	.	.	.	.	.
 4e	is	.	.	.	.	.
-=102	=102	=102	=102	=102	=102	=102
-4f#	al-	.	.	.	.	.
-4f#	-ways	.	.	.	.	.
 =101	=101	=101	=101	=101	=101	=101
 *	*	*>C_outro	*>C_outro	*>C_outro	*>C_outro	*>C_outro
-4g	some-	1DM	D:maj (D F# A)	newline	162.533	fadeout, voice
+4f#	al-	1DM	D:maj (D F# A)	newline	162.533	fadeout, voice
+4f#	-ways	.	.	.	.	.
+4g	some-	.	.	.	.	.
 8f#	-thing	.	.	.	.	.
 [8e	there	.	.	.	.	.
-=103	=103	=103	=103	=103	=103	=103
-8e]	_	.	.	.	.	.
-4f#	to	.	.	.	.	.
-8g	re-	.	.	.	.	.
 =102	=102	=102	=102	=102	=102	=102
+8e]	_	1GM	G:maj (D G B)	.	.	fadeout, voice
+4f#	to	.	.	.	.	.
+8g	re-	.	.	.	.	.
 8eq	_	.	.	.	.	.
-4f#	-mind	1GM	G:maj (D G B)	.	.	fadeout, voice
-8e	me!	.	.	.	.	.
+4f#	-mind	.	.	.	.	.
+8e	me	.	.	.	.	.
 [8d	_	.	.	.	.	.
-=104	=104	=104	=104	=104	=104	=104
-4d]	_	.	.	.	.	.
-4r	_	.	.	.	.	.
 =103	=103	=103	=103	=103	=103	=103
-2r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
-=105	=105	=105	=105	=105	=105	=105
-1r	.	.	.	.	.	.
+4d]	_	1DM	D:maj (D F# A)	.	.	fadeout, voice
+4r	.	.	.	.	.	.
+2r	.	.	.	.	.	.
 =104	=104	=104	=104	=104	=104	=104
-.	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
-=106	=106	=106	=106	=106	=106	=106
-4f#	Al-	.	.	.	.	.
-4f#	-ways	.	.	.	.	.
+1r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
 =105	=105	=105	=105	=105	=105	=105
-4g	some-	1DM	D:maj (D F# A)	.	.	fadeout, voice
+4f#	Al-	1DM	D:maj (D F# A)	.	.	fadeout, voice
+4f#	-ways	.	.	.	.	.
+4g	some-	.	.	.	.	.
 8f#	-thing	.	.	.	.	.
 [8e	there	.	.	.	.	.
-=107	=107	=107	=107	=107	=107	=107
-8e]	_	.	.	.	.	.
-4f#	to	.	.	.	.	.
-8g	re-	.	.	.	.	.
 =106	=106	=106	=106	=106	=106	=106
-8eq	_	.	.	.	.	.
-4f#	-mind	1GM	G:maj (D G B)	.	.	fadeout, voice
-8e	me!	.	.	.	.	.
-[8d	_	.	.	.	.	.
-=108	=108	=108	=108	=108	=108	=108
-4d]	_	.	.	.	.	.
-4r	_	.	.	.	.	.
-=107	=107	=107	=107	=107	=107	=107
-2r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
-=109	=109	=109	=109	=109	=109	=109
-1r	.	.	.	.	.	.
-=108	=108	=108	=108	=108	=108	=108
-.	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
-=110	=110	=110	=110	=110	=110	=110
-4f#	Al-	.	.	.	.	.
-4f#	-ways	.	.	.	.	.
-=109	=109	=109	=109	=109	=109	=109
-4g	some-	1DM	D:maj (D F# A)	.	.	fadeout, voice
-8a	-thing	.	.	.	.	.
-8f#q	_	.	.	.	.	.
-[8e	there	.	.	.	.	.
-=111	=111	=111	=111	=111	=111	=111
-4e]	_	.	.	.	.	.
-8d	_	.	.	.	.	.
-8B	re-	.	.	.	.	.
-=110	=110	=110	=110	=110	=110	=110
-8e#q	_	.	.	.	.	.
-4f#	-mind	1GM	G:maj (D G B)	.	.	fadeout, voice
-8e#q	_	.	.	.	.	.
-[4f#	me	.	.	.	.	.
-=112	=112	=112	=112	=112	=112	=112
-2f#]	_	.	.	.	.	.
-=111	=111	=111	=111	=111	=111	=111
-2r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
-=113	=113	=113	=113	=113	=113	=113
-1r	.	.	.	.	.	.
-=112	=112	=112	=112	=112	=112	=112
-.	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
-=114	=114	=114	=114	=114	=114	=114
-4f#	Al-	.	.	.	.	.
-4f#	-ways	.	.	.	.	.
-=113	=113	=113	=113	=113	=113	=113
-4g	some-	1DM	D:maj (D F# A)	.	.	fadeout, voice
-8a	-thing	.	.	.	.	.
-8f#q	_	.	.	.	.	.
-[8e	there	.	.	.	.	.
-=115	=115	=115	=115	=115	=115	=115
-4e]	_	.	.	.	.	.
-8d	_	.	.	.	.	.
-8B	re-	.	.	.	.	.
-=114	=114	=114	=114	=114	=114	=114
-8e#q	_	.	.	.	.	.
-4f#	-mind	1GM	G:maj (D G B)	.	.	fadeout, voice
-8e#q	_	.	.	.	.	.
-[4f#	me	.	.	.	.	.
-=116	=116	=116	=116	=116	=116	=116
-2f#]	_	.	.	.	.	.
-=115	=115	=115	=115	=115	=115	=115
-2r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
-=117	=117	=117	=117	=117	=117	=117
-1r	.	.	.	.	.	.
-=116	=116	=116	=116	=116	=116	=116
-.	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
-=118	=118	=118	=118	=118	=118	=118
-4f#	Al-	.	.	.	.	.
-4f#	-ways	.	.	.	.	.
-=117	=117	=117	=117	=117	=117	=117
-4g	some-	1DM	D:maj (D F# A)	.	.	fadeout, voice
-8f#	-thing	.	.	.	.	.
-[8e	there	.	.	.	.	.
-=119	=119	=119	=119	=119	=119	=119
-8e]	_	.	.	.	.	.
+8e]	_	1GM	G:maj (D G B)	.	.	fadeout, voice
 4f#	to	.	.	.	.	.
 8g	re-	.	.	.	.	.
-=118	=118	=118	=118	=118	=118	=118
 8eq	_	.	.	.	.	.
-4f#	-mind	1GM	G:maj (D G B)	.	.	fadeout, voice
-8e	me!	.	.	.	.	.
+4f#	-mind	.	.	.	.	.
+8e	me	.	.	.	.	.
 [8d	_	.	.	.	.	.
-=120	=120	=120	=120	=120	=120	=120
-4d]	_	.	.	.	.	.
-4r	_	.	.	.	.	.
-=119	=119	=119	=119	=119	=119	=119
-2r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
-=121	=121	=121	=121	=121	=121	=121
-1r	.	.	.	.	.	.
-=120	=120	=120	=120	=120	=120	=120
-.	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
-=122	=122	=122	=122	=122	=122	=122
-4f#	Al-	.	.	.	.	.
+=107	=107	=107	=107	=107	=107	=107
+4d]	_	1DM	D:maj (D F# A)	.	.	fadeout, voice
+4r	.	.	.	.	.	.
+2r	.	.	.	.	.	.
+=108	=108	=108	=108	=108	=108	=108
+1r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
+=109	=109	=109	=109	=109	=109	=109
+4f#	Al-	1DM	D:maj (D F# A)	.	.	fadeout, voice
 4f#	-ways	.	.	.	.	.
-=121	=121	=121	=121	=121	=121	=121
-4g	some-	1DM	D:maj (D F# A)	.	.	fadeout, voice
+4g	some-	.	.	.	.	.
 8a	-thing	.	.	.	.	.
 8f#q	_	.	.	.	.	.
 [8e	there	.	.	.	.	.
-=123	=123	=123	=123	=123	=123	=123
-4e]	_	.	.	.	.	.
+=110	=110	=110	=110	=110	=110	=110
+4e]	_	1GM	G:maj (D G B)	.	.	fadeout, voice
 8d	_	.	.	.	.	.
 8B	re-	.	.	.	.	.
-=122	=122	=122	=122	=122	=122	=122
 8e#q	_	.	.	.	.	.
-4f#	-mind	1GM	G:maj (D G B)	.	.	fadeout, voice
+4f#	-mind	.	.	.	.	.
 8e#q	_	.	.	.	.	.
 [4f#	me	.	.	.	.	.
-=124	=124	=124	=124	=124	=124	=124
-2f#]	_	.	.	.	.	.
+=111	=111	=111	=111	=111	=111	=111
+2f#]	_	1DM	D:maj (D F# A)	.	.	fadeout, voice
+2r	.	.	.	.	.	.
+=112	=112	=112	=112	=112	=112	=112
+1r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
+=113	=113	=113	=113	=113	=113	=113
+4f#	Al-	1DM	D:maj (D F# A)	.	.	fadeout, voice
+4f#	-ways	.	.	.	.	.
+4g	some-	.	.	.	.	.
+8a	-thing	.	.	.	.	.
+8f#q	_	.	.	.	.	.
+[8e	there	.	.	.	.	.
+=114	=114	=114	=114	=114	=114	=114
+4e]	_	1GM	G:maj (D G B)	.	.	fadeout, voice
+8d	_	.	.	.	.	.
+8B	re-	.	.	.	.	.
+8e#q	_	.	.	.	.	.
+4f#	-mind	.	.	.	.	.
+8e#q	_	.	.	.	.	.
+[4f#	me	.	.	.	.	.
+=115	=115	=115	=115	=115	=115	=115
+2f#]	_	1DM	D:maj (D F# A)	.	.	fadeout, voice
+2r	.	.	.	.	.	.
+=116	=116	=116	=116	=116	=116	=116
+1r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
+=117	=117	=117	=117	=117	=117	=117
+4f#	Al-	1DM	D:maj (D F# A)	.	.	fadeout, voice
+4f#	-ways	.	.	.	.	.
+4g	some-	.	.	.	.	.
+8f#	-thing	.	.	.	.	.
+[8e	there	.	.	.	.	.
+=118	=118	=118	=118	=118	=118	=118
+8e]	_	1GM	G:maj (D G B)	.	.	fadeout, voice
+4f#	to	.	.	.	.	.
+8g	re-	.	.	.	.	.
+8eq	_	.	.	.	.	.
+4f#	-mind	.	.	.	.	.
+8e	me	.	.	.	.	.
+[8d	_	.	.	.	.	.
+=119	=119	=119	=119	=119	=119	=119
+4d]	_	1DM	D:maj (D F# A)	.	.	fadeout, voice
+4r	.	.	.	.	.	.
+2r	.	.	.	.	.	.
+=120	=120	=120	=120	=120	=120	=120
+1r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
+=121	=121	=121	=121	=121	=121	=121
+4f#	Al-	1DM	D:maj (D F# A)	.	.	fadeout, voice
+4f#	-ways	.	.	.	.	.
+4g	some-	.	.	.	.	.
+8a	-thing	.	.	.	.	.
+8f#q	_	.	.	.	.	.
+[8e	there	.	.	.	.	.
+=122	=122	=122	=122	=122	=122	=122
+4e]	_	1GM	G:maj (D G B)	.	.	fadeout, voice
+8d	_	.	.	.	.	.
+8B	re-	.	.	.	.	.
+8e#q	_	.	.	.	.	.
+4f#	-mind	.	.	.	.	.
+8e#q	_	.	.	.	.	.
+[4f#	me	.	.	.	.	.
 =123	=123	=123	=123	=123	=123	=123
-2r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
-=125	=125	=125	=125	=125	=125	=125
-1r	.	.	.	.	.	.
+2f#]	_	1DM	D:maj (D F# A)	.	.	fadeout, voice
+2r	.	.	.	.	.	.
 =124	=124	=124	=124	=124	=124	=124
-.	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
-*-	*-	*	*
-.	.	.	.	.
-=125	=125	=125	=125	=125
-1DM	D:maj (D F# A)	.	.	fadeout, voice
-=126	=126	=126	=126	=126
-1GM	G:maj (D G B)	.	.	fadeout, voice
-=127	=127	=127	=127	=127
-1DM	D:maj (D F# A)	.	.	fadeout, voice
-=128	=128	=128	=128	=128
-1DM	D:maj (D F# A)	.	.	fadeout, voice
-=129	=129	=129	=129	=129
-1DM	D:maj (D F# A)	.	.	fadeout, voice
-=130	=130	=130	=130	=130
-1GM	G:maj (D G B)	.	.	fadeout, voice
-=131	=131	=131	=131	=131
-1DM	D:maj (D F# A)	.	.	fadeout, voice
-=132	=132	=132	=132	=132
-1DM	D:maj (D F# A)	.	.	fadeout, voice
-=133	=133	=133	=133	=133
-1DM	D:maj (D F# A)	.	.	fadeout, voice
-=134	=134	=134	=134	=134
-1GM	G:maj (D G B)	.	.	fadeout, voice
-=135	=135	=135	=135	=135
-1DM	D:maj (D F# A)	.	.	fadeout, voice
-=136	=136	=136	=136	=136
-1DM	D:maj (D F# A)	.	.	fadeout, voice
-1r;	r	.	218.9	r
-1r;	r	.	220.865	r
-*-	*-	*-	*-	*-
+1r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
+=125	=125	=125	=125	=125	=125	=125
+4f#	Al-	1DM	D:maj (D F# A)	.	.	fadeout, voice
+4f#	-ways	.	.	.	.	.
+4g	some-	.	.	.	.	.
+8f#	-thing	.	.	.	.	.
+[8e	there	.	.	.	.	.
+=126	=126	=126	=126	=126	=126	=126
+8e]	_	1GM	G:maj (D G B)	.	.	fadeout, voice
+4f#	to	.	.	.	.	.
+8g	re-	.	.	.	.	.
+8eq	_	.	.	.	.	.
+4f#	-mind	.	.	.	.	.
+8e	me	.	.	.	.	.
+[8d	_	.	.	.	.	.
+=127	=127	=127	=127	=127	=127	=127
+4d]	_	1DM	D:maj (D F# A)	.	.	fadeout, voice
+4r	.	.	.	.	.	.
+2r	.	.	.	.	.	.
+=128	=128	=128	=128	=128	=128	=128
+1r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
+=129	=129	=129	=129	=129	=129	=129
+4f#	Al-	1DM	D:maj (D F# A)	.	.	fadeout, voice
+4f#	-ways	.	.	.	.	.
+4g	some-	.	.	.	.	.
+8a	-thing	.	.	.	.	.
+8f#q	_	.	.	.	.	.
+[8e	there	.	.	.	.	.
+=130	=130	=130	=130	=130	=130	=130
+4e]	_	1GM	G:maj (D G B)	.	.	fadeout, voice
+8d	_	.	.	.	.	.
+8B	re-	.	.	.	.	.
+8e#q	_	.	.	.	.	.
+4f#	-mind	.	.	.	.	.
+8e#q	_	.	.	.	.	.
+[4f#	me	.	.	.	.	.
+=131	=131	=131	=131	=131	=131	=131
+2f#]	_	1DM	D:maj (D F# A)	.	.	fadeout, voice
+2r	.	.	.	.	.	.
+=132	=132	=132	=132	=132	=132	=132
+1r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
+=133	=133	=133	=133	=133	=133	=133
+4f#	Al-	1DM	D:maj (D F# A)	.	.	fadeout, voice
+4f#	-ways	.	.	.	.	.
+4g	some-	.	.	.	.	.
+8f#	-thing	.	.	.	.	.
+[8e	there	.	.	.	.	.
+=134	=134	=134	=134	=134	=134	=134
+8e]	_	1GM	G:maj (D G B)	.	.	fadeout, voice
+4f#	to	.	.	.	.	.
+8g	re-	.	.	.	.	.
+8eq	_	.	.	.	.	.
+4f#	-mind	.	.	.	.	.
+8e	me	.	.	.	.	.
+[8d	_	.	.	.	.	.
+=135	=135	=135	=135	=135	=135	=135
+4d]	_	1DM	D:maj (D F# A)	.	.	fadeout, voice
+4r	.	.	.	.	.	.
+2r	.	.	.	.	.	.
+=136	=136	=136	=136	=136	=136	=136
+1r	.	1DM	D:maj (D F# A)	.	.	fadeout, voice
+r;	.	1r;	r	.	218.9	r
+r;	.	1r;	r	.	220.865	r
+*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1983/03/19
 !!!BillboardPeak: 8
 !!!BillboardWeeksOnChart: 22

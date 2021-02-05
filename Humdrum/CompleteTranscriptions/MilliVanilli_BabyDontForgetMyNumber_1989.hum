@@ -1,33 +1,26 @@
 **kern	**silbe	**kern	**silbe	**harmony	**chordsym	**phrase	**timestamp	**leadinstrument
 *ICvox	*	*ICvox	*	*M4/4	*M4/4	*	*	*
-*	*	*	*	*A-:	*A-:	*	*	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1
-*E:	*	*E:	*	*	*	*	*	*
+*E:	*	*E:	*	*E:	*E:	*E:	*E:	*E:
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefC3	*	*clefG2	*	*	*	*	*	*
-1r	.	1r	.	1r;	r	.	0	r
+r;	.	r;	.	1r;	r	.	0	r
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+1r	.	1r	.	1N	N	.	.	drums
 =2	=2	=2	=2	=2	=2	=2	=2	=2
 *	*	*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
-1r	.	1r	.	1A-M	A-:1(b7) (A- G-)	newline	0.232	r
+1r	.	1r	.	1EM	E:maj (E G# B)	newline	.	synthesizer
 =3	=3	=3	=3	=3	=3	=3	=3	=3
-1r	.	1r	.	1A-M	A-:1(b7) (A- G-)	.	.	r
+1r	.	1r	.	1AM	A:maj (A C# E)	.	.	synthesizer
 =4	=4	=4	=4	=4	=4	=4	=4	=4
-1r	.	1r	.	1A-M	A-:1(b7) (A- G-)	.	.	r
+1r	.	1r	.	1EM	E:maj (E G# B)	.	.	synthesizer
 =5	=5	=5	=5	=5	=5	=5	=5	=5
-1r	.	1r	.	1A-M	A-:1(b7) (A- G-)	.	.	r
-=6	=6	=6	=6	=6	=6	=6	=6	=6
-1r	.	1r	.	1D-M	D-:1(b7) (D- C-)	.	.	r
-=7	=7	=7	=7	=7	=7	=7	=7	=7
-*	*	*	*	*>B_interlude	*>B_interlude	*>B_interlude	*>B_interlude	*>B_interlude
-1r	.	1r	.	1A-M	A-:1(b7) (A- G-)	newline	12.133	synthesizer
-=8	=8	=8	=8	=8	=8	=8	=8	=8
-2r	.	1r	.	4A-M	A-:1(b7) (A- G-)	.	.	synthesizer
-.	.	.	.	2.D-M	D-:1(b7) (D- C-)	.	.	synthesizer
+2r	.	1r	.	1AM	A:maj (A C# E)	.	.	synthesizer
 4r	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 8B	Babe,	.	.	.	.	.	.	.
-=9	=9	=9	=9	=9	=9	=9	=9	=9
-8c#	don't	1r	.	1G-M	G-:1(b7) (G- F-)	.	.	synthesizer
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*B_verse	*B_verse	*B_verse	*B_verse	*B_verse
+8c#	don't	1r	.	1EM	E:maj (E G# B)	newline	.	voice
 8G#	be	.	.	.	.	.	.	.
 8c#	shy	.	.	.	.	.	.	.
 16B	when	.	.	.	.	.	.	.
@@ -39,8 +32,8 @@
 8B]	_	.	.	.	.	.	.	.
 16B	cuz	.	.	.	.	.	.	.
 16G#	as	.	.	.	.	.	.	.
-=10	=10	=10	=10	=10	=10	=10	=10	=10
-8B	time	1r	.	2.A-M	A-:1(b7) (A- G-)	.	.	synthesizer
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+8B	time	1r	.	1EM	E:maj (E G# B)	.	.	voice
 8G#	goes	.	.	.	.	.	.	.
 8B	by,	.	.	.	.	.	.	.
 16G#	you	.	.	.	.	.	.	.
@@ -49,27 +42,27 @@
 16G#	to	.	.	.	.	.	.	.
 16B	un-	.	.	.	.	.	.	.
 16B	-der-	.	.	.	.	.	.	.
-8F#	-stand,	.	.	4G-M	G-:1(b7) (G- F-)	.	.	synthesizer
+8F#	-stand,	.	.	.	.	.	.	.
 8B	it's	.	.	.	.	.	.	.
-=11	=11	=11	=11	=11	=11	=11	=11	=11
-8E	you!	2r	.	1D-m	D-:min (D- F- A-)	newline	21.715	synthesizer
-8r	_	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+8E	you	2r	.	1EM	E:maj (E G# B)	.	.	voice
+8r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 2r	.	8r	.	.	.	.	.	.
 .	.	16e	I-	.	.	.	.	.
 .	.	16e	-i-	.	.	.	.	.
 .	.	8e	-it's	.	.	.	.	.
 .	.	8f#	with	.	.	.	.	.
-=12	=12	=12	=12	=12	=12	=12	=12	=12
-2r	.	4e	you!	1A-m	A-:min (A- C- E-)	.	.	synthesizer
-.	.	4r	_	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+2r	.	4e	you	1EM	E:maj (E G# B)	.	.	voice
+.	.	4r	.	.	.	.	.	.
 4r	.	2r	.	.	.	.	.	.
 16r	.	.	.	.	.	.	.	.
 16e	Ba-	.	.	.	.	.	.	.
 16e	-ba-	.	.	.	.	.	.	.
 16e	-ba-	.	.	.	.	.	.	.
-=13	=13	=13	=13	=13	=13	=13	=13	=13
-16f#	-ba-	1r	.	1BM	B:maj (B D# F#)	.	.	synthesizer
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+16f#	-ba-	1r	.	1EM	E:maj (E G# B)	newline	.	voice
 16B	-by	.	.	.	.	.	.	.
 16e	in	.	.	.	.	.	.	.
 16c#	your	.	.	.	.	.	.	.
@@ -82,8 +75,8 @@
 16c#	-ly,	.	.	.	.	.	.	.
 16e	that	.	.	.	.	.	.	.
 16c#	our	.	.	.	.	.	.	.
-=14	=14	=14	=14	=14	=14	=14	=14	=14
-16f#	love	1r	.	1AM	A:maj (A C# E)	.	.	synthesizer
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+16f#	love	1r	.	1EM	E:maj (E G# B)	.	.	voice
 16e	is	.	.	.	.	.	.	.
 8c#	so	.	.	.	.	.	.	.
 8e	strong,	.	.	.	.	.	.	.
@@ -92,12 +85,12 @@
 16e	ne-	.	.	.	.	.	.	.
 16c#	-ver	.	.	.	.	.	.	.
 16B	go	.	.	.	.	.	.	.
-[16d#	wrong!	.	.	.	.	.	.	.
+[16d#	wrong	.	.	.	.	.	.	.
 8d#]	_	.	.	.	.	.	.	.
-8r	_	.	.	.	.	.	.	.
-=15	=15	=15	=15	=15	=15	=15	=15	=15
+8r	.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
 *	*	*clefF4	*	*	*	*	*	*
-2r	.	4r	.	1A-M	A-:1(b7) (A- G-)	newline	31.231	synthesizer
+2r	.	4r	.	1EM	E:maj (E G# B)	.	.	voice
 .	.	8r	.	.	.	.	.	.
 .	.	16C#	Ed-	.	.	.	.	.
 .	.	16D#	-die!	.	.	.	.	.
@@ -107,14 +100,14 @@
 16e	the	.	.	.	.	.	.	.
 8f#	best	.	.	.	.	.	.	.
 8e	for	.	.	.	.	.	.	.
-=16	=16	=16	=16	=16	=16	=16	=16	=16
-4e	you!	1r	.	4A-M	A-:1(b7) (A- G-)	.	.	synthesizer
-4r	_	.	.	2.D-M	D-:1(b7) (D- C-)	.	.	synthesizer
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+4e	you	1r	.	1EM	E:maj (E G# B)	.	.	voice
+4r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 8e	So	.	.	.	.	.	.	.
-=17	=17	=17	=17	=17	=17	=17	=17	=17
-16e	when	1r	.	1G-M	G-:1(b7) (G- F-)	.	.	synthesizer
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+16e	when	1r	.	1EM	E:maj (E G# B)	newline	.	voice
 16c#	you're	.	.	.	.	.	.	.
 8F#	in	.	.	.	.	.	.	.
 8c#	doubt,	.	.	.	.	.	.	.
@@ -126,8 +119,8 @@
 8c#	-one,	.	.	.	.	.	.	.
 16e	ba-	.	.	.	.	.	.	.
 16e	-by	.	.	.	.	.	.	.
-=18	=18	=18	=18	=18	=18	=18	=18	=18
-8f#	call	1r	.	2.A-M	A-:1(b7) (A- G-)	.	.	synthesizer
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+8f#	call	1r	.	1EM	E:maj (E G# B)	.	.	voice
 16c#	my	.	.	.	.	.	.	.
 [16c#	line,	.	.	.	.	.	.	.
 8c#]	_	.	.	.	.	.	.	.
@@ -135,64 +128,65 @@
 16e	me	.	.	.	.	.	.	.
 16f#	a-	.	.	.	.	.	.	.
 8e	-ny-	.	.	.	.	.	.	.
-[16c#	-time!	.	.	.	.	.	.	.
-4c#]	_	.	.	4G-M	G-:1(b7) (G- F-)	.	.	synthesizer
-=19	=19	=19	=19	=19	=19	=19	=19	=19
-2r	_	4r	.	1D-m	D-:min (D- F- A-)	newline	40.705	synthesizer
+[16c#	-time	.	.	.	.	.	.	.
+4c#]	_	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+2r	.	4r	.	1EM	E:maj (E G# B)	.	.	voice
 .	.	8r	.	.	.	.	.	.
 .	.	16C#	Ed-	.	.	.	.	.
-.	.	16D#	-die!	.	.	.	.	.
-8r	.	2r	_	.	.	.	.	.
+.	.	16D#	-die	.	.	.	.	.
+8r	.	2r	.	.	.	.	.	.
 16c#	I'll	.	.	.	.	.	.	.
 16e	be	.	.	.	.	.	.	.
 8f#	there	.	.	.	.	.	.	.
 8e	for	.	.	.	.	.	.	.
-=20	=20	=20	=20	=20	=20	=20	=20	=20
-4f#	you!	1r	.	1A-m	A-:min (A- C- E-)	.	.	synthesizer
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+4f#	you!	1r	.	1EM	E:maj (E G# B)	.	.	voice
 4f#	(you,	.	.	.	.	.	.	.
 4f#	you,	.	.	.	.	.	.	.
 4f#	you)	.	.	.	.	.	.	.
-=21	=21	=21	=21	=21	=21	=21	=21	=21
-4r	.	1r	.	1BM	B:maj (B D# F#)	.	.	synthesizer
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+*	*	*	*	*C_prechorus	*C_prechorus	*C_prechorus	*C_prechorus	*C_prechorus
+4r	.	1r	.	1EM	E:maj (E G# B)	newline	.	voice
 16r	.	.	.	.	.	.	.	.
 16B	I've	.	.	.	.	.	.	.
 8d#	been	.	.	.	.	.	.	.
 8f#	sear-	.	.	.	.	.	.	.
 4B	-ching	.	.	.	.	.	.	.
 [8c#	high!	.	.	.	.	.	.	.
-=22	=22	=22	=22	=22	=22	=22	=22	=22
-8c#]	_	1r	.	1AM	A:maj (A C# E)	.	.	synthesizer
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+8c#]	_	1r	.	1AM	A:maj (E A C#)	.	.	voice
 4e	(high,	.	.	.	.	.	.	.
 8g#	high)	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
-=23	=23	=23	=23	=23	=23	=23	=23	=23
-*	*	*	*	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
-4r	.	1r	.	1D-M	D-:1 (D-)	newline	50.245	synthesizer
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+4r	.	1r	.	1EM	E:maj (E G# B)	.	.	voice
 8r	.	.	.	.	.	.	.	.
 16B	I've	.	.	.	.	.	.	.
 16d#	been	.	.	.	.	.	.	.
 8f#	sear-	.	.	.	.	.	.	.
 4B	-ching	.	.	.	.	.	.	.
 [8A	low!	.	.	.	.	.	.	.
-=24	=24	=24	=24	=24	=24	=24	=24	=24
-8A]	_	1r	.	1D-M	D-:1 (D-)	.	.	synthesizer
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+8A]	_	1r	.	1AM	A:maj (A C# E)	.	.	voice
 4F#	(low,	.	.	.	.	.	.	.
 8E	low)	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
-=25	=25	=25	=25	=25	=25	=25	=25	=25
-8r	.	1r	.	1D-M	D-:1 (D-)	.	.	synthesizer
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+8r	.	1r	.	1DM	D:maj (D F# A)	.	.	voice
 8d	Ba-	.	.	.	.	.	.	.
 16d	-ba-	.	.	.	.	.	.	.
 16d	-ba-	.	.	.	.	.	.	.
-8d	-ba,	.	.	.	.	.	.	.
-8r	_	.	.	.	.	.	.	.
+8d	-ba	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.
 8d	ba-	.	.	.	.	.	.	.
 16d	-ba-	.	.	.	.	.	.	.
 16d	-ba-	.	.	.	.	.	.	.
 8d	-ba,	.	.	.	.	.	.	.
-=26	=26	=26	=26	=26	=26	=26	=26	=26
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+*	*	*	*	*D_chorus	*D_chorus	*D_chorus	*D_chorus	*D_chorus
 8dq	_	.	.	.	.	.	.	.
-8e	Ba-	1r	.	1D-M	D-:1 (D-)	.	.	synthesizer
+8e	Ba-	1r	.	1EM	E:maj (E G# B)	newline	.	voice
 8e	-by!	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	(Ba-	.	.	.	.	.	.	.
@@ -203,17 +197,16 @@
 8dq	_	.	.	.	.	.	.	.
 8e	ba-	.	.	.	.	.	.	.
 8e	-by)	.	.	.	.	.	.	.
-=27	=27	=27	=27	=27	=27	=27	=27	=27
-*	*	*	*	*>B_interlude	*>B_interlude	*>B_interlude	*>B_interlude	*>B_interlude
-4r	.	1r	.	1D-m	D-:min (D- F- A-)	newline	59.831	synthesizer
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+4r	.	1r	.	1DM	D:maj (D F# A)	.	.	voice
 8d	Don't	.	.	.	.	.	.	.
 8d	for-	.	.	.	.	.	.	.
 8d	-get	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 4d	my	.	.	.	.	.	.	.
-=28	=28	=28	=28	=28	=28	=28	=28	=28
+=25	=25	=25	=25	=25	=25	=25	=25	=25
 8dq	_	.	.	.	.	.	.	.
-8e	num-	1r	.	1A-m	A-:min(11) (A- C- E- D-)	.	.	synthesizer
+8e	num-	1r	.	1EM	E:maj (E G# B)	.	.	voice
 8e	-ber!	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	(Num-	.	.	.	.	.	.	.
@@ -224,21 +217,21 @@
 8dq	_	.	.	.	.	.	.	.
 8e	num-	.	.	.	.	.	.	.
 8e	-ber)	.	.	.	.	.	.	.
-=29	=29	=29	=29	=29	=29	=29	=29	=29
+=26	=26	=26	=26	=26	=26	=26	=26	=26
 *	*	*clefG2	*	*	*	*	*	*
-1r	.	8r	.	1BM	B:maj(9) (B D# F# C#)	.	.	synthesizer
+1r	.	8r	.	1DM	D:maj (D F# A)	.	.	voice
 .	.	8d dd	Ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
-.	.	8d dd	-ba,	.	.	.	.	.
-.	.	8r	_	.	.	.	.	.
+.	.	8d dd	-ba	.	.	.	.	.
+.	.	8r	.	.	.	.	.	.
 .	.	8d dd	ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
 .	.	8d dd	-ba!	.	.	.	.	.
-=30	=30	=30	=30	=30	=30	=30	=30	=30
+=27	=27	=27	=27	=27	=27	=27	=27	=27
 8dq	_	.	.	.	.	.	.	.
-8e	Ba-	1r	.	1AM	A:maj (A C# E)	.	.	synthesizer
+8e	Ba-	1r	.	1EM	E:maj (E G# B)	newline	.	voice
 8e	-by!	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	(Ba-	.	.	.	.	.	.	.
@@ -249,20 +242,19 @@
 8dq	_	.	.	.	.	.	.	.
 8e	ba-	.	.	.	.	.	.	.
 8e	-by)	.	.	.	.	.	.	.
-=31	=31	=31	=31	=31	=31	=31	=31	=31
-4r	.	4r	.	1N	N	newline	69.304	synthesizer
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+4r	.	4r	.	2BM	B:maj (B D# F#)	.	.	voice
 8d	Love	8f#	Love	.	.	.	.	.
 8B	is	8d	is	.	.	.	.	.
-8d	stron-	8f#	stron-	.	.	.	.	.
+8d	stron-	8f#	stron-	2DM	D:maj (D F# A)	.	.	voice
 8B	-ger	8d	-ger	.	.	.	.	.
 4d	than	4f#	than	.	.	.	.	.
-=32	=32	=32	=32	=32	=32	=32	=32	=32
-*	*	*	*	*>C_solo	*>C_solo	*>C_solo	*>C_solo	*>C_solo
+=29	=29	=29	=29	=29	=29	=29	=29	=29
 8dq	_	8f#q	_	.	.	.	.	.
-8e	thun-	8g#	thun-	1EM?	E:1 (E)	newline	71.698	bass
-8e	-der!	8g#	-der!	.	.	.	.	.
+8e	thun-	8g#	thun-	1EM	E:maj (E G# B)	.	.	voice
+8e	-der!	8g#	-der	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
-8e	(Thun-	4r	_	.	.	.	.	.
+8e	(Thun-	4r	.	.	.	.	.	.
 8e	-der,	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	thun-	2r	.	.	.	.	.	.
@@ -270,23 +262,23 @@
 8dq	_	.	.	.	.	.	.	.
 8e	thun-	.	.	.	.	.	.	.
 8e	-der)	.	.	.	.	.	.	.
-=33	=33	=33	=33	=33	=33	=33	=33	=33
-1r	.	8r	.	1DM?	D:1 (D)	.	.	bass
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+1r	.	8r	.	1DM	D:maj (D F# A)	.	.	voice
 .	.	8d dd	Ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
-.	.	8d dd	-ba,	.	.	.	.	.
-.	.	8r	_	.	.	.	.	.
+.	.	8d dd	-ba	.	.	.	.	.
+.	.	8r	.	.	.	.	.	.
 .	.	8d dd	ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
 .	.	8d dd	-ba!	.	.	.	.	.
-=34	=34	=34	=34	=34	=34	=34	=34	=34
+=31	=31	=31	=31	=31	=31	=31	=31	=31
 8dq	_	8f#q	_	.	.	.	.	.
-8e	Ba-	8g#	Ba-	1EM?	E:1 (E)	.	.	bass
-8e	-by!	8g#	-by!	.	.	.	.	.
+8e	Ba-	8g#	Ba-	1EM	E:maj (E G# B)	newline	.	voice
+8e	-by!	8g#	-by	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
-8e	(Ba-	4r	_	.	.	.	.	.
+8e	(Ba-	4r	.	.	.	.	.	.
 8e	-by,	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	ba-	2r	.	.	.	.	.	.
@@ -294,20 +286,20 @@
 8dq	_	.	.	.	.	.	.	.
 8e	ba-	.	.	.	.	.	.	.
 8e	-by)	.	.	.	.	.	.	.
-=35	=35	=35	=35	=35	=35	=35	=35	=35
-4r	.	1r	.	1DM?	D:1 (D)	.	.	bass
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+4r	.	1r	.	1DM	D:maj (D F# A)	.	.	voice
 8d	Don't	.	.	.	.	.	.	.
 8B	for-	.	.	.	.	.	.	.
 8d	-get	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 8eq	_	.	.	.	.	.	.	.
 4f#	my	.	.	.	.	.	.	.
-=36	=36	=36	=36	=36	=36	=36	=36	=36
+=33	=33	=33	=33	=33	=33	=33	=33	=33
 8dq	_	.	.	.	.	.	.	.
-8e	num-	8g#	Num-	1G-M	G-:1 (G-)	newline	81.26	bass
-8e	-ber!	8g#	-ber!	.	.	.	.	.
+8e	num-	8g#	Num-	1EM	E:maj (E G# B)	.	.	voice
+8e	-ber!	8g#	-ber	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
-8e	(Num-	4r	_	.	.	.	.	.
+8e	(Num-	4r	.	.	.	.	.	.
 8e	-ber,	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	num-	2r	.	.	.	.	.	.
@@ -315,144 +307,143 @@
 8dq	_	.	.	.	.	.	.	.
 8e	num-	.	.	.	.	.	.	.
 8e	-ber)	.	.	.	.	.	.	.
-=37	=37	=37	=37	=37	=37	=37	=37	=37
-4r	.	4r	.	1C-M	C-:1 (C-)	.	.	bass
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+4r	.	4r	.	2BM	B:maj (B D# F#)	.	.	voice
 8d	Love	8f#	Love	.	.	.	.	.
 8B	will	8d	will	.	.	.	.	.
-4d	see	4f#	see	.	.	.	.	.
+4d	see	4f#	see	2DM	D:maj (D F# A)	.	.	voice
 8eq	_	8g#q	_	.	.	.	.	.
 4f#	you	4a	you	.	.	.	.	.
-=38	=38	=38	=38	=38	=38	=38	=38	=38
-4.e	through!	4.g#	through!	1G-M	G-:1 (G-)	.	.	bass
-8r	_	8r	_	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+4.e	through	4.g#	through	1EM	E:maj (E G# B)	.	.	voice
+8r	.	8r	.	.	.	.	.	.
 2r	.	2r	.	.	.	.	.	.
-=39	=39	=39	=39	=39	=39	=39	=39	=39
-*	*	*clefF4	*	*	*	*	*	*
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+*	*	*clefF4	*	*E_bridge	*E_bridge	*E_bridge	*E_bridge	*E_bridge
 8g#q	_	8G#q	_	.	.	.	.	.
-8rQ	.	8rQ	.	.	.	.	.	.
-4g#	I've	4G#	I've	1G-m	G-:min (G- B-- D-)	.	.	bass
+4g#	I've	4G#	I've	2EM	E:maj (E G# B)	newline	.	voice
 8r	.	8r	.	.	.	.	.	.
 8e	been	8E	been	.	.	.	.	.
-8f#	sear-	8F#	sear-	.	.	.	.	.
+8f#	sear-	8F#	sear-	2DM	D:maj (E D F# A)	.	.	voice
 4f#	-ching	4F#	-ching	.	.	.	.	.
 [8e	high	[8E	high	.	.	.	.	.
-=40	=40	=40	=40	=40	=40	=40	=40	=40
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-8e]	_	8E]	_	1A-M	A-:1(b7) (A- G-)	newline	90.734	voice
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+8e]	_	8E]	_	1AM	A:maj (E A C#)	.	.	voice
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 2r	.	2r	.	.	.	.	.	.
-=41	=41	=41	=41	=41	=41	=41	=41	=41
+=38	=38	=38	=38	=38	=38	=38	=38	=38
 8g#q	_	8G#q	_	.	.	.	.	.
-8rQ	.	8rQ	.	.	.	.	.	.
-4g#	I've	4G#	I've	4A-M	A-:1(b7) (A- G-)	.	.	voice
-8r	.	8r	.	2.D-M	D-:1(b7) (D- C-)	.	.	voice
+4g#	I've	4G#	I've	2EM	E:maj (E G# B)	.	.	voice
+8r	.	8r	.	.	.	.	.	.
 8e	been	8E	been	.	.	.	.	.
-8f#	sear-	8F#	sear-	.	.	.	.	.
+8f#	sear-	8F#	sear-	2DM	D:maj (D F# A)	.	.	voice
 4f#	-ching	4F#	-ching	.	.	.	.	.
 [8e	low	[8E	low	.	.	.	.	.
-=42	=42	=42	=42	=42	=42	=42	=42	=42
-8e]	_	8E]	_	1G-M	G-:1(b7) (G- F-)	.	.	voice
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+8e]	_	8E]	_	1AM	A:maj (A C# E)	.	.	voice
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 2r	.	2r	.	.	.	.	.	.
-=43	=43	=43	=43	=43	=43	=43	=43	=43
-4r	.	1r	.	2.A-M	A-:1(b7) (A- G-)	.	.	voice
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+4r	.	1r	.	2EM	E:maj (E G# B)	newline	.	voice
 8r	.	.	.	.	.	.	.	.
 16d	Wan-	.	.	.	.	.	.	.
 16c#	-na	.	.	.	.	.	.	.
-8d	spend	.	.	.	.	.	.	.
+8d	spend	.	.	2DM	D:maj (E D F# A)	.	.	voice
 8d	my	.	.	.	.	.	.	.
-8e	_	.	.	4G-M	G-:1(b7) (G- F-)	.	.	voice
-[8e	life,	.	.	.	.	.	.	.
-=44	=44	=44	=44	=44	=44	=44	=44	=44
-4e]	_	2r	.	1A-M	A-:1(b7) (A- G-)	newline	100.272	voice
-4r	_	.	.	.	.	.	.	.
+8e	_	.	.	.	.	.	.	.
+[8e	life	.	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+4e]	_	2r	.	1AM	A:maj (E A C#)	.	.	voice
+4r	.	.	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 8f#	with	8F#	With	.	.	.	.	.
-[8e [b	you!	8E	you!!	.	.	.	.	.
+[8e [b	you	8E	you!	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+1e] b]	_	1r	.	2EM	E:maj (E G# B)	.	.	voice
+.	.	.	.	2AM	A:maj (E A C#)	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+4r	.	4r	.	2EM	E:maj (E G# B)	.	.	voice
+8r	.	8r	.	.	.	.	.	.
+16B	Ba-	16BB	Ba-	.	.	.	.	.
+16B	-ba-	16BB	-ba-	.	.	.	.	.
+8B	-ba-	8BB	-ba-	2DM	D:maj (D F# A)	.	.	voice
+4e	-ba-	4E	-ba-	.	.	.	.	.
+16f#	-ba!	16F#	-ba!	.	.	.	.	.
+[16g#	_	[16G#	_	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+8g#]	_	8G#]	_	2.EM	E:maj (E G# B)	newline	.	voice
+4r	.	4r	.	.	.	.	.	.
+16g#	Ba-	16G#	Ba-	.	.	.	.	.
+16g#	-ba-	16G#	-ba-	.	.	.	.	.
+8f#	-ba-	8F#	-ba-	.	.	.	.	.
+4g#	-ba-	4G#	-ba-	.	.	.	.	.
+.	.	.	.	4DM	D:maj (E D F# A)	.	.	voice
+[8f#	-ba	[8F#	-ba	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45
-1e] b]	_	1r	.	4A-M	A-:1(b7) (A- G-)	.	.	voice
-.	.	.	.	2.D-M	D-:1(b7) (D- C-)	.	.	voice
+8f#]	_	8F#]	_	1AM	A:maj (A C# E)	.	.	voice
+4e	ba,	4E	ba,	.	.	.	.	.
+16B	ba-	16BB	ba-	.	.	.	.	.
+16B	-ba-	16BB	-ba-	.	.	.	.	.
+8B	-ba-	8BB	-ba-	.	.	.	.	.
+4e	-ba-	4E	-ba-	.	.	.	.	.
+16f#	-ba	16F#	-ba	.	.	.	.	.
+[16g#	_	[16G#	_	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46
-4r	_	4r	_	1G-M	G-:1(b7) (G- F-)	.	.	voice
+8g#]	_	8G#]	_	2.EM	E:maj (E G# B)	.	.	voice
+4r	.	4r	.	.	.	.	.	.
+16g#	Ba-	16G#	Ba-	.	.	.	.	.
+16g#	-ba-	16G#	-ba-	.	.	.	.	.
+8f#	-ba-	8F#	-ba-	.	.	.	.	.
+4g#	-ba-	4G#	-ba-	.	.	.	.	.
+.	.	.	.	4DM	D:maj (E D F# A)	.	.	voice
+[8e	-ba	[8E	-ba	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+4e]	_	4E]	_	1AM	A:maj (A C# E)	.	.	voice
 8r	.	8r	.	.	.	.	.	.
 16B	Ba-	16BB	Ba-	.	.	.	.	.
 16B	-ba-	16BB	-ba-	.	.	.	.	.
 8B	-ba-	8BB	-ba-	.	.	.	.	.
 4e	-ba-	4E	-ba-	.	.	.	.	.
-16f#	-ba!	16F#	-ba!	.	.	.	.	.
+16f#	-ba	16F#	-ba	.	.	.	.	.
 [16g#	_	[16G#	_	.	.	.	.	.
-=47	=47	=47	=47	=47	=47	=47	=47	=47
-8g#]	_	8G#]	_	2.A-M	A-:1(b7) (A- G-)	.	.	voice
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+8g#]	_	8G#]	_	1EM	E:maj (E G# B)	newline	.	voice
 4r	.	4r	.	.	.	.	.	.
 16g#	Ba-	16G#	Ba-	.	.	.	.	.
 16g#	-ba-	16G#	-ba-	.	.	.	.	.
 8f#	-ba-	8F#	-ba-	.	.	.	.	.
 4g#	-ba-	4G#	-ba-	.	.	.	.	.
-.	.	.	.	4G-M	G-:1(b7) (G- F-)	.	.	voice
 [8f#	-ba	[8F#	-ba	.	.	.	.	.
-=48	=48	=48	=48	=48	=48	=48	=48	=48
-8f#]	_	8F#]	_	1D-M	D-:5(b7) (D- A- C-)	newline	109.783	voice
-4e	ba,	4E	ba,	.	.	.	.	.
-16B	ba-	16BB	ba-	.	.	.	.	.
-16B	-ba-	16BB	-ba-	.	.	.	.	.
-8B	-ba-	8BB	-ba-	.	.	.	.	.
-4e	-ba-	4E	-ba-	.	.	.	.	.
-16f#	-ba!	16F#	-ba!	.	.	.	.	.
-[16g#	_	[16G#	_	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49
-8g#]	_	8G#]	_	1D-M	D-:5(b7) (D- A- C-)	.	.	voice
-4r	_	4r	_	.	.	.	.	.
-16g#	Ba-	16G#	Ba-	.	.	.	.	.
-16g#	-ba-	16G#	-ba-	.	.	.	.	.
-8f#	-ba-	8F#	-ba-	.	.	.	.	.
-4g#	-ba-	4G#	-ba-	.	.	.	.	.
-[8e	-ba!	[8E	-ba!	.	.	.	.	.
-=50	=50	=50	=50	=50	=50	=50	=50	=50
-4e]	_	4E]	_	1D-M	D-:5(b7) (D- A- C-)	.	.	voice
-8r	_	8r	_	.	.	.	.	.
-16B	Ba-	16BB	Ba-	.	.	.	.	.
-16B	-ba-	16BB	-ba-	.	.	.	.	.
-8B	-ba-	8BB	-ba-	.	.	.	.	.
-4e	-ba-	4E	-ba-	.	.	.	.	.
-16f#	-ba!	16F#	-ba!	.	.	.	.	.
-[16g#	_	[16G#	_	.	.	.	.	.
-=51	=51	=51	=51	=51	=51	=51	=51	=51
-8g#]	_	8G#]	_	1D-M	D-:5(b7) (D- A- C-)	.	.	voice
-4r	_	4r	_	.	.	.	.	.
-16g#	Ba-	16G#	Ba-	.	.	.	.	.
-16g#	-ba-	16G#	-ba-	.	.	.	.	.
-8f#	-ba-	8F#	-ba-	.	.	.	.	.
-4g#	-ba-	4G#	-ba-	.	.	.	.	.
-[8f#	-ba	[8F#	-ba	.	.	.	.	.
-=52	=52	=52	=52	=52	=52	=52	=52	=52
-8f#]	_	8F#]	_	1D-M	D-:5(b7) (D- A- C-)	newline	119.31	voice
+8f#]	_	8F#]	_	1AM	A:maj (A C# E)	.	.	voice
 4e	ba,	4E	ba,	.	.	.	.	.
 16B	ba-	16BB	ba-	.	.	.	.	.
 16B	-ba-	16BB	-ba-	.	.	.	.	.
 8B	-ba-	8BB	-ba-	.	.	.	.	.
 4e	-ba-	4E	-ba-	.	.	.	.	.
-16f#	-ba!	16F#	-ba	.	.	.	.	.
+16f#	-ba	16F#	-ba	.	.	.	.	.
 [16g#	_	16G#	_	.	.	.	.	.
-=53	=53	=53	=53	=53	=53	=53	=53	=53
-8g#]	_	1r	.	1D-M	D-:5(b7) (D- A- C-)	.	.	voice
-8r	_	.	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+8g#]	_	1r	.	1EM	E:maj (E G# B)	.	.	voice
+8r	.	.	.	.	.	.	.	.
 8g#	Love	.	.	.	.	.	.	.
 8g#	will	.	.	.	.	.	.	.
 8f#	see	.	.	.	.	.	.	.
 4g#	you	.	.	.	.	.	.	.
-[8e	through!	.	.	.	.	.	.	.
-=54	=54	=54	=54	=54	=54	=54	=54	=54
-4.e]	_	1r	.	1BM	B:maj(9) (B D# F# C#)	.	.	voice
-8r	_	.	.	.	.	.	.	.
+[8e	through	.	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+4.e]	_	1r	.	1AM	A:maj (A C# E)	.	.	voice
+8r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 16r	.	.	.	.	.	.	.	.
 16f#	Ba-	.	.	.	.	.	.	.
 16f#	-ba-	.	.	.	.	.	.	.
 16f#	-ba	.	.	.	.	.	.	.
-=55	=55	=55	=55	=55	=55	=55	=55	=55
-16f#	ba-	1r	.	1AMM	A:maj7 (A C# E G#)	.	.	voice
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+*	*	*	*	*B_verse	*B_verse	*B_verse	*B_verse	*B_verse
+16f#	ba-	1r	.	1EM	E:maj (E G# B)	newline	.	voice
 16e	-by	.	.	.	.	.	.	.
 16c#	in	.	.	.	.	.	.	.
 16B	your	.	.	.	.	.	.	.
@@ -465,8 +456,8 @@
 16B	-ly,	.	.	.	.	.	.	.
 16c#	that	.	.	.	.	.	.	.
 16B	our	.	.	.	.	.	.	.
-=56	=56	=56	=56	=56	=56	=56	=56	=56
-16e	love	1r	.	1D-m	D-:min (D- F- A-)	newline	128.844	voice
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+16e	love	1r	.	1EM	E:maj (E G# B)	.	.	voice
 16c#	is	.	.	.	.	.	.	.
 8B	so	.	.	.	.	.	.	.
 8f#	strong,	.	.	.	.	.	.	.
@@ -476,8 +467,8 @@
 16c#	-ver	.	.	.	.	.	.	.
 8B	go	.	.	.	.	.	.	.
 4d#	_	.	.	.	.	.	.	.
-=57	=57	=57	=57	=57	=57	=57	=57	=57
-2r	.	4r	.	1A-m	A-:min(11) (A- C- E- D-)	.	.	voice
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+2r	.	4r	.	1EM	E:maj (E G# B)	.	.	voice
 .	.	8r	.	.	.	.	.	.
 .	.	16C#	Ed-	.	.	.	.	.
 .	.	16D#	-die!	.	.	.	.	.
@@ -487,14 +478,14 @@
 16e	the	.	.	.	.	.	.	.
 8f#	best	.	.	.	.	.	.	.
 8e	for	.	.	.	.	.	.	.
-=58	=58	=58	=58	=58	=58	=58	=58	=58
-4e	you!	1r	.	1BM	B:maj(9) (B D# F# C#)	.	.	voice
-4r	_	.	.	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+4e	you	1r	.	1EM	E:maj (E G# B)	.	.	voice
+4r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 8e	So	.	.	.	.	.	.	.
-=59	=59	=59	=59	=59	=59	=59	=59	=59
-16e	when	1r	.	1AMM	A:maj7 (A C# E G#)	.	.	voice
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+16e	when	1r	.	1EM	E:maj (E G# B)	newline	.	voice
 16c#	you're	.	.	.	.	.	.	.
 8F#	in	.	.	.	.	.	.	.
 8c#	doubt,	.	.	.	.	.	.	.
@@ -506,8 +497,8 @@
 8c#	-one,	.	.	.	.	.	.	.
 16e	ba-	.	.	.	.	.	.	.
 16e	-by	.	.	.	.	.	.	.
-=60	=60	=60	=60	=60	=60	=60	=60	=60
-8f#	call	1r	.	1D-m	D-:min (D- F- A-)	newline	138.326	voice
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+8f#	call	1r	.	1EM	E:maj (E G# B)	.	.	voice
 16c#	my	.	.	.	.	.	.	.
 [16c#	line,	.	.	.	.	.	.	.
 8c#]	_	.	.	.	.	.	.	.
@@ -515,59 +506,60 @@
 16e	me	.	.	.	.	.	.	.
 16f#	a-	.	.	.	.	.	.	.
 8e	-ny-	.	.	.	.	.	.	.
-[16c#	-time!	.	.	.	.	.	.	.
+[16c#	-time	.	.	.	.	.	.	.
 4c#]	_	.	.	.	.	.	.	.
-=61	=61	=61	=61	=61	=61	=61	=61	=61
-2r	_	4r	.	1A-m	A-:min(11) (A- C- E- D-)	.	.	voice
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+2r	.	4r	.	1EM	E:maj (E G# B)	.	.	voice
 .	.	8r	.	.	.	.	.	.
 .	.	16C#	Ed-	.	.	.	.	.
-.	.	16D#	-die!	.	.	.	.	.
-8r	.	2r	_	.	.	.	.	.
+.	.	16D#	-die	.	.	.	.	.
+8r	.	2r	.	.	.	.	.	.
 16c#	I'll	.	.	.	.	.	.	.
 16e	be	.	.	.	.	.	.	.
 8f#	there	.	.	.	.	.	.	.
 8e	for	.	.	.	.	.	.	.
-=62	=62	=62	=62	=62	=62	=62	=62	=62
-4f#	you!	1r	.	1N	N	newline	143.179	voice
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+4f#	you!	1r	.	1EM	E:maj (E G# B)	.	.	voice
 4f#	(you,	.	.	.	.	.	.	.
 4f#	you,	.	.	.	.	.	.	.
 4f#	you)	.	.	.	.	.	.	.
-=63	=63	=63	=63	=63	=63	=63	=63	=63
-*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
-4r	.	1r	.	1EM?	E:1 (E)	newline	145.497	voice
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+*	*	*	*	*C_prechorus	*C_prechorus	*C_prechorus	*C_prechorus	*C_prechorus
+4r	.	1r	.	1EM	E:maj (E G# B)	newline	.	voice
 16r	.	.	.	.	.	.	.	.
 16B	I've	.	.	.	.	.	.	.
 8d#	been	.	.	.	.	.	.	.
 8f#	sear-	.	.	.	.	.	.	.
 4B	-ching	.	.	.	.	.	.	.
-[8c#	high!	.	.	.	.	.	.	.
-=64	=64	=64	=64	=64	=64	=64	=64	=64
-8c#]	_	1r	.	2AM?	A:1 (A)	.	.	voice
-8r	_	.	.	.	.	.	.	.
+[8c#	high	.	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+8c#]	_	1r	.	1AM	A:maj (E A C#)	.	.	voice
+8r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
-2r	.	.	.	2DM?	D:1 (D)	.	.	voice
-=65	=65	=65	=65	=65	=65	=65	=65	=65
-4r	.	1r	.	1EM?	E:1 (E)	.	.	voice
+2r	.	.	.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+4r	.	1r	.	2EM	E:maj (E G# B)	.	.	voice
 8r	.	.	.	.	.	.	.	.
 16B	I've	.	.	.	.	.	.	.
 16d#	been	.	.	.	.	.	.	.
-8f#	sear-	.	.	.	.	.	.	.
+8f#	sear-	.	.	4.AM	A:maj (A C# E)	.	.	voice
 4B	-ching	.	.	.	.	.	.	.
-[8A	low!	.	.	.	.	.	.	.
-=66	=66	=66	=66	=66	=66	=66	=66	=66
-8A]	_	1r	.	2Cm	C:1 (C)	.	.	voice
+[8A	low!	.	.	8DM	D:maj (D F# A)	.	.	voice
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+8A]	_	1r	.	1DM	D:maj (D F# A)	.	.	voice
 8d	Ba-	.	.	.	.	.	.	.
 16d	-ba-	.	.	.	.	.	.	.
 16d	-ba-	.	.	.	.	.	.	.
 8d	-ba,	.	.	.	.	.	.	.
-8r	.	.	.	2DM?	D:1 (D)	.	.	voice
+8r	.	.	.	.	.	.	.	.
 8d	ba-	.	.	.	.	.	.	.
 16d	-ba-	.	.	.	.	.	.	.
 16d	-ba-	.	.	.	.	.	.	.
 8d	-ba,	.	.	.	.	.	.	.
-=67	=67	=67	=67	=67	=67	=67	=67	=67
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+*	*	*	*	*D_chorus	*D_chorus	*D_chorus	*D_chorus	*D_chorus
 8dq	_	.	.	.	.	.	.	.
-8e	Ba-	1r	.	1EM?	E:1 (E)	newline	155.037	voice
+8e	Ba-	1r	.	1EM	E:maj (E G# B)	newline	.	voice
 8e	-by!	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	(Ba-	.	.	.	.	.	.	.
@@ -578,16 +570,16 @@
 8dq	_	.	.	.	.	.	.	.
 8e	ba-	.	.	.	.	.	.	.
 8e	-by)	.	.	.	.	.	.	.
-=68	=68	=68	=68	=68	=68	=68	=68	=68
-4r	.	1r	.	2Cm	C:1 (C)	.	.	voice
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+4r	.	1r	.	1DM	D:maj (D F# A)	.	.	voice
 8d	Don't	.	.	.	.	.	.	.
 8d	for-	.	.	.	.	.	.	.
-8d	-get	.	.	2DM?	D:1 (D)	.	.	voice
+8d	-get	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 4d	my	.	.	.	.	.	.	.
-=69	=69	=69	=69	=69	=69	=69	=69	=69
+=66	=66	=66	=66	=66	=66	=66	=66	=66
 8dq	_	.	.	.	.	.	.	.
-8e	num-	1r	.	1EM?	E:1 (E)	.	.	voice
+8e	num-	1r	.	1EM	E:maj (E G# B)	.	.	voice
 8e	-ber!	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	(Num-	.	.	.	.	.	.	.
@@ -598,22 +590,21 @@
 8dq	_	.	.	.	.	.	.	.
 8e	num-	.	.	.	.	.	.	.
 8e	-ber)	.	.	.	.	.	.	.
-=70	=70	=70	=70	=70	=70	=70	=70	=70
+=67	=67	=67	=67	=67	=67	=67	=67	=67
 *	*	*clefC3	*	*	*	*	*	*
-1r	.	8r	.	1N	N	.	.	voice
+1r	.	8r	.	1DM	D:maj (D F# A)	.	.	voice
 .	.	8d dd	Ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
-.	.	8d dd	-ba,	.	.	.	.	.
-.	.	8r	_	.	.	.	.	.
+.	.	8d dd	-ba	.	.	.	.	.
+.	.	8r	.	.	.	.	.	.
 .	.	8d dd	ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
 .	.	8d dd	-ba!	.	.	.	.	.
-=71	=71	=71	=71	=71	=71	=71	=71	=71
-*	*	*	*	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+=68	=68	=68	=68	=68	=68	=68	=68	=68
 8dq	_	.	.	.	.	.	.	.
-8e	Ba-	1r	.	1Cm	C:1 (C)	newline	164.581	voice
+8e	Ba-	1r	.	1EM	E:maj (E G# B)	newline	.	voice
 8e	-by!	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	(Ba-	.	.	.	.	.	.	.
@@ -624,19 +615,19 @@
 8dq	_	.	.	.	.	.	.	.
 8e	ba-	.	.	.	.	.	.	.
 8e	-by)	.	.	.	.	.	.	.
-=72	=72	=72	=72	=72	=72	=72	=72	=72
-4r	.	4r	.	1DM?	D:1 (D)	.	.	voice
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+4r	.	4r	.	2BM	B:maj (B D# F#)	.	.	voice
 8d	Love	8f#	Love	.	.	.	.	.
 8B	is	8d	is	.	.	.	.	.
-8d	stron-	8f#	stron-	.	.	.	.	.
+8d	stron-	8f#	stron-	2DM	D:maj (D F# A)	.	.	voice
 8B	-ger	8d	-ger	.	.	.	.	.
 4d	than	4f#	than	.	.	.	.	.
-=73	=73	=73	=73	=73	=73	=73	=73	=73
+=70	=70	=70	=70	=70	=70	=70	=70	=70
 8dq	_	8f#q	_	.	.	.	.	.
-8e	thun-	8g#	thun-	1EM?	E:1 (E)	.	.	voice
-8e	-der!	8g#	-der!	.	.	.	.	.
+8e	thun-	8g#	thun-	1EM	E:maj (E G# B)	.	.	voice
+8e	-der!	8g#	-der	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
-8e	(Thun-	4r	_	.	.	.	.	.
+8e	(Thun-	4r	.	.	.	.	.	.
 8e	-der,	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	thun-	2r	.	.	.	.	.	.
@@ -644,24 +635,23 @@
 8dq	_	.	.	.	.	.	.	.
 8e	thun-	.	.	.	.	.	.	.
 8e	-der)	.	.	.	.	.	.	.
-=74	=74	=74	=74	=74	=74	=74	=74	=74
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-1r	.	8r	.	1D-m	D-:min (D- F- A-)	newline	171.719	voice
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+1r	.	8r	.	1DM	D:maj (D F# A)	.	.	voice
 .	.	8d dd	Ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
-.	.	8d dd	-ba,	.	.	.	.	.
-.	.	8r	_	.	.	.	.	.
+.	.	8d dd	-ba	.	.	.	.	.
+.	.	8r	.	.	.	.	.	.
 .	.	8d dd	ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
 .	.	16d dd	-ba-	.	.	.	.	.
 .	.	8d dd	-ba!	.	.	.	.	.
-=75	=75	=75	=75	=75	=75	=75	=75	=75
+=72	=72	=72	=72	=72	=72	=72	=72	=72
 8dq	_	8f#q	_	.	.	.	.	.
-8e	Ba-	8g#	Ba-	1A-m	A-:min (A- C- E-)	.	.	voice
-8e	-by!	8g#	-by!	.	.	.	.	.
+8e	Ba-	8g#	Ba-	1EM	E:maj (E G# B)	newline	.	voice
+8e	-by!	8g#	-by	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
-8e	(Ba-	4r	_	.	.	.	.	.
+8e	(Ba-	4r	.	.	.	.	.	.
 8e	-by,	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	ba-	2r	.	.	.	.	.	.
@@ -669,20 +659,20 @@
 8dq	_	.	.	.	.	.	.	.
 8e	ba-	.	.	.	.	.	.	.
 8e	-by)	.	.	.	.	.	.	.
-=76	=76	=76	=76	=76	=76	=76	=76	=76
-4r	.	1r	.	1BM	B:maj (B D# F#)	.	.	voice
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+4r	.	1r	.	1DM	D:maj (D F# A)	.	.	voice
 8d	Don't	.	.	.	.	.	.	.
 8B	for-	.	.	.	.	.	.	.
 8d	-get	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 8eq	_	.	.	.	.	.	.	.
 4f#	my	.	.	.	.	.	.	.
-=77	=77	=77	=77	=77	=77	=77	=77	=77
+=74	=74	=74	=74	=74	=74	=74	=74	=74
 8dq	_	.	.	.	.	.	.	.
-8e	num-	8g#	Num-	1AM	A:maj (A C# E)	.	.	voice
-8e	-ber!	8g#	-ber!	.	.	.	.	.
+8e	num-	8g#	Num-	1EM	E:maj (E G# B)	.	.	voice
+8e	-ber!	8g#	-ber	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
-8e	(Num-	4r	_	.	.	.	.	.
+8e	(Num-	4r	.	.	.	.	.	.
 8e	-ber,	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	num-	2r	.	.	.	.	.	.
@@ -690,84 +680,83 @@
 8dq	_	.	.	.	.	.	.	.
 8e	num-	.	.	.	.	.	.	.
 8e	-ber)	.	.	.	.	.	.	.
-=78	=78	=78	=78	=78	=78	=78	=78	=78
-*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
-4r	.	4r	.	1EM?	E:1 (E)	newline	181.19	voice
+=75	=75	=75	=75	=75	=75	=75	=75	=75
+4r	.	4r	.	2BM	B:maj (B D# F#)	.	.	voice
 8d	Love	8f#	Love	.	.	.	.	.
 8B	will	8d	will	.	.	.	.	.
-4d	see	4f#	see	.	.	.	.	.
+4d	see	4f#	see	2DM	D:maj (D F# A)	.	.	voice
 8eq	_	8g#q	_	.	.	.	.	.
 4f#	you	4a	you	.	.	.	.	.
-=79	=79	=79	=79	=79	=79	=79	=79	=79
-4.e	through!	4.g#	through!	1DM?	D:1 (D)	.	.	voice
-8r	_	8r	_	.	.	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76	=76
+4.e	through	4.g#	through	1EM	E:maj (E G# B)	.	.	voice
+8r	.	8r	.	.	.	.	.	.
 2r	.	2r	.	.	.	.	.	.
-=80	=80	=80	=80	=80	=80	=80	=80	=80
+=77	=77	=77	=77	=77	=77	=77	=77	=77
+*	*	*	*	*E_bridge	*E_bridge	*E_bridge	*E_bridge	*E_bridge
 8g#q	_	8G#q	_	.	.	.	.	.
-8rQ	.	8rQ	.	.	.	.	.	.
-4g#	I've	4G#	I've	1EM?	E:1 (E)	.	.	voice
+4g#	I've	4G#	I've	2EM	E:maj (E G# B)	newline	.	voice
 8r	.	8r	.	.	.	.	.	.
 8e	been	8E	been	.	.	.	.	.
-8f#	sear-	8F#	sear-	.	.	.	.	.
+8f#	sear-	8F#	sear-	2DM	D:maj (E D F# A)	.	.	voice
 4f#	-ching	4F#	-ching	.	.	.	.	.
 [8e	high	[8E	high	.	.	.	.	.
-=81	=81	=81	=81	=81	=81	=81	=81	=81
-8e]	_	8E]	_	1DM?	D:1 (D)	.	.	voice
+=78	=78	=78	=78	=78	=78	=78	=78	=78
+8e]	_	8E]	_	1AM	A:maj (E A C#)	.	.	voice
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 2r	.	2r	.	.	.	.	.	.
-=82	=82	=82	=82	=82	=82	=82	=82	=82
+=79	=79	=79	=79	=79	=79	=79	=79	=79
 8g#q	_	8G#q	_	.	.	.	.	.
-8rQ	.	8rQ	.	.	.	.	.	.
-4g#	I've	4G#	I've	1EM?	E:1 (E)	newline	190.781	voice
+4g#	I've	4G#	I've	2EM	E:maj (E G# B)	.	.	voice
 8r	.	8r	.	.	.	.	.	.
 8e	been	8E	been	.	.	.	.	.
-8f#	sear-	8F#	sear-	.	.	.	.	.
+8f#	sear-	8F#	sear-	2DM	D:maj (D F# A)	.	.	voice
 4f#	-ching	4F#	-ching	.	.	.	.	.
 [8e	low	[8E	low	.	.	.	.	.
-=83	=83	=83	=83	=83	=83	=83	=83	=83
-*	*	*	*	*>E_interlude	*>E_interlude	*>E_interlude	*>E_interlude	*>E_interlude
-8e]	_	8E]	_	1D-mm	D-:min7 (D- F- A- C-)	newline	193.167	guitar
+=80	=80	=80	=80	=80	=80	=80	=80	=80
+8e]	_	8E]	_	1AM	A:maj (A C# E)	.	.	voice
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 2r	.	2r	.	.	.	.	.	.
-=84	=84	=84	=84	=84	=84	=84	=84	=84
-4r	.	1r	.	1C-M	C-:maj (C- E- G-)	.	.	guitar
+=81	=81	=81	=81	=81	=81	=81	=81	=81
+4r	.	1r	.	2EM	E:maj (E G# B)	newline	.	voice
 8r	.	.	.	.	.	.	.	.
 16d	Wan-	.	.	.	.	.	.	.
 16c#	-na	.	.	.	.	.	.	.
-8d	spend	.	.	.	.	.	.	.
+8d	spend	.	.	2DM	D:maj (E D F# A)	.	.	voice
 8d	my	.	.	.	.	.	.	.
 8e	_	.	.	.	.	.	.	.
-[8e	life,	.	.	.	.	.	.	.
-=85	=85	=85	=85	=85	=85	=85	=85	=85
-4e]	_	2r	.	1C-M	C-:maj (C- E- G-)	.	.	guitar
-4r	_	.	.	.	.	.	.	.
+[8e	life	.	.	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82
+4e]	_	2r	.	1AM	A:maj (E A C#)	.	.	voice
+4r	.	.	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 8f#	with	8F#	With	.	.	.	.	.
-[8e [b	you!	8E	you!!	.	.	.	.	.
-=86	=86	=86	=86	=86	=86	=86	=86	=86
-1e] b]	_	1r	.	1D-mm	D-:min7 (D- F- A- C-)	.	.	guitar
-=87	=87	=87	=87	=87	=87	=87	=87	=87
+[8e [b	you	8E	you!	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83
+1e] b]	_	1r	.	2EM	E:maj (E G# B)	.	.	voice
+.	.	.	.	2AM	A:maj (E A C#)	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84
 *	*	*clefF4	*	*	*	*	*	*
-4r	_	4r	_	1D-mm	D-:min7 (D- F- A- C-)	newline	202.653	guitar
+4r	.	4r	.	2EM	E:maj (E G# B)	.	.	voice
 8r	.	8r	.	.	.	.	.	.
 16B	Ba-	16BB	Ba-	.	.	.	.	.
 16B	-ba-	16BB	-ba-	.	.	.	.	.
-8B	-ba-	8BB	-ba-	.	.	.	.	.
+8B	-ba-	8BB	-ba-	2DM	D:maj (D F# A)	.	.	voice
 4e	-ba-	4E	-ba-	.	.	.	.	.
 16f#	-ba!	16F#	-ba!	.	.	.	.	.
 [16g#	_	[16G#	_	.	.	.	.	.
-=88	=88	=88	=88	=88	=88	=88	=88	=88
-8g#]	_	8G#]	_	1C-M	C-:maj (C- E- G-)	.	.	guitar
+=85	=85	=85	=85	=85	=85	=85	=85	=85
+8g#]	_	8G#]	_	2.EM	E:maj (E G# B)	newline	.	voice
 4r	.	4r	.	.	.	.	.	.
 16g#	Ba-	16G#	Ba-	.	.	.	.	.
 16g#	-ba-	16G#	-ba-	.	.	.	.	.
 8f#	-ba-	8F#	-ba-	.	.	.	.	.
 4g#	-ba-	4G#	-ba-	.	.	.	.	.
+.	.	.	.	4DM	D:maj (E D F# A)	.	.	voice
 [8f#	-ba	[8F#	-ba	.	.	.	.	.
-=89	=89	=89	=89	=89	=89	=89	=89	=89
-8f#]	_	8F#]	_	1C-M	C-:maj (C- E- G-)	.	.	guitar
+=86	=86	=86	=86	=86	=86	=86	=86	=86
+8f#]	_	8F#]	_	1AM	A:maj (A C# E)	.	.	voice
 4e	ba,	4E	ba,	.	.	.	.	.
 16B	ba-	16BB	ba-	.	.	.	.	.
 16B	-ba-	16BB	-ba-	.	.	.	.	.
@@ -775,285 +764,115 @@
 4e	-ba-	4E	-ba-	.	.	.	.	.
 16f#	-ba!	16F#	-ba!	.	.	.	.	.
 [16g#	_	[16G#	_	.	.	.	.	.
-=90	=90	=90	=90	=90	=90	=90	=90	=90
-8g#]	_	8G#]	_	1D-mm	D-:min7 (D- F- A- C-)	.	.	guitar
+=87	=87	=87	=87	=87	=87	=87	=87	=87
+8g#]	_	8G#]	_	1EM	E:maj (E G# B)	.	.	voice
 8r	.	8r	.	.	.	.	.	.
 8g#	Love	4r	.	.	.	.	.	.
 8g#	will	.	.	.	.	.	.	.
 8f#	see	2r	.	.	.	.	.	.
 4g#	you	.	.	.	.	.	.	.
-[8e	through!	.	.	.	.	.	.	.
-=91	=91	=91	=91	=91	=91	=91	=91	=91
+[8e	through	.	.	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88	=88
 *	*	*clefC3	*	*	*	*	*	*
-4.e]	_	1r	.	1D-mm	D-:min7 (D- F- A- C-)	newline	212.203	guitar
-8r	_	.	.	.	.	.	.	.
+4.e]	_	1r	.	1AM	A:maj (A C# E)	.	.	voice
+8r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
-=92	=92	=92	=92	=92	=92	=92	=92	=92
-*M2/4	*	*M2/4	*	*	*	*	*	*
-2r	.	2r	.	1C-M	C-:maj (C- E- G-)	.	.	guitar
-=93	=93	=93	=93	=93	=93	=93	=93	=93
-*M4/4	*	*M4/4	*	*	*	*	*	*
-2r	.	1r	.	.	.	.	.	.
-=92	=92	=92	=92	=92	=92	=92	=92	=92
-4r	.	.	.	1C-M	C-:maj (C- E- G-)	.	.	guitar
+=89	=89	=89	=89	=89	=89	=89	=89	=89
+*M2/4	*	*M2/4	*	*F_interlude	*F_interlude	*F_interlude	*F_interlude	*F_interlude
+*	*	*	*	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+2r	.	2r	.	2N	N	.	.	scratch
+=90	=90	=90	=90	=90	=90	=90	=90	=90
+*c#:	*	*c#:	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*M4/4	*	*M4/4	*	*c#:	*c#:	*c#:	*c#:	*c#:
+2r	.	1r	.	1C#m	C#:min (C# E G#)	newline	.	synthesizer
+4r	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 16e	Ba-	.	.	.	.	.	.	.
 16B	-by,	.	.	.	.	.	.	.
-=94	=94	=94	=94	=94	=94	=94	=94	=94
-8f#	call	1r	.	.	.	.	.	.
+=91	=91	=91	=91	=91	=91	=91	=91	=91
+8f#	call	1r	.	1C#m	C#:min (C# E G#)	newline	.	synthesizer
 16B	my	.	.	.	.	.	.	.
 [16d#	line,	.	.	.	.	.	.	.
 16d#]	_	.	.	.	.	.	.	.
 16e	ba-	.	.	.	.	.	.	.
 16e	-ba-	.	.	.	.	.	.	.
 16c#	-by	.	.	.	.	.	.	.
-=93	=93	=93	=93	=93	=93	=93	=93	=93
-8f#	call	.	.	1D-mm	D-:min7 (D- F- A- C-)	.	.	guitar
+8f#	call	.	.	.	.	.	.	.
 16B	my	.	.	.	.	.	.	.
 [16d#	line!	.	.	.	.	.	.	.
 4d#]	_	.	.	.	.	.	.	.
-=95	=95	=95	=95	=95	=95	=95	=95	=95
-2r	.	1r	.	.	.	.	.	.
-=94	=94	=94	=94	=94	=94	=94	=94	=94
-4r	.	.	.	1N	N	newline	221.746	guitar
+=92	=92	=92	=92	=92	=92	=92	=92	=92
+2r	.	1r	.	1C#m	C#:min (C# E G#)	newline	.	synthesizer
+4r	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 16c#	Call	.	.	.	.	.	.	.
 16e	me	.	.	.	.	.	.	.
-=96	=96	=96	=96	=96	=96	=96	=96	=96
-16f#	a-	1r	.	.	.	.	.	.
+=93	=93	=93	=93	=93	=93	=93	=93	=93
+16f#	a-	1r	.	1C#m	C#:min (C# E G#)	newline	.	synthesizer
 8B	-ny-	.	.	.	.	.	.	.
 [16B	-time	.	.	.	.	.	.	.
 8B]	,,	.	.	.	.	.	.	.
 16e	call	.	.	.	.	.	.	.
 16e	me	.	.	.	.	.	.	.
-=95	=95	=95	=95	=95	=95	=95	=95	=95
-16f#	a-	.	.	1N	N	.	.	guitar
+16f#	a-	.	.	.	.	.	.	.
 8B	-ny-	.	.	.	.	.	.	.
 [16B	-time!	.	.	.	.	.	.	.
 4B]	_	.	.	.	.	.	.	.
-=97	=97	=97	=97	=97	=97	=97	=97	=97
-8dq 8ddQ	_	8f#q	_	.	.	.	.	.
-8e ee	Ba-	8g#	Ba-	.	.	.	.	.
+=94	=94	=94	=94	=94	=94	=94	=94	=94
+*E:	*	*E:	*	*D_chorus	*D_chorus	*D_chorus	*D_chorus	*D_chorus
+*	*	*	*	*E:	*E:	*E:	*E:	*E:
+8dq 8ddq	_	8f#q	_	.	.	.	.	.
+8e ee	Ba-	8g#	Ba-	1EM	E:maj (E G# B)	.	.	voice
 8e ee	-by!	8g#	-by!	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	(Ba-	4r	.	.	.	.	.	.
 8e	-by,	.	.	.	.	.	.	.
-=96	=96	=96	=96	=96	=96	=96	=96	=96
-*	*	*	*	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
 8dq	_	.	.	.	.	.	.	.
-8e	ba-	2r	.	1G-M	G-:1 (G-)	newline	226.495	voice
+8e	ba-	2r	.	.	.	.	.	.
 8e	-by,	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	ba-	.	.	.	.	.	.	.
 8e	-by)	.	.	.	.	.	.	.
-=98	=98	=98	=98	=98	=98	=98	=98	=98
+=95	=95	=95	=95	=95	=95	=95	=95	=95
 *	*	*clefG2	*	*	*	*	*	*
-4r	.	4r	.	.	.	.	.	.
+4r	.	4r	.	1DM	D:maj (D F# A)	.	.	voice
 8d dd	Don't	8f#	Don't	.	.	.	.	.
 8B b	for-	8d	for-	.	.	.	.	.
-=97	=97	=97	=97	=97	=97	=97	=97	=97
-8d dd	-get	8f#	-get!	1G-M	G-:1 (G-)	.	.	voice
-8r	.	8r	_	.	.	.	.	.
-8eq 8eeQ	_	.	.	.	.	.	.	.
+8d dd	-get	8f#	-get	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.
+8eq 8eeq	_	.	.	.	.	.	.	.
 4f# ff#	my	4r	.	.	.	.	.	.
-=99	=99	=99	=99	=99	=99	=99	=99	=99
-8dq 8ddQ	_	.	.	.	.	.	.	.
-8e ee	num-	8g#	Num-	.	.	.	.	.
-8e ee	-ber!	8g#	-ber!	.	.	.	.	.
+=96	=96	=96	=96	=96	=96	=96	=96	=96
+8dq 8ddq	_	.	.	.	.	.	.	.
+8e ee	num-	8g#	Num-	1EM	E:maj (E G# B)	newline	.	voice
+8e ee	-ber!	8g#	-ber	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
-8e	(Num-	4r	_	.	.	.	.	.
+8e	(Num-	4r	.	.	.	.	.	.
 8e	-ber,	.	.	.	.	.	.	.
-=98	=98	=98	=98	=98	=98	=98	=98	=98
 8dq	_	.	.	.	.	.	.	.
-8e	num-	2r	.	1G-M	G-:1 (G-)	.	.	voice
+8e	num-	2r	.	.	.	.	.	.
 8e	-ber,	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 8e	num-	.	.	.	.	.	.	.
 8e	-ber)	.	.	.	.	.	.	.
-=100	=100	=100	=100	=100	=100	=100	=100	=100
-4r	.	4r	.	.	.	.	.	.
+=97	=97	=97	=97	=97	=97	=97	=97	=97
+4r	.	4r	.	2BM	B:maj (B D# F#)	.	.	voice
 8d dd	Love	8f#	Love	.	.	.	.	.
 8B b	will	8d	will	.	.	.	.	.
-=99	=99	=99	=99	=99	=99	=99	=99	=99
-4d dd	see	4f#	see	1G-M	G-:1 (G-)	.	.	voice
-8eq 8eeQ	_	8g#q	_	.	.	.	.	.
+4d dd	see	4f#	see	2DM	D:maj (D F# A)	.	.	voice
+8eq 8eeq	_	8g#q	_	.	.	.	.	.
 4f# ff#	you	4a	you	.	.	.	.	.
-=101	=101	=101	=101	=101	=101	=101	=101	=101
-4e ee	through!	4g#	through!	.	.	.	.	.
-4r	_	4r	_	.	.	.	.	.
-=100	=100	=100	=100	=100	=100	=100	=100	=100
-2r	.	2r	.	1G-M	G-:1 (G-)	newline	236.01	voice
-*-	*-	*-	*-	*	*	*	*
-.	.	.	.	.
-=101	=101	=101	=101	=101
-1G-M	G-:1 (G-)	.	.	voice
-=102	=102	=102	=102	=102
-1G-M	G-:1 (G-)	newline	240.735	voice
-=103	=103	=103	=103	=103
-1G-M	G-:1 (G-)	.	.	voice
-=104	=104	=104	=104	=104
-1G-M	G-:1 (G-)	.	.	voice
-=105	=105	=105	=105	=105
-1G-M	G-:1 (G-)	.	.	voice
-=106	=106	=106	=106	=106
-*>C2_chorus	*>C2_chorus	*>C2_chorus	*>C2_chorus	*>C2_chorus
-1EM?	E:1 (E)	newline	250.313	voice
-=107	=107	=107	=107	=107
-1N	N	.	.	voice
-=108	=108	=108	=108	=108
-1EM?	E:1 (E)	.	.	voice
-=109	=109	=109	=109	=109
-2.BM?	B:1 (B)	.	.	voice
-4DM?	D:1 (D)	.	.	voice
-=110	=110	=110	=110	=110
-1EM?	E:1 (E)	newline	259.834	voice
-=111	=111	=111	=111	=111
-1DM?	D:1 (D)	.	.	voice
-=112	=112	=112	=112	=112
-1EM?	E:1 (E)	.	.	voice
-=113	=113	=113	=113	=113
-1N	N	.	.	voice
-=114	=114	=114	=114	=114
-1EM?	E:1 (E)	newline	269.336	voice
-=115	=115	=115	=115	=115
-1N	N	.	.	voice
-=116	=116	=116	=116	=116
-*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
-2EM?	E:1 (E)	newline	274.12	voice
-4AM	A:maj (E A C#)	.	.	voice
-4EM	E:maj (E G# B)	.	.	voice
-=117	=117	=117	=117	=117
-1Bm	B:min (B D F#)	.	.	voice
-=118	=118	=118	=118	=118
-2EM?	E:1 (E)	.	.	voice
-4AM	A:maj (E A C#)	.	.	voice
-4EM	E:maj (E G# B)	.	.	voice
-=119	=119	=119	=119	=119
-1Bm	B:min (B D F#)	.	.	voice
-=120	=120	=120	=120	=120
-2EM?	E:1 (E)	newline	283.626	voice
-4AM	A:maj (E A C#)	.	.	voice
-4EM	E:maj (E G# B)	.	.	voice
-=121	=121	=121	=121	=121
-1Bm	B:min (B D F#)	.	.	voice
-=122	=122	=122	=122	=122
-2EM?	E:1 (E)	.	.	voice
-4AM	A:maj (E A C#)	.	.	voice
-4EM	E:maj (E G# B)	.	.	voice
-=123	=123	=123	=123	=123
-1Bm	B:min (B D F#)	.	.	voice
-=124	=124	=124	=124	=124
-1EM	E:maj (E G# B)	.	.	voice
-=125	=125	=125	=125	=125
-*>F_bridge	*>F_bridge	*>F_bridge	*>F_bridge	*>F_bridge
-2EM	E:maj (E G# B)	newline	295.518	voice
-2DM	D:maj (E D F# A)	.	.	voice
-=126	=126	=126	=126	=126
-2AM	A:maj (A C# E)	.	.	voice
-4DM	D:maj (A D F#)	.	.	voice
-4AM	A:maj (A C# E)	.	.	voice
-=127	=127	=127	=127	=127
-2EM	E:maj (E G# B)	.	.	voice
-2DM	D:maj (E D F# A)	.	.	voice
-=128	=128	=128	=128	=128
-2AM	A:maj (A C# E)	.	.	voice
-4AM?	A:sus4(9) (A D E B)	.	.	voice
-4AM	A:maj (A C# E)	.	.	voice
-=129	=129	=129	=129	=129
-2EM	E:maj (E G# B)	newline	305.101	voice
-2DM	D:maj (E D F# A)	.	.	voice
-=130	=130	=130	=130	=130
-2AM	A:maj (A C# E)	.	.	voice
-4DM	D:maj (A D F#)	.	.	voice
-4AM	A:maj (A C# E)	.	.	voice
-=131	=131	=131	=131	=131
-2EM	E:maj (E G# B)	.	.	voice
-2EM?	E:sus4 (E A B)	.	.	voice
-=132	=132	=132	=132	=132
-2EM	E:maj (E G# B)	.	.	voice
-2Bmm	B:min7 (B D F# A)	.	.	voice
-=133	=133	=133	=133	=133
-1EM	E:maj (E G# B)	newline	314.644	voice
-=134	=134	=134	=134	=134
-1N	N	.	.	voice
-=135	=135	=135	=135	=135
-1N	N	.	.	voice
-=136	=136	=136	=136	=136
-1N	N	.	.	voice
-=137	=137	=137	=137	=137
-1EM	E:maj (E G# B)	newline	324.094	voice
-=138	=138	=138	=138	=138
-1AM	A:maj (A C# E)	.	.	voice
-=139	=139	=139	=139	=139
-2EM	E:maj (E G# B)	.	.	voice
-2DM	D:maj (D F# A)	.	.	voice
-=140	=140	=140	=140	=140
-2AM	A:maj (A C# E)	.	.	voice
-2EM?	E:sus4(b7,9) (E A B D F#)	.	.	voice
-=141	=141	=141	=141	=141
-1N	N	newline	333.676	voice
-=142	=142	=142	=142	=142
-*>B2_interlude	*>B2_interlude	*>B2_interlude	*>B2_interlude	*>B2_interlude
-1BM	B:maj (B D# F#)	newline	336.091	synthesizer
-=143	=143	=143	=143	=143
-1F#mm	F#:min7 (F# A C# E)	.	.	synthesizer
-=144	=144	=144	=144	=144
-*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
-1C#mm	C#:min7 (C# E G# B)	newline	340.813	synthesizer
-=145	=145	=145	=145	=145
-1C#mm	C#:min7 (C# E G# B)	.	.	synthesizer
-=146	=146	=146	=146	=146
-1C#X	C#:1 (C#)	newline	345.572	synthesizer
-=147	=147	=147	=147	=147
-1C#X	C#:1 (C#)	.	.	synthesizer
-=148	=148	=148	=148	=148
-1C#X	C#:1 (C#)	.	.	synthesizer
-=149	=149	=149	=149	=149
-1C#X	C#:1 (C#)	.	.	synthesizer
-=150	=150	=150	=150	=150
-2Cm	C:1 (C)	newline	355.061	synthesizer
-2DM?	D:1 (D)	.	.	synthesizer
-=151	=151	=151	=151	=151
-1EM?	E:1 (E)	.	.	synthesizer
-=152	=152	=152	=152	=152
-2AM?	A:1 (A)	.	.	synthesizer
-2DM?	D:1 (D)	.	.	synthesizer
-=153	=153	=153	=153	=153
-1EM?	E:1 (E)	.	.	synthesizer
-=154	=154	=154	=154	=154
-*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
-2EM?	E:1 (E)	newline	364.61	voice
-4AM	A:maj (E A C#)	.	.	voice
-4EM	E:maj (E G# B)	.	.	voice
-=155	=155	=155	=155	=155
-1Bmm	B:min7 (B D F# A)	.	.	voice
-=156	=156	=156	=156	=156
-2EM?	E:1 (E)	.	.	voice
-4AM	A:maj (E A C#)	.	.	voice
-4EM	E:maj (E G# B)	.	.	voice
-=157	=157	=157	=157	=157
-1Bmm	B:min7 (B D F# A)	.	.	voice
-=158	=158	=158	=158	=158
-2EM?	E:1 (E)	newline	374.13	voice
-4AM	A:maj (E A C#)	.	.	voice
-4EM	E:maj (E G# B)	.	.	voice
-=159	=159	=159	=159	=159
-1Bmm	B:min7 (B D F# A)	.	.	voice
-=160	=160	=160	=160	=160
-2EM?	E:1 (E)	.	.	voice
-4AM	A:maj (E A C#)	.	.	voice
-4EM	E:maj (E G# B)	.	.	voice
-=161	=161	=161	=161	=161
-1Bmm	B:min7 (B D F# A)	.	.	voice
-=162	=162	=162	=162	=162
-1EM	E:maj (E G# B)	newline	383.661	voice
-1r;	r	.	386.31	r
-1r;	r	.	388.467	r
-*-	*-	*-	*-	*-
+=98	=98	=98	=98	=98	=98	=98	=98	=98
+4e ee	through	4g#	through	1EM	E:maj (E G# B)	.	.	voice
+4r	.	4r	.	.	.	.	.	.
+2r	.	2r	.	.	.	.	.	.
+r;	.	r;	.	1r;	r	.	.	.
+*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1989/05/27
 !!!BillboardPeak: 1
 !!!BillboardWeeksOnChart: 21
 !!!COC: Milli Vanilli
+!!!EMD: 
 !!!ENC: Nathaniel Condit-Schultz
 !!!EST: Awating manual error checking and editing.
 !!!OTL: Baby Don't Forget My Number

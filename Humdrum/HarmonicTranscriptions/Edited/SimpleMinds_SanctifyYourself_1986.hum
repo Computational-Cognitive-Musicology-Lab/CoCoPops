@@ -4,338 +4,275 @@
 1r;	r	.	0	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
-1Gmm	G:min7 (G B- D F)	newline	0.299	r
+1Gmm	G:min7 (G B- D F)	newline	.	voice
 =2	=2	=2	=2	=2
-1Gmm	G:min7 (G B- D F)	.	.	r
+1Gmm	G:min7 (G B- D F)	.	.	voice
 =3	=3	=3	=3	=3
-1Gmm	G:min7 (G B- D F)	.	.	r
+1FM	F:maj (G F A C)	.	.	voice
 =4	=4	=4	=4	=4
-1Gmm	G:min7 (G B- D F)	.	.	r
+1C	C:maj (G C E)	.	.	voice
 =5	=5	=5	=5	=5
-1Gmm	G:min7 (G B- D F)	newline	7.779	synthesizer
+1Gmm	G:min7 (G B- D F)	newline	.	voice
 =6	=6	=6	=6	=6
-1Gmm	G:min7 (G B- D F)	.	.	synthesizer
+1Gmm	G:min7 (G B- D F)	.	.	voice
 =7	=7	=7	=7	=7
-1FM	F:maj (G F A C)	.	.	synthesizer
+1FM	F:maj (G F A C)	.	.	voice
 =8	=8	=8	=8	=8
-1CM	C:maj (G C E)	.	.	synthesizer
+1CM	C:maj (G C E)	.	.	voice
 =9	=9	=9	=9	=9
-1Gmm	G:min7 (G B- D F)	newline	15.279	synthesizer
-=10	=10	=10	=10	=10
-1Gmm	G:min7 (G B- D F)	.	.	synthesizer
-=11	=11	=11	=11	=11
-1FM	F:maj (G F A C)	.	.	synthesizer
-=12	=12	=12	=12	=12
-1CM	C:maj (G C E)	.	.	synthesizer
-=13	=13	=13	=13	=13
-1Gmm	G:min7 (G B- D F)	newline	22.779	synthesizer
-=14	=14	=14	=14	=14
-1Gmm	G:min7 (G B- D F)	.	.	synthesizer
-=15	=15	=15	=15	=15
-1FM	F:maj (G F A C)	.	.	synthesizer
-=16	=16	=16	=16	=16
-1CM	C:maj (G C E)	.	.	synthesizer
-=17	=17	=17	=17	=17
-1Gmm	G:min7 (G B- D F)	newline	30.244	synthesizer
-=18	=18	=18	=18	=18
-1Gmm	G:min7 (G B- D F)	.	.	synthesizer
-=19	=19	=19	=19	=19
-1FM	F:maj (G F A C)	.	.	synthesizer
-=20	=20	=20	=20	=20
-1CM	C:maj (G C E)	.	.	synthesizer
-=21	=21	=21	=21	=21
 *>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-1GM	G:maj (G B D)	newline	37.698	voice
-=22	=22	=22	=22	=22
-1GM	G:maj (F G B D)	.	.	voice
-=23	=23	=23	=23	=23
+*G:	*G:	*G:	*G:	*G:
+1GM	G:maj (G B D)	newline	.	voice
+=10	=10	=10	=10	=10
+1GMm	G:7 (F G B D)	.	.	voice
+=11	=11	=11	=11	=11
 1CM	C:maj (E C G)	.	.	voice
+=12	=12	=12	=12	=12
+1FM	F:maj (F A C)	.	.	voice
+=13	=13	=13	=13	=13
+1GM	G:maj (G B D)	newline	.	voice
+=14	=14	=14	=14	=14
+1GMm	G:7 (F G B D)	.	.	voice
+=15	=15	=15	=15	=15
+1CM	C:maj (E C G)	.	.	voice
+=16	=16	=16	=16	=16
+1FM	F:maj (F A C)	.	.	voice
+=17	=17	=17	=17	=17
+1GM	G:maj (G B D)	newline	.	voice
+=18	=18	=18	=18	=18
+1GMm	G:7 (F G B D)	.	.	voice
+=19	=19	=19	=19	=19
+1CM	C:maj (E C G)	.	.	voice
+=20	=20	=20	=20	=20
+1FM	F:maj (F A C)	.	.	voice
+=21	=21	=21	=21	=21
+*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
+1E-M	E-:maj (E- G B-)	newline	.	voice
+=22	=22	=22	=22	=22
+1E-M	E-:maj (E- G B-)	.	.	voice
+=23	=23	=23	=23	=23
+1FM	F:maj (F A C)	.	.	voice
 =24	=24	=24	=24	=24
 1FM	F:maj (F A C)	.	.	voice
 =25	=25	=25	=25	=25
-1GM	G:maj (G B D)	newline	45.216	voice
+1E-M	E-:maj (E- G B-)	newline	.	voice
 =26	=26	=26	=26	=26
-1GM	G:maj (F G B D)	.	.	voice
+1E-M	E-:maj (E- G B-)	.	.	voice
 =27	=27	=27	=27	=27
-1CM	C:maj (E C G)	.	.	voice
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+1GM	G:maj (G B D)	newline	.	voice
 =28	=28	=28	=28	=28
-1FM	F:maj (F A C)	.	.	voice
+1CM	C:maj (G C E)	.	.	voice
 =29	=29	=29	=29	=29
-1GM	G:maj (G B D)	newline	52.669	voice
+1GM	G:maj (G B D)	.	.	voice
 =30	=30	=30	=30	=30
-1GM	G:maj (F G B D)	.	.	voice
+1CM	C:maj (G C E)	.	.	voice
 =31	=31	=31	=31	=31
-1CM	C:maj (E C G)	.	.	voice
+1GM	G:maj (G B D)	newline	.	voice
 =32	=32	=32	=32	=32
-1FM	F:maj (F A C)	.	.	voice
+1CM	C:maj (G C E)	.	.	voice
 =33	=33	=33	=33	=33
-*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
-1E-M	E-:maj (E- G B-)	newline	60.198	voice
+1GM	G:maj (G B D)	.	.	voice
 =34	=34	=34	=34	=34
-1E-M	E-:maj (E- G B-)	.	.	voice
+1CM	C:maj (G C E)	.	.	voice
 =35	=35	=35	=35	=35
-1FM	F:maj (F A C)	.	.	voice
-=36	=36	=36	=36	=36
-1FM	F:maj (F A C)	.	.	voice
-=37	=37	=37	=37	=37
-1E-M	E-:maj (E- G B-)	newline	67.598	voice
-=38	=38	=38	=38	=38
-1E-M	E-:maj (E- G B-)	.	.	voice
-=39	=39	=39	=39	=39
-*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
-1GM	G:maj (G B D)	newline	71.367	voice
-=40	=40	=40	=40	=40
-1CM	C:maj (C E G)	.	.	voice
-=41	=41	=41	=41	=41
-1GM	G:maj (G B D)	.	.	voice
-=42	=42	=42	=42	=42
-1CM	C:maj (C E G)	.	.	voice
-=43	=43	=43	=43	=43
-1GM	G:maj (G B D)	newline	78.878	voice
-=44	=44	=44	=44	=44
-1CM	C:maj (C E G)	.	.	voice
-=45	=45	=45	=45	=45
-1GM	G:maj (G B D)	.	.	voice
-=46	=46	=46	=46	=46
-1CM	C:maj (C E G)	.	.	voice
-=47	=47	=47	=47	=47
 *>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
-1Gmm	G:min7 (G B- D F)	newline	86.309	synthesizer
-=48	=48	=48	=48	=48
+*g:	*g:	*g:	*g:	*g:
+1Gmm	G:min7 (G B- D F)	newline	.	synthesizer
+=36	=36	=36	=36	=36
 1Gmm	G:min7 (G B- D F)	.	.	synthesizer
-=49	=49	=49	=49	=49
+=37	=37	=37	=37	=37
 1FM	F:maj (G F A C)	.	.	synthesizer
-=50	=50	=50	=50	=50
+=38	=38	=38	=38	=38
 1CM	C:maj (G C E)	.	.	synthesizer
-=51	=51	=51	=51	=51
-1Gmm	G:min7 (G B- D F)	newline	93.861	synthesizer
-=52	=52	=52	=52	=52
+=39	=39	=39	=39	=39
+1Gmm	G:min7 (G B- D F)	newline	.	synthesizer
+=40	=40	=40	=40	=40
 1Gmm	G:min7 (G B- D F)	.	.	synthesizer
-=53	=53	=53	=53	=53
+=41	=41	=41	=41	=41
 1FM	F:maj (G F A C)	.	.	synthesizer
-=54	=54	=54	=54	=54
+=42	=42	=42	=42	=42
 1CM	C:maj (G C E)	.	.	synthesizer
-=55	=55	=55	=55	=55
-1Gmm	G:min7 (G B- D F)	newline	101.322	synthesizer
-=56	=56	=56	=56	=56
-1Gmm	G:min7 (G B- D F)	.	.	synthesizer
-=57	=57	=57	=57	=57
-1FM	F:maj (G F A C)	.	.	synthesizer
-=58	=58	=58	=58	=58
-1CM	C:maj (G C E)	.	.	synthesizer
-=59	=59	=59	=59	=59
-1Gmm	G:min7 (G B- D F)	newline	108.812	synthesizer
-=60	=60	=60	=60	=60
-1Gmm	G:min7 (G B- D F)	.	.	synthesizer
-=61	=61	=61	=61	=61
-1FM	F:maj (G F A C)	.	.	synthesizer
-=62	=62	=62	=62	=62
-1CM	C:maj (G C E)	.	.	synthesizer
-=63	=63	=63	=63	=63
+=43	=43	=43	=43	=43
 *>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-1GM	G:maj (G B D)	newline	116.278	voice
-=64	=64	=64	=64	=64
-1GM	G:maj (F G B D)	.	.	voice
-=65	=65	=65	=65	=65
+*G:	*G:	*G:	*G:	*G:
+1GM	G:maj (G B D)	newline	.	voice
+=44	=44	=44	=44	=44
+1GMm	G:7 (F G B D)	.	.	voice
+=45	=45	=45	=45	=45
 1CM	C:maj (E C G)	.	.	voice
-=66	=66	=66	=66	=66
+=46	=46	=46	=46	=46
 1FM	F:maj (F A C)	.	.	voice
-=67	=67	=67	=67	=67
-1GM	G:maj (G B D)	newline	123.771	voice
-=68	=68	=68	=68	=68
-1GM	G:maj (F G B D)	.	.	voice
-=69	=69	=69	=69	=69
+=47	=47	=47	=47	=47
+1GM	G:maj (G B D)	newline	.	voice
+=48	=48	=48	=48	=48
+1GMm	G:7 (F G B D)	.	.	voice
+=49	=49	=49	=49	=49
 1CM	C:maj (E C G)	.	.	voice
-=70	=70	=70	=70	=70
+=50	=50	=50	=50	=50
 1FM	F:maj (F A C)	.	.	voice
-=71	=71	=71	=71	=71
-1GM	G:maj (G B D)	newline	131.253	voice
-=72	=72	=72	=72	=72
-1GM	G:maj (F G B D)	.	.	voice
-=73	=73	=73	=73	=73
+=51	=51	=51	=51	=51
+1GM	G:maj (G B D)	newline	.	voice
+=52	=52	=52	=52	=52
+1GMm	G:7 (F G B D)	.	.	voice
+=53	=53	=53	=53	=53
 1CM	C:maj (E C G)	.	.	voice
-=74	=74	=74	=74	=74
+=54	=54	=54	=54	=54
 1FM	F:maj (F A C)	.	.	voice
-=75	=75	=75	=75	=75
-*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
-1E-M	E-:maj (E- G B-)	newline	138.739	voice
-=76	=76	=76	=76	=76
+=55	=55	=55	=55	=55
+*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
+1E-M	E-:maj (E- G B-)	newline	.	voice
+=56	=56	=56	=56	=56
 1E-M	E-:maj (E- G B-)	.	.	voice
-=77	=77	=77	=77	=77
+=57	=57	=57	=57	=57
 1FM	F:maj (F A C)	.	.	voice
-=78	=78	=78	=78	=78
+=58	=58	=58	=58	=58
 1FM	F:maj (F A C)	.	.	voice
-=79	=79	=79	=79	=79
-1E-M	E-:maj (E- G B-)	newline	146.224	voice
-=80	=80	=80	=80	=80
+=59	=59	=59	=59	=59
+1E-M	E-:maj (E- G B-)	newline	.	voice
+=60	=60	=60	=60	=60
 1E-M	E-:maj (E- G B-)	.	.	voice
-=81	=81	=81	=81	=81
+=61	=61	=61	=61	=61
 *>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
-1GM	G:maj (G B D)	newline	149.927	voice
-=82	=82	=82	=82	=82
-1CM	C:maj (C E G)	.	.	voice
-=83	=83	=83	=83	=83
+1GM	G:maj (G B D)	newline	.	voice
+=62	=62	=62	=62	=62
+1CM	C:maj (G C E)	.	.	voice
+=63	=63	=63	=63	=63
 1GM	G:maj (G B D)	.	.	voice
-=84	=84	=84	=84	=84
-1CM	C:maj (C E G)	.	.	voice
-=85	=85	=85	=85	=85
-1GM	G:maj (G B D)	newline	157.445	voice
-=86	=86	=86	=86	=86
+=64	=64	=64	=64	=64
+1CM	C:maj (G C E)	.	.	voice
+=65	=65	=65	=65	=65
+1GM	G:maj (G B D)	newline	.	voice
+=66	=66	=66	=66	=66
 1GM	G:maj (G B D)	.	.	voice
-=87	=87	=87	=87	=87
+=67	=67	=67	=67	=67
 1GM	G:maj (G B D)	.	.	voice
-=88	=88	=88	=88	=88
+=68	=68	=68	=68	=68
 1GM	G:maj (G B D)	.	.	voice
-=89	=89	=89	=89	=89
+=69	=69	=69	=69	=69
 *>E_solo	*>E_solo	*>E_solo	*>E_solo	*>E_solo
-1Gm	G:min (G B- D)	newline	164.927	guitar
-=90	=90	=90	=90	=90
+1Gm	G:min (G B- D)	newline	.	guitar
+=70	=70	=70	=70	=70
 1Gm	G:min (G B- D)	.	.	guitar
-=91	=91	=91	=91	=91
+=71	=71	=71	=71	=71
 1CM	C:maj (C E G)	.	.	guitar
-=92	=92	=92	=92	=92
+=72	=72	=72	=72	=72
 1CM	C:maj (C E G)	.	.	guitar
-=93	=93	=93	=93	=93
-1GM	G:maj (G B D)	newline	172.42	guitar
-=94	=94	=94	=94	=94
+=73	=73	=73	=73	=73
+1GM	G:maj (G B D)	newline	.	guitar
+=74	=74	=74	=74	=74
 1GM	G:maj (G B D)	.	.	guitar
-=95	=95	=95	=95	=95
+=75	=75	=75	=75	=75
 2.B-M	B-:maj (B- D F)	.	.	guitar
 4CM	C:maj (C E G)	.	.	guitar
-=96	=96	=96	=96	=96
+=76	=76	=76	=76	=76
 1CM	C:maj (C E G)	.	.	guitar
-=97	=97	=97	=97	=97
-*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
-1Gmm	G:min7 (G B- D F)	newline	179.894	synthesizer
-=98	=98	=98	=98	=98
-1Gmm	G:min7 (G B- D F)	.	.	synthesizer
-=99	=99	=99	=99	=99
-1FM	F:maj (G F A C)	.	.	synthesizer
-=100	=100	=100	=100	=100
-1CM	C:maj (G C E)	.	.	synthesizer
-=101	=101	=101	=101	=101
-1Gmm	G:min7 (G B- D F)	newline	187.363	synthesizer
-=102	=102	=102	=102	=102
-1Gmm	G:min7 (G B- D F)	.	.	synthesizer
-=103	=103	=103	=103	=103
-1FM	F:maj (G F A C)	.	.	synthesizer
-=104	=104	=104	=104	=104
-1CM	C:maj (G C E)	.	.	synthesizer
-=105	=105	=105	=105	=105
+=77	=77	=77	=77	=77
 *>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-1GM	G:maj (G B D)	newline	194.841	voice
+1GM	G:maj (G B D)	newline	.	voice
+=78	=78	=78	=78	=78
+1GMm	G:7 (F G B D)	.	.	voice
+=79	=79	=79	=79	=79
+1CM	C:maj (E C G)	.	.	voice
+=80	=80	=80	=80	=80
+1FM	F:maj (F A C)	.	.	voice
+=81	=81	=81	=81	=81
+1GM	G:maj (G B D)	newline	.	voice
+=82	=82	=82	=82	=82
+1GMm	G:7 (F G B D)	.	.	voice
+=83	=83	=83	=83	=83
+1CM	C:maj (E C G)	.	.	voice
+=84	=84	=84	=84	=84
+1FM	F:maj (F A C)	.	.	voice
+=85	=85	=85	=85	=85
+1GM	G:maj (G B D)	newline	.	voice
+=86	=86	=86	=86	=86
+1GMm	G:7 (F G B D)	.	.	voice
+=87	=87	=87	=87	=87
+1CM	C:maj (E C G)	.	.	voice
+=88	=88	=88	=88	=88
+1FM	F:maj (F A C)	.	.	voice
+=89	=89	=89	=89	=89
+*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
+1E-M	E-:maj (E- G B-)	newline	.	voice
+=90	=90	=90	=90	=90
+1E-M	E-:maj (E- G B-)	.	.	voice
+=91	=91	=91	=91	=91
+1FM	F:maj (F A C)	.	.	voice
+=92	=92	=92	=92	=92
+1FM	F:maj (F A C)	.	.	voice
+=93	=93	=93	=93	=93
+1E-M	E-:maj (E- G B-)	newline	.	voice
+=94	=94	=94	=94	=94
+1E-M	E-:maj (E- G B-)	.	.	voice
+=95	=95	=95	=95	=95
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+1GM	G:maj (G B D)	newline	.	voice
+=96	=96	=96	=96	=96
+1CM	C:maj (G C E)	.	.	voice
+=97	=97	=97	=97	=97
+1GM	G:maj (G B D)	.	.	voice
+=98	=98	=98	=98	=98
+1CM	C:maj (G C E)	.	.	voice
+=99	=99	=99	=99	=99
+1GM	G:maj (G B D)	newline	.	voice
+=100	=100	=100	=100	=100
+1CM	C:maj (G C E)	.	.	voice
+=101	=101	=101	=101	=101
+1GM	G:maj (G B D)	.	.	voice
+=102	=102	=102	=102	=102
+1CM	C:maj (G C E)	.	.	voice
+=103	=103	=103	=103	=103
+*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+1GM	G:maj (G B D)	newline	.	voice
+=104	=104	=104	=104	=104
+1CM	C:maj (G C E)	.	.	voice
+=105	=105	=105	=105	=105
+1GM	G:maj (G B D)	.	.	voice
 =106	=106	=106	=106	=106
-1GM	G:maj (F G B D)	.	.	voice
+1CM	C:maj (G C E)	.	.	voice
 =107	=107	=107	=107	=107
-1CM	C:maj (E C G)	.	.	voice
+1GM	G:maj (G B D)	newline	.	voice
 =108	=108	=108	=108	=108
-1FM	F:maj (F A C)	.	.	voice
+1CM	C:maj (G C E)	.	.	voice
 =109	=109	=109	=109	=109
-1GM	G:maj (G B D)	newline	202.339	voice
+1GM	G:maj (G B D)	.	.	voice
 =110	=110	=110	=110	=110
-1GM	G:maj (F G B D)	.	.	voice
+1CM	C:maj (G C E)	.	.	voice
 =111	=111	=111	=111	=111
-1CM	C:maj (E C G)	.	.	voice
-=112	=112	=112	=112	=112
-1FM	F:maj (F A C)	.	.	voice
-=113	=113	=113	=113	=113
-1GM	G:maj (G B D)	newline	209.824	voice
-=114	=114	=114	=114	=114
-1GM	G:maj (F G B D)	.	.	voice
-=115	=115	=115	=115	=115
-1CM	C:maj (E C G)	.	.	voice
-=116	=116	=116	=116	=116
-1FM	F:maj (F A C)	.	.	voice
-=117	=117	=117	=117	=117
-*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
-1E-M	E-:maj (E- G B-)	newline	217.31	voice
-=118	=118	=118	=118	=118
-1E-M	E-:maj (E- G B-)	.	.	voice
-=119	=119	=119	=119	=119
-1FM	F:maj (F A C)	.	.	voice
-=120	=120	=120	=120	=120
-1FM	F:maj (F A C)	.	.	voice
-=121	=121	=121	=121	=121
-1E-M	E-:maj (E- G B-)	newline	224.781	voice
-=122	=122	=122	=122	=122
-1E-M	E-:maj (E- G B-)	.	.	voice
-=123	=123	=123	=123	=123
-*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
-1GM	G:maj (G B D)	newline	228.506	voice
-=124	=124	=124	=124	=124
-1CM	C:maj (C E G)	.	.	voice
-=125	=125	=125	=125	=125
-1GM	G:maj (G B D)	.	.	voice
-=126	=126	=126	=126	=126
-1CM	C:maj (C E G)	.	.	voice
-=127	=127	=127	=127	=127
-1GM	G:maj (G B D)	newline	235.984	voice
-=128	=128	=128	=128	=128
-1CM	C:maj (C E G)	.	.	voice
-=129	=129	=129	=129	=129
-1GM	G:maj (G B D)	.	.	voice
-=130	=130	=130	=130	=130
-1CM	C:maj (C E G)	.	.	voice
-=131	=131	=131	=131	=131
-*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
-1GM	G:maj (G B D)	newline	243.494	voice
-=132	=132	=132	=132	=132
-1CM	C:maj (C E G)	.	.	voice
-=133	=133	=133	=133	=133
-1GM	G:maj (G B D)	.	.	voice
-=134	=134	=134	=134	=134
-1CM	C:maj (C E G)	.	.	voice
-=135	=135	=135	=135	=135
-1GM	G:maj (G B D)	newline	250.971	voice
-=136	=136	=136	=136	=136
-1CM	C:maj (C E G)	.	.	voice
-=137	=137	=137	=137	=137
-1GM	G:maj (G B D)	.	.	voice
-=138	=138	=138	=138	=138
-1CM	C:maj (C E G)	.	.	voice
-=139	=139	=139	=139	=139
 *>D_outro	*>D_outro	*>D_outro	*>D_outro	*>D_outro
-1GM	G:maj (G B D)	newline	258.433	voice
-=140	=140	=140	=140	=140
-1CM	C:maj (C E G)	.	.	voice
-=141	=141	=141	=141	=141
+1GM	G:maj (G B D)	newline	.	voice
+=112	=112	=112	=112	=112
+1CM	C:maj (G C E)	.	.	voice
+=113	=113	=113	=113	=113
 1GM	G:maj (G B D)	.	.	voice
-=142	=142	=142	=142	=142
-1CM	C:maj (C E G)	.	.	voice
-=143	=143	=143	=143	=143
-1GM	G:maj (G B D)	newline	265.927	voice
-=144	=144	=144	=144	=144
-1CM	C:maj (C E G)	.	.	voice
-=145	=145	=145	=145	=145
+=114	=114	=114	=114	=114
+1CM	C:maj (G C E)	.	.	voice
+=115	=115	=115	=115	=115
+1GM	G:maj (G B D)	newline	.	voice
+=116	=116	=116	=116	=116
+1CM	C:maj (G C E)	.	.	voice
+=117	=117	=117	=117	=117
 1GM	G:maj (G B D)	.	.	voice
-=146	=146	=146	=146	=146
-1CM	C:maj (C E G)	.	.	voice
-=147	=147	=147	=147	=147
-1GM	G:maj (G B D)	newline	273.392	fadeout
-=148	=148	=148	=148	=148
-1CM	C:maj (C E G)	.	.	fadeout
-=149	=149	=149	=149	=149
+=118	=118	=118	=118	=118
+1CM	C:maj (G C E)	.	.	voice
+=119	=119	=119	=119	=119
+1GM	G:maj (G B D)	newline	.	fadeout
+=120	=120	=120	=120	=120
+1CM	C:maj (G C E)	.	.	fadeout
+=121	=121	=121	=121	=121
 1GM	G:maj (G B D)	.	.	fadeout
-=150	=150	=150	=150	=150
-1CM	C:maj (C E G)	.	.	fadeout
-=151	=151	=151	=151	=151
-1GM	G:maj (G B D)	newline	280.947	fadeout
-=152	=152	=152	=152	=152
-1CM	C:maj (C E G)	.	.	fadeout
-=153	=153	=153	=153	=153
+=122	=122	=122	=122	=122
+1CM	C:maj (G C E)	.	.	fadeout
+=123	=123	=123	=123	=123
+1GM	G:maj (G B D)	newline	.	fadeout
+=124	=124	=124	=124	=124
+1CM	C:maj (G C E)	.	.	fadeout
+=125	=125	=125	=125	=125
 1GM	G:maj (G B D)	.	.	fadeout
-=154	=154	=154	=154	=154
-1CM	C:maj (C E G)	.	.	fadeout
-=155	=155	=155	=155	=155
-1GM	G:maj (G B D)	newline	288.392	voice
-=156	=156	=156	=156	=156
-1CM	C:maj (C E G)	.	.	voice
-=157	=157	=157	=157	=157
-1GM	G:maj (G B D)	.	.	voice
-=158	=158	=158	=158	=158
-1CM	C:maj (C E G)	.	.	voice
-1r;	r	.	295.429	r
-1r;	r	.	299.18	r
+=126	=126	=126	=126	=126
+1CM	C:maj (G C E)	.	.	fadeout
+1r;	r	.	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Sanctify Yourself
 !!!COC: Simple Minds
