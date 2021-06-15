@@ -1,22 +1,22 @@
 **kern	**silbe	**kern	**silbe	**kern	**silbe	**harmony	**chordsym	**phrase	**timestamp	**leadinstrument
 *ICvox	*	*ICvox	*	*ICvox	*	*M4/4	*M4/4	*	*	*
-*	*	*	*	*	*	*d:	*d:	*d:	*d:	*d:
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-*d:	*	*d:	*	*d:	*	*	*	*	*	*
+*d:	*	*d:	*	*d:	*	*d:	*d:	*d:	*d:	*d:
 *M4/4	*	*M4/4	*	*M4/4	*	*	*	*	*	*
 *clefC3	*	*clefF4	*	*clefG2	*	*	*	*	*	*
-1r	.	1r	.	1r	.	1r;	r	.	0	r
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+r;	.	r;	.	r;	.	1r;	r	.	0	r
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *	*	*	*	*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	0.232	synthesizer
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
-=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	6.774	synthesizer
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
@@ -24,13 +24,13 @@
 8fq	_	.	.	.	.	.	.	.	.	.
 2g	Co-	.	.	.	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-6f	-ver	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
+*	*	*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+6f	-ver	1r	.	1r	.	1Dm	D:min (D F A)	newline	13.192	voice
 6f	me	.	.	.	.	.	.	.	.	.
 6r	.	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-*	*	*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-2r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	13.192	voice
+2r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 8dq	_	.	.	.	.	.	.	.	.	.
 4e	when	.	.	.	.	.	.	.	.	.
 4d	I	.	.	.	.	.	.	.	.	.
@@ -44,12 +44,12 @@
 4.g	Co-	.	.	.	.	.	.	.	.	.
 [8f	-ver	.	.	.	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-6f]	_	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
+6f]	_	1r	.	1r	.	1Dm	D:min (D F A)	newline	19.667	voice
 6f	me	.	.	.	.	.	.	.	.	.
 6r	.	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-2r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	19.667	voice
+2r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 8dq	_	.	.	.	.	.	.	.	.	.
 4e	through	.	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.	.
@@ -62,14 +62,14 @@
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
-8d	Some-	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
+8d	Some-	1r	.	1r	.	1Dm	D:min (D F A)	newline	26.125	voice
 4d	-thing	.	.	.	.	.	.	.	.	.
 8f	knocked	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
 4f	me	.	.	.	.	.	.	.	.	.
 8a	out	.	.	.	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-8r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	26.125	voice
+8r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 4a	the	.	.	.	.	.	.	.	.	.
 8fq	_	.	.	.	.	.	.	.	.	.
 [8g	trees	.	.	.	.	.	.	.	.	.
@@ -93,12 +93,12 @@
 4g	co-	.	.	.	.	.	.	.	.	.
 [8f	-ver	.	.	.	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
-8f]	_	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
+8f]	_	1r	.	1r	.	1Dm	D:min (D F A)	newline	32.569	voice
 8f	me	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-2r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	32.569	voice
+2r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 8dq	_	.	.	.	.	.	.	.	.	.
 4e	dar-	.	.	.	.	.	.	.	.	.
 4d	-ling,	.	.	.	.	.	.	.	.	.
@@ -115,14 +115,14 @@
 4a	hey,	.	.	.	.	.	.	.	.	.
 4g	hey,	.	.	.	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-8eq	_	.	.	.	.	.	.	.	.	.
-4f	mon-	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
-4e	-key	.	.	.	.	.	.	.	.	.
-2r	.	.	.	.	.	.	.	.	.	.
-=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 *	*	*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
 8eq	_	.	.	.	.	.	.	.	.	.
 4f	mon-	1r	.	1r	.	1CM	C:maj (C E G)	newline	39.055	voice
+4e	-key	.	.	.	.	.	.	.	.	.
+2r	.	.	.	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+8eq	_	.	.	.	.	.	.	.	.	.
+4f	mon-	1r	.	1r	.	1CM	C:maj (C E G)	.	.	voice
 8e	-key	.	.	.	.	.	.	.	.	.
 [8cc	_	.	.	.	.	.	.	.	.	.
 4.cc]	_	.	.	.	.	.	.	.	.	.
@@ -141,14 +141,14 @@
 8a	gon-	.	.	.	.	.	.	.	.	.
 [8g	-na	.	.	.	.	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-8g]	_	8r	.	1r	.	1CM	C:maj (C E G)	.	.	voice
+8g]	_	8r	.	1r	.	1Dm	D:min (D F A)	newline	45.507	voice
 8a	shock	8f	Shock	.	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.	.
 8g	the	8e	the	.	.	.	.	.	.	.
 4g	mon-	4e	mon-	.	.	.	.	.	.	.
 4f	-key!	4d	-key!	.	.	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-2r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	45.507	voice
+2r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 4g	Hey,	.	.	.	.	.	.	.	.	.
 8ddq	_	.	.	.	.	.	.	.	.	.
 4f	hey!	.	.	.	.	.	.	.	.	.
@@ -160,13 +160,13 @@
 4.g	Fox	.	.	.	.	.	.	.	.	.
 [8f	the	.	.	.	.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-8f]	_	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
+*	*	*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+8f]	_	1r	.	1r	.	1Dm	D:min (D F A)	newline	52.003	voice
 4f	fox	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
-*	*	*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-2r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	52.003	voice
+2r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 8dq	_	.	.	.	.	.	.	.	.	.
 4e	rat	.	.	.	.	.	.	.	.	.
 8d	on	.	.	.	.	.	.	.	.	.
@@ -184,9 +184,9 @@
 8f	the	.	.	.	.	.	.	.	.	.
 8f	ape,	.	.	.	.	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
-1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
+1r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	58.447	voice
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
-4r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	58.447	voice
+4r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 8r	.	.	.	.	.	.	.	.	.	.
 8c	I	.	.	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.	.	.
@@ -203,14 +203,14 @@
 8r	.	.	.	.	.	.	.	.	.	.
 8d	There	.	.	.	.	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
-8d	is	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
+8d	is	1r	.	1r	.	1Dm	D:min (D F A)	newline	64.954	voice
 4d	one	.	.	.	.	.	.	.	.	.
 [8f	thing	.	.	.	.	.	.	.	.	.
 8f]	_	.	.	.	.	.	.	.	.	.
 4f	you	.	.	.	.	.	.	.	.	.
 [8a	must	.	.	.	.	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
-8a]	_	1r	.	1r	.	1Dm	D:min (D F A)	newline	64.954	voice
+8a]	_	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 4f	be	.	.	.	.	.	.	.	.	.
 8fq	_	.	.	.	.	.	.	.	.	.
 8g	sure	.	.	.	.	.	.	.	.	.
@@ -232,11 +232,11 @@
 8fq	_	.	.	.	.	.	.	.	.	.
 4g	Dar-	.	.	.	.	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
-4f	-ling	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
+4f	-ling	1r	.	1r	.	1Dm	D:min (D F A)	newline	71.417	voice
 4r	.	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
-8r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	71.417	voice
+8r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 8a	don't	.	.	.	.	.	.	.	.	.
 8g	_	.	.	.	.	.	.	.	.	.
 8f	you	.	.	.	.	.	.	.	.	.
@@ -258,14 +258,14 @@
 4a	hey,	.	.	.	.	.	.	.	.	.
 4g	hey,	.	.	.	.	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
-8eq	_	.	.	.	.	.	.	.	.	.
-4f	mon-	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
-4e	-key	.	.	.	.	.	.	.	.	.
-2r	.	.	.	.	.	.	.	.	.	.
-=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
 *	*	*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
 8eq	_	.	.	.	.	.	.	.	.	.
 4f	mon-	1r	.	1r	.	1CM	C:maj (C E G)	newline	77.858	voice
+4e	-key	.	.	.	.	.	.	.	.	.
+2r	.	.	.	.	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+8eq	_	.	.	.	.	.	.	.	.	.
+4f	mon-	1r	.	1r	.	1CM	C:maj (C E G)	.	.	voice
 8e	-key	.	.	.	.	.	.	.	.	.
 [8cc	_	.	.	.	.	.	.	.	.	.
 4.cc]	_	.	.	.	.	.	.	.	.	.
@@ -284,14 +284,14 @@
 8a	gon-	.	.	.	.	.	.	.	.	.
 [8g	-na	.	.	.	.	.	.	.	.	.
 =53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53
-8g]	_	8r	.	1r	.	1CM	C:maj (C E G)	.	.	voice
+8g]	_	8r	.	1r	.	1Dm	D:min (D F A)	newline	84.332	voice
 8a	shock	8f	Shock	.	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.	.
 8g	the	8e	the	.	.	.	.	.	.	.
 4g	mon-	4e	mon-	.	.	.	.	.	.	.
 4f	-key	4d	-key!	.	.	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
-2r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	84.332	voice
+2r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 4g	Hey,	.	.	.	.	.	.	.	.	.
 8ddq	_	.	.	.	.	.	.	.	.	.
 4f	hey	.	.	.	.	.	.	.	.	.
@@ -311,18 +311,18 @@
 4a	hey,	.	.	.	.	.	.	.	.	.
 4g	hey,	.	.	.	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
-8f	yeah	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
+*	*	*	*	*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+8f	yeah	1r	.	1r	.	1Dm	D:5 (D A)	newline	90.824	voice
 4d	_	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
-*	*	*	*	*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
-2r	.	1r	.	1r	.	1Dm	D:5 (D A)	newline	90.824	voice
+2r	.	1r	.	1r	.	1Dm	D:5 (D A)	.	.	voice
 4r	.	.	.	.	.	.	.	.	.	.
 8gq	_	.	.	.	.	.	.	.	.	.
 4a	Mon-	.	.	.	.	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
-4g	-key	1r	.	1r	.	1Dm	D:5 (D A)	.	.	voice
+4g	-key	1r	.	1r	.	1CM	C:5 (C G)	.	.	voice
 4r	.	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
@@ -334,43 +334,43 @@
 4e	tur-	.	.	.	.	.	.	.	.	.
 4d	-ning...	.	.	.	.	.	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
-1r	.	1r	.	1r	.	1CM	C:5 (C G)	.	.	voice
+1r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	97.283	voice
 =62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62
 *	*	*clefG2	*	*	*	*	*	*	*	*
-1r	.	2r	.	1r	.	1Dm	D:min (D F A)	newline	97.283	voice
+1r	.	2r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 .	.	8r	.	.	.	.	.	.	.	.
 .	.	8d	A	.	.	.	.	.	.	.
 .	.	4d	mon-	.	.	.	.	.	.	.
 =63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
 .	.	8ccq	_	.	.	.	.	.	.	.
-1r	.	2.dd	-key	1r	.	1Dm	D:min (D F A)	.	.	voice
+1r	.	2.dd	-key	1r	.	1CM	C:5 (C G)	.	.	voice
 .	.	[4cc	_	.	.	.	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
 8fq	_	.	.	.	.	.	.	.	.	.
-4g	Some-	4cc]	_	1r	.	1CM	C:5 (C G)	.	.	voice
+4g	Some-	4cc]	_	1r	.	1CM	C:sus4 (C F G)	.	.	voice
 4f	-thing's	4r	.	.	.	.	.	.	.	.
 8dq	_	8ddq	_	.	.	.	.	.	.	.
 4e	bur-	[2ee	yeah	.	.	.	.	.	.	.
 [4d	-ning	.	.	.	.	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
-8d]	_	4ee]	_	1r	.	1CM	C:sus4 (C F G)	.	.	voice
+8d]	_	4ee]	_	1r	.	1Dm	D:min (D F A)	newline	103.743	voice
 8r	.	.	.	.	.	.	.	.	.	.
 4r	.	2.dd	_	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
-1r	.	2r	.	1r	.	1Dm	D:min (D F A)	newline	103.743	voice
+1r	.	2r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 .	.	4r	.	.	.	.	.	.	.	.
 .	.	8gq	_	.	.	.	.	.	.	.
 .	.	4a	Mon-	.	.	.	.	.	.	.
 =67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67
-4r	.	4g	-key	1r	.	1Dm	D:min (D F A)	.	.	voice
+4r	.	4g	-key	1r	.	1CM	C:maj (C E G)	.	.	voice
 4g	Don't	4r	.	.	.	.	.	.	.	.
 8g	like	2r	.	.	.	.	.	.	.	.
 8f	it	.	.	.	.	.	.	.	.	.
 8g	but	.	.	.	.	.	.	.	.	.
 8f	I	.	.	.	.	.	.	.	.	.
 =68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68
-8a	guess	1r	.	1r	.	1CM	C:maj (C E G)	.	.	voice
+8a	guess	1r	.	1r	.	1CM	C:sus4 (C F G)	.	.	voice
 4g	I'm	.	.	.	.	.	.	.	.	.
 8fq	_	.	.	.	.	.	.	.	.	.
 [8g	lear	.	.	.	.	.	.	.	.	.
@@ -378,9 +378,9 @@
 8.f	ning!	.	.	.	.	.	.	.	.	.
 8.r	.	.	.	.	.	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
-1r	.	1r	.	1r	.	1CM	C:sus4 (C F G)	.	.	voice
+1r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	newline	110.219	guitar
 =70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
-2r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	newline	110.219	guitar
+2r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	.	.	guitar
 8r	.	.	.	.	.	.	.	.	.	.
 4G	Shock!	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
@@ -392,14 +392,14 @@
 4G	Shock!	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
 =73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
-1r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	.	.	guitar
+1r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	newline	116.653	guitar
 =74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
-2r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	newline	116.653	guitar
+2r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	.	.	guitar
 8r	.	.	.	.	.	.	.	.	.	.
 4G	Shock!	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
 =75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
-8r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	.	.	guitar
+8r	.	1r	.	1r	.	1CM	C:sus4 (C F G)	.	.	guitar
 4a	Watch	.	.	.	.	.	.	.	.	.
 8g	the	.	.	.	.	.	.	.	.	.
 6g	mon-	.	.	.	.	.	.	.	.	.
@@ -407,24 +407,24 @@
 6g	get	.	.	.	.	.	.	.	.	.
 =76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76
 8gq	_	.	.	.	.	.	.	.	.	.
-4a	hurt	1r	.	1r	.	1CM	C:sus4 (C F G)	.	.	guitar
+4a	hurt	1r	.	1r	.	1Dm	D:min (D F A)	.	.	guitar
 4r	.	.	.	.	.	.	.	.	.	.
 8fq	_	.	.	.	.	.	.	.	.	.
 4g	mon-	.	.	.	.	.	.	.	.	.
 4f	-key!	.	.	.	.	.	.	.	.	.
 =77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77
-1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	guitar
-=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78
 *	*	*	*	*	*	*>A_instrumental	*>A_instrumental	*>A_instrumental	*>A_instrumental	*>A_instrumental
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	123.134	synthesizer
+=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78
+1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81
-1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
-=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	129.659	synthesizer
+=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82
+1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84
@@ -433,13 +433,13 @@
 4.g	Co-	.	.	.	.	.	.	.	.	.
 [8f	-ver	.	.	.	.	.	.	.	.	.
 =85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85
-8f]	_	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
+*	*	*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+8f]	_	1r	.	1r	.	1Dm	D:min (D F A)	newline	136.042	voice
 8f	me	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.	.
 =86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86
-*	*	*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-2r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	136.042	voice
+2r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 8dq	_	.	.	.	.	.	.	.	.	.
 4e	when	.	.	.	.	.	.	.	.	.
 [4d	I	.	.	.	.	.	.	.	.	.
@@ -454,12 +454,12 @@
 4.g	Co-	.	.	.	.	.	.	.	.	.
 [8f	-ver	.	.	.	.	.	.	.	.	.
 =89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89
-8f]	_	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
+8f]	_	1r	.	1r	.	1Dm	D:min (D F A)	newline	142.543	voice
 4f	me	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.	.
 =90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90
-2r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	142.543	voice
+2r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 8e	when	.	.	.	.	.	.	.	.	.
 4.d	I	.	.	.	.	.	.	.	.	.
 =91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91
@@ -472,14 +472,14 @@
 8r	.	.	.	.	.	.	.	.	.	.
 8A	You	.	.	.	.	.	.	.	.	.
 =93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93
-8d	throw	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
+8d	throw	1r	.	1r	.	1Dm	D:min (D F A)	newline	149.002	voice
 4d	your	.	.	.	.	.	.	.	.	.
 [8f	pearls	.	.	.	.	.	.	.	.	.
 8f]	_	.	.	.	.	.	.	.	.	.
 4f	be-	.	.	.	.	.	.	.	.	.
 [8a	-fore	.	.	.	.	.	.	.	.	.
 =94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94
-8a]	_	1r	.	1r	.	1Dm	D:min (D F A)	newline	149.002	voice
+8a]	_	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 4a	the	.	.	.	.	.	.	.	.	.
 8fq	_	.	.	.	.	.	.	.	.	.
 [8g	swine	.	.	.	.	.	.	.	.	.
@@ -503,12 +503,12 @@
 4g	Co-	.	.	.	.	.	.	.	.	.
 [8f	-ver	.	.	.	.	.	.	.	.	.
 =97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
-8f]	_	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
+8f]	_	1r	.	1r	.	1Dm	D:min (D F A)	newline	155.472	voice
 4f	me	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.	.
 =98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98
-2r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	155.472	voice
+2r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 4e	dar-	.	.	.	.	.	.	.	.	.
 4d	-ling,	.	.	.	.	.	.	.	.	.
 =99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
@@ -524,18 +524,18 @@
 4a	hey,	.	.	.	.	.	.	.	.	.
 4g	hey,	.	.	.	.	.	.	.	.	.
 =101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
-8f	yeah	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
+*	*	*	*	*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+8f	yeah	1r	.	1r	.	1Dm	D:5 (D A)	newline	161.969	voice
 4d	_	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.	.
 =102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102
-*	*	*	*	*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
-2r	.	1r	.	1r	.	1Dm	D:5 (D A)	newline	161.969	voice
+2r	.	1r	.	1r	.	1Dm	D:5 (D A)	.	.	voice
 4r	.	.	.	.	.	.	.	.	.	.
 8gq	_	.	.	.	.	.	.	.	.	.
 4a	Mon-	.	.	.	.	.	.	.	.	.
 =103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103
-4g	-key	1r	.	1r	.	1Dm	D:5 (D A)	.	.	voice
+4g	-key	1r	.	1r	.	1CM	C:5 (C G)	.	.	voice
 4r	.	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.	.
 =104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104
@@ -545,15 +545,15 @@
 8cq	_	.	.	.	.	.	.	.	.	.
 4d	stake!	.	.	.	.	.	.	.	.	.
 =105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105
-1r	.	1r	.	1r	.	1CM	C:5 (C G)	.	.	voice
+1r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	168.443	voice
 =106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106
-1r	.	2r	.	1r	.	1Dm	D:min (D F A)	newline	168.443	voice
+1r	.	2r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 .	.	8r	.	.	.	.	.	.	.	.
 .	.	8d	A	.	.	.	.	.	.	.
 .	.	4d	mon-	.	.	.	.	.	.	.
 =107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107
 .	.	8ccq	_	.	.	.	.	.	.	.
-1r	.	2.dd	-key	1r	.	1Dm	D:min (D F A)	.	.	voice
+1r	.	2.dd	-key	1r	.	1CM	C:sus4 (C F G)	.	.	voice
 .	.	[4cc	_	.	.	.	.	.	.	.
 =108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108
 8fq	_	.	.	.	.	.	.	.	.	.
@@ -564,16 +564,16 @@
 8e]	_	[2ee	yeah	.	.	.	.	.	.	.
 4.c	me,	.	.	.	.	.	.	.	.	.
 =109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109
-4d	shake	4ee]	_	1r	.	1CM	C:sus4 (C F G)	.	.	voice
+4d	shake	4ee]	_	1r	.	1Dm	D:min (D F A)	newline	174.897	voice
 4r	.	2.dd	_	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.	.
 =110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110
-1r	.	2r	.	1r	.	1Dm	D:min (D F A)	newline	174.897	voice
+1r	.	2r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
 .	.	4r	.	.	.	.	.	.	.	.
 .	.	8gq	_	.	.	.	.	.	.	.
 .	.	4a	Mon-	.	.	.	.	.	.	.
 =111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111
-2r	.	4g	-key	1r	.	1Dm	D:min (D F A)	.	.	voice
+2r	.	4g	-key	1r	.	1CM	C:maj (C E G)	.	.	voice
 .	.	4r	.	.	.	.	.	.	.	.
 8r	.	2r	.	.	.	.	.	.	.	.
 8d	And	.	.	.	.	.	.	.	.	.
@@ -587,9 +587,9 @@
 8g]	_	.	.	.	.	.	.	.	.	.
 4.f	king!	.	.	.	.	.	.	.	.	.
 =113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113
-1r	.	1r	.	1r	.	1CM	C:maj (C E G)	.	.	voice
+1r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	newline	181.387	guitar
 =114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114
-2r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	newline	181.387	guitar
+2r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	.	.	guitar
 8r	.	.	.	.	.	.	.	.	.	.
 4G	Shock!	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
@@ -601,14 +601,14 @@
 4G	Shock!	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
 =117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117
-1r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	.	.	guitar
+1r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	newline	187.899	guitar
 =118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118
-2r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	newline	187.899	guitar
+2r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	.	.	guitar
 8r	.	.	.	.	.	.	.	.	.	.
 4G	Shock!	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
 =119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119
-8r	.	1r	.	1r	.	1B-M	B-:maj (B- D F)	.	.	guitar
+8r	.	1r	.	1r	.	1CM	C:maj (C E G)	.	.	guitar
 4a	Watch	.	.	.	.	.	.	.	.	.
 8g	the	.	.	.	.	.	.	.	.	.
 6g	mon-	.	.	.	.	.	.	.	.	.
@@ -616,18 +616,18 @@
 6g	get	.	.	.	.	.	.	.	.	.
 =120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120
 8gq	_	.	.	.	.	.	.	.	.	.
-4a	hurt	1r	.	1r	.	1CM	C:maj (C E G)	.	.	guitar
+4a	hurt	1r	.	1r	.	1Dm	D:min (D F A)	.	.	guitar
 4r	.	.	.	.	.	.	.	.	.	.
 8fq	_	.	.	.	.	.	.	.	.	.
 4g	Mon-	.	.	.	.	.	.	.	.	.
 4f	-key!	.	.	.	.	.	.	.	.	.
 =121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121
-1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	guitar
-=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122
 *	*	*	*	*	*	*>E_outro	*>E_outro	*>E_outro	*>E_outro	*>E_outro
 1r	.	1r	.	1r	.	1FM	F:maj (F A C)	newline	194.343	synthesizer
+=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122
+1r	.	1r	.	1r	.	1Am	A:min (E A C)	.	.	synthesizer
 =123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123
-8r	.	1r	.	1r	.	1Am	A:min (E A C)	.	.	synthesizer
+8r	.	1r	.	1r	.	1Dmm	D:min7 (D F A C)	.	.	synthesizer
 8a	Shock	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
 8g	the	.	.	.	.	.	.	.	.	.
@@ -636,11 +636,11 @@
 =124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124
 1r	.	1r	.	1r	.	1Dmm	D:min7 (D F A C)	.	.	synthesizer
 =125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125
-1r	.	1r	.	1r	.	1Dmm	D:min7 (D F A C)	.	.	synthesizer
-=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126
 1r	.	1r	.	1r	.	1FM	F:maj (F A C)	newline	200.805	synthesizer
+=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126
+1r	.	1r	.	1r	.	1Am	A:min (E A C)	.	.	synthesizer
 =127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127
-8r	.	1r	.	1r	.	1Am	A:min (E A C)	.	.	synthesizer
+8r	.	1r	.	1r	.	1Dmm	D:min7 (D F A C)	.	.	synthesizer
 8a	Shock	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
 8g	the	.	.	.	.	.	.	.	.	.
@@ -649,7 +649,7 @@
 =128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128
 1r	.	1r	.	1r	.	1Dmm	D:min7 (D F A C)	.	.	synthesizer
 =129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129
-1r	.	4d	Shock	1r	.	1Dmm	D:min7 (D F A C)	.	.	synthesizer
+1r	.	4d	Shock	1r	.	1Dm	D:min (D F A)	newline	207.308	synthesizer
 .	.	8d	the	.	.	.	.	.	.	.
 .	.	8e	mon	.	.	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.	.	.
@@ -657,7 +657,7 @@
 .	.	8e	to	.	.	.	.	.	.	.
 .	.	8d	life!	.	.	.	.	.	.	.
 =130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
-1r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	207.308	synthesizer
+1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131
 1r	.	4d	Shock	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 .	.	8d	the	.	.	.	.	.	.	.
@@ -669,7 +669,7 @@
 =132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133
-8r	.	4d	Shock	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
+8r	.	4d	Shock	1r	.	1Dm	D:min (D F A)	newline	213.753	synthesizer
 8d	Huh	.	.	.	.	.	.	.	.	.
 4r	.	8d	the	.	.	.	.	.	.	.
 .	.	8e	mon	.	.	.	.	.	.	.
@@ -678,7 +678,7 @@
 .	.	8e	to	.	.	.	.	.	.	.
 8d	huh!	8d	life!	.	.	.	.	.	.	.
 =134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134
-1r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	213.753	synthesizer
+1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135
 1r	.	4d	Shock	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 .	.	8d	the	.	.	.	.	.	.	.
@@ -691,7 +691,7 @@
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137
 *clefG2	*	*	*	*	*	*	*	*	*	*
-8r	.	4d	Shock	8r	.	1Dm	D:min (D F A)	.	.	synthesizer
+8r	.	4d	Shock	8r	.	1Dm	D:min (D F A)	newline	220.27	synthesizer
 8a	Shock	.	.	8d	Huh	.	.	.	.	.
 8r	.	8d	the	4r	.	.	.	.	.	.
 8g	the	8e	mon	.	.	.	.	.	.	.
@@ -700,7 +700,7 @@
 4f	-key!	8e	to	.	.	.	.	.	.	.
 .	.	8d	life!	8d	huh!	.	.	.	.	.
 =138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138
-8r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	220.27	synthesizer
+8r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 8ggq	_	.	.	.	.	.	.	.	.	.
 8aa	Shock	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
@@ -725,11 +725,11 @@
 4dd	mon-	.	.	.	.	.	.	.	.	.
 4cc	-key!	.	.	.	.	.	.	.	.	.
 =141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141
-1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
-=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142
 1r	.	1r	.	1r	.	1FM	F:maj (F A C)	newline	226.761	synthesizer
+=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142
+1r	.	1r	.	1r	.	1Am	A:min (E A C)	.	.	synthesizer
 =143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143
-8r	.	1r	.	1r	.	1Am	A:min (E A C)	.	.	synthesizer
+8r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 8a	Shock	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
 8g	the	.	.	.	.	.	.	.	.	.
@@ -738,7 +738,7 @@
 =144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
 =145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145
-4d	Shock	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
+4d	Shock	1r	.	1r	.	1Dm	D:min (D F A)	newline	233.232	voice
 8d	the	.	.	.	.	.	.	.	.	.
 8f	mon	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
@@ -746,13 +746,10 @@
 8e	to	.	.	.	.	.	.	.	.	.
 8d	life!	.	.	.	.	.	.	.	.	.
 =146	=146	=146	=146	=146	=146	=146	=146	=146	=146	=146
-1r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	233.232	voice
-*-	*-	*-	*-	*-	*-	*	*	*	*	*	*
-=146	=146	=146	=146	=146
-1Dm	D:min (D F A)	.	.	voice
-1r;	r	.	235.845	r
-1r;	r	.	239.047	r
-*-	*-	*-	*-	*-
+1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	voice
+r;	.	r;	.	r;	.	1r;	r	.	235.845	r
+r;	.	r;	.	r;	.	1r;	r	.	239.047	r
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1982/11/06, 1982/12/04
 !!!BillboardPeak: 29, 29
 !!!BillboardWeeksOnChart: 18, 18

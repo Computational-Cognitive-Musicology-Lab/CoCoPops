@@ -1,18 +1,18 @@
 **kern	**silbe	**kern	**silbe	**harmony	**chordsym	**phrase	**timestamp	**leadinstrument
 *ICvox	*	*ICvox	*	*M4/4	*M4/4	*	*	*
-*	*	*	*	*G:	*G:	*	*	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1
-*G:	*	*G:	*	*	*	*	*	*
+*G:	*	*G:	*	*G:	*G:	*	*	*
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefF4	*	*clefF4	*	*	*	*	*	*
-1r	.	4r	.	1r;	r	.	0	r
+r;	.	1r	.	1r;	r	.	0	r
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1r	.	4r	.	1DMm	D:7 (D F# A C)	newline	0.488	r
 .	.	4D c d	Woo,	.	.	.	.	.
 .	.	4D c d	woo!	.	.	.	.	.
 .	.	8D A c	_	.	.	.	.	.
 .	.	8D F# A	_	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2
-*	*	*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
-8.r	.	1r	.	1DMm	D:7 (D F# A C)	newline	0.488	r
+8.r	.	1r	.	1N	N	.	.	r
 16F#	You	.	.	.	.	.	.	.
 16A	know,	.	.	.	.	.	.	.
 16F#	I'm	.	.	.	.	.	.	.
@@ -41,14 +41,14 @@
 16c	school!	.	.	.	.	.	.	.
 [8d	_	.	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5
-4d]	_	4r	.	1N	N	.	.	r
+*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+4d]	_	4r	.	1GMm	G:7 (G B D F)	newline	6.593	voice
 4r	.	[4B [d [g	Hi	.	.	.	.	.
 2r	.	4B] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
 .	.	8G B d	-way!	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-8r	.	4r	.	1GMm	G:7 (G B D F)	newline	6.593	voice
+8r	.	4r	.	1GMm	G:7 (G B D F)	.	.	voice
 8d	They	.	.	.	.	.	.	.
 8B	ain't	8r	.	.	.	.	.	.
 8c	said	8B d	Woo,	.	.	.	.	.
@@ -73,13 +73,13 @@
 8B	in	4B d	woo!	.	.	.	.	.
 [8c	Dutch!	.	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9
-4c]	_	4r	.	1GMm	G:7 (G B D F)	.	.	voice
+4c]	_	4r	.	1CMm	C:7 (C E G B-)	newline	12.756	voice
 4r	.	[4B- [d [g	Hi	.	.	.	.	.
 2r	.	4B-] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
 .	.	8G B- d	-way!	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10
-8r	.	4r	.	1CMm	C:7 (C E G B-)	newline	12.756	voice
+8r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
 8d-	I	.	.	.	.	.	.	.
 8.c	don't	8r	.	.	.	.	.	.
 .	.	8B- d	Woo,	.	.	.	.	.
@@ -90,7 +90,7 @@
 8c]	_	4B- d	woo!	.	.	.	.	.
 8B	too	.	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11
-16c	much!	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
+16c	much!	4r	.	1GMm	G:7 (G B D F)	.	.	voice
 8.d	_	.	.	.	.	.	.	.
 2.r	.	[4B [d [g	Hi	.	.	.	.	.
 .	.	4B] d] g]	_	.	.	.	.	.
@@ -111,14 +111,14 @@
 16B	a-	.	.	.	.	.	.	.
 [16c	-lone!	.	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13
-16c]	_	4r	.	1GMm	G:7 (G B D F)	.	.	voice
+16c]	_	4r	.	1DMm	D:7 (D F# A C)	newline	18.918	voice
 8.d	_	.	.	.	.	.	.	.
 4r	.	4B d	Ha,	.	.	.	.	.
 2r	.	4B d f#	woo,	.	.	.	.	.
 .	.	8B d f#	woo!	.	.	.	.	.
 .	.	8A c e	_	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14
-8r	.	4r	.	1DMm	D:7 (D F# A C)	newline	18.918	voice
+8r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
 16f	A-	.	.	.	.	.	.	.
 16d	-ny-	.	.	.	.	.	.	.
 8.c	-way,	8r	.	.	.	.	.	.
@@ -129,7 +129,7 @@
 16c]	_	4B- d	woo!	.	.	.	.	.
 8.c	most	.	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15
-8c	grown!	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
+8c	grown!	4r	.	1GMm	G:7 (G B D F)	.	.	voice
 8d	_	.	.	.	.	.	.	.
 4r	.	[4B [d [g	Hi	.	.	.	.	.
 2r	.	4B] d] g]	_	.	.	.	.	.
@@ -148,14 +148,14 @@
 16c	mob!	.	.	.	.	.	.	.
 8d	_	.	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17
-1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	voice
+*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1r	.	4r	.	1GMm	G:7 (G B D F)	newline	25.063	voice
 .	.	[4B [d [g	Hi	.	.	.	.	.
 .	.	4B] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
 .	.	8G B d	-way!	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-6r	.	4r	.	1GMm	G:7 (G B D F)	newline	25.063	voice
+6r	.	4r	.	1GMm	G:7 (G B D F)	.	.	voice
 6d	Got	.	.	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.
 6B	my-	.	.	.	.	.	.	.
@@ -183,13 +183,13 @@
 12B	-tle	.	.	.	.	.	.	.
 [12d	car!	.	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21
-4d]	_	4r	.	1GMm	G:7 (G B D F)	.	.	voice
+4d]	_	4r	.	1CMm	C:7 (C E G B-)	newline	31.398	voice
 4r	.	[4B- [d [g	Hi	.	.	.	.	.
 2r	.	4B-] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
 .	.	8G B- d	-way!	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22
-4r	.	4r	.	1CMm	C:7 (C E G B-)	newline	31.398	voice
+4r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
 6c	Drive	8r	.	.	.	.	.	.
 .	.	8B- d	Woo,	.	.	.	.	.
 6c	my	.	.	.	.	.	.	.
@@ -199,7 +199,7 @@
 12c	the	.	.	.	.	.	.	.
 12c	park!	.	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23
-4d	_	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
+4d	_	4r	.	1GMm	G:7 (G B D F)	.	.	voice
 4r	.	[4B [d [g	Hi	.	.	.	.	.
 2r	.	4B] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
@@ -215,13 +215,13 @@
 8B	us	4B d	woo!	.	.	.	.	.
 8c	'lone!	.	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25
-4d	_	4r	.	1GMm	G:7 (G B D F)	.	.	voice
+4d	_	4r	.	1DMm	D:7 (D F# A C)	newline	37.62	voice
 4r	.	4B d f#	Woo,	.	.	.	.	.
 2r	.	4B d f#	woo,	.	.	.	.	.
 .	.	8B d f#	woo!	.	.	.	.	.
 .	.	8A c e	_	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26
-8r	.	4r	.	1DMm	D:7 (D F# A C)	newline	37.62	voice
+8r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
 16f	A-	.	.	.	.	.	.	.
 16d	-ny-	.	.	.	.	.	.	.
 8.c	-way,	8r	.	.	.	.	.	.
@@ -232,7 +232,7 @@
 16c]	_	4B- d	woo!	.	.	.	.	.
 8.c	most	.	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27
-8c	grown!	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
+8c	grown!	4r	.	1GMm	G:7 (G B D F)	.	.	voice
 8d	_	.	.	.	.	.	.	.
 4r	.	[4B [d [g	Hi	.	.	.	.	.
 2r	.	4B] d] g]	_	.	.	.	.	.
@@ -247,14 +247,14 @@
 .	.	8D c d	-tack-	.	.	.	.	.
 .	.	8D c d	-a...	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29
-1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	voice
+*	*	*	*	*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
+1r	.	4r	.	1GMm	G:7 (G B D F)	newline	43.806	piano
 .	.	[4B [d [g	Hi	.	.	.	.	.
 .	.	4B] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
 .	.	8G B d	-way!	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30
-*	*	*	*	*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
-1r	.	4r	.	1GMm	G:7 (G B D F)	newline	43.806	piano
+1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	piano
 .	.	8r	.	.	.	.	.	.
 .	.	8B d	Woo,	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
@@ -272,19 +272,19 @@
 .	.	4r	.	.	.	.	.	.
 .	.	4B d	woo!	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33
-1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	piano
+1r	.	4r	.	1CMm	C:7 (C E G B-)	newline	50.069	piano
 .	.	[4B- [d [g	Hi	.	.	.	.	.
 .	.	4B-] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
 .	.	8G B- d	-way!	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34
-4r	.	4r	.	1CMm	C:7 (C E G B-)	newline	50.069	piano
+4r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	piano
 8r	.	8r	.	.	.	.	.	.
 8ee	Oh!	8B- d	Woo,	.	.	.	.	.
 2r	.	4r	.	.	.	.	.	.
 .	.	4B- d	woo!	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35
-1r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	piano
+1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	piano
 .	.	[4B [d [g	Hi	.	.	.	.	.
 .	.	4B] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
@@ -296,19 +296,19 @@
 2r	.	4r	.	.	.	.	.	.
 .	.	4B d	woo!	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37
-1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	piano
+1r	.	4r	.	1DMm	D:7 (D F# A C)	newline	56.431	piano
 .	.	4B d	Woo,	.	.	.	.	.
 .	.	4B d f#	woo,	.	.	.	.	.
 .	.	8B d f#	woo!	.	.	.	.	.
 .	.	8A c e	_	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38	=38
-1r	.	4r	.	1DMm	D:7 (D F# A C)	newline	56.431	piano
+1r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	piano
 .	.	8r	.	.	.	.	.	.
 .	.	8B- d	Woo,	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
 .	.	4B- d	woo!	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39
-1r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	piano
+1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	piano
 .	.	[4B [d [g	Hi	.	.	.	.	.
 .	.	4B] d] g]	_	.	.	.	.	.
 .	.	4A c e	de-	.	.	.	.	.
@@ -324,14 +324,14 @@
 12B	-tle	.	.	.	.	.	.	.
 12c	girl!	.	.	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41
-4d	_	4r	.	1GMm	G:7 (G B D F)	.	.	piano
+*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+4d	_	4r	.	1GMm	G:7 (G B D F)	newline	62.756	voice
 4r	.	[4B [d [g	Hi	.	.	.	.	.
 2r	.	4B] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
 .	.	8G B d	-way!	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-8r	.	4r	.	1GMm	G:7 (G B D F)	newline	62.756	voice
+8r	.	4r	.	1GMm	G:7 (G B D F)	.	.	voice
 [8B	Ah,	.	.	.	.	.	.	.
 4B]	_	8r	.	.	.	.	.	.
 .	.	8B d	Woo,	.	.	.	.	.
@@ -360,14 +360,14 @@
 16c	to	.	.	.	.	.	.	.
 8B	a	.	.	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45
-16c	dance,	4r	.	1GMm	G:7 (G B D F)	.	.	voice
+16c	dance,	4r	.	1CMm	C:7 (C E G B-)	newline	69.132	voice
 8.d	_	.	.	.	.	.	.	.
 4r	.	[4B- [d [g	Hi	.	.	.	.	.
 2r	.	4B-] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
 .	.	8G B- d	-way!	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46
-8r	.	4r	.	1CMm	C:7 (C E G B-)	newline	69.132	voice
+8r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
 8c	she	.	.	.	.	.	.	.
 16f#	stea-	8r	.	.	.	.	.	.
 8d-	-dy	.	.	.	.	.	.	.
@@ -379,7 +379,7 @@
 16c]	_	4B- d	woo!	.	.	.	.	.
 8.B	ro-	.	.	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47	=47
-16c	-mance!	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
+16c	-mance!	4r	.	1GMm	G:7 (G B D F)	.	.	voice
 8.d	_	.	.	.	.	.	.	.
 4r	.	[4B [d [g	Hi	.	.	.	.	.
 2r	.	4B] d] g]	_	.	.	.	.	.
@@ -399,13 +399,13 @@
 32c	'lone!	.	.	.	.	.	.	.
 16r	.	.	.	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49
-4d	_	4r	.	1GMm	G:7 (G B D F)	.	.	voice
+4d	_	4r	.	1DMm	D:7 (D F# A C)	newline	75.374	voice
 4r	.	4B d	Woo,	.	.	.	.	.
 2r	.	4B d f#	woo,	.	.	.	.	.
 .	.	8B d f#	woo!	.	.	.	.	.
 .	.	8A c e	_	.	.	.	.	.
 =50	=50	=50	=50	=50	=50	=50	=50	=50
-8r	.	4r	.	1DMm	D:7 (D F# A C)	newline	75.374	voice
+8r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
 16f	A-	.	.	.	.	.	.	.
 16d	-ny-	.	.	.	.	.	.	.
 8.c	-way,	8r	.	.	.	.	.	.
@@ -416,7 +416,7 @@
 16c]	_	4B- d	woo!	.	.	.	.	.
 8.c	most	.	.	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51	=51
-8c	grown!	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
+8c	grown!	4r	.	1GMm	G:7 (G B D F)	.	.	voice
 8d	_	.	.	.	.	.	.	.
 4r	.	[4B [d [g	Hi	.	.	.	.	.
 2r	.	4B] d] g]	_	.	.	.	.	.
@@ -431,14 +431,14 @@
 .	.	8D c d	-tack-	.	.	.	.	.
 .	.	8D c d	-a...	.	.	.	.	.
 =53	=53	=53	=53	=53	=53	=53	=53	=53
-1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	voice
+*	*	*	*	*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
+1r	.	4r	.	1GMm	G:7 (G B D F)	newline	81.688	guitar
 .	.	[4B [d [g	Hi	.	.	.	.	.
 .	.	4B] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
 .	.	8G B d	-way!	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54	=54	=54
-*	*	*	*	*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
-1r	.	4r	.	1GMm	G:7 (G B D F)	newline	81.688	guitar
+1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	guitar
 .	.	8r	.	.	.	.	.	.
 .	.	8B d	Woo,	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
@@ -456,19 +456,19 @@
 .	.	4r	.	.	.	.	.	.
 .	.	4B d	woo!	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57
-1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	4r	.	1CMm	C:7 (C E G B-)	newline	88.035	guitar
 .	.	[4B- [d [g	Hi	.	.	.	.	.
 .	.	4B-] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
 .	.	8G B- d	-way!	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58
-1r	.	4r	.	1CMm	C:7 (C E G B-)	newline	88.035	guitar
+1r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	guitar
 .	.	8r	.	.	.	.	.	.
 .	.	8B- d	Woo,	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
 .	.	4B- d	woo!	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59
-1r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	guitar
+1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	guitar
 .	.	[4B [d [g	Hi	.	.	.	.	.
 .	.	4B] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
@@ -480,19 +480,19 @@
 .	.	4r	.	.	.	.	.	.
 .	.	4B d	woo!	.	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61
-1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	4r	.	1DMm	D:7 (D F# A C)	newline	94.403	guitar
 .	.	4B d	Woo,	.	.	.	.	.
 .	.	4B d f#	woo,	.	.	.	.	.
 .	.	8B d f#	woo!	.	.	.	.	.
 .	.	8A c e	_	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62	=62
-1r	.	4r	.	1DMm	D:7 (D F# A C)	newline	94.403	guitar
+1r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	guitar
 .	.	8r	.	.	.	.	.	.
 .	.	8B- d	Woo,	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
 .	.	4B- d	woo!	.	.	.	.	.
 =63	=63	=63	=63	=63	=63	=63	=63	=63
-1r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	guitar
+1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	guitar
 .	.	[4B [d [g	Hi	.	.	.	.	.
 .	.	4B] d] g]	_	.	.	.	.	.
 .	.	4A c e	de-	.	.	.	.	.
@@ -508,14 +508,14 @@
 8c	town!	.	.	.	.	.	.	.
 [8d	_	.	.	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65
-4d]	_	4r	.	1GMm	G:7 (G B D F)	.	.	guitar
+*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+4d]	_	4r	.	1GMm	G:7 (G B D F)	newline	100.846	voice
 4r	.	[4B [d [g	Hi	.	.	.	.	.
 2r	.	4B] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
 .	.	8G B d	-way!	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66	=66
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-8r	.	4r	.	1GMm	G:7 (G B D F)	newline	100.846	voice
+8r	.	4r	.	1GMm	G:7 (G B D F)	.	.	voice
 16G	But	.	.	.	.	.	.	.
 16G	I	.	.	.	.	.	.	.
 8B	done	8r	.	.	.	.	.	.
@@ -541,13 +541,13 @@
 8B	a	4B d	woo!	.	.	.	.	.
 8c	ball!	.	.	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69	=69	=69
-4d	_	4r	.	1GMm	G:7 (G B D F)	.	.	voice
+4d	_	4r	.	1CMm	C:7 (C E G B-)	newline	107.214	voice
 4r	.	[4B- [d [g	Hi	.	.	.	.	.
 2r	.	4B-] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
 .	.	8G B- d	-way!	.	.	.	.	.
 =70	=70	=70	=70	=70	=70	=70	=70	=70
-8r	.	4r	.	1CMm	C:7 (C E G B-)	newline	107.214	voice
+8r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
 16d-	So	.	.	.	.	.	.	.
 16d-	I	.	.	.	.	.	.	.
 8.c	don't	8r	.	.	.	.	.	.
@@ -559,7 +559,7 @@
 8c]	_	4B- d	woo!	.	.	.	.	.
 8B	at	.	.	.	.	.	.	.
 =71	=71	=71	=71	=71	=71	=71	=71	=71
-16c	all!	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
+16c	all!	4r	.	1GMm	G:7 (G B D F)	.	.	voice
 8.d	_	.	.	.	.	.	.	.
 2.r	.	[4B [d [g	Hi	.	.	.	.	.
 .	.	4B] d] g]	_	.	.	.	.	.
@@ -575,13 +575,13 @@
 8c	leave	4B d	woo!	.	.	.	.	.
 8B	us	.	.	.	.	.	.	.
 =73	=73	=73	=73	=73	=73	=73	=73	=73
-4d	'lone!	4r	.	1GMm	G:7 (G B D F)	.	.	voice
+4d	'lone!	4r	.	1DMm	D:7 (D F# A C)	newline	113.643	voice
 2.r	.	4B d f#	Woo,	.	.	.	.	.
 .	.	4B d f#	woo,	.	.	.	.	.
 .	.	8B d f#	woo!	.	.	.	.	.
 .	.	8A c e	_	.	.	.	.	.
 =74	=74	=74	=74	=74	=74	=74	=74	=74
-8r	.	4r	.	1DMm	D:7 (D F# A C)	newline	113.643	voice
+8r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
 16f	A-	.	.	.	.	.	.	.
 16d	-ny-	.	.	.	.	.	.	.
 8.c	-way,	8r	.	.	.	.	.	.
@@ -592,7 +592,7 @@
 16c]	_	4B- d	woo!	.	.	.	.	.
 8.c	most	.	.	.	.	.	.	.
 =75	=75	=75	=75	=75	=75	=75	=75	=75
-8c	grown!	4r	.	1CMm	C:7 (C E G B-)	.	.	voice
+8c	grown!	4r	.	1GMm	G:7 (G B D F)	.	.	voice
 8d	_	.	.	.	.	.	.	.
 4r	.	[4B [d [g	Hi	.	.	.	.	.
 2r	.	4B] d] g]	_	.	.	.	.	.
@@ -607,14 +607,14 @@
 .	.	8D c d	-tack-	.	.	.	.	.
 .	.	8D c d	-a...	.	.	.	.	.
 =77	=77	=77	=77	=77	=77	=77	=77	=77
-1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	voice
+*	*	*	*	*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
+1r	.	4r	.	1GMm	G:7 (G B D F)	newline	119.956	piano
 .	.	[4B [d [g	Hi	.	.	.	.	.
 .	.	4B] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
 .	.	8G B d	-way!	.	.	.	.	.
 =78	=78	=78	=78	=78	=78	=78	=78	=78
-*	*	*	*	*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
-1r	.	4r	.	1GMm	G:7 (G B D F)	newline	119.956	piano
+1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	piano
 .	.	8r	.	.	.	.	.	.
 .	.	8B d	Woo,	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
@@ -632,19 +632,19 @@
 2r	.	4r	.	.	.	.	.	.
 .	.	4B d	woo!	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81	=81	=81
-1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	piano
+1r	.	4r	.	1CMm	C:7 (C E G B-)	newline	126.376	piano
 .	.	[4B- [d [g	Hi	.	.	.	.	.
 .	.	4B-] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
 .	.	8G B- d	-way!	.	.	.	.	.
 =82	=82	=82	=82	=82	=82	=82	=82	=82
-1r	.	4r	.	1CMm	C:7 (C E G B-)	newline	126.376	piano
+1r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	piano
 .	.	8r	.	.	.	.	.	.
 .	.	8B- d	Woo,	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
 .	.	4B- d	woo!	.	.	.	.	.
 =83	=83	=83	=83	=83	=83	=83	=83	=83
-1r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	piano
+1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	piano
 .	.	[4B [d [g	Hi	.	.	.	.	.
 .	.	4B] d] g]	_	.	.	.	.	.
 .	.	8A c e	de-	.	.	.	.	.
@@ -656,19 +656,19 @@
 .	.	4r	.	.	.	.	.	.
 .	.	4B d	woo!	.	.	.	.	.
 =85	=85	=85	=85	=85	=85	=85	=85	=85
-1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	piano
+1r	.	4r	.	1DMm	D:7 (D F# A C)	newline	132.684	piano
 .	.	4B d	Woo,	.	.	.	.	.
 .	.	4B d f#	woo,	.	.	.	.	.
 .	.	8B d f#	woo!	.	.	.	.	.
 .	.	8A c e	_	.	.	.	.	.
 =86	=86	=86	=86	=86	=86	=86	=86	=86
-1r	.	4r	.	1DMm	D:7 (D F# A C)	newline	132.684	piano
+1r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	piano
 .	.	8r	.	.	.	.	.	.
 .	.	8B- d	Woo,	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
 .	.	4B- d	woo!	.	.	.	.	.
 =87	=87	=87	=87	=87	=87	=87	=87	=87
-1r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	piano
+1r	.	4r	.	1GMm	G:7 (G B D F)	.	.	piano
 .	.	[4B [d [g	Hi	.	.	.	.	.
 .	.	4B] d] g]	_	.	.	.	.	.
 .	.	4A c e	de-	.	.	.	.	.
@@ -676,12 +676,9 @@
 1r	.	4G B d	-way!	1GMm	G:7 (G B D F)	.	.	piano
 .	.	4r	.	.	.	.	.	.
 .	.	2r	.	.	.	.	.	.
-*-	*-	*-	*-	*	*	*	*
-=88	=88	=88	=88	=88
-1GMm	G:7 (G B D F)	.	.	piano
-1r;	r	.	138.646	r
-1r;	r	.	141.27	r
-*-	*-	*-	*-	*-
+r;	.	r;	.	1r;	r	.	138.646	r
+r;	.	r;	.	1r;	r	.	141.27	r
+*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1959/06/01
 !!!BillboardPeak: 32
 !!!BillboardWeeksOnChart: 12

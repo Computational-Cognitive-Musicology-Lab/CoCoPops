@@ -1,34 +1,34 @@
 **kern	**silbe	**kern	**silbe	**harmony	**chordsym	**phrase	**timestamp	**leadinstrument
 *ICvox	*	*ICvox	*	*M4/4	*M4/4	*	*	*
-*	*	*	*	*F:	*F:	*	*	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1
-*F:	*	*F:	*	*	*	*	*	*
+*F:	*	*F:	*	*F:	*F:	*	*	*
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefC3	*	*clefG2	*	*	*	*	*	*
-1r	.	1r	.	1r;	r	.	0	r
-=2	=2	=2	=2	=2	=2	=2	=2	=2
+r;	.	r;	.	1r;	r	.	0	r
+=1	=1	=1	=1	=1	=1	=1	=1	=1
 *	*	*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1r	.	1r	.	1FM	F:maj (F A C)	newline	0.592	horns
-=3	=3	=3	=3	=3	=3	=3	=3	=3
+=2	=2	=2	=2	=2	=2	=2	=2	=2
 1r	.	1r	.	1B-M	B-:maj (B- D F)	.	.	horns
-=4	=4	=4	=4	=4	=4	=4	=4	=4
+=3	=3	=3	=3	=3	=3	=3	=3	=3
 1r	.	1r	.	1Gm	G:min (G B- D)	.	.	horns
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+1r	.	1r	.	1AMm	A:7 (A C# E G)	.	.	horns
 =5	=5	=5	=5	=5	=5	=5	=5	=5
-4.f	I	1r	.	1AMm	A:7 (A C# E G)	.	.	horns
+*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+4.f	I	1r	.	1FM	F:maj (F A C)	newline	10.571	voice
 [8e	had	.	.	.	.	.	.	.
 4e]	_	.	.	.	.	.	.	.
 8f	a	.	.	.	.	.	.	.
 8c#q	_	.	.	.	.	.	.	.
 8d	dream	.	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
 8c#q	_	.	.	.	.	.	.	.
-8d	_	1r	.	1FM	F:maj (F A C)	newline	10.571	voice
+8d	_	1r	.	1B-M	B-:maj (F B- D)	.	.	voice
 8c#q	_	.	.	.	.	.	.	.
 4.d	_	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7
-16c	thin-	1r	.	1B-M	B-:maj (F B- D)	.	.	voice
+16c	thin-	1r	.	1Am	A:min (A C E)	.	.	voice
 16c	-king	.	.	.	.	.	.	.
 16c	that	.	.	.	.	.	.	.
 16c	a'-	.	.	.	.	.	.	.
@@ -50,7 +50,7 @@
 8d	you	.	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9
 8c#q	_	.	.	.	.	.	.	.
-8d	_	1r	.	1Am	A:min (A C E)	.	.	voice
+8d	_	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
 8c#q	_	.	.	.	.	.	.	.
 8d	_	.	.	.	.	.	.	.
 8c#q	_	.	.	.	.	.	.	.
@@ -60,11 +60,11 @@
 8c	was	.	.	.	.	.	.	.
 [8B-	there	.	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10
-4B-]	_	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
+4B-]	_	1r	.	1Gm	G:min (G B- D)	.	.	voice
 4r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11
-8c#	in	1r	.	1Gm	G:min (G B- D)	.	.	voice
+8c#	in	1r	.	1AMm	A:7 (A C# E G)	.	.	voice
 8c#	some	.	.	.	.	.	.	.
 8c#	o-	.	.	.	.	.	.	.
 16e	-ther's	.	.	.	.	.	.	.
@@ -87,7 +87,7 @@
 8c	and	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13
-4.f	when	1r	.	1AMm	A:7 (A C# E G)	.	.	voice
+4.f	when	1r	.	1FM	F:maj (F A C)	newline	30.439	voice
 8e	I	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.
 4e	a-	.	.	.	.	.	.	.
@@ -96,13 +96,13 @@
 8d	_	.	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14
 8c#q	_	.	.	.	.	.	.	.
-8d	_	1r	.	1FM	F:maj (F A C)	newline	30.439	voice
+8d	_	1r	.	1B-M	B-:maj (F B- D)	.	.	voice
 8c#q	_	.	.	.	.	.	.	.
 [8d	_	.	.	.	.	.	.	.
 4d]	_	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15
-4c	I	1r	.	1B-M	B-:maj (F B- D)	.	.	voice
+4c	I	1r	.	1Am	A:min (A C E)	.	.	voice
 8c	want	.	.	.	.	.	.	.
 16A	to	.	.	.	.	.	.	.
 16cQ	_	.	.	.	.	.	.	.
@@ -125,7 +125,7 @@
 8d	when	.	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17
 8c#q	_	.	.	.	.	.	.	.
-8d	_	1r	.	1Am	A:min (A C E)	.	.	voice
+8d	_	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
 8c#q	_	.	.	.	.	.	.	.
 [8d	_	.	.	.	.	.	.	.
 4d]	_	.	.	.	.	.	.	.
@@ -135,12 +135,12 @@
 16d	back	.	.	.	.	.	.	.
 16c	_	.	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18
-4B-	_	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
+4B-	_	1r	.	1Gm	G:min (G B- D)	.	.	voice
 4r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19
 8Bq	_	.	.	.	.	.	.	.
-8c#	you	1r	.	1Gm	G:min (G B- D)	.	.	voice
+8c#	you	1r	.	1AMm	A:7 (A C# E G)	.	.	voice
 8Bq	_	.	.	.	.	.	.	.
 8c#	won't	.	.	.	.	.	.	.
 8Bq	_	.	.	.	.	.	.	.
@@ -159,7 +159,8 @@
 8eq	_	.	.	.	.	.	.	.
 4f	say!	.	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21
-4r	.	1r	.	1AMm	A:7 (A C# E G)	.	.	voice
+*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+4r	.	1r	.	1FM	F:maj (F A C)	newline	50.358	voice
 8g#q	_	.	.	.	.	.	.	.
 8a	Oh	.	.	.	.	.	.	.
 8g#q	_	.	.	.	.	.	.	.
@@ -169,22 +170,21 @@
 8e#q	_	.	.	.	.	.	.	.
 8f#	my!	.	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22
-*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
 8e#q	_	.	.	.	.	.	.	.
-8f#	_	1r	.	1FM	F:maj (F A C)	newline	50.358	voice
+8f#	_	1r	.	1DMm	D:7 (D F# A C)	.	.	voice
 8e#q	_	.	.	.	.	.	.	.
 [8f#	_	.	.	.	.	.	.	.
 4f#]	_	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23
-4f	Dreams	1r	.	1DMm	D:7 (D F# A C)	.	.	voice
+4f	Dreams	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
 8f	in	.	.	.	.	.	.	.
 16d	my	.	.	.	.	.	.	.
 [16f	arms.	.	.	.	.	.	.	.
 4f]	_	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24
-4f	glad	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
+4f	glad	1r	.	1E-Mm	E-:9 (E- G D- F)	.	.	voice
 16f	you	.	.	.	.	.	.	.
 8d	at	.	.	.	.	.	.	.
 [16f	home	.	.	.	.	.	.	.
@@ -195,7 +195,7 @@
 8e	me	.	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25
 8d#q	_	.	.	.	.	.	.	.
-8e	_	1r	.	1E-Mm	E-:9 (E- G D- F)	.	.	voice
+8e	_	1r	.	1EMm	E:7 (E G# B D)	.	.	voice
 8d#q	_	.	.	.	.	.	.	.
 [8e	_	.	.	.	.	.	.	.
 4e_	_	.	.	.	.	.	.	.
@@ -209,7 +209,7 @@
 16c-	_	.	.	.	.	.	.	.
 8d-	glad	.	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27
-16c-	_	1r	.	1EMm	E:7 (E G# B D)	.	.	voice
+16c-	_	1r	.	1A-m	A-:min (A- C- E-)	.	.	voice
 16A-	_	.	.	.	.	.	.	.
 8G-q	_	.	.	.	.	.	.	.
 [8A-	_	.	.	.	.	.	.	.
@@ -220,7 +220,7 @@
 16d-	was	.	.	.	.	.	.	.
 [16f-	on	.	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28
-4f-]	_	1r	.	1A-m	A-:min (A- C- E-)	.	.	voice
+4f-]	_	1r	.	1D-Mm	D-:7 (D- F A- C-)	.	.	voice
 16d-	ly	.	.	.	.	.	.	.
 16c-	a	.	.	.	.	.	.	.
 8d-	dream	.	.	.	.	.	.	.
@@ -228,7 +228,7 @@
 8r	.	.	.	.	.	.	.	.
 [8ff	Ha	.	.	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29
-1ff_	_	1r	.	1D-Mm	D-:7 (D- F A- C-)	.	.	voice
+1ff_	_	1r	.	1CMm	C:7(11) (C E G B- F)	.	.	voice
 =30	=30	=30	=30	=30	=30	=30	=30	=30
 2ff]	_	1r	.	1CMm	C:7(11) (C E G B- F)	.	.	voice
 8r	.	.	.	.	.	.	.	.
@@ -236,27 +236,28 @@
 16d	_	.	.	.	.	.	.	.
 4f	say!	.	.	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31
-1r	.	1r	.	1CMm	C:7(11) (C E G B- F)	.	.	voice
-=32	=32	=32	=32	=32	=32	=32	=32	=32
 *	*	*	*	*>D_instrumental	*>D_instrumental	*>D_instrumental	*>D_instrumental	*>D_instrumental
 1r	.	1r	.	1FM	F:maj (F A C)	newline	75.105	horns
-=33	=33	=33	=33	=33	=33	=33	=33	=33
+=32	=32	=32	=32	=32	=32	=32	=32	=32
 1r	.	1r	.	1Gm	G:min (G B- D)	.	.	horns
-=34	=34	=34	=34	=34	=34	=34	=34	=34
+=33	=33	=33	=33	=33	=33	=33	=33	=33
 1r	.	1r	.	1Am	A:min (A C E)	.	.	horns
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+1r	.	1r	.	1B-M	B-:maj (B- D F)	.	.	horns
 =35	=35	=35	=35	=35	=35	=35	=35	=35
-1r	.	4r	.	1B-M	B-:maj (B- D F)	.	.	horns
+1r	.	4r	.	1Am	A:min (A C E)	.	.	horns
 .	.	4c cc	Ooh!	.	.	.	.	.
 .	.	4cc ccc	_	.	.	.	.	.
 .	.	4a aa	_	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36
-1r	.	1a- aa-	_	1Am	A:min (A C E)	.	.	horns
+1r	.	1a- aa-	_	1A-d	A-:dim (A- C- E--)	.	.	horns
 =37	=37	=37	=37	=37	=37	=37	=37	=37
-1r	.	1r	.	1A-d	A-:dim (A- C- E--)	.	.	horns
-=38	=38	=38	=38	=38	=38	=38	=38	=38
 1r	.	1r	.	1Gm	G:min (G B- D)	.	.	horns
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+1r	.	1r	.	1CMm	C:7 (C E G B-)	.	.	horns
 =39	=39	=39	=39	=39	=39	=39	=39	=39
-4r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	horns
+*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+4r	.	4r	.	1FM	F:maj (F A C)	newline	94.871	voice
 8g#q	_	8B-q 8eq 8gq	_	.	.	.	.	.
 8a	Oh	8c f a	Oh	.	.	.	.	.
 8g#q	_	8B-q 8eq 8gq	_	.	.	.	.	.
@@ -266,21 +267,20 @@
 8e#q	_	8e#q	_	.	.	.	.	.
 8f#	my!	8d f# a	my!	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40
-*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
 8e#q	_	8cq 8eq 8gq	_	.	.	.	.	.
-4f#	_	2d f# a	_	1FM	F:maj (F A C)	newline	94.871	voice
+4f#	_	2d f# a	_	1DMm	D:7 (D F# A C)	.	.	voice
 [4d	_	.	.	.	.	.	.	.
 4d]	_	2r	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41
-4f	Dreams	1r	.	1DMm	D:7 (D F# A C)	.	.	voice
+4f	Dreams	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
 8f	in	.	.	.	.	.	.	.
 16d	my	.	.	.	.	.	.	.
 [16f	arms.	.	.	.	.	.	.	.
 4f]	_	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42
-8f	All	1r	.	1B-M	B-:maj (B- D F)	.	.	voice
+8f	All	1r	.	1E-Mm	E-:9 (E- G D- F)	.	.	voice
 8f	I	.	.	.	.	.	.	.
 8f	have	.	.	.	.	.	.	.
 16d	to	.	.	.	.	.	.	.
@@ -293,7 +293,7 @@
 8.f	been	.	.	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43	=43	=43
 8dq	_	.	.	.	.	.	.	.
-8e	gone.	1r	.	1E-Mm	E-:9 (E- G D- F)	.	.	voice
+8e	gone.	1r	.	1EMm	E:7 (E G# B D)	.	.	voice
 8dq	_	.	.	.	.	.	.	.
 [8e	_	.	.	.	.	.	.	.
 4e]	_	.	.	.	.	.	.	.
@@ -312,7 +312,7 @@
 16d-	-be	.	.	.	.	.	.	.
 [16f-	I	.	.	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45
-4f-]	_	1r	.	1EMm	E:7 (E G# B D)	.	.	voice
+4f-]	_	1r	.	1A-mm	A-:min7 (A- C- E- G-)	.	.	voice
 16d-	can	.	.	.	.	.	.	.
 16c-	_	.	.	.	.	.	.	.
 8d-	be	.	.	.	.	.	.	.
@@ -321,7 +321,7 @@
 16E	some	.	.	.	.	.	.	.
 [16d	help	.	.	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46
-16d]	_	1r	.	1A-mm	A-:min7 (A- C- E- G-)	.	.	voice
+16d]	_	1r	.	1D-Mm	D-:7 (D- F A- C-)	.	.	voice
 16d-	to	.	.	.	.	.	.	.
 16c-	_	.	.	.	.	.	.	.
 16c-	you.	.	.	.	.	.	.	.
@@ -330,7 +330,7 @@
 8r	.	.	.	.	.	.	.	.
 [8ff	Hey	.	.	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47	=47
-4.ff]	_	1r	.	1D-Mm	D-:7 (D- F A- C-)	.	.	voice
+4.ff]	_	1r	.	1CMm	C:7(11) (C E G B- F)	.	.	voice
 16dd	_	.	.	.	.	.	.	.
 16cc	_	.	.	.	.	.	.	.
 8dd	_	.	.	.	.	.	.	.
@@ -347,7 +347,8 @@
 8d	me	.	.	.	.	.	.	.
 4f	say!	.	.	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49
-4r	.	4r	.	1CMm	C:7(11) (C E G B- F)	.	.	voice
+*	*	*	*	*>C2_outro	*>C2_outro	*>C2_outro	*>C2_outro	*>C2_outro
+4r	.	4r	.	1FM	F:maj (F A C)	newline	119.612	horns
 8g#q	_	8B-q 8eq 8gq	_	.	.	.	.	.
 8a	Oh	8c f a	Oh	.	.	.	.	.
 8g#q	_	8B-q 8eq 8gq	_	.	.	.	.	.
@@ -357,15 +358,14 @@
 8e#q	_	8e#q	_	.	.	.	.	.
 8f#	my	8d f# a	my	.	.	.	.	.
 =50	=50	=50	=50	=50	=50	=50	=50	=50
-*	*	*	*	*>C2_outro	*>C2_outro	*>C2_outro	*>C2_outro	*>C2_outro
 8e#q	_	8cq 8eq 8gq	_	.	.	.	.	.
-8f#	_	2.d f# a	_	1FM	F:maj (F A C)	newline	119.612	horns
+8f#	_	2.d f# a	_	1DMm	D:7 (D F# A C)	.	.	horns
 [8d	_	.	.	.	.	.	.	.
 4d]	_	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51	=51
-4f	Dreams	1r	.	1DMm	D:7 (D F# A C)	.	.	horns
+4f	Dreams	1r	.	1B-M	B-:maj (B- D F)	.	.	horns
 8f	in	.	.	.	.	.	.	.
 16d	my	.	.	.	.	.	.	.
 [16f	arms	.	.	.	.	.	.	.
@@ -374,7 +374,7 @@
 16c	E-	.	.	.	.	.	.	.
 16d	-ver	.	.	.	.	.	.	.
 =52	=52	=52	=52	=52	=52	=52	=52	=52
-4f	since	1r	.	1B-M	B-:maj (B- D F)	.	.	horns
+4f	since	1r	.	1E-Mm	E-:9 (E- G D- F)	.	.	horns
 16f	you	.	.	.	.	.	.	.
 8d	been	.	.	.	.	.	.	.
 [16f	gone	.	.	.	.	.	.	.
@@ -385,7 +385,7 @@
 16a]	_	.	.	.	.	.	.	.
 8.g	I.	.	.	.	.	.	.	.
 =53	=53	=53	=53	=53	=53	=53	=53	=53
-4r	.	1r	.	1E-Mm	E-:9 (E- G D- F)	.	.	horns
+4r	.	1r	.	1EMm	E:7 (E G# B D)	.	.	horns
 8.r	.	.	.	.	.	.	.	.
 16E	I'm	.	.	.	.	.	.	.
 16e-	glad	.	.	.	.	.	.	.
@@ -406,7 +406,7 @@
 8d	one	.	.	.	.	.	.	.
 4f	thing!	.	.	.	.	.	.	.
 =55	=55	=55	=55	=55	=55	=55	=55	=55
-4cc	Hey	4r	.	1EMm	E:7 (E G# B D)	.	.	horns
+4cc	Hey	4r	.	1FM	F:maj (F A C)	newline	134.478	horns
 .	.	8B-q 8eq 8gq	_	.	.	.	.	.
 8r	.	8c f a	Oh	.	.	.	.	.
 .	.	8B-q 8eq 8gq	_	.	.	.	.	.
@@ -418,13 +418,13 @@
 8f#	my!	8d f# a	my	.	.	.	.	.
 =56	=56	=56	=56	=56	=56	=56	=56	=56
 8e#q	_	8cq 8eq 8gq	_	.	.	.	.	.
-4f#	_	[2d [f# [a	_	1FM	F:maj (F A C)	newline	134.478	horns
+4f#	_	[2d [f# [a	_	1DMm	D:7 (D F# A C)	.	.	horns
 [4d	_	.	.	.	.	.	.	.
 8d]	_	8d] f#] a]	_	.	.	.	.	.
 4.r	.	8r	.	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57
-4f	Dreams	1r	.	1DMm	D:7 (D F# A C)	.	.	horns
+4f	Dreams	1r	.	1B-M	B-:maj (B- D F)	.	.	horns
 8f	in	.	.	.	.	.	.	.
 16d	my	.	.	.	.	.	.	.
 [16f	arms	.	.	.	.	.	.	.
@@ -432,7 +432,7 @@
 8.r	.	.	.	.	.	.	.	.
 16F	is	.	.	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58
-8f	all	1r	.	1B-M	B-:maj (B- D F)	.	.	horns
+8f	all	1r	.	1E-Mm	E-:9 (E- G D- F)	.	.	horns
 8f	I	.	.	.	.	.	.	.
 8f	have	.	.	.	.	.	.	.
 16d	to	.	.	.	.	.	.	.
@@ -445,7 +445,7 @@
 8.f	been	.	.	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59
 8dq	_	.	.	.	.	.	.	.
-8e	gone.	1r	.	1E-Mm	E-:9 (E- G D- F)	.	.	horns
+8e	gone.	1r	.	1EMm	E:7 (E G# B D)	.	.	horns
 8d	_	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 16e	Come	.	.	.	.	.	.	.
@@ -454,7 +454,7 @@
 16d]	_	.	.	.	.	.	.	.
 8.d	home.	.	.	.	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60	=60	=60
-16r	.	1r	.	1EMm	E:7 (E G# B D)	.	.	horns
+16r	.	1r	.	1CMm	C:7 (C E G B-)	.	.	horns
 8a-	Some-	.	.	.	.	.	.	.
 [16b-	-time	.	.	.	.	.	.	.
 16b-]	_	.	.	.	.	.	.	.
@@ -468,7 +468,7 @@
 8f	ba-	.	.	.	.	.	.	.
 16f	-by!	.	.	.	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61
-4r	.	4r	.	1CMm	C:7 (C E G B-)	.	.	horns
+4r	.	4r	.	1FM	F:maj (F A C)	newline	149.362	horns, voice, fadeout
 8g#q	_	8B-q 8eq 8gq	_	.	.	.	.	.
 8a	Oh	8c f a	Oh	.	.	.	.	.
 8g#q	_	8B-q 8eq 8gq	_	.	.	.	.	.
@@ -479,12 +479,12 @@
 [8dd	my	8d f# a	my	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62	=62
 .	.	8cq 8eq 8gq	_	.	.	.	.	.
-4.dd]	_	2.d f# a	_	1FM	F:maj (F A C)	newline	149.362	horns, voice, fadeout
+4.dd]	_	2.d f# a	_	1DMm	D:7 (D F# A C)	.	.	horns, voice, fadeout
 [8a	_	.	.	.	.	.	.	.
 4a]	_	.	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =63	=63	=63	=63	=63	=63	=63	=63	=63
-4f	Dreams	1r	.	1DMm	D:7 (D F# A C)	.	.	horns, voice, fadeout
+4f	Dreams	1r	.	1B-M	B-:maj (B- D F)	.	.	horns, voice, fadeout
 8f	in	.	.	.	.	.	.	.
 16d	my	.	.	.	.	.	.	.
 [16f	arms	.	.	.	.	.	.	.
@@ -492,7 +492,7 @@
 8r	.	.	.	.	.	.	.	.
 [8gg	E	.	.	.	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64	=64	=64
-12gg]	_	1r	.	1B-M	B-:maj (B- D F)	.	.	horns, voice, fadeout
+12gg]	_	1r	.	1E-Mm	E-:9 (E- G D- F)	.	.	horns, voice, fadeout
 12ff	ver	.	.	.	.	.	.	.
 12ff	since	.	.	.	.	.	.	.
 12dd	you	.	.	.	.	.	.	.
@@ -506,7 +506,7 @@
 8e	me.	.	.	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65
 8dq	_	.	.	.	.	.	.	.
-8e	_	1r	.	1E-Mm	E-:9 (E- G D- F)	.	.	horns, voice, fadeout
+8e	_	1r	.	1EMm	E:7 (E G# B D)	.	.	horns, voice, fadeout
 8r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 16e-	All	.	.	.	.	.	.	.
@@ -516,7 +516,7 @@
 8c	to	.	.	.	.	.	.	.
 [16c	do	.	.	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66	=66
-16c]	_	1r	.	1EMm	E:7 (E G# B D)	.	.	horns, voice, fadeout
+16c]	_	1r	.	1CMm	C:7 (C E G B-)	.	.	horns, voice, fadeout
 8d	is	.	.	.	.	.	.	.
 [16f	dream	.	.	.	.	.	.	.
 16f]	_	.	.	.	.	.	.	.
@@ -528,12 +528,9 @@
 8gq	_	.	.	.	.	.	.	.
 4a	hey!	.	.	.	.	.	.	.
 16r	.	.	.	.	.	.	.	.
-*-	*-	*-	*-	*	*	*	*
-=66	=66	=66	=66	=66
-1CMm	C:7 (C E G B-)	.	.	horns, voice, fadeout
-1r;	r	.	162.96	r
-1r;	r	.	166.643	r
-*-	*-	*-	*-	*-
+r;	.	r;	.	1r;	r	.	162.96	r
+r;	.	r;	.	1r;	r	.	166.643	r
+*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1975/07/19
 !!!BillboardPeak: 48
 !!!BillboardWeeksOnChart: 6

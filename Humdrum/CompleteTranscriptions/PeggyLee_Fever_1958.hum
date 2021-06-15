@@ -1,28 +1,29 @@
 **kern	**silbe	**harmony	**chordsym	**phrase	**timestamp	**leadinstrument
 *ICvox	*	*M4/4	*M4/4	*	*	*
-*	*	*a:	*a:	*a:	*a:	*a:
-=1	=1	=1	=1	=1	=1	=1
-*a:	*	*	*	*	*	*
+*C:	*	*a:	*a:	*a:	*a:	*a:
 *M4/4	*	*	*	*	*	*
 *clefC3	*	*	*	*	*	*
-1r	.	1r;	r	.	0	r
-=2	=2	=2	=2	=2	=2	=2
+r;	.	1r;	r	.	0	r
+=1	=1	=1	=1	=1	=1	=1
 *	*	*>C_intro	*>C_intro	*>C_intro	*>C_intro	*>C_intro
 1r	.	1Am	A:min (A C E)	newline	0.3	r
+=2	=2	=2	=2	=2	=2	=2
+1r	.	1Am	A:min (A C E)	.	.	r
 =3	=3	=3	=3	=3	=3	=3
-1r	.	1Am	A:min (A C E)	.	.	r
+1r	.	1EMm	E:7 (E G# B D)	.	.	r
 =4	=4	=4	=4	=4	=4	=4
-1r	.	1EMm	E:7 (E G# B D)	.	.	r
+1r	.	1Am	A:min (A C E)	.	.	r
 =5	=5	=5	=5	=5	=5	=5
-1r	.	1Am	A:min (A C E)	.	.	r
-=6	=6	=6	=6	=6	=6	=6
 1r	.	1Am	A:min (A C E)	newline	7.476	r
-=7	=7	=7	=7	=7	=7	=7
+=6	=6	=6	=6	=6	=6	=6
 1r	.	1Am	A:min (A C E)	.	.	r
-=8	=8	=8	=8	=8	=8	=8
+=7	=7	=7	=7	=7	=7	=7
 1r	.	1EMm	E:7 (E G# B D)	.	.	r
+=8	=8	=8	=8	=8	=8	=8
+1r	.	1Am	A:min (A C E)	.	.	r
 =9	=9	=9	=9	=9	=9	=9
-8r	.	1Am	A:min (A C E)	.	.	r
+*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+8r	.	1Am	A:min (A C E)	newline	14.546	voice
 8d	Ne-	.	.	.	.	.
 8c	-ver	.	.	.	.	.
 8d	know	.	.	.	.	.
@@ -31,10 +32,9 @@
 8A	I	.	.	.	.	.
 [8c	love	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
-16c]	_	1Am	A:min (A C E)	newline	14.546	voice
-8d	you,	.	.	.	.	.
-16r	_	.	.	.	.	.
+16c]	_	1Am	A:min (A C E)	.	.	voice
+8d	you	.	.	.	.	.
+16r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11
@@ -49,7 +49,7 @@
 =12	=12	=12	=12	=12	=12	=12
 1r	.	1Am	A:min (A C E)	.	.	voice
 =13	=13	=13	=13	=13	=13	=13
-8d	When	1Am	A:min (A C E)	.	.	voice
+8d	When	1Am	A:min (A C E)	newline	21.582	voice
 8c	you	.	.	.	.	.
 8d	put	.	.	.	.	.
 8c	your	.	.	.	.	.
@@ -57,15 +57,15 @@
 8A	a-	.	.	.	.	.
 [8c	-round	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14
-8c]	_	1Am	A:min (A C E)	newline	21.582	voice
-8d	me,	.	.	.	.	.
-4r	_	.	.	.	.	.
+8c]	_	1Am	A:min (A C E)	.	.	voice
+8d	me	.	.	.	.	.
+4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8A	I	.	.	.	.	.
 8A	get	.	.	.	.	.
 8A	a	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15
-8d	fe-	1Am	A:min (A C E)	.	.	voice
+8d	fe-	1EMm	E:7 (E G# B D)	.	.	voice
 8c	-ver	.	.	.	.	.
 8d	that's	.	.	.	.	.
 8c	so	.	.	.	.	.
@@ -74,17 +74,17 @@
 8A	to	.	.	.	.	.
 [8A	bear,	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16
-8A]	_	1EMm	E:7 (E G# B D)	.	.	voice
+8A]	_	1Am	A:min (A C E)	.	.	voice
 8A	you	.	.	.	.	.
 8A	give	.	.	.	.	.
 8A	me	.	.	.	.	.
 4c	fe-	.	.	.	.	.
-4A	-ver,	.	.	.	.	.
+4A	-ver	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17
-1r	.	1Am	A:min (A C E)	.	.	voice
-=18	=18	=18	=18	=18	=18	=18
 *	*	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
-8r	_	1Am	A:min (A C E)	newline	28.643	voice
+1r	.	1Am	A:min (A C E)	newline	28.643	voice
+=18	=18	=18	=18	=18	=18	=18
+8r	.	1Am	A:min (A C E)	.	.	voice
 8dq	_	.	.	.	.	.
 [8e-	when	.	.	.	.	.
 8e-]	_	.	.	.	.	.
@@ -105,7 +105,7 @@
 4r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21
-12g	Fe-	1Am	A:min (A C E)	.	.	voice
+12g	Fe-	1Am	A:min (A C E)	newline	35.702	voice
 12a	-ver!	.	.	.	.	.
 12r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
@@ -113,15 +113,15 @@
 8r	.	.	.	.	.	.
 8d	In	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22
-8c	the	1Am	A:min (A C E)	newline	35.702	voice
+8c	the	1Am	A:min (A C E)	.	.	voice
 8d	mor-	.	.	.	.	.
-8c	-nin',	.	.	.	.	.
-8r	_	.	.	.	.	.
+8c	-nin'	.	.	.	.	.
+8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8G	a'-	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23
-8d	-fe-	1Am	A:min (A C E)	.	.	voice
+8d	-fe-	1EMm	E:7 (E G# B D)	.	.	voice
 8c	-ver	.	.	.	.	.
 4d	all	.	.	.	.	.
 8d	through	.	.	.	.	.
@@ -129,19 +129,19 @@
 8A	the	.	.	.	.	.
 8A	night.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24
-1r	.	1EMm	E:7 (E G# B D)	.	.	voice
+1r	.	1Am	A:min (A C E)	.	.	voice
 =25	=25	=25	=25	=25	=25	=25
-8r	.	1Am	A:min (A C E)	.	.	voice
+*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+8r	.	1Am	A:min (A C E)	newline	42.75	voice
 4.d	Sun	.	.	.	.	.
 8c	lights	.	.	.	.	.
 8d	up	.	.	.	.	.
 8r	.	.	.	.	.	.
 8A	the	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
-8c	day-	1Am	A:min (A C E)	newline	42.75	voice
-8d	-time,	.	.	.	.	.
-4r	_	.	.	.	.	.
+8c	day-	1Am	A:min (A C E)	.	.	voice
+8d	-time	.	.	.	.	.
+4r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8A	the	.	.	.	.	.
@@ -158,7 +158,7 @@
 8gq	_	.	.	.	.	.
 [8a	I	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29
-6a]	_	1Am	A:min (A C E)	.	.	voice
+6a]	_	1Am	A:min (A C E)	newline	49.732	voice
 6e-	light	.	.	.	.	.
 6e-	up	.	.	.	.	.
 6d	when	.	.	.	.	.
@@ -166,14 +166,14 @@
 12e-	call	.	.	.	.	.
 [12d	_	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30
-4d]	_	1Am	A:min (A C E)	newline	49.732	voice
+4d]	_	1Am	A:min (A C E)	.	.	voice
 8c	my	.	.	.	.	.
-8A	name,	.	.	.	.	.
-8r	_	.	.	.	.	.
+8A	name	.	.	.	.	.
+8r	.	.	.	.	.	.
 4A	and	.	.	.	.	.
 8A	you	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31
-8d	know	1Am	A:min (A C E)	.	.	voice
+8d	know	1EMm	E:7 (E G# B D)	.	.	voice
 8c	I'm	.	.	.	.	.
 8d	gon-	.	.	.	.	.
 8c	-na	.	.	.	.	.
@@ -182,17 +182,17 @@
 8A	you	.	.	.	.	.
 [8A	right,	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32
-8A]	_	1EMm	E:7 (E G# B D)	.	.	voice
+8A]	_	1Am	A:min (A C E)	.	.	voice
 8A	you	.	.	.	.	.
 8A	give	.	.	.	.	.
 8A	me	.	.	.	.	.
 4c	fe-	.	.	.	.	.
 4A	-ver.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33
-1r	.	1Am	A:min (A C E)	.	.	voice
-=34	=34	=34	=34	=34	=34	=34
 *	*	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
-8r	.	1Am	A:min (A C E)	newline	56.837	voice
+1r	.	1Am	A:min (A C E)	newline	56.837	voice
+=34	=34	=34	=34	=34	=34	=34
+8r	.	1Am	A:min (A C E)	.	.	voice
 8dq	_	.	.	.	.	.
 [8e-	When	.	.	.	.	.
 8e-]	_	.	.	.	.	.
@@ -216,14 +216,14 @@
 12r	.	.	.	.	.	.
 12g	Fe-	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37
-8a	-ver!	1Am	A:min (A C E)	.	.	voice
+8a	-ver!	1Am	A:min (A C E)	newline	63.894	voice
 8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8d	In	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38
-8c	the	1Am	A:min (A C E)	newline	63.894	voice
+8c	the	1Am	A:min (A C E)	.	.	voice
 8d	mor-	.	.	.	.	.
 8c	-nin',	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -231,7 +231,7 @@
 8r	.	.	.	.	.	.
 8G	a-	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39
-8d	-fe-	1Am	A:min (A C E)	.	.	voice
+8d	-fe-	1EMm	E:7 (E G# B D)	.	.	voice
 8c	-ver	.	.	.	.	.
 4d	all	.	.	.	.	.
 8d	through	.	.	.	.	.
@@ -239,16 +239,16 @@
 8A	the	.	.	.	.	.
 8A	night.	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40
-1r	.	1EMm	E:7 (E G# B D)	.	.	voice
+1r	.	1Am	A:min (A C E)	.	.	voice
 =41	=41	=41	=41	=41	=41	=41
-8r	.	1Am	A:min (A C E)	.	.	voice
+*	*	*>F_bridge	*>F_bridge	*>F_bridge	*>F_bridge	*>F_bridge
+8r	.	1Am	A:min (A C E)	newline	70.925	voice
 4c	Ev-	.	.	.	.	.
 8A	-'ry-	.	.	.	.	.
 4A	-bo-	.	.	.	.	.
 4G	-dy's	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42
-*	*	*>F_bridge	*>F_bridge	*>F_bridge	*>F_bridge	*>F_bridge
-8r	.	1Am	A:min (A C E)	newline	70.925	voice
+8r	.	1Am	A:min (A C E)	.	.	voice
 4A	got	.	.	.	.	.
 8G	the	.	.	.	.	.
 4A	fe-	.	.	.	.	.
@@ -265,19 +265,19 @@
 8A	know	.	.	.	.	.
 2r	.	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45
-8r	.	1Am	A:min (A C E)	.	.	voice
+8r	.	1Am	A:min (A C E)	newline	77.927	voice
 4c	Fe-	.	.	.	.	.
 8A	-ver	.	.	.	.	.
 4A	is-	.	.	.	.	.
 4G	-n't	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46
-8r	.	1Am	A:min (A C E)	newline	77.927	voice
+8r	.	1Am	A:min (A C E)	.	.	voice
 4A	such	.	.	.	.	.
 8G	a	.	.	.	.	.
 4A	new	.	.	.	.	.
 4c	thing,	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47
-8d	fe-	1Am	A:min (A C E)	.	.	voice
+8d	fe-	1EMm	E:7 (E G# B D)	.	.	voice
 8c	-ver	.	.	.	.	.
 8d	star-	.	.	.	.	.
 8c	-ted	.	.	.	.	.
@@ -286,31 +286,30 @@
 8A	a-	.	.	.	.	.
 8A	-go.	.	.	.	.	.
 =48	=48	=48	=48	=48	=48	=48
-1r	.	1EMm	E:7 (E G# B D)	.	.	voice
-=49	=49	=49	=49	=49	=49	=49
-*b-:	*	*	*	*	*	*
 1r	.	1Am	A:min (A C E)	.	.	voice
-=50	=50	=50	=50	=50	=50	=50
-*	*	*>K_interlude	*>K_interlude	*>K_interlude	*>K_interlude	*>K_interlude
+=49	=49	=49	=49	=49	=49	=49
+*b-:	*	*>K_interlude	*>K_interlude	*>K_interlude	*>K_interlude	*>K_interlude
 *	*	*B-:	*B-:	*B-:	*B-:	*B-:
 1r	.	1B-m	B-:min (B- D- F)	newline	84.933	voice
-=51	=51	=51	=51	=51	=51	=51
+=50	=50	=50	=50	=50	=50	=50
 1r	.	1B-m	B-:min (B- D- F)	.	.	voice
-=52	=52	=52	=52	=52	=52	=52
+=51	=51	=51	=51	=51	=51	=51
 1r	.	1FMm	F:7 (F A C E-)	.	.	voice
+=52	=52	=52	=52	=52	=52	=52
+1r	.	1B-m	B-:min (B- D- F)	.	.	voice
 =53	=53	=53	=53	=53	=53	=53
-8r	.	1B-m	B-:min (B- D- F)	.	.	voice
+*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+8r	.	1B-m	B-:min (B- D- F)	newline	91.981	voice
 4e-	Ro-	.	.	.	.	.
 8d-	-me-	.	.	.	.	.
 4e-	-o	.	.	.	.	.
 8B-	loved	.	.	.	.	.
 [8d-	Ju	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
-16.d-]	_	1B-m	B-:min (B- D- F)	newline	91.981	voice
+16.d-]	_	1B-m	B-:min (B- D- F)	.	.	voice
 32d-	li-	.	.	.	.	.
-8e-	-et,	.	.	.	.	.
-4r	_	.	.	.	.	.
+8e-	-et	.	.	.	.	.
+4r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8e-q	_	.	.	.	.	.
@@ -333,7 +332,7 @@
 8r	.	.	.	.	.	.
 8F	And	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57
-8e-	when	1B-m	B-:min (B- D- F)	.	.	voice
+8e-	when	1B-m	B-:min (B- D- F)	newline	98.959	voice
 8d-	he	.	.	.	.	.
 8e-	put	.	.	.	.	.
 8d-	his	.	.	.	.	.
@@ -341,15 +340,15 @@
 8B-	a-	.	.	.	.	.
 [8d-	-round	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58
-8d-]	_	1B-m	B-:min (B- D- F)	newline	98.959	voice
-8e-	her,	.	.	.	.	.
-4r	_	.	.	.	.	.
+8d-]	_	1B-m	B-:min (B- D- F)	.	.	voice
+8e-	her	.	.	.	.	.
+4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8B-	he	.	.	.	.	.
 8B-	said	.	.	.	.	.
 [8e-	\\\"Ju	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59
-24e-]	_	1B-m	B-:min (B- D- F)	.	.	voice
+24e-]	_	1FMm	F:7 (F A C E-)	.	.	voice
 8d-	lie,	.	.	.	.	.
 8e-	ba-	.	.	.	.	.
 8d-	-by,	.	.	.	.	.
@@ -359,7 +358,7 @@
 8B-	my	.	.	.	.	.
 [8B-	flame	.	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60
-6B-]	,\\\"	1FMm	F:7 (F A C E-)	.	.	voice
+6B-]	,\\\"	1B-m	B-:min (B- D- F)	.	.	voice
 6B-	thou	.	.	.	.	.
 12B-	gi-	.	.	.	.	.
 [12B-	-vest	.	.	.	.	.
@@ -367,17 +366,17 @@
 8d-	fe-	.	.	.	.	.
 4B-	-ver.	.	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61
-1r	.	1B-m	B-:min (B- D- F)	.	.	voice
-=62	=62	=62	=62	=62	=62	=62
 *	*	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
-8r	.	1B-m	B-:min (B- D- F)	newline	105.995	voice
+1r	.	1B-m	B-:min (B- D- F)	newline	105.995	voice
+=62	=62	=62	=62	=62	=62	=62
+8r	.	1B-m	B-:min (B- D- F)	.	.	voice
 8e-q	_	.	.	.	.	.
 [8f-	When	.	.	.	.	.
 8f-]	_	.	.	.	.	.
 8d-	we	.	.	.	.	.
 8e-	kiss-	.	.	.	.	.
-8d-	-eth,	.	.	.	.	.
-8r	_	.	.	.	.	.
+8d-	-eth	.	.	.	.	.
+8r	.	.	.	.	.	.
 [8e-	fe	.	.	.	.	.
 =63	=63	=63	=63	=63	=63	=63
 24e-]	_	1B-m	B-:min (B- D- F)	.	.	voice
@@ -396,46 +395,46 @@
 12r	.	.	.	.	.	.
 12a-	Fe-	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65
-8b-	-ver!	1B-m	B-:min (B- D- F)	.	.	voice
+8b-	-ver!	1B-m	B-:min (B- D- F)	newline	113.026	voice
 8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8e	I'm	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66
-8d-	a-	1B-m	B-:min (B- D- F)	newline	113.026	voice
+8d-	a-	1B-m	B-:min (B- D- F)	.	.	voice
 8e-	-fi-	.	.	.	.	.
-8d-	-re,	.	.	.	.	.
-8r	_	.	.	.	.	.
+8d-	-re	.	.	.	.	.
+8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8e-	fe-	.	.	.	.	.
 =67	=67	=67	=67	=67	=67	=67
-8d-	-ver,	1B-m	B-:min (B- D- F)	.	.	voice
+8d-	-ver,	1FMm	F:7 (F A C E-)	.	.	voice
 8e-	yea,	.	.	.	.	.
 4d-	I	.	.	.	.	.
 6e-	burn	.	.	.	.	.
 6d-	_	.	.	.	.	.
 [6B-	for	.	.	.	.	.
 =68	=68	=68	=68	=68	=68	=68
-8B-]	_	1FMm	F:7 (F A C E-)	.	.	voice
+8B-]	_	1B-m	B-:min (B- D- F)	.	.	voice
 4B-	sooth	.	.	.	.	.
 8r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69
-*b:	*	*	*	*	*	*
-1r	.	1B-m	B-:min (B- D- F)	.	.	voice
-=70	=70	=70	=70	=70	=70	=70
-*	*	*>K_interlude	*>K_interlude	*>K_interlude	*>K_interlude	*>K_interlude
+*b:	*	*>K_interlude	*>K_interlude	*>K_interlude	*>K_interlude	*>K_interlude
 *	*	*b:	*b:	*b:	*b:	*b:
 1r	.	1Bm	B:min (B D F#)	newline	120.036	voice
-=71	=71	=71	=71	=71	=71	=71
+=70	=70	=70	=70	=70	=70	=70
 1r	.	1Bm	B:min (B D F#)	.	.	voice
-=72	=72	=72	=72	=72	=72	=72
+=71	=71	=71	=71	=71	=71	=71
 1r	.	2Bm	B:min (B D F#)	.	.	voice
 .	.	2F#Mm	F#:7 (F# A# C# E)	.	.	voice
+=72	=72	=72	=72	=72	=72	=72
+1r	.	1Bm	B:min (B D F#)	.	.	voice
 =73	=73	=73	=73	=73	=73	=73
-6r	.	1Bm	B:min (B D F#)	.	.	voice
+*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+6r	.	1Bm	B:min (B D F#)	newline	127.051	voice
 6e	Cap-	.	.	.	.	.
 6d	-tain	.	.	.	.	.
 12e	Smith	.	.	.	.	.
@@ -444,11 +443,10 @@
 8r	.	.	.	.	.	.
 8e	Po-	.	.	.	.	.
 =74	=74	=74	=74	=74	=74	=74
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
-8B	-ca-	1Bm	B:min (B D F#)	newline	127.051	voice
+8B	-ca-	1Bm	B:min (B D F#)	.	.	voice
 8d	-han-	.	.	.	.	.
-8e	-tas,	.	.	.	.	.
-8r	_	.	.	.	.	.
+8e	-tas	.	.	.	.	.
+8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8dq	_	.	.	.	.	.
@@ -463,14 +461,13 @@
 8B	af-	.	.	.	.	.
 [8B	-fair	.	.	.	.	.
 =76	=76	=76	=76	=76	=76	=76
+8F#q	_	.	.	.	.	.
 8B]	_	1Bm	B:min (B D F#)	.	.	voice
 8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
-=76	=76	=76	=76	=76	=76	=76
-8F#q	_	.	.	.	.	.
 =77	=77	=77	=77	=77	=77	=77
-8e	When	1Bm	B:min (B D F#)	.	.	voice
+8e	When	1Bm	B:min (B D F#)	newline	134.037	voice
 8d	her	.	.	.	.	.
 8e	dad-	.	.	.	.	.
 8d	-dy	.	.	.	.	.
@@ -479,14 +476,14 @@
 8B	to	.	.	.	.	.
 [8d	kill	.	.	.	.	.
 =78	=78	=78	=78	=78	=78	=78
-8d]	_	1Bm	B:min (B D F#)	newline	134.037	voice
-8e	him,	.	.	.	.	.
-4r	_	.	.	.	.	.
+8d]	_	1Bm	B:min (B D F#)	.	.	voice
+8e	him	.	.	.	.	.
+4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8B	she	.	.	.	.	.
 4B	said,	.	.	.	.	.
 =79	=79	=79	=79	=79	=79	=79
-8e	\\\"Dad-	1Bm	B:min (B D F#)	.	.	voice
+8e	\\\"Dad-	1F#Mm	F#:7 (F# A# C# E)	.	.	voice
 8d	-dy,	.	.	.	.	.
 8e	oh,	.	.	.	.	.
 8d	_	.	.	.	.	.
@@ -495,24 +492,24 @@
 8B	you	.	.	.	.	.
 [8B	dare	.	.	.	.	.
 =80	=80	=80	=80	=80	=80	=80
-8B]	,\\\"	1F#Mm	F#:7 (F# A# C# E)	.	.	voice
+8B]	,\\\"	1Bm	B:min (B D F#)	.	.	voice
 8B	he	.	.	.	.	.
 8B	gives	.	.	.	.	.
 8B	me	.	.	.	.	.
 4d	fe-	.	.	.	.	.
 4B	-ver.	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81
-1r	.	1Bm	B:min (B D F#)	.	.	voice
-=82	=82	=82	=82	=82	=82	=82
 *	*	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
-8r	.	1Bm	B:min (B D F#)	newline	141.043	voice
+1r	.	1Bm	B:min (B D F#)	newline	141.043	voice
+=82	=82	=82	=82	=82	=82	=82
+8r	.	1Bm	B:min (B D F#)	.	.	voice
 8eq	_	.	.	.	.	.
 [8f	With	.	.	.	.	.
 8f]	_	.	.	.	.	.
 8d	his	.	.	.	.	.
 8e	kis-	.	.	.	.	.
-8d	-ses,	.	.	.	.	.
-8r	_	.	.	.	.	.
+8d	-ses	.	.	.	.	.
+8r	.	.	.	.	.	.
 [8e	fe	.	.	.	.	.
 =83	=83	=83	=83	=83	=83	=83
 8e]	_	1Bm	B:min (B D F#)	.	.	voice
@@ -531,38 +528,39 @@
 12r	.	.	.	.	.	.
 12a	Fe-	.	.	.	.	.
 =85	=85	=85	=85	=85	=85	=85
-8b	-ver!	1Bm	B:min (B D F#)	.	.	voice
+8b	-ver!	1Bm	B:min (B D F#)	newline	147.962	voice
 8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8e	I'm	.	.	.	.	.
 =86	=86	=86	=86	=86	=86	=86
-8.d	his	1Bm	B:min (B D F#)	newline	147.962	voice
+8.d	his	1Bm	B:min (B D F#)	.	.	voice
 16e	mis-	.	.	.	.	.
-8d	-sus,	.	.	.	.	.
-8r	_	.	.	.	.	.
+8d	-sus	.	.	.	.	.
+8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8A	and	.	.	.	.	.
 =87	=87	=87	=87	=87	=87	=87
-8e	dad-	1Bm	B:min (B D F#)	.	.	voice
+8e	dad-	1F#Mm	F#:7 (F# A# C# E)	.	.	voice
 8d	-dy,	.	.	.	.	.
 8e	won't	.	.	.	.	.
 8d	you	.	.	.	.	.
 8e	treat	.	.	.	.	.
 8d	_	.	.	.	.	.
 8B	him	.	.	.	.	.
-[8B	right?	.	.	.	.	.
+[8B	right	.	.	.	.	.
 =88	=88	=88	=88	=88	=88	=88
-8B]	_	1F#Mm	F#:7 (F# A# C# E)	.	.	voice
-8r	_	.	.	.	.	.
+8B]	_	1Bm	B:min (B D F#)	.	.	voice
+8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 [8e	Now	.	.	.	.	.
 =89	=89	=89	=89	=89	=89	=89
-6e]	_	1Bm	B:min (B D F#)	.	.	voice
+*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+6e]	_	1Bm	B:min (B D F#)	newline	155.015	voice
 6d	you've	.	.	.	.	.
 12e	lis-	.	.	.	.	.
 [12d	-tened	.	.	.	.	.
@@ -570,10 +568,9 @@
 8e	to	.	.	.	.	.
 4B	my	.	.	.	.	.
 =90	=90	=90	=90	=90	=90	=90
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
-8d	sto-	1Bm	B:min (B D F#)	newline	155.015	voice
-8e	-ry,	.	.	.	.	.
-4r	_	.	.	.	.	.
+8d	sto-	1Bm	B:min (B D F#)	.	.	voice
+8e	-ry	.	.	.	.	.
+4r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 [8e	here's	.	.	.	.	.
@@ -588,13 +585,13 @@
 [8B	made	.	.	.	.	.
 =92	=92	=92	=92	=92	=92	=92
 8B]	_	1Bm	B:min (B D F#)	.	.	voice
-8r	:	.	.	.	.	.
+8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 [8e	chicks	.	.	.	.	.
 =93	=93	=93	=93	=93	=93	=93
-8e]	_	1Bm	B:min (B D F#)	.	.	voice
+8e]	_	1Bm	B:min (B D F#)	newline	161.986	voice
 8d	were	.	.	.	.	.
 8e	born	.	.	.	.	.
 8d	to	.	.	.	.	.
@@ -602,15 +599,15 @@
 8B	you	.	.	.	.	.
 [8d	fe	.	.	.	.	.
 =94	=94	=94	=94	=94	=94	=94
-8d]	_	1Bm	B:min (B D F#)	newline	161.986	voice
-8e	ver,	.	.	.	.	.
-4r	_	.	.	.	.	.
+8d]	_	1Bm	B:min (B D F#)	.	.	voice
+8e	ver	.	.	.	.	.
+4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8B	be	.	.	.	.	.
 8B	it	.	.	.	.	.
 [8e	Fah	.	.	.	.	.
 =95	=95	=95	=95	=95	=95	=95
-24e]	_	1Bm	B:min (B D F#)	.	.	voice
+24e]	_	1F#Mm	F#:7 (F# A# C# E)	.	.	voice
 8d	ren-	.	.	.	.	.
 8e	-heit	.	.	.	.	.
 [8d	or	.	.	.	.	.
@@ -620,17 +617,17 @@
 8B	ti-	.	.	.	.	.
 [8B	-grade,	.	.	.	.	.
 =96	=96	=96	=96	=96	=96	=96
-8B]	_	1F#Mm	F#:7 (F# A# C# E)	.	.	voice
+8B]	_	1Bm	B:min (B D F#)	.	.	voice
 8B	they	.	.	.	.	.
 8B	give	.	.	.	.	.
 8B	you	.	.	.	.	.
 4d	fe-	.	.	.	.	.
 4B	-ver.	.	.	.	.	.
 =97	=97	=97	=97	=97	=97	=97
-1r	.	1Bm	B:min (B D F#)	.	.	voice
-=98	=98	=98	=98	=98	=98	=98
 *	*	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
-8r	.	1Bm	B:min (B D F#)	newline	169.018	voice
+1r	.	1Bm	B:min (B D F#)	newline	169.018	voice
+=98	=98	=98	=98	=98	=98	=98
+8r	.	1Bm	B:min (B D F#)	.	.	voice
 8eq	_	.	.	.	.	.
 [8f	When	.	.	.	.	.
 8f]	_	.	.	.	.	.
@@ -656,21 +653,21 @@
 12r	.	.	.	.	.	.
 12a	Fe-	.	.	.	.	.
 =101	=101	=101	=101	=101	=101	=101
-8b	-ver!	1Bm	B:min (B D F#)	.	.	voice
+8b	-ver!	1Bm	B:min (B D F#)	newline	176.049	voice
 8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8e	'Till	.	.	.	.	.
 =102	=102	=102	=102	=102	=102	=102
-4d	you	1Bm	B:min (B D F#)	newline	176.049	voice
+4d	you	1Bm	B:min (B D F#)	.	.	voice
 12e	siz-	.	.	.	.	.
 6d	-zle	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
 8A	Oh,	.	.	.	.	.
 =103	=103	=103	=103	=103	=103	=103
-8e	what	1Bm	B:min (B D F#)	.	.	voice
+8e	what	1F#Mm	F#:7 (F# A# C# E)	.	.	voice
 8d	a	.	.	.	.	.
 8e	love-	.	.	.	.	.
 8d	-ly	.	.	.	.	.
@@ -679,13 +676,13 @@
 8B	to	.	.	.	.	.
 [8B	burn	.	.	.	.	.
 =104	=104	=104	=104	=104	=104	=104
-4B]	_	1F#Mm	F#:7 (F# A# C# E)	.	.	voice
+4B]	_	1Bm	B:min (B D F#)	.	.	voice
 8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8A	Oh,	.	.	.	.	.
 =105	=105	=105	=105	=105	=105	=105
-8e	what	1Bm	B:min (B D F#)	.	.	voice
+8e	what	1F#Mm	F#:7 (F# A# C# E)	newline	183.068	voice
 8d	a	.	.	.	.	.
 8e	love-	.	.	.	.	.
 8d	-ly	.	.	.	.	.
@@ -694,14 +691,14 @@
 8B	to	.	.	.	.	.
 [8B	burn	.	.	.	.	.
 =106	=106	=106	=106	=106	=106	=106
-4B]	_	1F#Mm	F#:7 (F# A# C# E)	newline	183.068	voice
+4B]	_	1Bm	B:min (B D F#)	.	.	voice
 4r	.	.	.	.	.	.
 6r	.	.	.	.	.	.
 6r	.	.	.	.	.	.
 6b	What	.	.	.	.	.
 =107	=107	=107	=107	=107	=107	=107
 8eq	_	.	.	.	.	.
-6f	a	1Bm	B:min (B D F#)	.	.	voice
+6f	a	1F#Mm	F#:7 (F# A# C# E)	.	.	voice
 8e	love-	.	.	.	.	.
 8d	-ly	.	.	.	.	.
 12e	way	.	.	.	.	.
@@ -709,13 +706,13 @@
 8B	to	.	.	.	.	.
 [8B	burn!	.	.	.	.	.
 =108	=108	=108	=108	=108	=108	=108
-4B]	_	1F#Mm	F#:7 (F# A# C# E)	.	.	voice
+4B]	_	1Bm	B:min (B D F#)	.	.	voice
 8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
 8A	Oh,	.	.	.	.	.
 =109	=109	=109	=109	=109	=109	=109
-8e	what	1Bm	B:min (B D F#)	.	.	voice
+8e	what	1F#Mm	F#:7 (F# A# C# E)	newline	190.059	voice
 8d	a	.	.	.	.	.
 8e	love-	.	.	.	.	.
 8d	-ly	.	.	.	.	.
@@ -724,18 +721,15 @@
 8B	to	.	.	.	.	.
 [8B	burn	.	.	.	.	.
 =110	=110	=110	=110	=110	=110	=110
-2B]	_	1F#Mm	F#:7 (F# A# C# E)	newline	190.059	voice
+2B]	_	1Bm	B:min (B D F#)	.	.	voice
 2r	.	.	.	.	.	.
 =111	=111	=111	=111	=111	=111	=111
-1r	.	1Bm	B:min (B D F#)	.	.	voice
-=112	=112	=112	=112	=112	=112	=112
 1r	.	1F#Mm	F#:7 (F# A# C# E)	.	.	voice
-*-	*-	*	*
-=112	=112	=112	=112	=112
-1Bm	B:min (B D F#)	.	.	voice
-1r;	r	.	198.553	r
-1r;	r	.	202.773	r
-*-	*-	*-	*-	*-
+=112	=112	=112	=112	=112	=112	=112
+1r	.	1Bm	B:min (B D F#)	.	.	voice
+r;	.	1r;	r	.	198.553	r
+r;	.	1r;	r	.	202.773	r
+*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1958/09/22
 !!!BillboardPeak: 8
 !!!BillboardWeeksOnChart: 16
