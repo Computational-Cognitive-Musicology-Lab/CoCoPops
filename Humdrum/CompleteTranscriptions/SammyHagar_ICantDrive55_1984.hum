@@ -53,11 +53,11 @@ r;	.	1r;	r	.	0	r
 8g	brake,	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
-8d	and	.	.	.	.	.
+8d~	and	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17
 8e	one	1EM	E:5 (E B)	.	.	voice
 8e	on	.	.	.	.	.
-8d	the	.	.	.	.	.
+8d~	the	.	.	.	.	.
 8e	gas	.	.	.	.	.
 4r	.	.	.	.	.	.
 4cc#	hey!	.	.	.	.	.
@@ -87,7 +87,7 @@ r;	.	1r;	r	.	0	r
 8r	.	1EM	E:5 (E B)	.	.	voice
 8g	can't	.	.	.	.	.
 8r	.	.	.	.	.	.
-[8g	pass,	.	.	.	.	.
+8[g	pass,	.	.	.	.	.
 4g]	_	.	.	.	.	.
 4e	no!	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24
@@ -106,13 +106,13 @@ r;	.	1r;	r	.	0	r
 8c#	il-	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27
 8e	-le-	1EM	E:5 (E B)	.	.	voice
-[8e	-gal	.	.	.	.	.
+8[e	-gal	.	.	.	.	.
 8e]	_	.	.	.	.	.
-[8g	move,	.	.	.	.	.
+8[g	move,	.	.	.	.	.
 8g]	_	.	.	.	.	.
 8c#	well	.	.	.	.	.
 8e	ba-	.	.	.	.	.
-8c#	-by,	.	.	.	.	.
+8c#~	-by,	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28
 6g	black	1GM	G:5 (G D)	.	.	voice
 6g	and	.	.	.	.	.
@@ -120,15 +120,15 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 8g	come	.	.	.	.	.
 8g	and	.	.	.	.	.
-[8a	touched	.	.	.	.	.
+8[a	touched	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29
 8a]	_	1AM	A:5 (A E)	.	.	voice
 8a	my	.	.	.	.	.
 8g	_	.	.	.	.	.
-[8a	groove	.	.	.	.	.
+8[a	groove	.	.	.	.	.
 4a]	_	.	.	.	.	.
 8g#	a-	.	.	.	.	.
-[8b	-gain!	.	.	.	.	.
+8[b	-gain!	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30
 1b_	_	1BM	B:5 (B F#)	newline	51.853	voice
 =31	=31	=31	=31	=31	=31	=31
@@ -170,7 +170,7 @@ r;	.	1r;	r	.	0	r
 8a	li-	.	.	.	.	.
 8g	-cense,	.	.	.	.	.
 8r	.	.	.	.	.	.
-[8a	all	.	.	.	.	.
+8[a	all	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37
 8a]	_	1AM	A:5 (A E)	.	.	voice
 8a	that	.	.	.	.	.
@@ -183,13 +183,13 @@ r;	.	1r;	r	.	0	r
 2r	.	1BM	B:5 (B F#)	.	.	voice
 4a	can't	.	.	.	.	.
 8r	.	.	.	.	.	.
-[8b	drive	.	.	.	.	.
+8[b	drive	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39
 4b]	_	1BM	B:5 (B F#)	.	.	voice
 4r	.	.	.	.	.	.
 4dd	fif-	.	.	.	.	.
 8b	-ty	.	.	.	.	.
-[8b	five!	.	.	.	.	.
+8[b	five!	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40
 *	*	*>B_interlude	*>B_interlude	*>B_interlude	*>B_interlude	*>B_interlude
 8b]	_	2N	N	newline	69.882	guitar
@@ -202,9 +202,9 @@ r;	.	1r;	r	.	0	r
 =42	=42	=42	=42	=42	=42	=42
 2r	.	1EM	E:5 (E B)	.	.	guitar
 8r	.	.	.	.	.	.
-[8b	Oh,	.	.	.	.	.
+8[b	Oh,	.	.	.	.	.
 8b]	_	.	.	.	.	.
-[8b	no!	.	.	.	.	.
+8[b	no!	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43
 4b]	_	2EM	E:5 (E B)	.	.	guitar
 4r	.	.	.	.	.	.
@@ -249,7 +249,7 @@ r;	.	1r;	r	.	0	r
 8r	.	1EM	E:5 (E B)	.	.	voice
 8g	twen-	.	.	.	.	.
 8e	-ty	.	.	.	.	.
-[8g	four,	.	.	.	.	.
+8[g	four,	.	.	.	.	.
 4g]	_	.	.	.	.	.
 4g	hey!	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54
@@ -267,20 +267,20 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 8b	Yeah	.	.	.	.	.
 8b	the	.	.	.	.	.
-[8b	judge	.	.	.	.	.
+8[b	judge	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58
 4b]	_	1EM	E:5 (E B)	newline	102.124	voice
 4b	said,	.	.	.	.	.
 4.b	boy,	.	.	.	.	.
-[8e	just	.	.	.	.	.
+8[e	just	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59
 8d#	_	1EM	E:5 (E B)	.	.	voice
 16gQ	_	.	.	.	.	.
-[8g#	one	.	.	.	.	.
+8[g#	one	.	.	.	.	.
 8g#]	_	.	.	.	.	.
-[8d	more...	.	.	.	.	.
+8[d	more...	.	.	.	.	.
 4d]	_	.	.	.	.	.
-4e]	huh!	.	.	.	.	.
+4e~]	huh!	.	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60
 1r	.	2EM	E:5 (E B)	newline	105.581	guitar
 .	.	2GM	G:5 (G D)	.	.	guitar
@@ -299,12 +299,12 @@ r;	.	1r;	r	.	0	r
 =63	=63	=63	=63	=63	=63	=63
 8r	.	1EM	E:5 (E B)	.	.	voice
 16g	ci-	.	.	.	.	.
-[16e	-ty	.	.	.	.	.
+16[e	-ty	.	.	.	.	.
 8e]	_	.	.	.	.	.
 8g	joint	.	.	.	.	.
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
-[8a	Looked	.	.	.	.	.
+8[a	Looked	.	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64
 8a]	_	1GM	G:5 (G D)	.	.	voice
 8a	me	.	.	.	.	.
@@ -320,12 +320,12 @@ r;	.	1r;	r	.	0	r
 8a	point?	.	.	.	.	.
 8a	I	.	.	.	.	.
 8a	said,	.	.	.	.	.
-[8b	yeah	.	.	.	.	.
+8[b	yeah	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66
 1b]	_	1BM	B:5 (B F#)	newline	116.41	voice
 =67	=67	=67	=67	=67	=67	=67
-4dd	oh,	1BM	B:5 (B F#)	.	.	voice
-4a	yeah!	.	.	.	.	.
+4dd~	oh,	1BM	B:5 (B F#)	.	.	voice
+4a~	yeah!	.	.	.	.	.
 2r	.	.	.	.	.	.
 =68	=68	=68	=68	=68	=68	=68
 *	*	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
@@ -358,12 +358,12 @@ r;	.	1r;	r	.	0	r
 8a	li-	.	.	.	.	.
 8e	-cense,	.	.	.	.	.
 8r	.	.	.	.	.	.
-[8a	all	.	.	.	.	.
+8[a	all	.	.	.	.	.
 =73	=73	=73	=73	=73	=73	=73
 8a]	_	1AM	A:5 (A E)	.	.	voice
-[8cc	that	.	.	.	.	.
+8[cc	that	.	.	.	.	.
 8cc]	_	.	.	.	.	.
-[8g	jive,	.	.	.	.	.
+8[g	jive,	.	.	.	.	.
 8g]	_	.	.	.	.	.
 8r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -372,21 +372,21 @@ r;	.	1r;	r	.	0	r
 2r	.	1BM	B:5 (B F#)	.	.	voice
 4b	can't	.	.	.	.	.
 8r	.	.	.	.	.	.
-[8b	drive	.	.	.	.	.
+8[b	drive	.	.	.	.	.
 =75	=75	=75	=75	=75	=75	=75
 4b]	_	1BM	B:5 (B F#)	.	.	voice
 4r	.	.	.	.	.	.
 4dd	fif-	.	.	.	.	.
 8b	-ty	.	.	.	.	.
-[8b	five!	.	.	.	.	.
+8[b	five!	.	.	.	.	.
 =76	=76	=76	=76	=76	=76	=76
 *	*	*>E_bridge	*>E_bridge	*>E_bridge	*>E_bridge	*>E_bridge
 1b_	_	1EM	E:5 (E B)	newline	134.354	voice
 =77	=77	=77	=77	=77	=77	=77
 2b]	_	2.AM	A:5 (A E)	.	.	voice
 8e	_	.	.	.	.	.
-8cc#	Oh,	.	.	.	.	.
-4b	yeah!	4EM	E:5 (E B)	.	.	voice
+8cc#~	Oh,	.	.	.	.	.
+4b~	yeah!	4EM	E:5 (E B)	.	.	voice
 =78	=78	=78	=78	=78	=78	=78
 2r	.	1DM	D:5 (D A)	.	.	voice
 4f#	I	.	.	.	.	.
@@ -396,7 +396,7 @@ r;	.	1r;	r	.	0	r
 4r	.	.	.	.	.	.
 4f#	fif-	.	.	.	.	.
 8f#	-ty	.	.	.	.	.
-[8g#	five!	.	.	.	.	.
+8[g#	five!	.	.	.	.	.
 =80	=80	=80	=80	=80	=80	=80
 8g	_	1EM	E:5 (E B)	newline	141.459	voice
 8g#]	_	.	.	.	.	.
@@ -413,7 +413,7 @@ r;	.	1r;	r	.	0	r
 4r	.	.	.	.	.	.
 4f#	fif-	.	.	.	.	.
 8f#	-ty	.	.	.	.	.
-[8g#	five!	.	.	.	.	.
+8[g#	five!	.	.	.	.	.
 =84	=84	=84	=84	=84	=84	=84
 8g	_	1EM	E:5 (E B)	newline	148.54	voice
 8g#]	_	.	.	.	.	.
@@ -430,7 +430,7 @@ r;	.	1r;	r	.	0	r
 4r	.	.	.	.	.	.
 4f#	fif-	.	.	.	.	.
 8f#	-ty	.	.	.	.	.
-[8g#	five!	.	.	.	.	.
+8[g#	five!	.	.	.	.	.
 =88	=88	=88	=88	=88	=88	=88
 8g	_	1EM	E:5 (E B)	newline	155.737	voice
 8g#]	_	.	.	.	.	.
@@ -447,7 +447,7 @@ r;	.	1r;	r	.	0	r
 4r	.	.	.	.	.	.
 4a	fif-	.	.	.	.	.
 8a	-ty	.	.	.	.	.
-[8b	five!	.	.	.	.	.
+8[b	five!	.	.	.	.	.
 =92	=92	=92	=92	=92	=92	=92
 2.b]	_	2.EM	E:5 (E B)	newline	162.818	guitar
 4r	.	4GM	G:5 (G D)	.	.	guitar
@@ -459,7 +459,7 @@ r;	.	1r;	r	.	0	r
 =95	=95	=95	=95	=95	=95	=95
 2r	.	2EM	E:5 (E B)	.	.	guitar
 4r	.	2DM	D:5 (D A)	.	.	guitar
-4b	Uh!	.	.	.	.	.
+4b~	Uh!	.	.	.	.	.
 =96	=96	=96	=96	=96	=96	=96
 1r	.	1EM	E:5 (E B)	newline	170.186	guitar
 =97	=97	=97	=97	=97	=97	=97
@@ -482,7 +482,7 @@ r;	.	1r;	r	.	0	r
 =101	=101	=101	=101	=101	=101	=101
 4g	hard	1EM	E:5 (E B)	.	.	voice
 8e	to	.	.	.	.	.
-[8g	steer.	.	.	.	.	.
+8[g	steer.	.	.	.	.	.
 4g]	_	.	.	.	.	.
 4r	.	.	.	.	.	.
 =102	=102	=102	=102	=102	=102	=102
@@ -493,7 +493,7 @@ r;	.	1r;	r	.	0	r
 8r	.	4GM	G:5 (G D)	.	.	guitar
 8b	And	.	.	.	.	.
 8b	I	4AM	A:5 (A E)	.	.	guitar
-[8b	can't	.	.	.	.	.
+8[b	can't	.	.	.	.	.
 =104	=104	=104	=104	=104	=104	=104
 4b]	_	1EM	E:5 (E B)	newline	184.599	voice
 8b	get	.	.	.	.	.
@@ -505,7 +505,7 @@ r;	.	1r;	r	.	0	r
 8r	.	1EM	E:5 (E B)	.	.	voice
 8b	se-	.	.	.	.	.
 8a	-cond	.	.	.	.	.
-[8b	gear	.	.	.	.	.
+8[b	gear	.	.	.	.	.
 4b]	_	.	.	.	.	.
 4r	.	.	.	.	.	.
 =106	=106	=106	=106	=106	=106	=106
@@ -523,12 +523,12 @@ r;	.	1r;	r	.	0	r
 8e	ho-	.	.	.	.	.
 8d	-urs	.	.	.	.	.
 8r	.	.	.	.	.	.
-[8g	now	.	.	.	.	.
+8[g	now	.	.	.	.	.
 =109	=109	=109	=109	=109	=109	=109
 16g]	_	1EM	E:5 (E B)	.	.	voice
 8.g	takes	.	.	.	.	.
 8.g	all	.	.	.	.	.
-[16g	day	.	.	.	.	.
+16[g	day	.	.	.	.	.
 4g]	_	.	.	.	.	.
 4r	.	.	.	.	.	.
 =110	=110	=110	=110	=110	=110	=110
@@ -541,14 +541,14 @@ r;	.	1r;	r	.	0	r
 4a	six-	1AM	A:5 (A E)	.	.	voice
 4a	-teen	.	.	.	.	.
 8a	ho-	.	.	.	.	.
-8g	-urs	.	.	.	.	.
+8g~	-urs	.	.	.	.	.
 8c#	to	.	.	.	.	.
-[8b	get	.	.	.	.	.
+8[b	get	.	.	.	.	.
 =112	=112	=112	=112	=112	=112	=112
 8b]	_	1BM	B:5 (B F#)	newline	199.017	voice
 8b	to	.	.	.	.	.
 8b	L	.	.	.	.	.
-[8b	A!	.	.	.	.	.
+8[b	A!	.	.	.	.	.
 2b_	_	.	.	.	.	.
 =113	=113	=113	=113	=113	=113	=113
 2b]	_	1BM	B:5 (B F#)	.	.	voice
@@ -587,12 +587,12 @@ r;	.	1r;	r	.	0	r
 8a	li-	.	.	.	.	.
 8g	-cense	.	.	.	.	.
 8c#	n-	.	.	.	.	.
-[8a	-all	.	.	.	.	.
+8[a	-all	.	.	.	.	.
 =119	=119	=119	=119	=119	=119	=119
 8a]	_	1AM	A:5 (A E)	.	.	voice
-[8cc	that	.	.	.	.	.
+8[cc	that	.	.	.	.	.
 8cc]	_	.	.	.	.	.
-[8g	jive	.	.	.	.	.
+8[g	jive	.	.	.	.	.
 8g]	_	.	.	.	.	.
 8r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -601,13 +601,13 @@ r;	.	1r;	r	.	0	r
 2r	.	1BM	B:5 (B F#)	.	.	voice
 4b	can't	.	.	.	.	.
 8r	.	.	.	.	.	.
-[8b	drive	.	.	.	.	.
+8[b	drive	.	.	.	.	.
 =121	=121	=121	=121	=121	=121	=121
 4b]	_	1BM	B:5 (B F#)	.	.	voice
 4r	.	.	.	.	.	.
 4dd	fif-	.	.	.	.	.
 8b	-ty	.	.	.	.	.
-[8b	five!	.	.	.	.	.
+8[b	five!	.	.	.	.	.
 =122	=122	=122	=122	=122	=122	=122
 *	*	*>B2_outro	*>B2_outro	*>B2_outro	*>B2_outro	*>B2_outro
 1b_	_	1EM	E:5 (E B)	newline	217.081	guitar
@@ -619,57 +619,57 @@ r;	.	1r;	r	.	0	r
 =124	=124	=124	=124	=124	=124	=124
 2r	.	1EM	E:5 (E B)	.	.	guitar
 8r	.	.	.	.	.	.
-[8b	No,	.	.	.	.	.
+8[b	No,	.	.	.	.	.
 8b]	_	.	.	.	.	.
-[8b	no,	.	.	.	.	.
+8[b	no,	.	.	.	.	.
 =125	=125	=125	=125	=125	=125	=125
 8b]	_	2EM	E:5 (E B)	.	.	guitar
-[8b	no,	.	.	.	.	.
+8[b	no,	.	.	.	.	.
 8b]	_	.	.	.	.	.
-[8b	I	.	.	.	.	.
+8[b	I	.	.	.	.	.
 8b]	_	4GM	G:5 (G D)	.	.	guitar
-[8b	can't	.	.	.	.	.
+8[b	can't	.	.	.	.	.
 8b]	_	4AM	A:5 (A E)	.	.	guitar
-[8b	drive!	.	.	.	.	.
+8[b	drive!	.	.	.	.	.
 =126	=126	=126	=126	=126	=126	=126
 8b]	_	1EM	E:5 (E B)	newline	224.197	voice
 8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
-4g b dd	I	.	.	.	.	.
-4g b dd	can't	.	.	.	.	.
+4g 4b 4dd	I	.	.	.	.	.
+4g 4b 4dd	can't	.	.	.	.	.
 =127	=127	=127	=127	=127	=127	=127
-4g b cc#	drive	2.AM	A:5 (A E)	.	.	voice
+4g 4b 4cc#	drive	2.AM	A:5 (A E)	.	.	voice
 4r	.	.	.	.	.	.
-4g b dd	fif-	.	.	.	.	.
-8f# a cc#	-ty	4EM	E:5 (E B)	.	.	voice
-8f# a cc#	five!	.	.	.	.	.
+4g 4b 4dd	fif-	.	.	.	.	.
+8f# 8a 8cc#	-ty	4EM	E:5 (E B)	.	.	voice
+8f# 8a 8cc#	five!	.	.	.	.	.
 =128	=128	=128	=128	=128	=128	=128
-4e g b	_	1EM	E:5 (E B)	.	.	voice
+4e 4g 4b	_	1EM	E:5 (E B)	.	.	voice
 4r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
 =129	=129	=129	=129	=129	=129	=129
 4r	.	2EM	E:5 (E B)	.	.	voice
 8r	.	.	.	.	.	.
-[8b	I	.	.	.	.	.
+8[b	I	.	.	.	.	.
 8b]	_	4GM	G:5 (G D)	.	.	voice
-[8b	can't	.	.	.	.	.
+8[b	can't	.	.	.	.	.
 8b]	_	4AM	A:5 (A E)	.	.	voice
-[8b	drive	.	.	.	.	.
+8[b	drive	.	.	.	.	.
 =130	=130	=130	=130	=130	=130	=130
 *	*	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
 8b]	...	1EM	E:5 (E B)	newline	231.361	voice
 8r	.	.	.	.	.	.
 4r	.	.	.	.	.	.
-4g b dd	I	.	.	.	.	.
-4g b dd	can't	.	.	.	.	.
+4g 4b 4dd	I	.	.	.	.	.
+4g 4b 4dd	can't	.	.	.	.	.
 =131	=131	=131	=131	=131	=131	=131
-4g b cc#	drive	2.AM	A:5 (A E)	.	.	voice
+4g 4b 4cc#	drive	2.AM	A:5 (A E)	.	.	voice
 4r	.	.	.	.	.	.
-4g b dd	fif-	.	.	.	.	.
-8f# a cc#	-ty	4EM	E:5 (E B)	.	.	voice
-8f# a cc#	five!	.	.	.	.	.
+4g 4b 4dd	fif-	.	.	.	.	.
+8f# 8a 8cc#	-ty	4EM	E:5 (E B)	.	.	voice
+8f# 8a 8cc#	five!	.	.	.	.	.
 =132	=132	=132	=132	=132	=132	=132
-4e g b	_	1EM	E:5 (E B)	.	.	voice
+4e 4g 4b	_	1EM	E:5 (E B)	.	.	voice
 4r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
 =133	=133	=133	=133	=133	=133	=133
@@ -678,16 +678,16 @@ r;	.	1r;	r	.	0	r
 .	.	4AM	A:5 (A E)	.	.	voice
 =134	=134	=134	=134	=134	=134	=134
 2r	.	1EM	E:5 (E B)	newline	238.503	voice
-4g b dd	I	.	.	.	.	.
-4g b dd	can't	.	.	.	.	.
+4g 4b 4dd	I	.	.	.	.	.
+4g 4b 4dd	can't	.	.	.	.	.
 =135	=135	=135	=135	=135	=135	=135
-4g b cc#	drive	2.AM	A:5 (A E)	.	.	voice
+4g 4b 4cc#	drive	2.AM	A:5 (A E)	.	.	voice
 4r	.	.	.	.	.	.
-4g b dd	fif-	.	.	.	.	.
-8f# a cc#	-ty	4EM	E:5 (E B)	.	.	voice
-8f# a cc#	five!	.	.	.	.	.
+4g 4b 4dd	fif-	.	.	.	.	.
+8f# 8a 8cc#	-ty	4EM	E:5 (E B)	.	.	voice
+8f# 8a 8cc#	five!	.	.	.	.	.
 =136	=136	=136	=136	=136	=136	=136
-4e g b	_	1EM	E:5 (E B)	.	.	voice
+4e 4g 4b	_	1EM	E:5 (E B)	.	.	voice
 4r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
 =137	=137	=137	=137	=137	=137	=137
@@ -696,16 +696,16 @@ r;	.	1r;	r	.	0	r
 .	.	4AM	A:5 (A E)	.	.	voice
 =138	=138	=138	=138	=138	=138	=138
 2r	.	1EM	E:5 (E B)	newline	245.676	voice
-4g b dd	I	.	.	.	.	.
-4g b dd	can't	.	.	.	.	.
+4g 4b 4dd	I	.	.	.	.	.
+4g 4b 4dd	can't	.	.	.	.	.
 =139	=139	=139	=139	=139	=139	=139
-4g b cc#	drive	2.AM	A:5 (A E)	.	.	voice
+4g 4b 4cc#	drive	2.AM	A:5 (A E)	.	.	voice
 4r	.	.	.	.	.	.
-4g b dd	fif-	.	.	.	.	.
-8f# a cc#	-ty	4EM	E:5 (E B)	.	.	voice
-8f# a cc#	five!	.	.	.	.	.
+4g 4b 4dd	fif-	.	.	.	.	.
+8f# 8a 8cc#	-ty	4EM	E:5 (E B)	.	.	voice
+8f# 8a 8cc#	five!	.	.	.	.	.
 =140	=140	=140	=140	=140	=140	=140
-4e g b	_	1EM	E:5 (E B)	.	.	voice
+4e 4g 4b	_	1EM	E:5 (E B)	.	.	voice
 4r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
 =141	=141	=141	=141	=141	=141	=141
