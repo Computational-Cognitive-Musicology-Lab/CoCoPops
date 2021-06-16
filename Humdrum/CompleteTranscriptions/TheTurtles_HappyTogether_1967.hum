@@ -2,12 +2,13 @@
 *ICvox	*	*M4/4	*M4/4	*	*	*
 *f#:	*	*f#:	*f#:	*f#:	*f#:	*f#:
 *M4/4	*	*	*	*	*	*
-*clefF4	*	*	*	*	*	*
+*clefG2	*	*	*	*	*	*
+r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1
-1r	.	1r;	r	.	0	r
-=2	=2	=2	=2	=2	=2	=2
 *	*	*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro	*>A2_intro
 1r	.	1F#m	F#:min (F# A C#)	newline	0.441	guitar
+=2	=2	=2	=2	=2	=2	=2
+1r	.	1F#m	F#:min (F# A C#)	.	.	guitar
 =3	=3	=3	=3	=3	=3	=3
 1r	.	1F#m	F#:min (F# A C#)	.	.	guitar
 =4	=4	=4	=4	=4	=4	=4
@@ -17,22 +18,22 @@
 8F#	-ma-	.	.	.	.	.
 8G#	-gine	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5
-8A	me	1F#m	F#:min (F# A C#)	.	.	guitar
+*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+8A	me	1F#m	F#:min (F# A C#)	newline	8.764	voice
 8G#	and	.	.	.	.	.
 4A	you	.	.	.	.	.
 8r	.	.	.	.	.	.
 8G#	I	.	.	.	.	.
 4A	do	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
-4r	.	1F#m	F#:min (F# A C#)	newline	8.764	voice
+4r	.	1F#m	F#:min (F# A C#)	.	.	voice
 4c#	I	.	.	.	.	.
 8B	think	.	.	.	.	.
 8A	a-	.	.	.	.	.
 8G#	-bout	.	.	.	.	.
 8F#	you	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
-8G#	day	1F#m	F#:min (F# A C#)	.	.	voice
+8G#	day	1EM	E:maj (E G# B)	.	.	voice
 8F#	and	.	.	.	.	.
 4G#	night	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -49,7 +50,7 @@
 8F#	-bout	.	.	.	.	.
 8E	the	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9
-8F#	girl	1EM	E:maj (E G# B)	.	.	voice
+8F#	girl	1DMm	D:7 (D F# A C)	newline	16.682	voice
 8E	you	.	.	.	.	.
 4F#	love	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -57,14 +58,14 @@
 8D	hold	.	.	.	.	.
 8E	her	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10
-4F#	tight	1DMm	D:7 (D F# A C)	newline	16.682	voice
+4F#	tight	1DMm	D:7 (D F# A C)	.	.	voice
 8r	.	.	.	.	.	.
 8F#	So	.	.	.	.	.
 8F#	ha-	.	.	.	.	.
 4G#	-ppy	.	.	.	.	.
 8F#	to-	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11
-4E#	-ge-	1DMm	D:7 (D F# A C)	.	.	voice
+4E#	-ge-	1C#Mm	C#:7 (C# E# G# B)	.	.	voice
 [2.c#	-ther	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12
 4c#]	_	1C#Mm	C#:7 (C# E# G# B)	.	.	voice
@@ -74,7 +75,8 @@
 8F#	I	.	.	.	.	.
 8G#	should	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13
-8A	call	1C#Mm	C#:7 (C# E# G# B)	.	.	voice
+*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+8A	call	1F#m	F#:min (F# A C#)	newline	24.55	voice
 8G#	you	.	.	.	.	.
 4A	up	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -82,8 +84,7 @@
 8F#	-vest	.	.	.	.	.
 8G#	a	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
-4A	dime	1F#m	F#:min (F# A C#)	newline	24.55	voice
+4A	dime	1F#m	F#:min (F# A C#)	.	.	voice
 8r	.	.	.	.	.	.
 8c#	and	.	.	.	.	.
 8B	you	.	.	.	.	.
@@ -91,7 +92,7 @@
 8G#	you	.	.	.	.	.
 8F#	be-	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15
-8G#	-long	1F#m	F#:min (F# A C#)	.	.	voice
+8G#	-long	1EM	E:maj (E G# B)	.	.	voice
 8F#	to	.	.	.	.	.
 4G#	me	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -108,7 +109,7 @@
 8F#	how	.	.	.	.	.
 8E	the	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17
-8F#	world	1EM	E:maj (E G# B)	.	.	voice
+8F#	world	1DMm	D:7 (D F# A C)	newline	32.488	voice
 8E	could	.	.	.	.	.
 4F#	be	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -116,34 +117,33 @@
 8D	ve-	.	.	.	.	.
 8E	-ry	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18
-4F#	fine	1DMm	D:7 (D F# A C)	newline	32.488	voice
+4F#	fine	1DMm	D:7 (D F# A C)	.	.	voice
 8r	.	.	.	.	.	.
 8F#	So	.	.	.	.	.
 8F#	ha-	.	.	.	.	.
 4G#	-ppy	.	.	.	.	.
 8F#	to-	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19
-4E#	-ge-	1DMm	D:7 (D F# A C)	.	.	voice
+4E#	-ge-	1C#Mm	C#:7 (C# E# G# B)	.	.	voice
 [2.c#	-ther	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20
 2c#]	_	1C#Mm	C#:7 (C# E# G# B)	.	.	voice
 2r	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21
-*F#:	*	*	*	*	*	*
-4f#	I	1C#Mm	C#:7 (C# E# G# B)	.	.	voice
+*F#:	*	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+4f#	I	1F#M	F#:maj (F# A# C#)	newline	40.325	.
 4c#	can't	.	.	.	.	.
 4A#	see	.	.	.	.	.
 4F#	me	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22
-*	*	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
-8E#	lo-	1F#M	F#:maj (F# A# C#)	newline	40.325	.
+8E#	lo-	1C#mm	C#:min7 (C# E G# B)	.	.	.
 8G#	-ving	.	.	.	.	.
 8B	no-	.	.	.	.	.
 4d#	-bo-	.	.	.	.	.
 8e	-dy	.	.	.	.	.
 4d#	like	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23
-4c#	you	1C#mm	C#:min7 (C# E G# B)	.	.	.
+4c#	you	1F#M	F#:maj (F# A# C#)	.	.	.
 8r	.	.	.	.	.	.
 8c#	for	.	.	.	.	.
 8c#	all	.	.	.	.	.
@@ -151,22 +151,22 @@
 16e	life	.	.	.	.	.
 16f#	_	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24
-2.e	_	1F#M	F#:maj (F# A# C#)	.	.	.
+2.e	_	1AM	A:maj (A C# E)	.	.	.
 4r	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25
-4f#	When	1AM	A:maj (A C# E)	.	.	.
+4f#	When	1F#M	F#:maj (F# A# C#)	.	.	.
 4c#	you're	.	.	.	.	.
 4A#	with	.	.	.	.	.
 4F#	me	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26
-8E#	ba-	1F#M	F#:maj (F# A# C#)	.	.	.
+8E#	ba-	1C#mm	C#:min7 (C# E G# B)	.	.	.
 8G#	-by	.	.	.	.	.
 8B	the	.	.	.	.	.
 4d#	skies	.	.	.	.	.
 8e	will	.	.	.	.	.
 4d#	be	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27
-4c#	blue	1C#mm	C#:min7 (C# E G# B)	.	.	.
+4c#	blue	1F#M	F#:maj (F# A# C#)	.	.	.
 8r	.	.	.	.	.	.
 8c#	for	.	.	.	.	.
 8c#	all	.	.	.	.	.
@@ -174,11 +174,11 @@
 16e	life	.	.	.	.	.
 16f#	_	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28
-2.e	_	1F#M	F#:maj (F# A# C#)	.	.	.
+2.e	_	1AM	A:maj (A C# E)	.	.	.
 4r	.	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29
-*f#:	*	*	*	*	*	*
-8A	Me	1AM	A:maj (A C# E)	.	.	.
+*f#:	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+8A	Me	1F#m	F#:min (F# A C#)	newline	56.115	.
 8G#	and	.	.	.	.	.
 4A	you	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -186,8 +186,7 @@
 8F#	you	.	.	.	.	.
 8G#	and	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
-4A	me	1F#m	F#:min (F# A C#)	newline	56.115	.
+4A	me	1F#m	F#:min (F# A C#)	.	.	.
 8r	.	.	.	.	.	.
 8c#	No	.	.	.	.	.
 8B	ma-	.	.	.	.	.
@@ -195,7 +194,7 @@
 8G#	how	.	.	.	.	.
 8F#	they	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31
-8G#	toss	1F#m	F#:min (F# A C#)	.	.	.
+8G#	toss	1EM	E:maj (E G# B)	.	.	.
 8F#	the	.	.	.	.	.
 4G#	dice	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -211,7 +210,7 @@
 8F#	one	.	.	.	.	.
 8E	for	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33
-8F#	me	1EM	E:maj (E G# B)	.	.	.
+8F#	me	1DMm	D:7 (D F# A C)	newline	64.196	.
 8E	is	.	.	.	.	.
 4F#	you	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -219,34 +218,33 @@
 8D	you	.	.	.	.	.
 8E	for	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34
-4F#	me	1DMm	D:7 (D F# A C)	newline	64.196	.
+4F#	me	1DMm	D:7 (D F# A C)	.	.	.
 8r	.	.	.	.	.	.
 8F#	so	.	.	.	.	.
 8F#	ha-	.	.	.	.	.
 4G#	-ppy	.	.	.	.	.
 8F#	to-	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35
-4E#	-ge-	1DMm	D:7 (D F# A C)	.	.	.
+4E#	-ge-	1C#Mm	C#:7 (C# E# G# B)	.	.	.
 [2.c#	-ther	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36
 2c#]	_	1C#Mm	C#:7 (C# E# G# B)	.	.	.
 2r	.	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37
-*F#:	*	*	*	*	*	*
-4f#	I	1C#Mm	C#:7 (C# E# G# B)	.	.	.
+*F#:	*	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+4f#	I	1F#M	F#:maj (F# A# C#)	newline	72.156	.
 4c#	can't	.	.	.	.	.
 4A#	see	.	.	.	.	.
 4F#	me	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38
-*	*	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
-8E#	lo-	1F#M	F#:maj (F# A# C#)	newline	72.156	.
+8E#	lo-	1C#mm	C#:min7 (C# E G# B)	.	.	.
 8G#	-ving	.	.	.	.	.
 8B	no-	.	.	.	.	.
 4d#	-bo-	.	.	.	.	.
 8e	-dy	.	.	.	.	.
 4d#	like	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39
-4c#	you	1C#mm	C#:min7 (C# E G# B)	.	.	.
+4c#	you	1F#M	F#:maj (F# A# C#)	.	.	.
 8r	.	.	.	.	.	.
 8c#	for	.	.	.	.	.
 8c#	all	.	.	.	.	.
@@ -254,22 +252,22 @@
 16e	life	.	.	.	.	.
 16f#	_	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40
-2.e	_	1F#M	F#:maj (F# A# C#)	.	.	.
+2.e	_	1AM	A:maj (A C# E)	.	.	.
 4r	.	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41
-4f#	When	1AM	A:maj (A C# E)	.	.	.
+4f#	When	1F#M	F#:maj (F# A# C#)	.	.	.
 4c#	you're	.	.	.	.	.
 4A#	with	.	.	.	.	.
 4F#	me	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42
-8E#	ba-	1F#M	F#:maj (F# A# C#)	.	.	.
+8E#	ba-	1C#mm	C#:min7 (C# E G# B)	.	.	.
 8G#	-by	.	.	.	.	.
 8B	the	.	.	.	.	.
 4d#	skies	.	.	.	.	.
 8e	will	.	.	.	.	.
 4d#	be	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43
-4c#	blue	1C#mm	C#:min7 (C# E G# B)	.	.	.
+4c#	blue	1F#M	F#:maj (F# A# C#)	.	.	.
 8r	.	.	.	.	.	.
 8c#	for	.	.	.	.	.
 8c#	all	.	.	.	.	.
@@ -277,11 +275,11 @@
 16e	life	.	.	.	.	.
 16f#	_	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44
-2.e	_	1F#M	F#:maj (F# A# C#)	.	.	.
+2.e	_	1AM	A:maj (A C# E)	.	.	.
 4r	.	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45
-*f#:	*	*	*	*	*	*
-8A	Me	1AM	A:maj (A C# E)	.	.	.
+*f#:	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+8A	Me	1F#m	F#:min (F# A C#)	newline	88.015	.
 8G#	and	.	.	.	.	.
 4A	you	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -289,8 +287,7 @@
 8F#	you	.	.	.	.	.
 8G#	and	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
-4A	me	1F#m	F#:min (F# A C#)	newline	88.015	.
+4A	me	1F#m	F#:min (F# A C#)	.	.	.
 8r	.	.	.	.	.	.
 8c#	No	.	.	.	.	.
 8B	ma-	.	.	.	.	.
@@ -298,7 +295,7 @@
 8G#	how	.	.	.	.	.
 8F#	they	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47
-8G#	toss	1F#m	F#:min (F# A C#)	.	.	.
+8G#	toss	1EM	E:maj (E G# B)	.	.	.
 8F#	the	.	.	.	.	.
 4G#	dice	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -314,7 +311,7 @@
 8F#	one	.	.	.	.	.
 8E	for	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49
-8F#	me	1EM	E:maj (E G# B)	.	.	.
+8F#	me	1DMm	D:7 (D F# A C)	newline	96.143	.
 8E	is	.	.	.	.	.
 4F#	you	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -322,67 +319,66 @@
 8D	you	.	.	.	.	.
 8E	for	.	.	.	.	.
 =50	=50	=50	=50	=50	=50	=50
-4F#	me	1DMm	D:7 (D F# A C)	newline	96.143	.
+4F#	me	1DMm	D:7 (D F# A C)	.	.	.
 8r	.	.	.	.	.	.
 8F#	so	.	.	.	.	.
 8F#	ha-	.	.	.	.	.
 4G#	-ppy	.	.	.	.	.
 8F#	to-	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51
-4E#	-ge-	1DMm	D:7 (D F# A C)	.	.	.
+4E#	-ge-	1C#Mm	C#:7 (C# E# G# B)	.	.	.
 [2.c#	-ther	.	.	.	.	.
 =52	=52	=52	=52	=52	=52	=52
 2.c#]	_	1C#Mm	C#:7 (C# E# G# B)	.	.	.
 4r	.	.	.	.	.	.
 =53	=53	=53	=53	=53	=53	=53
-*F#:	*	*	*	*	*	*
-4f#	Ba	1C#Mm	C#:7 (C# E# G# B)	.	.	.
+*F#:	*	*>B_interlude	*>B_interlude	*>B_interlude	*>B_interlude	*>B_interlude
+4f#	Ba	1F#M	F#:maj (F# A# C#)	newline	104.214	.
 4c#	ba	.	.	.	.	.
 4A#	ba	.	.	.	.	.
 4F#	ba	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54
-*	*	*>B_interlude	*>B_interlude	*>B_interlude	*>B_interlude	*>B_interlude
-8E#	ba	1F#M	F#:maj (F# A# C#)	newline	104.214	.
+8E#	ba	1C#mm	C#:min7 (C# E G# B)	.	.	.
 8G#	ba	.	.	.	.	.
 8B	ba	.	.	.	.	.
 4d#	ba	.	.	.	.	.
 8e	ba	.	.	.	.	.
 4d#	ba	.	.	.	.	.
 =55	=55	=55	=55	=55	=55	=55
-4c#	ba	1C#mm	C#:min7 (C# E G# B)	.	.	.
+4c#	ba	1F#M	F#:maj (F# A# C#)	.	.	.
 8r	.	.	.	.	.	.
 8c#	ba	.	.	.	.	.
 8c#	ba	.	.	.	.	.
 4.d#	ba	.	.	.	.	.
 =56	=56	=56	=56	=56	=56	=56
-2.e	ba	1F#M	F#:maj (F# A# C#)	.	.	.
+2.e	ba	1AM	A:maj (A C# E)	.	.	.
 4r	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57
-4f#	ba	1AM	A:maj (A C# E)	.	.	.
+4f#	ba	1F#M	F#:maj (F# A# C#)	newline	112.366	.
 4c#	ba	.	.	.	.	.
 4A#	ba	.	.	.	.	.
 4F#	ba	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58
-8E#	ba	1F#M	F#:maj (F# A# C#)	newline	112.366	.
+8E#	ba	1C#mm	C#:min7 (C# E G# B)	.	.	.
 8G#	ba	.	.	.	.	.
 8B	ba	.	.	.	.	.
 4d#	ba	.	.	.	.	.
 8e	ba	.	.	.	.	.
 4d#	ba	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59
-4c#	ba	1C#mm	C#:min7 (C# E G# B)	.	.	.
+4c#	ba	1F#M	F#:maj (F# A# C#)	.	.	.
 8r	.	.	.	.	.	.
 8c#	ba	.	.	.	.	.
 8c#	ba	.	.	.	.	.
 4.d#	ba	.	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60
-[1e	ba	1F#M	F#:maj (F# A# C#)	.	.	.
+[1e	ba	1C#mm	C#:min7 (C# E G# B)	.	.	.
 =61	=61	=61	=61	=61	=61	=61
 2.e]	_	1C#mm	C#:min7 (C# E G# B)	.	.	.
 4r	.	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62
-*f#:	*	*	*	*	*	*
-8A	Me	1C#mm	C#:min7 (C# E G# B)	.	.	.
+*f#:	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+8A	Me	1F#m	F#:min (F# A C#)	newline	122.173	.
 8G#	and	.	.	.	.	.
 4A	you	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -390,8 +386,7 @@
 8F#	you	.	.	.	.	.
 8G#	and	.	.	.	.	.
 =63	=63	=63	=63	=63	=63	=63
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
-4A	me	1F#m	F#:min (F# A C#)	newline	122.173	.
+4A	me	1F#m	F#:min (F# A C#)	.	.	.
 8r	.	.	.	.	.	.
 8c#	No	.	.	.	.	.
 8B	ma-	.	.	.	.	.
@@ -399,7 +394,7 @@
 8G#	how	.	.	.	.	.
 8F#	they	.	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64
-8G#	toss	1F#m	F#:min (F# A C#)	.	.	.
+8G#	toss	1EM	E:maj (E G# B)	.	.	.
 8F#	the	.	.	.	.	.
 4G#	dice	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -415,7 +410,7 @@
 8F#	one	.	.	.	.	.
 8E	for	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66
-8F#	me	1EM	E:maj (E G# B)	.	.	.
+8F#	me	1DMm	D:7 (D F# A C)	newline	130.366	.
 8E	is	.	.	.	.	.
 4F#	you	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -423,104 +418,101 @@
 8D	you	.	.	.	.	.
 8E	for	.	.	.	.	.
 =67	=67	=67	=67	=67	=67	=67
-4F#	me	1DMm	D:7 (D F# A C)	newline	130.366	.
+4F#	me	1DMm	D:7 (D F# A C)	.	.	.
 8r	.	.	.	.	.	.
 8F#	so	.	.	.	.	.
 8F#	ha-	.	.	.	.	.
 4G#	-ppy	.	.	.	.	.
 8F#	to-	.	.	.	.	.
 =68	=68	=68	=68	=68	=68	=68
-4E#	-ge-	1DMm	D:7 (D F# A C)	.	.	.
+4E#	-ge-	1C#Mm	C#:7 (C# E# G# B)	.	.	.
 [2.c#	-ther	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69
-4c#]	_	1C#Mm	C#:7 (C# E# G# B)	.	.	.
+4c#]	_	1F#m	F#:min (F# A C#)	.	.	.
 8r	.	.	.	.	.	.
 8F#	so	.	.	.	.	.
 8F#	ha-	.	.	.	.	.
 4G#	-ppy	.	.	.	.	.
 8F#	to-	.	.	.	.	.
 =70	=70	=70	=70	=70	=70	=70
-4E#	-ge-	1F#m	F#:min (F# A C#)	.	.	.
+*	*	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro
+4E#	-ge-	1C#Mm	C#:7 (C# E# G# B)	newline	138.487	.
 [2.c#	-ther	.	.	.	.	.
 =71	=71	=71	=71	=71	=71	=71
-*	*	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro
-4c#]	_	1C#Mm	C#:7 (C# E# G# B)	newline	138.487	.
+4c#]	_	1F#m	F#:min (F# A C#)	.	.	.
 4r	.	.	.	.	.	.
 6F#	How	.	.	.	.	.
 6G#	is	.	.	.	.	.
 6F#	the	.	.	.	.	.
 =72	=72	=72	=72	=72	=72	=72
-4E#	wea-	1F#m	F#:min (F# A C#)	.	.	.
+4E#	wea-	1C#Mm	C#:7 (C# E# G# B)	.	.	.
 [2.c#	-ther?	.	.	.	.	.
 =73	=73	=73	=73	=73	=73	=73
-4c#]	_	1C#Mm	C#:7 (C# E# G# B)	.	.	.
+4c#]	_	1F#m	F#:min (F# A C#)	.	.	.
 8r	.	.	.	.	.	.
 8F#	so	.	.	.	.	.
 8F#	ha-	.	.	.	.	.
 4G#	-ppy	.	.	.	.	.
 8F#	to-	.	.	.	.	.
 =74	=74	=74	=74	=74	=74	=74
-4E#	-ge-	1F#m	F#:min (F# A C#)	.	.	.
+4E#	-ge-	1C#Mm	C#:7 (C# E# G# B)	.	.	.
 [2.c#	-ther	.	.	.	.	.
 =75	=75	=75	=75	=75	=75	=75
-4c#]	_	1C#Mm	C#:7 (C# E# G# B)	.	.	.
+4c#]	_	1F#m	F#:min (F# A C#)	.	.	.
 8r	.	.	.	.	.	.
 8F#	We're	.	.	.	.	.
 8F#	ha-	.	.	.	.	.
 4G#	-ppy	.	.	.	.	.
 8F#	to-	.	.	.	.	.
 =76	=76	=76	=76	=76	=76	=76
-4E#	-ge-	1F#m	F#:min (F# A C#)	.	.	.
+4E#	-ge-	1C#Mm	C#:7 (C# E# G# B)	.	.	.
 [2.c#	-ther	.	.	.	.	.
 =77	=77	=77	=77	=77	=77	=77
-4c#]	_	1C#Mm	C#:7 (C# E# G# B)	.	.	.
+4c#]	_	1F#m	F#:min (F# A C#)	.	.	.
 8r	.	.	.	.	.	.
 8F#	so	.	.	.	.	.
 8F#	ha-	.	.	.	.	.
 4G#	-ppy	.	.	.	.	.
 8F#	to-	.	.	.	.	.
 =78	=78	=78	=78	=78	=78	=78
-4E#	-ge-	1F#m	F#:min (F# A C#)	.	.	.
+4E#	-ge-	1C#Mm	C#:7 (C# E# G# B)	.	.	.
 [2.c#	-ther	.	.	.	.	.
 =79	=79	=79	=79	=79	=79	=79
-4c#]	_	1C#Mm	C#:7 (C# E# G# B)	.	.	.
+4c#]	_	1F#m	F#:min (F# A C#)	.	.	.
 4r	.	.	.	.	.	.
 8F#	ha-	.	.	.	.	.
 4G#	-ppy	.	.	.	.	.
 8F#	to-	.	.	.	.	.
 =80	=80	=80	=80	=80	=80	=80
-4E#	-ge-	1F#m	F#:min (F# A C#)	.	.	.
+4E#	-ge-	1C#Mm	C#:7 (C# E# G# B)	.	.	.
 [2.c#	-ther	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81
-4c#]	_	1C#Mm	C#:7 (C# E# G# B)	.	.	.
+4c#]	_	1F#m	F#:min (F# A C#)	.	.	.
 8r	.	.	.	.	.	.
 8F#	so	.	.	.	.	.
 8F#	ha-	.	.	.	.	.
 4G#	-ppy	.	.	.	.	.
 8F#	to-	.	.	.	.	.
 =82	=82	=82	=82	=82	=82	=82
-4E#	-ge-	1F#m	F#:min (F# A C#)	.	.	.
+4E#	-ge-	1C#Mm	C#:7 (C# E# G# B)	.	.	.
 [2.c#	-ther	.	.	.	.	.
 =83	=83	=83	=83	=83	=83	=83
-4c#]	_	1C#Mm	C#:7 (C# E# G# B)	.	.	.
+4c#]	_	1F#m	F#:min (F# A C#)	.	.	.
 8r	.	.	.	.	.	.
 8F#	so	.	.	.	.	.
 8F#	ha-	.	.	.	.	.
 4G#	-ppy	.	.	.	.	.
 8F#	to-	.	.	.	.	.
 =84	=84	=84	=84	=84	=84	=84
-4E#	-ge-	1F#m	F#:min (F# A C#)	.	.	.
+4E#	-ge-	1C#Mm	C#:7 (C# E# G# B)	newline	166.401	voice
 [2.c#	-ther	.	.	.	.	.
 =85	=85	=85	=85	=85	=85	=85
-4c#]	_	1C#Mm	C#:7 (C# E# G# B)	newline	166.401	voice
+4c#]	_	1F#M	F#:maj (F# A# C#)	.	.	voice
 4r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
-=85	=85	=85	=85	=85	=85	=85
-r;	.	1F#M	F#:maj (F# A# C#)	.	.	voice
 r;	.	1r;	r	.	172.455	r
-*-	*-	*	*
-1r;	r	.	174.864	r
-*-	*-	*-	*-	*-
+r;	.	1r;	r	.	174.864	r
+*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1967/04/22
 !!!BillboardPeak: 1
 !!!BillboardWeeksOnChart: 15
