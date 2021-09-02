@@ -1,15 +1,52 @@
+# CoCoPops/RollingStone/Humdrum/
+
+
+For this project, a Haskell program was created to translate Temperley and de Clercq's original encodings into the humdrum syntax, with the four original files encoded in four spines of a single humdrum file.
+This program was created and run in 2019 by Nat Condit-Schultz;
+Information about this initial data translation process is contained below, in the section "Work log."
+(A number of errors in the original data are documented in the work log.)
+
+The current version of the humdrum data set is located in the `Humdrum` directory.
+
+---
+
+In 2021, Rhythm Jain worked with Nat to add incorporate the additional lyrical information for the 80-song subset into the humdrum files, as `**silbe` and `**stress` spines.
+
+
+## Pitch
+
+In de Clercq and Temperley's original melodic encodings, pitch is encoded as scale degrees (1-7) with additional marks to indicate melodic contour/leap size.
+de Clercq and Temperley indicate the tonic note and the diatonic scale for each piece, including various diatonic modes.
+In our humdrum files, we use the standard humdrum a `\*\*deg` interpretation:
+Numerals 1--7 indicate the natural scale degree of each pitch, given the key/mode.
+`b` and `#` symbols indicate alterations relative to the mode.
+By default, each successive scale degree is assumed to be the pitch closest the previous note.
+One or more `^` and `v` symbols are used to indicate violations of this, with multiple `v` or `^` indicating additional octaves.
+
+
+## Rhythm
+
+In de Clercq and Temperley's original melodic encodings, rhythmic information is encode as a drum-machine-like step-sequence, indicating only at which point in each measure a note begins (leaving out offset/duration information).
+In our humdrum files I've produced, `\*tb` interpretations indicate the step-sequence duration size, which changes dynamically as necassary.
+For instance, `\*tb8` indicates that each subsequent data record is an eighth-note.
+
+Note that de Clercq and Temperley's "step sequence" approach means that the rhythm transcriptions only indicate onsets, not durations.
+(There are also, as a result, no rest tokens.)
+
+
+
+# Worklog
+
+
 This dataset is a translation of de Clercq and Temperley's Rolling Stone Corpus (http://rockcorpus.midside.com/) into the humdrum (www.humdrum.org) format.
 This WorkLog file was used to keep notes on progress on this project before it was turned into a git repository.
-
+The "I" below is Nat Condit-Schultz.
 
 The input was the original melodic and harmonic transcription files (`.txt` and `.mel` files in the `OriginalData` directory).
 
 
 
-
-
-
-# Errors in original files
+## Errors in original files
 
 
 I've made a number of (manual) fixes to errors in the original transcriptions/files.
@@ -127,7 +164,7 @@ key/mode between two transcribers, I elected to automatically resolve mode disag
 
 
 
-# HumdrumFiles
+## HumdrumFiles
 
 I wrote a Haskell parser which translates and combines the original melodic and harmonic transcriptions into a single humdrum file, using `\*tb` (timebase) for melodic rhythm.
 
@@ -141,10 +178,10 @@ I fix these manually *after* auto parsing was complete.
 > Nat Condit-Schultz, May 2019
 
 
-## Tempos
+### Tempos
 
 
-The files `Tempos.tsv` lists the bpm(s) for each file, based on my tapping along to them using the (https://www.all8.com/tools/bpm.htm) tool.
-Using the `InsertTempos.R` script (**CURRENTLY BROKEN**), these tempos can be inserted into the humdrum files.
+The files `../Tempos.tsv` lists the bpm(s) for each file, based on my tapping along to them using the (https://www.all8.com/tools/bpm.htm) tool.
+Using the `../Scripts/InsertTempos.R` script (**CURRENTLY BROKEN**), these tempos can be inserted into the humdrum files.
 For files with multiple tempos, the actual location of tempo changes in the humdrum file has to be input manually (after the fact).
 
