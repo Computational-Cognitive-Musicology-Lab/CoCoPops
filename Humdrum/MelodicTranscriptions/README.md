@@ -1,4 +1,4 @@
-# CoCoPops/Billoard/Humdrum/MelodicTranscriptions
+# CoCoPops/Billoard/Humdrum/MelodicTranscriptions/
 
 This directory contains melodic transcriptions of (a subset) of the McGill Billboard dataset in humdrum format.
 These humdrum files were translated automatically from the XML transcriptions in `../../MelodicTranscriptions/XML`.

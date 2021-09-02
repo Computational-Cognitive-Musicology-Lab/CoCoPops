@@ -1,4 +1,4 @@
-# CoCoPops/Billboard/Humdrum
+# CoCoPops/Billboard/Humdrum/
 
 This directory contains the humdrum data for the CoCoPops billboard dataset.
 

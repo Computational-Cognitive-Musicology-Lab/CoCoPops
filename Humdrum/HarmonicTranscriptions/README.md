@@ -1,4 +1,4 @@
-# CoCoPops/Billoard/Humdrum/HarmonicTranscriptions
+# CoCoPops/Billoard/Humdrum/HarmonicTranscriptions/
 
 This directory contains harmonic transcriptions of the entire McGill Billboard dataset in humdrum format.
 These humdrum files were translated automatically from the original McGill Billboard data files.

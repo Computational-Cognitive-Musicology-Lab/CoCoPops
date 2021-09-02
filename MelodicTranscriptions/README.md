@@ -1,4 +1,4 @@
- CoCoPops/Billboard/MelodicTranscriptions
+# CoCoPops/Billboard/MelodicTranscriptions/
 
 This is the folder where we keep non-humdrum melodic transcription data, including Sibelius and XML files.
 The XML files are the most important, as XML is the format which will be translated to Humdrum.
