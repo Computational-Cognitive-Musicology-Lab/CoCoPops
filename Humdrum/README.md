@@ -159,7 +159,64 @@ Unfortunately, since the harmonic transcriptions don't explicitely indicate mode
 key/mode between two transcribers, I elected to automatically resolve mode disagreements by manually inspecting humdrum files.
 
 > Nat Condit-Schultz, September 2019
+
+
+
+### (Mis)Aligning Lyrics
+
+Rhythm and I worked to insert the lyrics (and stress) info from the 80-song lyric subset into the humdrum files, in `\*\*silbe` and `\*\*stress` spines.
+This was done using scripts in `../Scripts/LyricAlign`.
+
+In a number of tracks, `.str` and `.mel` files do not agree on all the rhythms.
+(In general, I believe the rhythms in the `.str` files are more accurate detailed, but not in all cases.)
+For now, rather than picking a side (`.str` vs `.mel`) we've simply inserted the syllables into the humdrm files wherever the `.str` says they go.
+This means that in some places, there are slight discrepencies between the `\*\*deg` and `\*\*silbe` spines.
+
+In some cases (listed below) the timebase used in the humdrum/`.mel` scores in a particular measure wasn't able to capture the rhythms indicated in the `.str` file.
+I manually changed the timebases for these measures so that both rhythms (`.mel` and `.str`) could be put into the same measure---in some cases, going up to `tb48`.
+This was done in the following files:
 	
++ AlGreen_LetsStayTogether_1971.hum
++ ArethaFranklin_Respect_1967.hum
++ BobDylan_LikeARollingStone_1965.hum
++ BobMarley_NoWomanNoCry_1975.hum
++ BobMarley_RedemptionSong_1980.hum
++ BonnieRaitt_ICantMakeYouLoveMe_1991.hum
++ BruceSpringsteen_BornToRun_1975.hum
++ ChuckBerry_Maybellene_1955.hum
++ ChuckBerry_RollOverBeethoven_1956.hum
++ DavidBowie_Heroes_1977.hum
++ DerekAndTheDominos_Layla_1970.hum
++ DonnaSummer_HotStuff_1979.hum
++ ElvisPresley_JailhouseRock_1957.hum
++ EricClapton_TearsInHeaven_1992.hum
++ LedZeppelin_StairwayToHeaven_1971.hum
++ LittleRichard_GoodGollyMissMolly_1958.hum
++ MichaelJackson_BillieJean_1983.hum
++ NewOrder_BizarreLoveTriangle_1986.hum
++ Nirvana_SmellsLikeTeenSpirit_1991.hum
++ Pavement_SummerBabe_1992.hum
++ Prince_1999_1982.hum
++ Prince_LittleRedCorvette_1983.hum
++ Prince_WhenDovesCry_1984.hum
++ RKelly_IBelieveICanFly_1996.hum
++ Radiohead_FakePlasticTrees_1995.hum
++ SimonAndGarfunkel_BridgeOverTroubledWater_1970.hum
++ TheBeatles_ADayInTheLife_1967.hum
++ TheBeatles_HeyJude_1968.hum
++ TheBeatles_InMyLife_1965.hum
++ TheBeatles_Yesterday_1965.hum
++ TheEagles_HotelCalifornia_1976.hum
++ TheImpressions_PeopleGetReady_1965.hum
++ TheRamones_BlitzkriegBop_1976.hum
++ TheRollingStones_SympathyForTheDevil_1968.hum
++ TheRonettes_BeMyBaby_1963.hum
++ TheVerve_BitterSweetSymphony_1997.hum
++ TheWho_MyGeneration_1965.hum
++ U2_One_1991.hum
+
+Prince's "1999" had an additional file where the melodic/harmonic transcriptions and the `.str` file were off by one measure.
+I changed my script to add 1 to the rhythmic offsets from the `.str` file, which fixed this problem (there were still a few other bars to change).
 
 
 
