@@ -5,24 +5,28 @@
 *clefG2	*	*	*	*	*	*
 r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1
-*	*	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
 1r	.	1Bm	B:sus4(b7) (B E F# A)	newline	1.022	synthesizer
 =2	=2	=2	=2	=2	=2	=2
 1r	.	1Bm	B:sus4(b7) (B E F# A)	.	.	synthesizer
 =3	=3	=3	=3	=3	=3	=3
-*	*	*>B2_intro	*>B2_intro	*>B2_intro	*>B2_intro	*>B2_intro
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 1r	.	2Em	E:min (E G B)	newline	5.146	synthesizer
 .	.	2AM	A:maj6 (A C# E F#)	.	.	synthesizer
 =4	=4	=4	=4	=4	=4	=4
 1r	.	2Em	E:min (E G B)	.	.	synthesizer
 .	.	2AM	A:maj6 (A C# E F#)	.	.	synthesizer
 =5	=5	=5	=5	=5	=5	=5
-*	*	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
 1r	.	1Bm	B:sus4(b7) (B E F# A)	newline	8.97	synthesizer
 =6	=6	=6	=6	=6	=6	=6
 1r	.	1Bm	B:sus4(b7) (B E F# A)	.	.	synthesizer
 =7	=7	=7	=7	=7	=7	=7
-*	*	*>B2_instrumental	*>B2_instrumental	*>B2_instrumental	*>B2_instrumental	*>B2_instrumental
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental
 1r	.	2Em	E:min (E G B)	newline	12.789	synthesizer
 .	.	2AM	A:maj6 (A C# E F#)	.	.	synthesizer
 =8	=8	=8	=8	=8	=8	=8
@@ -35,7 +39,8 @@ r;	.	1r;	r	.	0	r
 1r	.	2Em	E:min (E G B)	.	.	synthesizer
 .	.	2AM	A:maj6 (A C# E F#)	.	.	synthesizer
 =11	=11	=11	=11	=11	=11	=11
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8ee	God-	2Em	E:min (E G B)	newline	20.439	voice
 8ee	-dess	.	.	.	.	.
 8dd#	on	.	.	.	.	.
@@ -88,7 +93,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 8ee	She's	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8ff#	got	2Amm	A:min7 (A C E G)	newline	35.661	voice
 4ff#	it	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -160,7 +166,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 8cc#	Her	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8ee	wea-	2Em	E:min (E G B)	newline	58.614	voice
 8ee	-pons	.	.	.	.	.
 8dd#	were	.	.	.	.	.
@@ -212,7 +219,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 8ee	She's	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8ff#	got	2Amm	A:min7 (A C E G)	newline	73.893	voice
 8ff#	it	.	.	.	.	.
 4r	.	.	.	.	.	.
@@ -282,12 +290,14 @@ r;	.	1r;	r	.	0	r
 1r	.	2Em	E:min (E G B)	.	.	voice
 .	.	2AM	A:maj6 (A C# E F#)	.	.	voice
 =51	=51	=51	=51	=51	=51	=51
-*	*	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
 1r	.	1Bm	B:sus4(b7) (B E F# A)	newline	96.799	synthesizer
 =52	=52	=52	=52	=52	=52	=52
 1r	.	1Bm	B:sus4(b7) (B E F# A)	.	.	synthesizer
 =53	=53	=53	=53	=53	=53	=53
-*	*	*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
 1r	.	2Em	E:min (E G B)	newline	100.645	synthesizer
 .	.	2AM	A:maj6 (A C# E F#)	.	.	synthesizer
 =54	=54	=54	=54	=54	=54	=54
@@ -315,7 +325,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 8ee	She's	.	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8ff#	got	2Amm	A:min7 (A C E G)	newline	115.914	voice
 8ff#	it	.	.	.	.	.
 4r	.	.	.	.	.	.
@@ -385,7 +396,8 @@ r;	.	1r;	r	.	0	r
 1r	.	2Em	E:min (E G B)	.	.	voice
 .	.	2AM	A:maj6 (A C# E F#)	.	.	voice
 =73	=73	=73	=73	=73	=73	=73
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8ee	God-	2Em	E:min (E G B)	newline	138.816	voice
 8ee	-dess	.	.	.	.	.
 8dd#	on	.	.	.	.	.
@@ -438,7 +450,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 8ee	She's	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8ff#	got	2Amm	A:min7 (A C E G)	newline	154.12	voice
 8ff#	it	.	.	.	.	.
 4r	.	.	.	.	.	.
@@ -508,7 +521,8 @@ r;	.	1r;	r	.	0	r
 1r	.	2Em	E:min (E G B)	.	.	voice
 .	.	2AM	A:maj6 (A C# E F#)	.	.	voice
 =93	=93	=93	=93	=93	=93	=93
-*	*	*>A2_trans	*>A2_trans	*>A2_trans	*>A2_trans	*>A2_trans
+*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
 2r	.	1Bm	B:sus4(b7) (B E F# A)	newline	177.053	synthesizer
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -527,7 +541,8 @@ r;	.	1r;	r	.	0	r
 =96	=96	=96	=96	=96	=96	=96
 1r	.	1Bm	B:sus4(b7) (B E F# A)	.	.	synthesizer
 =97	=97	=97	=97	=97	=97	=97
-*	*	*>B2_outro	*>B2_outro	*>B2_outro	*>B2_outro	*>B2_outro
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
 1r	.	2Em	E:min (E G B)	newline	184.699	synthesizer
 .	.	2AM	A:maj6 (A C# E F#)	.	.	synthesizer
 =98	=98	=98	=98	=98	=98	=98
@@ -574,7 +589,7 @@ r;	.	1r;	r	.	0	r
 8ee	-by	.	.	.	.	.
 4ff#	she's	.	.	.	.	.
 =105	=105	=105	=105	=105	=105	=105
-*	*	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
 8ee	got	2Em	E:min (E G B)	newline	199.911	synthesizer
 8cc#	it	.	.	.	.	.
 4r	.	.	.	.	.	.

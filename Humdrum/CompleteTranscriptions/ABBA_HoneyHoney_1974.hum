@@ -3,7 +3,8 @@
 *	*	*F:	*F:	*F:	*F:	*F:
 r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1
-*F:	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 *M4/4	*	*	*	*	*	*
 *clefG2	*	*	*	*	*	*
 1r	.	1FM	F:maj (F A C)	newline	0.255	strings
@@ -15,7 +16,8 @@ r;	.	1r;	r	.	0	r
 1r	.	2.B-M	B-:maj (B- D F)	.	.	strings
 .	.	4CM	C:maj (C E G)	.	.	strings
 =5	=5	=5	=5	=5	=5	=5
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4r	.	1FM	F:maj (F A C)	newline	7.308	voice
 8f	Hon-	.	.	.	.	.
 8f	-ey	.	.	.	.	.
@@ -71,7 +73,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 8c	I'd	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8cc	heard	1FM	F:maj (F A C)	newline	21.056	voice
 8cc	a-	.	.	.	.	.
 8cc	-bout	.	.	.	.	.
@@ -123,7 +126,8 @@ r;	.	1r;	r	.	0	r
 4b-	diz-	.	.	.	.	.
 4cc	-zy	4CM	C:maj (C E G)	.	.	voice
 =21	=21	=21	=21	=21	=21	=21
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4r	.	1FM	F:maj (F A C)	newline	34.81	.
 8f	Hon-	.	.	.	.	.
 8f	-ey	.	.	.	.	.
@@ -205,7 +209,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 8c	I	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8cc	feel	1FM	F:maj (F A C)	newline	55.343	.
 8cc	like	.	.	.	.	.
 8cc	I	.	.	.	.	.
@@ -231,7 +236,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 8G	I	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38
-*	*	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 8e-	don't	1Cm	C:min (C E- G)	newline	63.842	.
 8e-	wa-	.	.	.	.	.
 8d	-nna	.	.	.	.	.
@@ -344,7 +350,8 @@ r;	.	1r;	r	.	0	r
 =53	=53	=53	=53	=53	=53	=53
 1r	.	1CM	C:maj (C E G)	.	.	.
 =54	=54	=54	=54	=54	=54	=54
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4r	.	1FM	F:maj (F A C)	newline	91.118	.
 8f	Hon-	.	.	.	.	.
 8f	-ey	.	.	.	.	.
@@ -400,7 +407,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 8c	You	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8cc	look	1FM	F:maj (F A C)	newline	104.758	.
 8cc	like	.	.	.	.	.
 8cc	a	.	.	.	.	.
@@ -449,7 +457,8 @@ r;	.	1r;	r	.	0	r
 =70	=70	=70	=70	=70	=70	=70
 1r	.	1CMm	C:7 (C E G B-)	.	.	voice
 =71	=71	=71	=71	=71	=71	=71
-*	*	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 1r	.	1Cm	C:min (C E- G)	newline	120.076	strings
 =72	=72	=72	=72	=72	=72	=72
 1r	.	1FM	F:maj (F A C)	.	.	strings
@@ -520,7 +529,8 @@ r;	.	1r;	r	.	0	r
 =86	=86	=86	=86	=86	=86	=86
 1r	.	1CM	C:maj (C E G)	.	.	voice
 =87	=87	=87	=87	=87	=87	=87
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4r	.	1FM	F:maj (F A C)	newline	147.155	.
 8f	Hon-	.	.	.	.	.
 8f	-ey	.	.	.	.	.
@@ -576,7 +586,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 8c	I'd	.	.	.	.	.
 =95	=95	=95	=95	=95	=95	=95
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8cc	heard	1FM	F:maj (F A C)	newline	160.798	fadeout
 8cc	a-	.	.	.	.	.
 8cc	-bout	.	.	.	.	.

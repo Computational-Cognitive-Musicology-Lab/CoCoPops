@@ -5,7 +5,8 @@
 *clefF4	*	*	*	*	*	*
 r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1
-*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 1r	.	1DM	D:maj (D F# A)	newline	0.041	synthesizer
 =2	=2	=2	=2	=2	=2	=2
 1r	.	1DM	D:maj (D F# A)	.	.	synthesizer
@@ -30,7 +31,8 @@ r;	.	1r;	r	.	0	r
 =12	=12	=12	=12	=12	=12	=12
 1r	.	1GMM	G:maj9 (G B F# A)	.	.	synthesizer
 =13	=13	=13	=13	=13	=13	=13
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 2r	.	1DM	D:maj (D F# A)	newline	26.203	voice
 8r	.	.	.	.	.	.
 8D	See	.	.	.	.	.
@@ -120,7 +122,8 @@ r;	.	1r;	r	.	0	r
 8D	with-	.	.	.	.	.
 [8E	-out	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29
-*	*	*>C2_chorus	*>C2_chorus	*>C2_chorus	*>C2_chorus	*>C2_chorus
+*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8E]	_	1DM	D:maj (D F# A)	newline	61.135	voice
 [4.F#	you	.	.	.	.	.
 2F#]	_	.	.	.	.	.
@@ -138,7 +141,8 @@ r;	.	1r;	r	.	0	r
 4r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33
-*	*	*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 2r	.	1DM	D:maj (D F# A)	newline	69.913	voice
 8r	.	.	.	.	.	.
 8F#	Through	.	.	.	.	.
@@ -186,7 +190,8 @@ r;	.	1r;	r	.	0	r
 8D	with-	.	.	.	.	.
 [8E	-out	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8E]	_	1DM	D:maj (D F# A)	newline	87.387	voice
 [4.F#	you	.	.	.	.	.
 2F#]	_	.	.	.	.	.
@@ -233,7 +238,8 @@ r;	.	1r;	r	.	0	r
 8d	And	.	.	.	.	.
 4d	you	.	.	.	.	.
 =53	=53	=53	=53	=53	=53	=53
-*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 4.e	give	1DM	D:maj (D F# A)	newline	113.537	voice
 8d	your-	.	.	.	.	.
 4d	-self	.	.	.	.	.
@@ -377,7 +383,8 @@ r;	.	1r;	r	.	0	r
 8d	with-	.	.	.	.	.
 [8e	-out	.	.	.	.	.
 =77	=77	=77	=77	=77	=77	=77
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8e]	_	1DM	D:maj (D F# A)	newline	165.963	voice
 [4.f#	you	.	.	.	.	.
 2f#]	_	.	.	.	.	.
@@ -448,7 +455,8 @@ r;	.	1r;	r	.	0	r
 8d	with-	.	.	.	.	.
 [8e	-out	.	.	.	.	.
 =93	=93	=93	=93	=93	=93	=93
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8e]	_	1DM	D:maj (D F# A)	newline	200.856	voice
 [4.f#	you	.	.	.	.	.
 2f#]	_	.	.	.	.	.
@@ -488,7 +496,8 @@ r;	.	1r;	r	.	0	r
 4e	or	.	.	.	.	.
 8f#	with-	.	.	.	.	.
 =101	=101	=101	=101	=101	=101	=101
-*	*	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
 4.e	-out	1DM	D:maj (D F# A)	newline	218.289	synthesizer
 [8d	you	.	.	.	.	.
 2d]	_	.	.	.	.	.
@@ -528,7 +537,8 @@ r;	.	1r;	r	.	0	r
 2A]	_	1DM	D:maj (D F# A)	.	.	synthesizer
 2r	.	.	.	.	.	.
 =113	=113	=113	=113	=113	=113	=113
-*	*	*>C_solo	*>C_solo	*>C_solo	*>C_solo	*>C_solo
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
 1r	.	1DM	D:maj (D F# A)	newline	244.56	guitar
 =114	=114	=114	=114	=114	=114	=114
 1r	.	1AM	A:sus4(b7) (A D E G)	.	.	guitar
@@ -553,7 +563,7 @@ r;	.	1r;	r	.	0	r
 =124	=124	=124	=124	=124	=124	=124
 1r	.	1GMM	G:maj9 (G B F# A)	.	.	guitar
 =125	=125	=125	=125	=125	=125	=125
-*	*	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
 1r	.	1DM	D:maj (D F# A)	newline	270.731	guitar
 =126	=126	=126	=126	=126	=126	=126
 1r	.	1AM	A:sus4(b7) (A D E G)	.	.	guitar

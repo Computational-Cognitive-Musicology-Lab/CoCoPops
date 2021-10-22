@@ -2,7 +2,8 @@
 *ICvox	*	*M4/4	*M4/4	*	*	*
 *	*	*G:	*G:	*	*	*
 =1	=1	=1	=1	=1	=1	=1
-*G:	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 *M4/4	*	*	*	*	*	*
 *clefG2	*	*	*	*	*	*
 1r	.	1GM	G:maj (G B D)	newline	0	guitar
@@ -50,7 +51,8 @@
 8r	.	.	.	.	.	.
 8F#	Hey	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20
-*	*	*>B_preverse	*>B_preverse	*>B_preverse	*>B_preverse	*>B_preverse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse
 8G	la-	1GM	G:maj (G B D)	newline	50.208	voice
 8B	-dy	.	.	.	.	.
 4r	.	.	.	.	.	.
@@ -145,7 +147,8 @@
 .	.	4DM	D:maj (D F# A)	.	.	voice
 .	.	4AM	A:maj (A C# E)	.	.	voice
 =34	=34	=34	=34	=34	=34	=34
-*	*	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 16dd	Ma-	2GM	G:maj (G B D)	newline	86.029	voice
 8dd	-ny	.	.	.	.	.
 8b	have	.	.	.	.	.
@@ -249,7 +252,8 @@
 .	.	4DM	D:maj (D F# A)	.	.	voice
 .	.	4AM	A:maj (A C# E)	.	.	voice
 =50	=50	=50	=50	=50	=50	=50
-*	*	*>D_verse	*>D_verse	*>D_verse	*>D_verse	*>D_verse
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 16dd	Ma-	2GM	G:maj (G B D)	newline	124.192	voice
 8dd	-ny	.	.	.	.	.
 8.b	dreams	.	.	.	.	.
@@ -286,7 +290,7 @@
 [8.a	_	.	.	.	.	.
 8a]	_	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54
-*	*	*>interlude	*>interlude	*>interlude	*>interlude	*>interlude
+*>Label>>Interlude	*>Label>>Interlude	*>Label>>Interlude	*>Label>>Interlude	*>Label>>Interlude	*>Label>>Interlude	*>Label>>Interlude
 1r	.	2GM	G:maj (G B D)	newline	133.676	voice
 .	.	2DM	D:maj (D F# A)	.	.	voice
 =55	=55	=55	=55	=55	=55	=55
@@ -305,7 +309,8 @@
 1r	.	2AM	A:maj (A C# E)	.	.	voice
 .	.	2EM	E:maj (E G# B)	.	.	voice
 =60	=60	=60	=60	=60	=60	=60
-*f#:	*	*>E_solo	*>E_solo	*>E_solo	*>E_solo	*>E_solo
+*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
 *	*	*f#:	*f#:	*	*	*
 1r	.	1F#m	F#:5 (F# C#)	newline	147.701	guitar
 =61	=61	=61	=61	=61	=61	=61
@@ -357,7 +362,8 @@
 .	.	4DM	D:maj (D F# A)	.	.	guitar
 .	.	4AM	A:maj (A C# E)	.	.	guitar
 =80	=80	=80	=80	=80	=80	=80
-*	*	*>G_verse	*>G_verse	*>G_verse	*>G_verse	*>G_verse
+*>Letter>G	*>Letter>G	*>Letter>G	*>Letter>G	*>Letter>G	*>Letter>G	*>Letter>G
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 16dd	Me-	2GM	G:maj (G B D)	newline	.	voice
 8dd	-llow	.	.	.	.	.
 8b	is	.	.	.	.	.
@@ -509,7 +515,8 @@
 =102	=102	=102	=102	=102	=102	=102
 1r	.	1DM	D:maj (D F# A)	.	.	voice
 =103	=103	=103	=103	=103	=103	=103
-*	*	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro
+*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
 1r	.	1GM	G:maj (G B D)	newline	.	guitar
 =104	=104	=104	=104	=104	=104	=104
 1r	.	1DM	D:maj (D F# A)	.	.	guitar

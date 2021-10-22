@@ -5,7 +5,8 @@
 *clefC3	*	*clefF4	*	*clefG2	*	*	*	*	*	*
 r;	.	r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-*	*	*	*	*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	0.232	synthesizer
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
@@ -24,7 +25,8 @@ r;	.	r;	.	r;	.	1r;	r	.	0	r
 8fq	_	.	.	.	.	.	.	.	.	.
 2g	Co-	.	.	.	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-*	*	*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 6f	-ver	1r	.	1r	.	1Dm	D:min (D F A)	newline	13.192	voice
 6f	me	.	.	.	.	.	.	.	.	.
 6r	.	.	.	.	.	.	.	.	.	.
@@ -115,7 +117,8 @@ r;	.	r;	.	r;	.	1r;	r	.	0	r
 4a	hey,	.	.	.	.	.	.	.	.	.
 4g	hey,	.	.	.	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-*	*	*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8eq	_	.	.	.	.	.	.	.	.	.
 4f	mon-	1r	.	1r	.	1CM	C:maj (C E G)	newline	39.055	voice
 4e	-key	.	.	.	.	.	.	.	.	.
@@ -160,7 +163,8 @@ r;	.	r;	.	r;	.	1r;	r	.	0	r
 4.g	Fox	.	.	.	.	.	.	.	.	.
 [8f	the	.	.	.	.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-*	*	*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8f]	_	1r	.	1r	.	1Dm	D:min (D F A)	newline	52.003	voice
 4f	fox	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
@@ -258,7 +262,8 @@ r;	.	r;	.	r;	.	1r;	r	.	0	r
 4a	hey,	.	.	.	.	.	.	.	.	.
 4g	hey,	.	.	.	.	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
-*	*	*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8eq	_	.	.	.	.	.	.	.	.	.
 4f	mon-	1r	.	1r	.	1CM	C:maj (C E G)	newline	77.858	voice
 4e	-key	.	.	.	.	.	.	.	.	.
@@ -311,7 +316,8 @@ r;	.	r;	.	r;	.	1r;	r	.	0	r
 4a	hey,	.	.	.	.	.	.	.	.	.
 4g	hey,	.	.	.	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
-*	*	*	*	*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 8f	yeah	1r	.	1r	.	1Dm	D:5 (D A)	newline	90.824	voice
 4d	_	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
@@ -413,7 +419,8 @@ r;	.	r;	.	r;	.	1r;	r	.	0	r
 4g	mon-	.	.	.	.	.	.	.	.	.
 4f	-key!	.	.	.	.	.	.	.	.	.
 =77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77
-*	*	*	*	*	*	*>A_instrumental	*>A_instrumental	*>A_instrumental	*>A_instrumental	*>A_instrumental
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	newline	123.134	synthesizer
 =78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78
 1r	.	1r	.	1r	.	1Dm	D:min (D F A)	.	.	synthesizer
@@ -433,7 +440,8 @@ r;	.	r;	.	r;	.	1r;	r	.	0	r
 4.g	Co-	.	.	.	.	.	.	.	.	.
 [8f	-ver	.	.	.	.	.	.	.	.	.
 =85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85
-*	*	*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8f]	_	1r	.	1r	.	1Dm	D:min (D F A)	newline	136.042	voice
 8f	me	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.	.
@@ -524,7 +532,8 @@ r;	.	r;	.	r;	.	1r;	r	.	0	r
 4a	hey,	.	.	.	.	.	.	.	.	.
 4g	hey,	.	.	.	.	.	.	.	.	.
 =101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
-*	*	*	*	*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 8f	yeah	1r	.	1r	.	1Dm	D:5 (D A)	newline	161.969	voice
 4d	_	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
@@ -622,7 +631,8 @@ r;	.	r;	.	r;	.	1r;	r	.	0	r
 4g	Mon-	.	.	.	.	.	.	.	.	.
 4f	-key!	.	.	.	.	.	.	.	.	.
 =121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121
-*	*	*	*	*	*	*>E_outro	*>E_outro	*>E_outro	*>E_outro	*>E_outro
+*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
 1r	.	1r	.	1r	.	1FM	F:maj (F A C)	newline	194.343	synthesizer
 =122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122
 1r	.	1r	.	1r	.	1Am	A:min (E A C)	.	.	synthesizer

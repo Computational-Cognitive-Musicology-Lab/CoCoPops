@@ -5,7 +5,8 @@
 *clefF4	*	*	*	*	*	*
 r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1
-*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 1r	.	1DM	D:maj (D F# A)	newline	0.877	synthesizer
 =2	=2	=2	=2	=2	=2	=2
 1r	.	1DM	D:maj (C D F# A)	.	.	synthesizer
@@ -22,7 +23,8 @@ r;	.	1r;	r	.	0	r
 =8	=8	=8	=8	=8	=8	=8
 1r	.	1DM	D:maj (A D F#)	.	.	synthesizer
 =9	=9	=9	=9	=9	=9	=9
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4r	.	1DM	D:maj (D F# A)	newline	14.572	voice
 8r	.	.	.	.	.	.
 8D	I	.	.	.	.	.
@@ -107,7 +109,8 @@ r;	.	1r;	r	.	0	r
 4d	there	.	.	.	.	.
 4e	is	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4f#	al-	1DM	D:maj (D F# A)	newline	35.399	.
 4f#	-ways	.	.	.	.	.
 4g	some-	.	.	.	.	.
@@ -149,7 +152,8 @@ r;	.	1r;	r	.	0	r
 =29	=29	=29	=29	=29	=29	=29
 1r	.	1DM	D:maj (D F# A)	.	.	.
 =30	=30	=30	=30	=30	=30	=30
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4r	.	1DM	D:maj (D F# A)	newline	48.318	.
 8r	.	.	.	.	.	.
 8~D	As	.	.	.	.	.
@@ -234,7 +238,8 @@ r;	.	1r;	r	.	0	r
 4d	there	.	.	.	.	.
 4e	is	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4f#	al-	1DM	D:maj (D F# A)	newline	69.226	.
 4f#	-ways	.	.	.	.	.
 4g	some-	.	.	.	.	.
@@ -280,7 +285,8 @@ r;	.	1r;	r	.	0	r
 4e	_	.	.	.	.	.
 4d	was	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51
-*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 2.c#	born	1F#m	F#:min (F# A C#)	newline	82.063	voice
 8c#	to	.	.	.	.	.
 8d	_	.	.	.	.	.
@@ -340,7 +346,8 @@ r;	.	1r;	r	.	0	r
 =64	=64	=64	=64	=64	=64	=64
 1r	.	1AM	A:maj (A C# E)	.	.	synthesizer
 =65	=65	=65	=65	=65	=65	=65
-*	*	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
 1r	.	1DM	D:maj (D F# A)	newline	104.565	synthesizer
 =66	=66	=66	=66	=66	=66	=66
 1r	.	1DM	D:maj (C D F# A)	.	.	synthesizer
@@ -357,7 +364,8 @@ r;	.	1r;	r	.	0	r
 =72	=72	=72	=72	=72	=72	=72
 1r	.	1DM	D:maj (A D F#)	.	.	synthesizer
 =73	=73	=73	=73	=73	=73	=73
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4r	.	1DM	D:maj (D F# A)	newline	117.502	voice
 8r	.	.	.	.	.	.
 8D	If	.	.	.	.	.
@@ -442,7 +450,8 @@ r;	.	1r;	r	.	0	r
 4d	there	.	.	.	.	.
 4e	is	.	.	.	.	.
 =86	=86	=86	=86	=86	=86	=86
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4f#	al-	1DM	D:maj (D F# A)	newline	138.351	.
 4f#	-ways	.	.	.	.	.
 4g	some-	.	.	.	.	.
@@ -487,7 +496,8 @@ r;	.	1r;	r	.	0	r
 4e	_	.	.	.	.	.
 4d	was	.	.	.	.	.
 =94	=94	=94	=94	=94	=94	=94
-*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 2.c#	born	1F#m	F#:min (F# A C#)	newline	151.209	.
 8c#	to	.	.	.	.	.
 8d	_	.	.	.	.	.
@@ -528,7 +538,8 @@ r;	.	1r;	r	.	0	r
 4d	there	.	.	.	.	.
 4e	is	.	.	.	.	.
 =101	=101	=101	=101	=101	=101	=101
-*	*	*>C_outro	*>C_outro	*>C_outro	*>C_outro	*>C_outro
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
 4f#	al-	1DM	D:maj (D F# A)	newline	162.533	fadeout voice
 4f#	-ways	.	.	.	.	.
 4g	some-	.	.	.	.	.

@@ -5,7 +5,8 @@
 *clefC3	*	*	*	*	*	*
 r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1
-*	*	*>C_intro	*>C_intro	*>C_intro	*>C_intro	*>C_intro
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 1r	.	1Am	A:min (A C E)	newline	0.3	r
 =2	=2	=2	=2	=2	=2	=2
 1r	.	1Am	A:min (A C E)	.	.	r
@@ -22,7 +23,8 @@ r;	.	1r;	r	.	0	r
 =8	=8	=8	=8	=8	=8	=8
 1r	.	1Am	A:min (A C E)	.	.	r
 =9	=9	=9	=9	=9	=9	=9
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8r	.	1Am	A:min (A C E)	newline	14.546	voice
 8d	Ne-	.	.	.	.	.
 8c	-ver	.	.	.	.	.
@@ -81,7 +83,8 @@ r;	.	1r;	r	.	0	r
 4c	fe-	.	.	.	.	.
 4A	-ver	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17
-*	*	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 1r	.	1Am	A:min (A C E)	newline	28.643	voice
 =18	=18	=18	=18	=18	=18	=18
 8r	.	1Am	A:min (A C E)	.	.	voice
@@ -131,7 +134,8 @@ r;	.	1r;	r	.	0	r
 =24	=24	=24	=24	=24	=24	=24
 1r	.	1Am	A:min (A C E)	.	.	voice
 =25	=25	=25	=25	=25	=25	=25
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8r	.	1Am	A:min (A C E)	newline	42.75	voice
 4.d	Sun	.	.	.	.	.
 8c	lights	.	.	.	.	.
@@ -189,7 +193,8 @@ r;	.	1r;	r	.	0	r
 4c	fe-	.	.	.	.	.
 4A	-ver.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33
-*	*	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 1r	.	1Am	A:min (A C E)	newline	56.837	voice
 =34	=34	=34	=34	=34	=34	=34
 8r	.	1Am	A:min (A C E)	.	.	voice
@@ -241,7 +246,8 @@ r;	.	1r;	r	.	0	r
 =40	=40	=40	=40	=40	=40	=40
 1r	.	1Am	A:min (A C E)	.	.	voice
 =41	=41	=41	=41	=41	=41	=41
-*	*	*>F_bridge	*>F_bridge	*>F_bridge	*>F_bridge	*>F_bridge
+*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 8r	.	1Am	A:min (A C E)	newline	70.925	voice
 4c	Ev-	.	.	.	.	.
 8A	-'ry-	.	.	.	.	.
@@ -288,7 +294,8 @@ r;	.	1r;	r	.	0	r
 =48	=48	=48	=48	=48	=48	=48
 1r	.	1Am	A:min (A C E)	.	.	voice
 =49	=49	=49	=49	=49	=49	=49
-*b-:	*	*>K_interlude	*>K_interlude	*>K_interlude	*>K_interlude	*>K_interlude
+*>Letter>K	*>Letter>K	*>Letter>K	*>Letter>K	*>Letter>K	*>Letter>K	*>Letter>K
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
 *	*	*B-:	*B-:	*B-:	*B-:	*B-:
 1r	.	1B-m	B-:min (B- D- F)	newline	84.933	voice
 =50	=50	=50	=50	=50	=50	=50
@@ -298,7 +305,8 @@ r;	.	1r;	r	.	0	r
 =52	=52	=52	=52	=52	=52	=52
 1r	.	1B-m	B-:min (B- D- F)	.	.	voice
 =53	=53	=53	=53	=53	=53	=53
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8r	.	1B-m	B-:min (B- D- F)	newline	91.981	voice
 4e-	Ro-	.	.	.	.	.
 8d-	-me-	.	.	.	.	.
@@ -366,7 +374,8 @@ r;	.	1r;	r	.	0	r
 8d-	fe-	.	.	.	.	.
 4B-	-ver.	.	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61
-*	*	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 1r	.	1B-m	B-:min (B- D- F)	newline	105.995	voice
 =62	=62	=62	=62	=62	=62	=62
 8r	.	1B-m	B-:min (B- D- F)	.	.	voice
@@ -422,7 +431,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 2r	.	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69
-*b:	*	*>K_interlude	*>K_interlude	*>K_interlude	*>K_interlude	*>K_interlude
+*>Letter>K	*>Letter>K	*>Letter>K	*>Letter>K	*>Letter>K	*>Letter>K	*>Letter>K
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
 *	*	*b:	*b:	*b:	*b:	*b:
 1r	.	1Bm	B:min (B D F#)	newline	120.036	voice
 =70	=70	=70	=70	=70	=70	=70
@@ -433,7 +443,8 @@ r;	.	1r;	r	.	0	r
 =72	=72	=72	=72	=72	=72	=72
 1r	.	1Bm	B:min (B D F#)	.	.	voice
 =73	=73	=73	=73	=73	=73	=73
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 6r	.	1Bm	B:min (B D F#)	newline	127.051	voice
 6e	Cap-	.	.	.	.	.
 6d	-tain	.	.	.	.	.
@@ -499,7 +510,8 @@ r;	.	1r;	r	.	0	r
 4d	fe-	.	.	.	.	.
 4B	-ver.	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81
-*	*	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 1r	.	1Bm	B:min (B D F#)	newline	141.043	voice
 =82	=82	=82	=82	=82	=82	=82
 8r	.	1Bm	B:min (B D F#)	.	.	voice
@@ -559,7 +571,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 [8e	Now	.	.	.	.	.
 =89	=89	=89	=89	=89	=89	=89
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 6e]	_	1Bm	B:min (B D F#)	newline	155.015	voice
 6d	you've	.	.	.	.	.
 12e	lis-	.	.	.	.	.
@@ -624,7 +637,8 @@ r;	.	1r;	r	.	0	r
 4d	fe-	.	.	.	.	.
 4B	-ver.	.	.	.	.	.
 =97	=97	=97	=97	=97	=97	=97
-*	*	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 1r	.	1Bm	B:min (B D F#)	newline	169.018	voice
 =98	=98	=98	=98	=98	=98	=98
 8r	.	1Bm	B:min (B D F#)	.	.	voice

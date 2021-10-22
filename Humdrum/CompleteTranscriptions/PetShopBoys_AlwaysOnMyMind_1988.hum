@@ -5,12 +5,14 @@
 *clefF4	*	*	*	*	*	*
 r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1
-*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 1r	.	1N	N	newline	0.488	r
 =2	=2	=2	=2	=2	=2	=2
 1r	.	1N	N	.	.	r
 =3	=3	=3	=3	=3	=3	=3
-*	*	*>B2_solo	*>B2_solo	*>B2_solo	*>B2_solo	*>B2_solo
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
 1r	.	1GM	G:maj (G B D)	newline	6.335	synthesizer
 =4	=4	=4	=4	=4	=4	=4
 1r	.	1DM	D:maj (D F# A)	.	.	synthesizer
@@ -47,7 +49,8 @@ r;	.	1r;	r	.	0	r
 1r	.	2.CM	C:maj (C E G)	.	.	synthesizer
 .	.	4DM	D:maj (D F# A)	.	.	synthesizer
 =17	=17	=17	=17	=17	=17	=17
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4r	.	1GM	G:maj (G B D)	newline	33.251	voice
 16r	.	.	.	.	.	.
 8B	May-	.	.	.	.	.
@@ -109,7 +112,8 @@ r;	.	1r;	r	.	0	r
 4E]	_	.	.	.	.	.
 4r	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4r	.	1CM	C:maj (C E G)	newline	48.62	voice
 12r	.	.	.	.	.	.
 12c	Lit-	.	.	.	.	.
@@ -171,7 +175,8 @@ r;	.	1r;	r	.	0	r
 .	.	2CM	C:maj (C E G)	.	.	voice
 4r	.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4r	.	1GM	G:maj (G B D)	newline	64.044	voice
 16r	.	.	.	.	.	.
 8B	May-	.	.	.	.	.
@@ -230,7 +235,8 @@ r;	.	1r;	r	.	0	r
 2E]	_	.	.	.	.	.
 4r	.	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4r	.	1CM	C:maj (C E G)	newline	79.392	voice
 12r	.	.	.	.	.	.
 12c	If	.	.	.	.	.
@@ -293,7 +299,8 @@ r;	.	1r;	r	.	0	r
 .	.	2CM	C:maj (C E G)	.	.	voice
 4r	.	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49
-*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 8cq	_	.	.	.	.	.
 2.d	Tell	2GM	G:maj (G B D)	newline	94.815	voice
 .	.	2DM	D:maj (F# D A)	.	.	voice
@@ -343,7 +350,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 [8B	sa	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57
-*	*	*>B_solo	*>B_solo	*>B_solo	*>B_solo	*>B_solo
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
 8B]	_	1GM	G:maj (G B D)	newline	110.159	synthesizer
 8G	tis-	.	.	.	.	.
 [2G	-fied	.	.	.	.	.
@@ -368,7 +376,8 @@ r;	.	1r;	r	.	0	r
 1r	.	2.CM	C:maj (C E G)	.	.	synthesizer
 .	.	4DM	D:maj (D F# A)	.	.	synthesizer
 =65	=65	=65	=65	=65	=65	=65
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4r	.	1CM	C:maj (C E G)	newline	125.525	voice
 16r	.	.	.	.	.	.
 16c	Lit-	.	.	.	.	.
@@ -429,7 +438,8 @@ r;	.	1r;	r	.	0	r
 .	.	2CM	C:maj (C E G)	.	.	voice
 4r	.	.	.	.	.	.
 =73	=73	=73	=73	=73	=73	=73
-*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 8cq	_	.	.	.	.	.
 2.d	Tell	2GM	G:maj (G B D)	newline	140.917	voice
 .	.	2DM	D:maj (F# D A)	.	.	voice
@@ -478,7 +488,8 @@ r;	.	1r;	r	.	0	r
 .	.	2DM	D:maj (D F# A)	.	.	voice
 4r	.	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81
-*	*	*>C2_chorus	*>C2_chorus	*>C2_chorus	*>C2_chorus	*>C2_chorus
+*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4r	.	1DM	D:maj (D F# A)	newline	156.324	voice
 8A	You	.	.	.	.	.
 8A	are	.	.	.	.	.
@@ -561,7 +572,8 @@ r;	.	1r;	r	.	0	r
 .	.	2CM	C:maj (C E G)	.	.	voice
 4r	.	.	.	.	.	.
 =93	=93	=93	=93	=93	=93	=93
-*	*	*>B2_outro	*>B2_outro	*>B2_outro	*>B2_outro	*>B2_outro
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
 1r	.	1GM	G:maj (G B D)	newline	179.371	synthesizer
 =94	=94	=94	=94	=94	=94	=94
 1r	.	1DM	D:maj (D F# A)	.	.	synthesizer
@@ -684,7 +696,7 @@ r;	.	1r;	r	.	0	r
 2E]	_	.	.	.	.	.
 4r	.	4DM	D:maj (D F# A)	.	.	voice
 =113	=113	=113	=113	=113	=113	=113
-*	*	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
 1r	.	1GM	G:maj (G B D)	newline	217.768	synthesizer
 =114	=114	=114	=114	=114	=114	=114
 1r	.	1DM	D:maj (D F# A)	.	.	synthesizer

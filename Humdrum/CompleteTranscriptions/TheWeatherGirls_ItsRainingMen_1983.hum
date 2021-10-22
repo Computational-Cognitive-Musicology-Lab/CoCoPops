@@ -5,7 +5,8 @@
 *clefG2	*	*	*	*	*	*
 r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1
-*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 1r	.	1Fm	F:min (F A- C)	newline	0.023	r
 =2	=2	=2	=2	=2	=2	=2
 1r	.	1Fm	F:min (F A- C)	.	.	r
@@ -41,7 +42,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 8F	Hu-	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8F	-mi-	1Fm	F:min (F A- C)	newline	28.125	voice
 8F	-di-	.	.	.	.	.
 8F	-ty's	.	.	.	.	.
@@ -145,7 +147,8 @@ r;	.	1r;	r	.	0	r
 8b-	-ning	.	.	.	.	.
 [8a-	men	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4a-]	_	1D-M	D-:maj (D- F A-)	newline	58.126	voice
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -259,7 +262,8 @@ r;	.	1r;	r	.	0	r
 2.cc]	_	1CMm	C:7 (C E G B-)	.	.	voice
 4r	.	.	.	.	.	.
 =52	=52	=52	=52	=52	=52	=52
-*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 4cc	God	1D-M	D-:maj (D- F A-)	newline	89.793	voice
 4cc	bless	.	.	.	.	.
 8cc	Mot-	.	.	.	.	.
@@ -380,7 +384,8 @@ r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.
 8F	Hu-	.	.	.	.	.
 =72	=72	=72	=72	=72	=72	=72
-*	*	*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 16F	-mi-	1Fm	F:min (F A- C)	newline	125.005	voice
 16F	-di-	.	.	.	.	.
 8F	-ty	.	.	.	.	.
@@ -499,7 +504,8 @@ r;	.	1r;	r	.	0	r
 8cc	-ning	.	.	.	.	.
 [8cc	men	.	.	.	.	.
 =96	=96	=96	=96	=96	=96	=96
-*	*	*>C2_outro	*>C2_outro	*>C2_outro	*>C2_outro	*>C2_outro
+*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
 4cc]	_	1D-M	D-:maj (D- F A-)	newline	167.35	voice
 4r	.	.	.	.	.	.
 8r	.	.	.	.	.	.
@@ -595,7 +601,7 @@ r;	.	1r;	r	.	0	r
 =111	=111	=111	=111	=111	=111	=111
 1r	.	1Fm	F:min (F A- C)	.	.	voice
 =112	=112	=112	=112	=112	=112	=112
-*	*	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
 4cc	Tall,	1D-M	D-:maj (D- F A-)	newline	195.469	voice
 4r	.	.	.	.	.	.
 4cc	blonde,	.	.	.	.	.

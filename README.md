@@ -1,10 +1,10 @@
 # CoCoPops/Billboard/
 
 
-This repository contains a dataset of harmonic and melodic transcription of popular songs which charted on Billboard Hot 100 list between 1959--1991.
-This dataset is part of a larger **Coordinated Corpus of Popular Music** project, led by Nat Condit-Schultz and Claire Arthur, in the [Computational and Cognitive Musicology Lab](https://ccml.gtcmt.gatech.edu/) in the Georgia Tech [Center for Music Technology](https://gtcmt.gatech.edu/).
+This repository contains a dataset of harmonic and melodic transcriptions of popular songs which charted on Billboard Hot 100 list between 1959 and 1991.
+This dataset is part of a larger **Coordinated Corpus of Popular Music** project, led by Nat Condit-Schultz and Claire Arthur at the [Computational and Cognitive Musicology Lab](https://ccml.gtcmt.gatech.edu/) in the Georgia Tech [Center for Music Technology](https://gtcmt.gatech.edu/).
 
-This dataset is based off an existing dataset of 739 harmonic annotations created at McGill University in the period 2010--2012---the [McGill Billboard Project]("https://ddmal.music.mcgill.ca/research/The_McGill_Billboard_Project_(Chord_Analysis_Dataset)/").
+This dataset is based off an existing dataset of 739 harmonic annotations created at McGill University in the period 2010-2012: the [McGill Billboard Project]("https://ddmal.music.mcgill.ca/research/The_McGill_Billboard_Project_(Chord_Analysis_Dataset)/").
 The CoCoPops/Billboard dataset is an ongoing project to add melodic transcriptions to the McGill transcriptions.
 The dataset is encoded in a [humdrum format](humdrum.org), making it comparable to the [CoCoPops/RollingStone](https://github.com/Computational-Cognitive-Musicology-Lab/CoCoPops-RollingStone) dataset.
 

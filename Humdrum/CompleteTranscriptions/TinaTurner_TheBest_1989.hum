@@ -5,7 +5,8 @@
 *clefC3	*	*clefG2	*	*	*	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
-*	*	*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 1r	.	1r	.	1FM	F:maj (F A C)	newline	0.464	synthesizer
 =2	=2	=2	=2	=2	=2	=2	=2	=2
 1r	.	1r	.	1FM	F:maj (F A C)	.	.	synthesizer
@@ -17,7 +18,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8.r	.	.	.	.	.	.	.	.
 16F	I	.	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8c	call	1r	.	1FM	F:maj (F A C)	newline	9.709	voice
 8c	you	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
@@ -95,7 +97,8 @@ r;	.	r;	.	1r;	r	.	0	r
 16c	a	.	.	.	.	.	.	.
 [16c	life	.	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8c]	_	1r	.	1FM	F:maj (F A C)	newline	37.446	voice
 4c	time	.	.	.	.	.	.	.
 16c	of	.	.	.	.	.	.	.
@@ -185,7 +188,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8gq	_	.	.	.	.	.	.	.
 8a	best!	.	.	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29
-*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 1r	.	1r	.	2.FM	F:maj (F A C)	newline	65.152	voice
 .	.	.	.	4FM	F:maj(9) (F A C G)	.	.	voice
 =30	=30	=30	=30	=30	=30	=30	=30	=30
@@ -289,7 +293,8 @@ r;	.	r;	.	1r;	r	.	0	r
 16~B-	your	.	.	.	.	.	.	.
 [8c	heart	.	.	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8.c]	_	1r	.	1FM	F:maj (F A C)	newline	102.098	voice
 16c	I	.	.	.	.	.	.	.
 16c	see	.	.	.	.	.	.	.
@@ -380,7 +385,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8gq	_	.	.	.	.	.	.	.
 8a	best!	8cc	best!	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57
-*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 1r	.	1r	.	2.FM	F:maj (F A C)	newline	129.829	voice
 .	.	.	.	4FM	F:maj(9) (F A C G)	.	.	voice
 =58	=58	=58	=58	=58	=58	=58	=58	=58
@@ -482,7 +488,8 @@ r;	.	r;	.	1r;	r	.	0	r
 =72	=72	=72	=72	=72	=72	=72	=72	=72
 1r	.	1r	.	1CM	C:maj (C E G)	.	.	voice
 =73	=73	=73	=73	=73	=73	=73	=73	=73
-*	*	*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 8r	.	1r	.	1B-M	B-:maj(9) (B- D F C)	newline	166.815	voice
 8b-	Each	.	.	.	.	.	.	.
 8b-	time	.	.	.	.	.	.	.
@@ -555,7 +562,8 @@ r;	.	r;	.	1r;	r	.	0	r
 16a	_	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81	=81	=81
-*G:	*	*G:	*	*>C2_solo	*>C2_solo	*>C2_solo	*>C2_solo	*>C2_solo
+*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2
+*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
 *	*	*	*	*G:	*G:	*G:	*G:	*G:
 1r	.	1r	.	2.GM	G:maj (G B D)	newline	185.345	saxophone
 .	.	.	.	4GM	G:maj(9) (G B D A)	.	.	saxophone
@@ -585,7 +593,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8cc	the	.	.	.	.	.	.	.
 8b	best!	.	.	.	.	.	.	.
 =89	=89	=89	=89	=89	=89	=89	=89	=89
-*	*	*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8r	.	1r	.	2.GM	G:maj (G B D)	newline	203.779	voice
 8bb-	_	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.

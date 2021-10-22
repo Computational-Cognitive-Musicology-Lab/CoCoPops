@@ -5,7 +5,8 @@
 *clefG2	*	*clefG2	*	*	*	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
-*	*	*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 *	*	*	*	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4
 1.r	.	1.r	.	1.N	N	newline	0.441	drums
 =2	=2	=2	=2	=2	=2	=2	=2	=2
@@ -40,7 +41,8 @@ r;	.	r;	.	1r;	r	.	0	r
 1r	.	1r	.	2Em	E:min (E G B)	.	.	synth
 .	.	.	.	2Am	A:min (A C E)	.	.	synth
 =14	=14	=14	=14	=14	=14	=14	=14	=14
-*	*	*	*	*>B_intro	*>B_intro	*>B_intro	*>B_intro	*>B_intro
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 1r	.	1r	.	1Dm	D:1(11) (D G)	newline	27.977	synth
 =15	=15	=15	=15	=15	=15	=15	=15	=15
 1r	.	1r	.	1CM	C:1(11) (C F)	.	.	synth
@@ -49,7 +51,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =17	=17	=17	=17	=17	=17	=17	=17	=17
 1r	.	1r	.	1CM	C:1(11) (C F)	.	.	synth
 =18	=18	=18	=18	=18	=18	=18	=18	=18
-*	*	*	*	*>_verse	*>_verse	*>_verse	*>_verse	*>_verse
+*>Label>>Verse	*>Label>>Verse	*>Label>>Verse	*>Label>>Verse	*>Label>>Verse	*>Label>>Verse	*>Label>>Verse	*>Label>>Verse	*>Label>>Verse
 8r	.	1r	.	1Dm	D:1(11) (D G)	newline	36.122	voice
 8d	You	.	.	.	.	.	.	.
 8d	al-	.	.	.	.	.	.	.
@@ -92,7 +94,8 @@ r;	.	r;	.	1r;	r	.	0	r
 4r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24
-*	*	*	*	*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain
 8r	.	8r	.	1B-M	B-:5 (B- F)	newline	48.236	voice
 8B-	How'm	8B-	How'm	.	.	.	.	.
 4B-	I	4B-	I	.	.	.	.	.
@@ -117,7 +120,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8r	.	1r	.	1Dm	D:1(11) (D G)	newline	56.41	voice
 8d	I	.	.	.	.	.	.	.
 8d	came	.	.	.	.	.	.	.
@@ -169,7 +173,8 @@ r;	.	r;	.	1r;	r	.	0	r
 .	.	8A	take	.	.	.	.	.
 .	.	8G	it	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34
-*	*	*	*	*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain
 8r	.	8r	.	1B-M	B-:maj (B- D F)	newline	68.586	voice
 8B-	How'm	8B-	How'm	.	.	.	.	.
 4B-	I	4B-	I	.	.	.	.	.
@@ -194,7 +199,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38	=38
-*	*	*	*	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 1r	.	1r	.	1FM	F:maj (F A C)	newline	76.77	voice
 =39	=39	=39	=39	=39	=39	=39	=39	=39
 1r	.	1r	.	2Em	E:min (E G B)	.	.	voice
@@ -223,7 +229,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8e	went	.	.	.	.	.	.	.
 8f	a-	.	.	.	.	.	.	.
 =48	=48	=48	=48	=48	=48	=48	=48	=48
-*	*	*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 [2g	-way	1r	.	1CM	C:maj (C E G)	newline	97.1	voice
 8g]	_	.	.	.	.	.	.	.
 8a	I've	.	.	.	.	.	.	.
@@ -275,7 +282,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8c	oh	.	.	.	.	.	.	.
 8B-	_	.	.	.	.	.	.	.
 =55	=55	=55	=55	=55	=55	=55	=55	=55
-*	*	*	*	*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain
 8r	.	8r	.	1B-M	B-:maj (B- D F)	->newline	111.314	voice
 8d	How	8B-	How	.	.	.	.	.
 4d	I'm	4B-	I'm	.	.	.	.	.
@@ -300,7 +308,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8r	.	8r	.	1CM	C:sus2 (C D G)	newline	119.466	voice
 8d	You	2..r	.	.	.	.	.	.
 8d	al-	.	.	.	.	.	.	.
@@ -352,7 +361,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8g	-e-	8A	-e-	.	.	.	.	.
 8g	-ver	8G	-ver	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65
-*	*	*	*	*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain
 8r	.	8r	.	1B-M	B-:5 (C B- F)	newline	131.65	voice
 8B-	How'm	8B-	How'm	.	.	.	.	.
 4B-	I	4B-	I	.	.	.	.	.
@@ -377,7 +387,8 @@ r;	.	r;	.	1r;	r	.	0	r
 4.c	through	4e	through	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69	=69	=69
-*M4/4	*	*M4/4	*	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 *	*	*	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 1r	.	1r	.	1FM	F:maj (F A C)	newline	138.804	voice
 =70	=70	=70	=70	=70	=70	=70	=70	=70
@@ -407,7 +418,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8e	went	.	.	.	.	.	.	.
 8f	a-	.	.	.	.	.	.	.
 =79	=79	=79	=79	=79	=79	=79	=79	=79
-*	*	*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 8g	-way	1r	.	1CM	C:maj (C E G)	newline	159.116	voice
 4e	_	.	.	.	.	.	.	.
 8g	I've	.	.	.	.	.	.	.
@@ -462,7 +474,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8c	oh	.	.	.	.	.	.	.
 [8B-	_	.	.	.	.	.	.	.
 =86	=86	=86	=86	=86	=86	=86	=86	=86
-*	*	*	*	*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain	*>C_refrain
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain	*>Label>Refrain
 8B-]	_	8r	.	1B-M	B-:maj (B- D F)	->newline	173.442	voice
 8d	How	8B-	How	.	.	.	.	.
 4d	I'm	4B-	I'm	.	.	.	.	.
@@ -535,7 +548,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =98	=98	=98	=98	=98	=98	=98	=98	=98
-*	*	*	*	*>A_outro	*>A_outro	*>A_outro	*>A_outro	*>A_outro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
 1r	.	1r	.	1FM	F:maj (F A C)	newline	197.788	voice
 =99	=99	=99	=99	=99	=99	=99	=99	=99
 1r	.	1r	.	2Em	E:min (E G B)	.	.	voice
@@ -591,7 +605,7 @@ r;	.	r;	.	1r;	r	.	0	r
 1r	.	1r	.	2Em	E:min (E G B)	.	.	voice
 .	.	.	.	2Am	A:min (A C E)	.	.	voice
 =120	=120	=120	=120	=120	=120	=120	=120	=120
-*	*	*	*	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
 1r	.	1r	.	1FM	F:maj (F A C)	newline	242.507	voice
 =121	=121	=121	=121	=121	=121	=121	=121	=121
 1r	.	1r	.	2Em	E:min (E G B)	.	.	voice

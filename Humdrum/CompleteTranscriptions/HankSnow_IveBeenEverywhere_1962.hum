@@ -5,14 +5,16 @@
 *clefF4	*	*	*	*	*	*
 r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1
-*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 2.r	.	4.N	N	newline	1.416	piano
 .	.	4.D-M	D-:maj (F D- A-)	.	.	piano
 4.r	.	4.D-d	D-:dim (F- D- A--)	.	.	piano
 4AA-	I	4.E-mm	E-:min7 (E- G- B- D-)	.	.	piano
 8BB-	was	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4D-	to-	1.D-M	D-:maj (D- F A-)	newline	4.001	voice
 8D-	-tin'	.	.	.	.	.
 4D-	my	.	.	.	.	.
@@ -134,7 +136,8 @@ r;	.	1r;	r	.	0	r
 4.D-	land	.	.	.	.	.
 4.r	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14
-*M4/4	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 *	*	*M4/4	*M4/4	*	*	*
 4F	I've	1D-M	D-:maj (D- F A-)	newline	41.231	voice
 8D-	been	.	.	.	.	.
@@ -194,7 +197,8 @@ r;	.	1r;	r	.	0	r
 8AA-	Been	.	.	.	.	.
 8AA-	to	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27
-*	*	*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4D-	Re-	1D-M	D-:maj (D- F A-)	newline	54.43	voice
 8D-	-no	.	.	.	.	.
 8D-	Chi-	.	.	.	.	.
@@ -285,7 +289,8 @@ r;	.	1r;	r	.	0	r
 8D-	ki-	.	.	.	.	.
 8D-	-ller	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4F	I've	1D-M	D-:maj (D- F A-)	newline	66.46	voice
 8D-	been	.	.	.	.	.
 4.D-	eve-	.	.	.	.	.
@@ -345,7 +350,8 @@ r;	.	1r;	r	.	0	r
 =51	=51	=51	=51	=51	=51	=51
 1r	.	1D-M	D-:maj (D- F A-)	.	.	voice
 =52	=52	=52	=52	=52	=52	=52
-*D:	*	*>E_trans	*>E_trans	*>E_trans	*>E_trans	*>E_trans
+*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
 *	*	*D:	*D:	*D:	*D:	*D:
 1r	.	1DM	D:maj (D F# A)	newline	79.477	voice
 =53	=53	=53	=53	=53	=53	=53
@@ -353,7 +359,8 @@ r;	.	1r;	r	.	0	r
 4r	.	.	.	.	.	.
 4AA	Bo-	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54
-*	*	*>B3_verse	*>B3_verse	*>B3_verse	*>B3_verse	*>B3_verse
+*>Letter>B3	*>Letter>B3	*>Letter>B3	*>Letter>B3	*>Letter>B3	*>Letter>B3	*>Letter>B3
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4D	_	1DM	D:maj (D F# A)	newline	81.516	voice
 4D	-ston	.	.	.	.	.
 8D	Char-	.	.	.	.	.
@@ -439,7 +446,8 @@ r;	.	1r;	r	.	0	r
 8D	sake	.	.	.	.	.
 [8F#	I've	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66
-*	*	*>C2_chorus	*>C2_chorus	*>C2_chorus	*>C2_chorus	*>C2_chorus
+*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4F#]	_	1DM	D:maj (D F# A)	newline	93.44	voice
 8D	been	.	.	.	.	.
 4.D	eve-	.	.	.	.	.
@@ -498,7 +506,8 @@ r;	.	1r;	r	.	0	r
 =78	=78	=78	=78	=78	=78	=78
 1r	.	1DM	D:maj (D F# A)	.	.	voice
 =79	=79	=79	=79	=79	=79	=79
-*E-:	*	*>E2_trans	*>E2_trans	*>E2_trans	*>E2_trans	*>E2_trans
+*>Letter>E2	*>Letter>E2	*>Letter>E2	*>Letter>E2	*>Letter>E2	*>Letter>E2	*>Letter>E2
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
 *	*	*E-:	*E-:	*E-:	*E-:	*E-:
 1r	.	1E-M	E-:maj (E- G B-)	newline	106.471	voice
 =80	=80	=80	=80	=80	=80	=80
@@ -506,7 +515,8 @@ r;	.	1r;	r	.	0	r
 4.r	.	.	.	.	.	.
 [8E-	Lou-	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81
-*	*	*>B4_verse	*>B4_verse	*>B4_verse	*>B4_verse	*>B4_verse
+*>Letter>B4	*>Letter>B4	*>Letter>B4	*>Letter>B4	*>Letter>B4	*>Letter>B4	*>Letter>B4
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8E-]	_	1E-M	E-:maj (E- G B-)	newline	108.486	voice
 8E-	-is-	.	.	.	.	.
 4E-	-ville	.	.	.	.	.
@@ -598,7 +608,8 @@ r;	.	1r;	r	.	0	r
 8E-	sir?	.	.	.	.	.
 [8G	I've	.	.	.	.	.
 =93	=93	=93	=93	=93	=93	=93
-*	*	*>C3_chorus	*>C3_chorus	*>C3_chorus	*>C3_chorus	*>C3_chorus
+*>Letter>C3	*>Letter>C3	*>Letter>C3	*>Letter>C3	*>Letter>C3	*>Letter>C3	*>Letter>C3
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4G]	_	1E-M	E-:maj (E- G B-)	newline	120.44	voice
 8E-	been	.	.	.	.	.
 4.E-	eve-	.	.	.	.	.
@@ -654,7 +665,8 @@ r;	.	1r;	r	.	0	r
 =105	=105	=105	=105	=105	=105	=105
 1r	.	1E-M	E-:maj (E- G B-)	.	.	voice
 =106	=106	=106	=106	=106	=106	=106
-*E:	*	*>E3_trans	*>E3_trans	*>E3_trans	*>E3_trans	*>E3_trans
+*>Letter>E3	*>Letter>E3	*>Letter>E3	*>Letter>E3	*>Letter>E3	*>Letter>E3	*>Letter>E3
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
 *	*	*E:	*E:	*E:	*E:	*E:
 1r	.	1EM	E:maj (E G# B)	newline	133.495	voice
 =107	=107	=107	=107	=107	=107	=107
@@ -662,7 +674,8 @@ r;	.	1r;	r	.	0	r
 4.r	.	.	.	.	.	.
 [8E	Pitts-	.	.	.	.	.
 =108	=108	=108	=108	=108	=108	=108
-*	*	*>B5_verse	*>B5_verse	*>B5_verse	*>B5_verse	*>B5_verse
+*>Letter>B5	*>Letter>B5	*>Letter>B5	*>Letter>B5	*>Letter>B5	*>Letter>B5	*>Letter>B5
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4E]	_	1EM	E:maj (E G# B)	newline	135.53	voice
 4E	-burgh	.	.	.	.	.
 8E	Park-	.	.	.	.	.
@@ -751,7 +764,8 @@ r;	.	1r;	r	.	0	r
 8E	pi-	.	.	.	.	.
 8E	-ty	.	.	.	.	.
 =120	=120	=120	=120	=120	=120	=120
-*	*	*>C4_chorus	*>C4_chorus	*>C4_chorus	*>C4_chorus	*>C4_chorus
+*>Letter>C4	*>Letter>C4	*>Letter>C4	*>Letter>C4	*>Letter>C4	*>Letter>C4	*>Letter>C4
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4G#	I've	1EM	E:maj (E G# B)	newline	147.385	voice
 8E	been	.	.	.	.	.
 4.E	eve-	.	.	.	.	.
@@ -810,7 +824,8 @@ r;	.	1r;	r	.	0	r
 4GG#	eve-	.	.	.	.	.
 4FF#	-ry-	.	.	.	.	.
 =133	=133	=133	=133	=133	=133	=133
-*	*	*>F_outro_fadeout	*>F_outro_fadeout	*>F_outro_fadeout	*>F_outro_fadeout	*>F_outro_fadeout
+*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
 [1EE	-where	1EM	E:maj (E G# B)	newline	160.354	voice
 =134	=134	=134	=134	=134	=134	=134
 1EE]	_	1EM	E:maj (E G# B)	.	.	voice

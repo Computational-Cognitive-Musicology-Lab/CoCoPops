@@ -5,7 +5,8 @@
 *clefG2	*	*clefF4	*	*	*	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
-*	*	*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 1r	.	1r	.	4Cmm	C:min7 (C E- G B-)	newline	0.488	synth
 .	.	.	.	4B-M	B-:maj (B- D F)	.	.	synth
 .	.	.	.	2A-MM	A-:maj7 (A- C E- G)	.	.	synth
@@ -37,7 +38,8 @@ r;	.	r;	.	1r;	r	.	0	r
 =9	=9	=9	=9	=9	=9	=9	=9	=9
 1r	.	1r	.	1Fmm	F:min7 (F A- C E-)	.	.	synth
 =10	=10	=10	=10	=10	=10	=10	=10	=10
-*	*	*	*	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8g	La-	1r	.	4Cmm	C:min7 (C E- G B-)	newline	18.452	voice
 8g	-dy,	.	.	.	.	.	.	.
 4r	.	.	.	4B-M	B-:maj (B- D F)	.	.	voice
@@ -89,7 +91,8 @@ r;	.	r;	.	1r;	r	.	0	r
 =18	=18	=18	=18	=18	=18	=18	=18	=18
 1r	.	1r	.	1Fmm	F:min7 (F A- C E-)	.	.	voice
 =19	=19	=19	=19	=19	=19	=19	=19	=19
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4r	.	1r	.	4Cmm	C:min7 (C E- G B-)	newline	36.302	voice
 4g	You	.	.	2.B-M	B-:maj (B- D F)	.	.	voice
 4e-	came	.	.	.	.	.	.	.
@@ -200,7 +203,8 @@ r;	.	r;	.	1r;	r	.	0	r
 2c]	_	1r	.	1Fmm	F:min7 (F A- C E-)	.	.	voice
 2r	.	.	.	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36
-*	*	*	*	*>C_interlude	*>C_interlude	*>C_interlude	*>C_interlude	*>C_interlude
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
 1r	.	1r	.	4A-MM	A-:maj7 (A- C E- G)	newline	70.06	synth
 .	.	.	.	4Gmm	G:min7 (G B- D F)	.	.	synth
 .	.	.	.	2Fmm	F:min7 (F A- C E-)	.	.	synth
@@ -210,7 +214,8 @@ r;	.	r;	.	1r;	r	.	0	r
 =38	=38	=38	=38	=38	=38	=38	=38	=38
 1r	.	1r	.	1Fmm	F:min7 (F A- C E-)	.	.	synth
 =39	=39	=39	=39	=39	=39	=39	=39	=39
-*	*	*clefG2	*	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8g	La-	2r	.	4Cmm	C:min7 (C E- G B-)	newline	76.084	voice
 8g	-dy,	.	.	.	.	.	.	.
 4r	.	.	.	4B-M	B-:maj (B- D F)	.	.	voice
@@ -264,7 +269,8 @@ r;	.	r;	.	1r;	r	.	0	r
 =47	=47	=47	=47	=47	=47	=47	=47	=47
 1r	.	1r	.	1Fmm	F:min7 (F A- C E-)	.	.	voice
 =48	=48	=48	=48	=48	=48	=48	=48	=48
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4r	.	1r	.	4Cmm	C:min7 (C E- G B-)	newline	93.837	voice
 4g	Once	.	.	2.B-M	B-:maj (B- D F)	.	.	voice
 4g	I	.	.	.	.	.	.	.
@@ -385,7 +391,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8f	_	.	.	.	.	.	.	.
 8e-	_	.	.	.	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64	=64	=64
-*	*	*	*	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8g	Lady!	8g	La-	4Cmm	C:min7 (C E- G B-)	newline	125.668	voice
 8g	_	8g	-dy,	.	.	.	.	.
 4f#	_	4r	.	4B-M	B-:maj (B- D F)	.	.	voice
@@ -454,7 +461,8 @@ r;	.	r;	.	1r;	r	.	0	r
 .	.	4.E-]	...	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.
 =72	=72	=72	=72	=72	=72	=72	=72	=72
-*clefF4	*	*	*	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 4r	.	1r	.	1A-MM	A-:maj7 (A- C E- G)	newline	141.524	voice
 4c	Na	.	.	.	.	.	.	.
 4d	na	.	.	.	.	.	.	.
@@ -532,7 +540,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8g]	_	.	.	.	.	.	.	.
 8f	_	.	.	.	.	.	.	.
 =86	=86	=86	=86	=86	=86	=86	=86	=86
-*	*	*	*	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus	*>A_chorus
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8g	la-	8g	La-	4Cmm	C:min7 (C E- G B-)	newline	169.343	voice
 8g	-dy!	8g	-dy!	.	.	.	.	.
 8f#	_	4r	.	4B-M	B-:maj (B- D F)	.	.	voice
@@ -613,7 +622,8 @@ r;	.	r;	.	1r;	r	.	0	r
 1r	.	1r	.	4Fmm	F:min7 (F A- C E-)	.	.	voice
 .	.	.	.	2.Gmm	G:min7 (G B- D F)	.	.	voice
 =98	=98	=98	=98	=98	=98	=98	=98	=98
-*	*	*	*	*>A_outro	*>A_outro	*>A_outro	*>A_outro	*>A_outro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
 1r	.	1r	.	4Cmm	C:min7 (C E- G B-)	newline	193.157	synth
 .	.	.	.	2.B-M	B-:maj (B- D F)	.	.	synth
 =99	=99	=99	=99	=99	=99	=99	=99	=99
@@ -695,7 +705,7 @@ r;	.	r;	.	1r;	r	.	0	r
 1r	.	1r	.	4Fmm	F:min7 (F A- C E-)	.	.	synth
 .	.	.	.	2.Gmm	G:min7 (G B- D F)	.	.	synth
 =114	=114	=114	=114	=114	=114	=114	=114	=114
-*	*	*	*	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
 1r	.	1r	.	4Cmm	C:min7 (C E- G B-)	newline	224.877	synth
 .	.	.	.	2.B-M	B-:maj (B- D F)	.	.	synth
 =115	=115	=115	=115	=115	=115	=115	=115	=115

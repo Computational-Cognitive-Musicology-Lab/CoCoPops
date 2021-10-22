@@ -5,12 +5,14 @@
 *clefG2	*	*clefG2	*	*	*	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
-*	*	*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 1r	.	1r	.	1B-M	B-:maj (B- D F)	newline	0.325	guitar
 =2	=2	=2	=2	=2	=2	=2	=2	=2
 1r	.	1r	.	1B-M	B-:maj (B- D F)	.	.	guitar
 =3	=3	=3	=3	=3	=3	=3	=3	=3
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8d	Some-	1r	.	1B-M	B-:maj (B- D F)	newline	6.768	voice
 [8d	-times	.	.	.	.	.	.	.
 16d]	_	.	.	.	.	.	.	.
@@ -140,7 +142,8 @@ r;	.	r;	.	1r;	r	.	0	r
 .	.	4r	.	.	.	.	.	.
 .	.	2r	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19
-*	*	*	*	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
 4r	.	1r	.	1E-M	E-:maj (E- G B-)	newline	55.73	voice
 16B-	Win-	.	.	.	.	.	.	.
 8B-	-ters	.	.	.	.	.	.	.
@@ -210,7 +213,8 @@ r;	.	r;	.	1r;	r	.	0	r
 16B-	_	.	.	.	.	.	.	.
 8c	_	.	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27
-*	*	*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8d	Some-	8B-	Some-	1B-M	B-:maj (B- D F)	newline	83.312	voice
 8d	-men	8B-	-men	.	.	.	.	.
 16d	fo-	16B-	fo-	.	.	.	.	.
@@ -336,14 +340,16 @@ r;	.	r;	.	1r;	r	.	0	r
 16B-	is	.	.	.	.	.	.	.
 [16B-	you	.	.	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42
-*	*	*	*	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
 4B-]	_	1r	.	1B-M	B-:maj (B- D F)	->newline	128.796	guitar
 4r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43	=43	=43
 1r	.	1r	.	1B-M	B-:maj (B- D F)	.	.	guitar
 =44	=44	=44	=44	=44	=44	=44	=44	=44
-*	*	*	*	*>B_fadeout	*>B_fadeout	*>B_fadeout	*>B_fadeout	*>B_fadeout
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout
 1r	.	8r	.	1B-M	B-:maj (B- D F)	newline	135.131	voice
 .	.	8d	Tah	.	.	.	.	.
 .	.	16d	tah-	.	.	.	.	.

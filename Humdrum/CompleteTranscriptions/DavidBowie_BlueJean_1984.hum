@@ -6,12 +6,14 @@ r;	.	1r;	r	.	0	r
 *M4/4	*	*	*	*	*	*
 *clefG2	*	*	*	*	*	*
 =1	=1	=1	=1	=1	=1	=1
-*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 r;	.	2.CM	C:maj (C E G)	newline	1.022	guitar
 =1	=1	=1	=1	=1	=1	=1
 1r	.	4GM	G:maj (G B D)	.	.	guitar
 =2	=2	=2	=2	=2	=2	=2
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 .	.	1DM	D:maj (D F# A)	newline	3.084	voice
 =2	=2	=2	=2	=2	=2	=2
 8f#	Blue	.	.	.	.	.
@@ -149,7 +151,8 @@ r;	.	2.CM	C:maj (C E G)	newline	1.022	guitar
 8r	.	.	.	.	.	.
 8e	Some-	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8f#	-times	1F#m	F#:min (F# A C#)	newline	38.254	voice
 8g	I	.	.	.	.	.
 4a	feel	.	.	.	.	.
@@ -236,7 +239,8 @@ r;	.	2.CM	C:maj (C E G)	newline	1.022	guitar
 8A]	_	.	.	.	.	.
 8A	some-	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34
-*	*	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
 8A	-bod-	2.CM	C:maj (C E G)	newline	64.968	guitar
 8A	-y	.	.	.	.	.
 4B	send	.	.	.	.	.
@@ -244,7 +248,8 @@ r;	.	2.CM	C:maj (C E G)	newline	1.022	guitar
 =34	=34	=34	=34	=34	=34	=34
 1r	.	4GM	G:maj (G B D)	.	.	guitar
 =35	=35	=35	=35	=35	=35	=35
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 .	.	1DM	D:maj (D F# A)	newline	66.905	voice
 =35	=35	=35	=35	=35	=35	=35
 8f#	One	.	.	.	.	.
@@ -384,7 +389,8 @@ r;	.	2.CM	C:maj (C E G)	newline	1.022	guitar
 8r	.	.	.	.	.	.
 8e	Some-	.	.	.	.	.
 =53	=53	=53	=53	=53	=53	=53
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8f#	-times	1F#m	F#:min (F# A C#)	newline	101.556	voice
 8g	I	.	.	.	.	.
 4a	feel	.	.	.	.	.
@@ -471,7 +477,8 @@ r;	.	2.CM	C:maj (C E G)	newline	1.022	guitar
 8A]	_	.	.	.	.	.
 8A	some-	.	.	.	.	.
 =67	=67	=67	=67	=67	=67	=67
-*	*	*>A_trans	*>A_trans	*>A_trans	*>A_trans	*>A_trans
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
 8A	-bod-	2.CM	C:maj (C E G)	newline	128.005	guitar
 8A	-y	.	.	.	.	.
 4B	send	.	.	.	.	.
@@ -479,7 +486,8 @@ r;	.	2.CM	C:maj (C E G)	newline	1.022	guitar
 =67	=67	=67	=67	=67	=67	=67
 1r	.	4GM	G:maj (G B D)	.	.	guitar
 =68	=68	=68	=68	=68	=68	=68
-*	*	*>D_interlude	*>D_interlude	*>D_interlude	*>D_interlude	*>D_interlude
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
 .	.	1DM	D:maj (D F# A)	newline	129.938	guitar
 =68	=68	=68	=68	=68	=68	=68
 1r	.	.	.	.	.	.
@@ -497,7 +505,8 @@ r;	.	2.CM	C:maj (C E G)	newline	1.022	guitar
 8r	.	.	.	.	.	.
 8d	Some-	.	.	.	.	.
 =72	=72	=72	=72	=72	=72	=72
-*	*	*>C2_chorus	*>C2_chorus	*>C2_chorus	*>C2_chorus	*>C2_chorus
+*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 8f#	-times	1F#m	F#:min (F# A C#)	newline	137.464	voice
 8g	I	.	.	.	.	.
 4a	feel	.	.	.	.	.
@@ -634,7 +643,8 @@ r;	.	2.CM	C:maj (C E G)	newline	1.022	guitar
 8A]	_	.	.	.	.	.
 8A	some-	.	.	.	.	.
 =94	=94	=94	=94	=94	=94	=94
-*	*	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro
+*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
 8A	-bod-	2.CM	C:maj (C E G)	newline	178.945	guitar
 8A	-y	.	.	.	.	.
 4B	send	.	.	.	.	.

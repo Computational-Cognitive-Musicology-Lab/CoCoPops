@@ -5,7 +5,8 @@
 *clefF4	*	*	*	*	*	*
 r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1
-*	*	*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 1r	.	1E-mm	E-:min7 (E- G- B- D-)	newline	0.464	synthesizer
 =2	=2	=2	=2	=2	=2	=2
 1r	.	1E-mm	E-:min7 (E- G- B- D-)	.	.	synthesizer
@@ -22,7 +23,8 @@ r;	.	1r;	r	.	0	r
 =8	=8	=8	=8	=8	=8	=8
 1r	.	1E-mm	E-:min7 (E- G- B- D-)	.	.	synthesizer
 =9	=9	=9	=9	=9	=9	=9
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 2.r	.	1E-mm	E-:min7 (E- G- B- D-)	newline	16.244	voice
 8E-	Let	.	.	.	.	.
 8E-	me	.	.	.	.	.
@@ -108,7 +110,8 @@ r;	.	1r;	r	.	0	r
 =24	=24	=24	=24	=24	=24	=24
 1r	.	1E-mm	E-:min7(b13) (E- G- B- D- C-)	.	.	voice
 =25	=25	=25	=25	=25	=25	=25
-*	*	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
 1r	.	1E-mm	E-:min7 (E- G- B- D-)	newline	47.616	synthesizer
 =26	=26	=26	=26	=26	=26	=26
 1r	.	1E-mm	E-:min7 (E- G- B- D-)	.	.	synthesizer
@@ -125,7 +128,8 @@ r;	.	1r;	r	.	0	r
 =32	=32	=32	=32	=32	=32	=32
 1r	.	1E-mm	E-:min7 (E- G- B- D-)	.	.	synthesizer
 =33	=33	=33	=33	=33	=33	=33
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4.r	.	1E-mm	E-:min7 (E- G- B- D-)	newline	63.375	voice
 8E-	I'll	.	.	.	.	.
 8E-	take	.	.	.	.	.
@@ -214,7 +218,8 @@ r;	.	1r;	r	.	0	r
 =48	=48	=48	=48	=48	=48	=48
 1r	.	1E-mm	E-:min7(b13) (E- G- B- D- C-)	.	.	voice
 =49	=49	=49	=49	=49	=49	=49
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 1r	.	1Cm	C:min (C E- G)	newline	94.847	voice
 =50	=50	=50	=50	=50	=50	=50
 1r	.	1C-M	C-:maj (C- E- G-)	.	.	voice
@@ -245,7 +250,8 @@ r;	.	1r;	r	.	0	r
 4A-	there	.	.	.	.	.
 4.E-	is.	.	.	.	.	.
 =56	=56	=56	=56	=56	=56	=56
-*	*	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
 1r	.	1E-mm	E-:min7 (E- G- B- D-)	->newline	108.603	synthesizer
 =57	=57	=57	=57	=57	=57	=57
 1r	.	1E-mm	E-:min7 (E- G- B- D-)	.	.	synthesizer
@@ -262,7 +268,8 @@ r;	.	1r;	r	.	0	r
 =63	=63	=63	=63	=63	=63	=63
 1r	.	1E-mm	E-:min7 (E- G- B- D-)	.	.	synthesizer
 =64	=64	=64	=64	=64	=64	=64
-*	*	*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 2.r	.	1E-mm	E-:min7 (E- G- B- D-)	newline	124.34	voice
 8E-	Let	.	.	.	.	.
 8E-	me	.	.	.	.	.
@@ -338,7 +345,8 @@ r;	.	1r;	r	.	0	r
 =79	=79	=79	=79	=79	=79	=79
 1r	.	1E-mm	E-:min7(b13) (E- G- B- D- C-)	.	.	voice
 =80	=80	=80	=80	=80	=80	=80
-*	*	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 1r	.	1Cm	C:min (C E- G)	newline	155.764	voice
 =81	=81	=81	=81	=81	=81	=81
 1r	.	1C-M	C-:maj (C- E- G-)	.	.	voice
@@ -369,7 +377,8 @@ r;	.	1r;	r	.	0	r
 4A-	there	.	.	.	.	.
 4.E-	is.	.	.	.	.	.
 =87	=87	=87	=87	=87	=87	=87
-*	*	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
 1r	.	1E-mm	E-:min7 (E- G- B- D-)	->newline	169.485	synthesizer
 =88	=88	=88	=88	=88	=88	=88
 1r	.	1E-mm	E-:min7 (E- G- B- D-)	.	.	synthesizer
@@ -386,7 +395,8 @@ r;	.	1r;	r	.	0	r
 =94	=94	=94	=94	=94	=94	=94
 1r	.	1A-m	A-:min (A- C- E-)	.	.	synthesizer
 =95	=95	=95	=95	=95	=95	=95
-*	*	*>B2_outro	*>B2_outro	*>B2_outro	*>B2_outro	*>B2_outro
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
 2.r	.	1E-mm	E-:min7 (E- G- B- D-)	newline	185.253	voice
 8E-	Let	.	.	.	.	.
 8E-	me	.	.	.	.	.
@@ -453,7 +463,7 @@ r;	.	1r;	r	.	0	r
 =110	=110	=110	=110	=110	=110	=110
 1r	.	1A-m	A-:min (A- C- E-)	.	.	voice
 =111	=111	=111	=111	=111	=111	=111
-*	*	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
 2.r	.	1E-mm	E-:min7 (E- G- B- D-)	newline	216.698	voice
 8E-	Let	.	.	.	.	.
 8E-	me	.	.	.	.	.

@@ -5,12 +5,14 @@
 *clefG2	*	*	*	*	*	*
 r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1
-*	*	*>A_introa	*>A_introa	*>A_introa	*>A_introa	*>A_introa
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Introa	*>Label>Introa	*>Label>Introa	*>Label>Introa	*>Label>Introa	*>Label>Introa	*>Label>Introa
 1r	.	1N	N	newline	0.116	drums
 =2	=2	=2	=2	=2	=2	=2
 1r	.	1N	N	.	.	drums
 =3	=3	=3	=3	=3	=3	=3
-*	*	*>B_introb	*>B_introb	*>B_introb	*>B_introb	*>B_introb
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Introb	*>Label>Introb	*>Label>Introb	*>Label>Introb	*>Label>Introb	*>Label>Introb	*>Label>Introb
 1r	.	2Amm	A:min7 (A C E G)	newline	5.817	guitar
 .	.	2GM	G:maj (B G D)	.	.	guitar
 =4	=4	=4	=4	=4	=4	=4
@@ -26,7 +28,8 @@ r;	.	1r;	r	.	0	r
 8d	with	.	.	.	.	.
 8c	the	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
-*	*	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 2c	sad	2Amm	A:min7 (A C E G)	newline	16.718	voice
 4G	heart,	2GM	G:maj (B G D)	.	.	voice
 4r	.	.	.	.	.	.
@@ -94,7 +97,8 @@ r;	.	1r;	r	.	0	r
 8e	see	.	.	.	.	.
 8g	your	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15
-*	*	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4.a	true	2FM	F:maj (F A C)	newline	38.944	voice
 [8a	co-	.	.	.	.	.
 8a]	_	2CM	C:maj (C E G)	.	.	voice
@@ -163,7 +167,8 @@ r;	.	1r;	r	.	0	r
 8c	like	.	.	.	.	.
 8c	a	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24
-*	*	*>B_trans	*>B_trans	*>B_trans	*>B_trans	*>B_trans
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
 4..c	rain-	2Amm	A:min7 (A C E G)	newline	64.296	guitar
 16B	_	.	.	.	.	.
 4A	-bow	2GM	G:maj (B G D)	.	.	guitar
@@ -182,7 +187,8 @@ r;	.	1r;	r	.	0	r
 16c	me	.	.	.	.	.
 16c	a	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28
-*	*	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 4.c	smile	2Amm	A:min7 (A C E G)	newline	75.465	voice
 8G	then,	.	.	.	.	.
 2r	.	2GM	G:maj (B G D)	.	.	voice
@@ -249,7 +255,8 @@ r;	.	1r;	r	.	0	r
 8e	see	.	.	.	.	.
 8g	your	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36
-*	*	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
+*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4.a	true	2FM	F:maj (F A C)	newline	97.954	voice
 [8a	co-	.	.	.	.	.
 8a]	_	2CM	C:maj (C E G)	.	.	voice
@@ -318,7 +325,8 @@ r;	.	1r;	r	.	0	r
 8c	like	.	.	.	.	.
 8c	a	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45
-*	*	*>B_trans	*>B_trans	*>B_trans	*>B_trans	*>B_trans
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
 4.c	rain-	2Amm	A:min7 (A C E G)	newline	123.447	guitar
 8B	_	.	.	.	.	.
 4A	-bow	2GM	G:maj (B G D)	.	.	guitar
@@ -333,7 +341,8 @@ r;	.	1r;	r	.	0	r
 2r	.	2CMM	C:maj7 (C E G B)	.	.	guitar
 [2e	Ooh	2FM	F:maj (F A C)	.	.	guitar
 =49	=49	=49	=49	=49	=49	=49
-*	*	*>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
+*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 2e_	_	2Amm	A:min7 (A C E G)	newline	134.407	voice
 4.e]	_	2GM	G:maj (B G D)	.	.	voice
 8r	.	.	.	.	.	.
@@ -393,7 +402,8 @@ r;	.	1r;	r	.	0	r
 8e	see	.	.	.	.	.
 8g	your	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57
-*	*	*>D2_chorus	*>D2_chorus	*>D2_chorus	*>D2_chorus	*>D2_chorus
+*>Letter>D2	*>Letter>D2	*>Letter>D2	*>Letter>D2	*>Letter>D2	*>Letter>D2	*>Letter>D2
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 4.a	true	2FM	F:maj (F A C)	newline	156.506	voice
 [8a	co-	.	.	.	.	.
 8a]	_	2CM	C:maj (C E G)	.	.	voice
@@ -530,13 +540,15 @@ r;	.	1r;	r	.	0	r
 8A	_	.	.	.	.	.
 [4.A	-bow	.	.	.	.	.
 =75	=75	=75	=75	=75	=75	=75
-*	*	*>B2_trans	*>B2_trans	*>B2_trans	*>B2_trans	*>B2_trans
+*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
+*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
 1A]	_	2Amm	A:min7 (A C E G)	newline	209.482	guitar
 .	.	2GM	G:maj (B G D)	.	.	guitar
 =76	=76	=76	=76	=76	=76	=76
 *M3/8	*	*M3/8	*M3/8	*	*	*
 4.r	.	4.CMM	C:maj7 (C E G B)	.	.	guitar
-*	*	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro	*>A2_outro
+*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2
+*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
 =77	=77	=77	=77	=77	=77	=77
 *M4/4	*	*	*	*	*	*
 1r	.	1FM	F:maj (F A C)	newline	.	drums

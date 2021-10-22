@@ -5,7 +5,8 @@
 *clefG2	*	*	*	*	*	*
 r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1
-*	*	*>B_intro	*>B_intro	*>B_intro	*>B_intro	*>B_intro
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
 1r	.	2D-M	D-:maj (D- F A-)	newline	0.458	r
 .	.	2D-M	D-:maj6 (D- F A- B-)	.	.	r
 =2	=2	=2	=2	=2	=2	=2
@@ -19,7 +20,8 @@ r;	.	1r;	r	.	0	r
 4r	.	2D-M	D-:maj6 (D- F A- B-)	.	.	r
 4a-	I	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 2dd-	want	2D-M	D-:maj (D- F A-)	newline	7.541	voice
 4.cc	you	2D-M	D-:maj6 (D- F A- B-)	.	.	voice
 8cc	to	.	.	.	.	.
@@ -178,7 +180,8 @@ r;	.	1r;	r	.	0	r
 4r	.	2D-M	D-:maj6 (D- F A- B-)	.	.	voice
 4a-	I	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39
-*	*	*>A_verse	*>A_verse	*>A_verse	*>A_verse	*>A_verse
+*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
+*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 2dd-	want	2D-M	D-:maj (D- F A-)	newline	68.501	voice
 4.cc	you	2D-M	D-:maj6 (D- F A- B-)	.	.	voice
 8cc	to	.	.	.	.	.
@@ -338,7 +341,7 @@ r;	.	1r;	r	.	0	r
 4b-	ev-	2A-Mm	A-:9 (A- C G- B-)	.	.	voice
 4c	-ery	.	.	.	.	.
 =73	=73	=73	=73	=73	=73	=73
-*	*	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
+*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
 1d-	day	2D-M	D-:maj (D- F A-)	newline	128.999	voice
 .	.	2D-M	D-:maj6 (D- F A- B-)	.	.	voice
 =74	=74	=74	=74	=74	=74	=74
