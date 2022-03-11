@@ -160,6 +160,11 @@ key/mode between two transcribers, I elected to automatically resolve mode disag
 
 > Nat Condit-Schultz, September 2019
 
+----
+
+#### Other Mistakes:
+
++ Trevor marks the first note (a B) in Buddy Holly's "Rave On" and "That'll Be The Day" as OCT=4. I think it should be OCT=3. Have corrected. ---NCS
 
 
 ### (Mis)Aligning Lyrics
