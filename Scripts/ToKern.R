@@ -37,11 +37,12 @@ rs$Token %hum>% c(where ~ Spine == 3, do~delta(tonalInterval(Token, memoize=FALS
 rs$Token %hum>% c(where ~ Spine == 3, do ~ sigma(ifelse(DFifth == -6 & seq_along(DFifth) > 1 & (DSemit2 %% 12) == 6, DSemit2 + 12, DSemit2)), by ~ File) -> rs$Semit3
 
 
-rs %hum<% c(by ~ File, ~mean(Semit3)) |> sort() |> plot()
+if (FALSE) {
+    
 
 
-rs[28] %humT% (do ~ {
-    plot(Semit3 ~ Record, col ='blue', type='o',xlim = c(0,150),
+rs[88] %humT% (do ~ {
+    plot(Semit3 ~ Record, col ='blue', type='o',# xlim = c(1400,1800),
                           ylim=c(-48,24), main = OTL[1])
     points(Semit2 ~ Record, col ='red')
     # text(sigma(DFifth)~Record, labels=sigma(DFifth),col='green',pch=16,cex=.5)
@@ -49,7 +50,29 @@ rs[28] %humT% (do ~ {
 
 for (i in c(-12,-5,0,7,12,19)) abline(i,0, lty='dashed')
 
-rs %hum<% c(by ~ File, ~data.frame(File = File[1], Ran = diff(range(Semit3)))) -> ranges
-setorder(ranges,Ran)
 
 
+rs %hum<% c(by ~ File, ~data.frame(Mean=mean(Semit3), Range = diff(range(Semit3)), 
+                                   Min = min(Semit3), Max = max(Semit3), MaxInterval = max(abs(delta(Semit3))),
+                                   MeanInterval = mean(delta(Semit3)), MeanAbsInt = mean(abs(delta(Semit3))),
+                                   File= File[1], OTL=OTL[1],COC=COC[1])) -> ms
+setorder(ms,  Mean, Max, Min)
+
+ms[,plot(Mean,type='l', lwd=2, ylim = c(-30,30))]
+ms[,points(Min,type='l')]
+ms[,points(Max, type='l')]
+
+
+setorder(ms, MaxInterval)
+ms[ , plot(MaxInterval)]
+}
+
+## make kern
+rs$Token %hum>% c(~kern(Token, memoize=FALSE, parse(implicitSpecies=TRUE)), where ~ Spine == 3, by ~ File) -> rs$Kern1
+
+rs %hum>% c(~Kern1 + (octave * ((Semit3-Semit) / 12)) , where ~ Spine == 3, elsedo ~ Token) -> rs$Kern
+
+
+rs$Token %hum>% c(do~Kern, ordo ~ Token, where ~ Spine == 3,recordtypes ~ 'GLIMDd') -> rs$Output
+
+writeHumdrum(rs, affix=)
