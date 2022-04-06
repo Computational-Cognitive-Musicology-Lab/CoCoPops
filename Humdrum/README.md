@@ -20,8 +20,16 @@ de Clercq and Temperley indicate the tonic note and the diatonic scale for each 
 In our humdrum files, we use the standard humdrum a `\*\*deg` interpretation:
 Numerals 1--7 indicate the natural scale degree of each pitch, given the key/mode.
 `b` and `#` symbols indicate alterations relative to the mode.
-By default, each successive scale degree is assumed to be the pitch closest the previous note.
+By default, each successive scale degree is assumed to be the pitch closest the previous note---*tritones are assumed to be upward, regardless of their spelling*!
 One or more `^` and `v` symbols are used to indicate violations of this, with multiple `v` or `^` indicating additional octaves.
+
+---
+
+In March 2022, Nat used the latest version of `humdrumR` and some additional fiddling (to deal with tritones) to translate the `**deg` representation to `**kern`.
+I spent quite a while checking out various songs and I think they are all correct.
+The new kern data is stored in `.krn` files---I'd like to retire (delete) the `.hum` files the `**deg` representation, but haven't done so yet.
+
+-- Nat
 
 
 ## Rhythm
@@ -160,6 +168,11 @@ key/mode between two transcribers, I elected to automatically resolve mode disag
 
 > Nat Condit-Schultz, September 2019
 
+----
+
+#### Other Mistakes:
+
++ Trevor marks the first note (a B) in Buddy Holly's "Rave On" and "That'll Be The Day" as OCT=4. I think it should be OCT=3. Have corrected. ---NCS
 
 
 ### (Mis)Aligning Lyrics
