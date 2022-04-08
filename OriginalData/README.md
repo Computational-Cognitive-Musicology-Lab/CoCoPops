@@ -17,3 +17,6 @@ Later, Tan, Lustig, and Temperley (2019) annotated the lyrics, including syllabl
 This data is encoded in 80 `.str` files in the `OriginalData` directory.
 
 
+----
+
+The `RawHarmonicTranscriptions` directory contains the original, "un-expanded" harmonic transcriptions.
