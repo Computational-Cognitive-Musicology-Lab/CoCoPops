@@ -18,6 +18,4 @@ The current goal(s) for this directory include:
 + Editing the harmonic transcriptions to 
      + fix errors,
      + add detailed harmonic rhythm information.
-+ Making sure the melodic transcriptions match the length of the harmonic transcriptions.
-+ Align the melodic and harmonic datasets.
 
