@@ -38,7 +38,10 @@ We recognize xxx roles:
 + **Riffing** (`*VRriff`)
   + Improvisatory melodic lines, often overdubbed on top of a main lead part.
 
-Each `**kern` spine in a transcription should contain only vocal role interpretation.
+Each `**kern` spine in each contains at least one vocal role interpretation.
+In some cases, vocal roles may change dynamically throughout a piece.
+
+---
 
 In addition, we mark `*Hstimme` `*Nstimme` to indicate the primary and secondary voices at any given time. 
 `*]stimme` can be used to indicate the end of the previous stimme indication---traditionally marked &#119208; in scores.
