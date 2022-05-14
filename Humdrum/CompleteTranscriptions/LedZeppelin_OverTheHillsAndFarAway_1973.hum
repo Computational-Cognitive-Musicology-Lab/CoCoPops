@@ -54,7 +54,7 @@
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse	*>Label>Preverse
 8G	la-	1GM	G:maj (G B D)	newline	50.208	voice	.
-8B	-dy	.	.	.	.	.	.
+8B	-dy	.	.	.	.	.	A
 4r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 16F#	you	.	.	.	.	.	.
@@ -63,19 +63,19 @@
 =21	=21	=21	=21	=21	=21	=21	=21
 16A	love	1DM	D:maj (D F# A)	.	.	voice	.
 8.A	I	.	.	.	.	.	.
-4F#	need	.	.	.	.	.	.
+4F#	need	.	.	.	.	.	A
 2r	.	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22
 4r	.	1GM	G:maj (G B D)	.	.	voice	.
 8G	May-	.	.	.	.	.	.
-8B	-be	.	.	.	.	.	.
+8B	-be	.	.	.	.	.	A
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8B	more	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23
 16B	than	1DM	D:maj (D F# A)	.	.	voice	.
 8B	e-	.	.	.	.	.	.
-16B	-nough	.	.	.	.	.	.
+16B	-nough	.	.	.	.	.	B
 8A	_	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
@@ -98,7 +98,7 @@
 16B	while	1DM	D:maj (D F# A)	.	.	voice	.
 8A	_	.	.	.	.	.	.
 16A	with	.	.	.	.	.	.
-16A	me	.	.	.	.	.	.
+16A	me	.	.	.	.	.	A
 16B	_	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.
@@ -112,7 +112,7 @@
 =27	=27	=27	=27	=27	=27	=27	=27
 8.B	got	2DM	D:maj (D F# A)	.	.	voice	.
 8.A	so	.	.	.	.	.	.
-16A	much	.	.	.	.	.	.
+16A	much	.	.	.	.	.	B
 8.B	_	.	.	.	.	.	.
 .	.	2GM	G:maj (G B D)	.	.	voice	.
 8r	.	.	.	.	.	.	.
@@ -164,8 +164,8 @@
 8a	-ny	.	.	.	.	.	.
 8.a	time	.	.	.	.	.	.
 8f#	been	.	.	.	.	.	.
-16a	bi-	4DM	D:maj (D F# A)	.	.	voice	.
-8.b	-tten	.	.	.	.	.	.
+16a	bi-	4DM	D:maj (D F# A)	.	.	voice	(C
+8.b	-tten	.	.	.	.	.	c)
 8.r	.	4AM	A:maj (A C# E)	.	.	voice	.
 16b	And	.	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36
@@ -183,7 +183,7 @@
 16a	the	.	.	.	.	.	.
 8a	o-	.	.	.	.	.	.
 8b	-pen	.	.	.	.	.	.
-16b	road	2AM	A:maj (A C# E)	.	.	voice	.
+16b	road	2AM	A:maj (A C# E)	.	.	voice	D
 [8.a	_	.	.	.	.	.	.
 4a]	_	.	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38
@@ -215,9 +215,9 @@
 8a	-ny	.	.	.	.	.	.
 8a	times	.	.	.	.	.	.
 8f#	I've	.	.	.	.	.	.
-8a	list-	.	.	.	.	.	.
+8a	list-	.	.	.	.	.	(C
 .	.	4DM	D:maj (D F# A)	.	.	voice	.
-8b	-ened	.	.	.	.	.	.
+8b	-ened	.	.	.	.	.	c)
 16r	.	.	.	.	.	.	.
 4r	.	4AM	A:maj (A C# E)	.	.	voice	.
 =44	=44	=44	=44	=44	=44	=44	=44
@@ -235,7 +235,7 @@
 6a	is	.	.	.	.	.	.
 6b	to	.	.	.	.	.	.
 .	.	2AM	A:maj (A C# E)	.	.	voice	.
-6b	know	.	.	.	.	.	.
+6b	know	.	.	.	.	.	D
 [4a	_	.	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46
 4a]	_	2GM	G:maj (G B D)	newline	114.821	voice	.
@@ -286,7 +286,7 @@
 8a	full	.	.	.	.	.	.
 8b	of	.	.	.	.	.	.
 8r	.	2AM	A:maj (A C# E)	.	.	voice	.
-16b	gold	.	.	.	.	.	.
+16b	gold	.	.	.	.	.	D
 [8.a	_	.	.	.	.	.	.
 8a]	_	.	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54	=54
@@ -378,8 +378,8 @@
 8a	what	.	.	.	.	.	.
 8a	he's	.	.	.	.	.	.
 8f#	been	.	.	.	.	.	.
-16a	mis-	4DM	D:maj (D F# A)	.	.	voice	.
-8.b	-sing	.	.	.	.	.	.
+16a	mis-	4DM	D:maj (D F# A)	.	.	voice	(C
+8.b	-sing	.	.	.	.	.	c)
 4r	.	4AM	A:maj (A C# E)	.	.	voice	.
 =82	=82	=82	=82	=82	=82	=82	=82
 16dd	Ma-	2GM	G:maj (G B D)	newline	.	voice	.
@@ -397,7 +397,7 @@
 16a	the	.	.	.	.	.	.
 8a	o-	.	.	.	.	.	.
 8.b	-pen	.	.	.	.	.	.
-16b	road	2AM	D:maj (A D F#)	.	.	voice	.
+16b	road	2AM	D:maj (A D F#)	.	.	voice	D
 8.a	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =84	=84	=84	=84	=84	=84	=84	=84
@@ -447,7 +447,7 @@
 8a	-lly	.	.	.	.	.	.
 8a	ought-	.	.	.	.	.	.
 8b	-ta	.	.	.	.	.	.
-8b	know	.	.	.	.	.	.
+8b	know	.	.	.	.	.	D
 4.a	_	.	.	.	.	.	.
 =92	=92	=92	=92	=92	=92	=92	=92
 8b	oh	1DM	D:maj (D F# A)	newline	.	voice	.

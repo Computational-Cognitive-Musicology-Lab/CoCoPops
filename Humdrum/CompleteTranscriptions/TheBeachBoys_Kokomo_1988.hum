@@ -14,11 +14,11 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	4BB	A-	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 1r	.	8C	-ru-	1N	N	newline	4.617	voice	.
-.	.	8C	-ba,	.	.	.	.	.	.
+.	.	8C	-ba,	.	.	.	.	.	a
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Ja-	.	.	.	.	.	.
-.	.	8C	-mai-	.	.	.	.	.	.
-.	.	8C	-ca,	.	.	.	.	.	.
+.	.	8C	-mai-	.	.	.	.	.	(A
+.	.	8C	-ca,	.	.	.	.	.	a)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8C	ooh	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
@@ -26,17 +26,17 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8C	I	.	.	.	.	.	.
 .	.	8C	want	.	.	.	.	.	.
 .	.	8BB	to	.	.	.	.	.	.
-.	.	8C	take	.	.	.	.	.	.
-.	.	8C	ya	.	.	.	.	.	.
+.	.	8C	take	.	.	.	.	.	(A
+.	.	8C	ya	.	.	.	.	.	a)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8E	Ber-	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 1r	.	8F	-mu-	1N	N	newline	8.762	voice	.
-.	.	8F	-da,	.	.	.	.	.	.
+.	.	8F	-da,	.	.	.	.	.	a
 .	.	8r	.	.	.	.	.	.	.
 .	.	8E	Ba-	.	.	.	.	.	.
-.	.	8F	-ha-	.	.	.	.	.	.
-.	.	8F	-ma,	.	.	.	.	.	.
+.	.	8F	-ha-	.	.	.	.	.	(B
+.	.	8F	-ma,	.	.	.	.	.	b)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8F	come	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
@@ -44,17 +44,17 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8F	on	.	.	.	.	.	.
 .	.	8F	pret-	.	.	.	.	.	.
 .	.	8E	-ty	.	.	.	.	.	.
-.	.	8F	ma-	.	.	.	.	.	.
-.	.	8F	-ma	.	.	.	.	.	.
+.	.	8F	ma-	.	.	.	.	.	(B
+.	.	8F	-ma	.	.	.	.	.	b)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Key	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 1r	.	8C	Lar-	1N	N	newline	12.882	voice	.
-.	.	8C	-go,	.	.	.	.	.	.
+.	.	8C	-go,	.	.	.	.	.	c
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Mon-	.	.	.	.	.	.
-.	.	8C	-te-	.	.	.	.	.	.
-.	.	8C	-go,	.	.	.	.	.	.
+.	.	8C	-te-	.	.	.	.	.	(C
+.	.	8C	-go,	.	.	.	.	.	c)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8C	ba-	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
@@ -62,8 +62,8 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8C	-by	.	.	.	.	.	.
 .	.	8C	why	.	.	.	.	.	.
 .	.	8BB	don't	.	.	.	.	.	.
-.	.	8C	we	.	.	.	.	.	.
-.	.	8C	go,	.	.	.	.	.	.
+.	.	8C	we	.	.	.	.	.	(C
+.	.	8C	go,	.	.	.	.	.	c)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8E	Ja-	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
@@ -91,9 +91,9 @@ r;	.	r;	.	1r;	r	.	0	r	.
 4G	place	.	.	.	.	.	.	.	.
 4A	called	.	.	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-8G	Kok-	1r	.	1FM	F:maj (F A C)	.	.	voice	.
-4F	-o-	.	.	.	.	.	.	.	.
-[8C	-mo	.	.	.	.	.	.	.	.
+8G	Kok-	1r	.	1FM	F:maj (F A C)	.	.	voice	(D
+4F	-o-	.	.	.	.	.	.	.	d
+[8C	-mo	.	.	.	.	.	.	.	D)
 2C]	_	.	.	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 4r	.	1r	.	1Fm	F:min (F A- C)	newline	27.426	voice	.
@@ -103,7 +103,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 8F	want	1r	.	1CM	C:maj (C E G)	.	.	voice	.
 4E	to	.	.	.	.	.	.	.	.
-8E	go	.	.	.	.	.	.	.	.
+8E	go	.	.	.	.	.	.	.	D
 8r	.	.	.	.	.	.	.	.	.
 8E	to	.	.	.	.	.	.	.	.
 8F	get	.	.	.	.	.	.	.	.
@@ -123,7 +123,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8G	-dies	.	.	.	.	.	.	.	.
 8A	in	.	.	.	.	.	.	.	.
 4B	the	.	.	.	.	.	.	.	.
-[8G	sand,	.	.	.	.	.	.	.	.
+[8G	sand,	.	.	.	.	.	.	.	E
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19
 2.G]	_	1r	.	1CMM	C:maj7 (C E G B)	.	.	voice	.
 4r	.	.	.	.	.	.	.	.	.
@@ -138,7 +138,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 8G	in	1r	.	1FM	F:maj (F A C)	.	.	voice	.
 4F	your	.	.	.	.	.	.	.	.
-[8C	hand	.	.	.	.	.	.	.	.
+[8C	hand	.	.	.	.	.	.	.	E
 4C]	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
@@ -161,26 +161,26 @@ r;	.	r;	.	1r;	r	.	0	r	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 8A	steel	1r	.	1DMm	D:7 (D F# A C)	.	.	voice	.
 4D	drum	.	.	.	.	.	.	.	.
-[8D	band	.	.	.	.	.	.	.	.
+[8D	band	.	.	.	.	.	.	.	E
 4D]	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 4r	.	2r	.	1GMm	G:7 (G B D F)	.	.	voice	.
 8F	Down	.	.	.	.	.	.	.	.
 8E	in	.	.	.	.	.	.	.	.
-8F	Ko	4r	.	.	.	.	.	.	.
+8F	Ko	4r	.	.	.	.	.	.	(D
 8E	_	.	.	.	.	.	.	.	.
-8C	ko-	8r	.	.	.	.	.	.	.
-[8C	-mo	8BB	A-	.	.	.	.	.	.
+8C	ko-	8r	.	.	.	.	.	.	d
+[8C	-mo	8BB	A-	.	.	.	.	.	D)
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 2C]	_	8C	-ru-	1CM	C:maj (C E G)	newline	52.273	voice	.
-.	.	8C	-ba,	.	.	.	.	.	.
+.	.	8C	-ba,	.	.	.	.	.	a
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Ja-	.	.	.	.	.	.
-2r	.	8C	-mai-	.	.	.	.	.	.
-.	.	8C	-ca,	.	.	.	.	.	.
+2r	.	8C	-mai-	.	.	.	.	.	(A
+.	.	8C	-ca,	.	.	.	.	.	a)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8C	ooh	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
@@ -188,17 +188,17 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8C	I	.	.	.	.	.	.
 .	.	8C	want	.	.	.	.	.	.
 .	.	8BB	to	.	.	.	.	.	.
-.	.	8C	take	.	.	.	.	.	.
-.	.	8C	ya	.	.	.	.	.	.
+.	.	8C	take	.	.	.	.	.	(A
+.	.	8C	ya	.	.	.	.	.	a)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8E	Ber-	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 1r	.	8F	-mu-	1FM	F:maj (F A C)	.	.	voice	.
-.	.	8F	-da,	.	.	.	.	.	.
+.	.	8F	-da,	.	.	.	.	.	a
 .	.	8r	.	.	.	.	.	.	.
 .	.	8E	Ba-	.	.	.	.	.	.
-.	.	8F	-ha-	.	.	.	.	.	.
-.	.	8F	-ma,	.	.	.	.	.	.
+.	.	8F	-ha-	.	.	.	.	.	(B
+.	.	8F	-ma,	.	.	.	.	.	b)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8F	come	.	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29
@@ -206,17 +206,17 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8F	on	.	.	.	.	.	.
 .	.	8F	pret-	.	.	.	.	.	.
 .	.	8E	-ty	.	.	.	.	.	.
-.	.	8F	ma-	.	.	.	.	.	.
-.	.	8F	-ma	.	.	.	.	.	.
+.	.	8F	ma-	.	.	.	.	.	(B
+.	.	8F	-ma	.	.	.	.	.	b)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Key	.	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30
 2r	.	8C	Lar-	1CM	C:maj (C E G)	newline	60.57	voice	.
-.	.	8C	-go,	.	.	.	.	.	.
+.	.	8C	-go,	.	.	.	.	.	c
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Mon-	.	.	.	.	.	.
-4r	.	8C	-te-	.	.	.	.	.	.
-.	.	8C	-go,	.	.	.	.	.	.
+4r	.	8C	-te-	.	.	.	.	.	(C
+.	.	8C	-go,	.	.	.	.	.	c)
 [4g	Ooh	8r	.	.	.	.	.	.	.
 .	.	8C	ba-	.	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31
@@ -224,14 +224,14 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8g	I	8C	-by	.	.	.	.	.	.
 8f#	want	8C	why	.	.	.	.	.	.
 8g	to	8BB	don't	.	.	.	.	.	.
-8f#	take	8C	we	.	.	.	.	.	.
-8g	you	8C	go,	.	.	.	.	.	.
+8f#	take	8C	we	.	.	.	.	.	(C
+8g	you	8C	go,	.	.	.	.	.	c)
 8f#	down	4r	.	.	.	.	.	.	.
 8g	to	.	.	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32
-8f	Ko-	1r	.	1FM	F:maj (F A C)	.	.	voice	.
-8e	-ko	.	.	.	.	.	.	.	.
-8c	_	.	.	.	.	.	.	.	.
+8f	Ko-	1r	.	1FM	F:maj (F A C)	.	.	voice	(C
+8e	-ko	.	.	.	.	.	.	.	c
+8c	_	.	.	.	.	.	.	.	C)
 [8c	mo	.	.	.	.	.	.	.	.
 8c]	_	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
@@ -248,7 +248,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 8d	take	1r	.	1CM	C:maj (C E G)	newline	68.853	voice	.
 4e	it	.	.	.	.	.	.	.	.
-[8e	slow	.	.	.	.	.	.	.	.
+[8e	slow	.	.	.	.	.	.	.	C
 4e]	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35
@@ -261,7 +261,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8d	want	1r	.	1Dm	D:min (D F A)	.	.	voice	.
 8c	_	.	.	.	.	.	.	.	.
 8c	to	.	.	.	.	.	.	.	.
-8c	go	.	.	.	.	.	.	.	.
+8c	go	.	.	.	.	.	.	.	C
 8G	_	.	.	.	.	.	.	.	.
 8A	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
@@ -270,17 +270,17 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8f	way	.	.	.	.	.	.	.	.
 8f	down	.	.	.	.	.	.	.	.
 8e	in	.	.	.	.	.	.	.	.
-8c	Ko-	4r	.	.	.	.	.	.	.
-8G	-ko	.	.	.	.	.	.	.	.
+8c	Ko-	4r	.	.	.	.	.	.	(C
+8G	-ko	.	.	.	.	.	.	.	c
 8A	_	8r	.	.	.	.	.	.	.
-[8c	mo	8BB	The	.	.	.	.	.	.
+[8c	mo	8BB	The	.	.	.	.	.	C)
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
 2c]	_	4C	Mar-	1CM	C:maj (C E G)	newline	77.171	voice	.
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	-ti-	.	.	.	.	.	.
-2r	.	4C	-nique,	.	.	.	.	.	.
+2r	.	4C	-nique,	.	.	.	.	.	F
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	that	.	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39
@@ -288,7 +288,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8BB	-ser-	.	.	.	.	.	.
 .	.	8C	-rat	.	.	.	.	.	.
 .	.	8BB	my-	.	.	.	.	.	.
-.	.	4C	-stique	.	.	.	.	.	.
+.	.	4C	-stique	.	.	.	.	.	F
 .	.	4r	.	.	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
@@ -298,7 +298,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8G	put	.	.	.	.	.	.	.	.
 8A	out	.	.	.	.	.	.	.	.
 4B	to	.	.	.	.	.	.	.	.
-[8G	sea	.	.	.	.	.	.	.	.
+[8G	sea	.	.	.	.	.	.	.	F
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41
 2.G]	_	1r	.	1CMM	C:maj7 (C E G B)	.	.	voice	.
 8F	_	.	.	.	.	.	.	.	.
@@ -313,7 +313,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 =43	=43	=43	=43	=43	=43	=43	=43	=43	=43
 8G	che-	1r	.	1FM	F:maj (F A C)	.	.	voice	.
 4F	-mis-	.	.	.	.	.	.	.	.
-[8C	-try	.	.	.	.	.	.	.	.
+[8C	-try	.	.	.	.	.	.	.	F
 2C]	_	.	.	.	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44
 4r	.	1r	.	1Fm	F:min (F A- C)	newline	89.637	voice	.
@@ -334,7 +334,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46
 8A	gra-	1r	.	1DMm	D:7 (D F# A C)	.	.	voice	.
 8D	-vi-	.	.	.	.	.	.	.	.
-[4D	-ty	.	.	.	.	.	.	.	.
+[4D	-ty	.	.	.	.	.	.	.	F
 4D]	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47
@@ -345,7 +345,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8G	-ter-	.	.	.	.	.	.	.	.
 8A	-noon	.	.	.	.	.	.	.	.
 4B	de-	.	.	.	.	.	.	.	.
-[8G	light	.	.	.	.	.	.	.	.
+[8G	light	.	.	.	.	.	.	.	G
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49
 2.G]	_	1r	.	1CMM	C:maj7 (C E G B)	.	.	voice	.
 4r	.	.	.	.	.	.	.	.	.
@@ -357,7 +357,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51
 8G	moon-	1r	.	1FM	F:maj (F A C)	.	.	voice	.
 4F	-lit	.	.	.	.	.	.	.	.
-[8C	nights	.	.	.	.	.	.	.	.
+[8C	nights	.	.	.	.	.	.	.	G
 4C]	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 =52	=52	=52	=52	=52	=52	=52	=52	=52	=52
@@ -368,7 +368,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8F	look	.	.	.	.	.	.	.	.
 8G	in	.	.	.	.	.	.	.	.
 8F	your	.	.	.	.	.	.	.	.
-8E	eye	.	.	.	.	.	.	.	.
+8E	eye	.	.	.	.	.	.	.	G
 =53	=53	=53	=53	=53	=53	=53	=53	=53	=53
 8r	.	1r	.	1CM	C:maj (C E G)	.	.	voice	.
 8E	give	.	.	.	.	.	.	.	.
@@ -380,25 +380,25 @@ r;	.	r;	.	1r;	r	.	0	r	.
 =54	=54	=54	=54	=54	=54	=54	=54	=54	=54
 4A	con-	1r	.	1DMm	D:7 (D F# A C)	.	.	voice	.
 4D	-tact	.	.	.	.	.	.	.	.
-2D	high	.	.	.	.	.	.	.	.
+2D	high	.	.	.	.	.	.	.	G
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55
 8r	.	2r	.	1GMm	G:7 (G B D F)	.	.	voice	.
 8F	Way	.	.	.	.	.	.	.	.
 8F	down	.	.	.	.	.	.	.	.
 8E	in	.	.	.	.	.	.	.	.
-8F	Ko	4r	.	.	.	.	.	.	.
+8F	Ko	4r	.	.	.	.	.	.	(C
 8E	_	.	.	.	.	.	.	.	.
-8C	ko-	8r	.	.	.	.	.	.	.
-[8C	-mo	8BB	A-	.	.	.	.	.	.
+8C	ko-	8r	.	.	.	.	.	.	c
+[8C	-mo	8BB	A-	.	.	.	.	.	C)
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 2C]	_	8C	-ru-	1CM	C:maj (C E G)	newline	114.457	voice	.
-.	.	8C	-ba,	.	.	.	.	.	.
+.	.	8C	-ba,	.	.	.	.	.	a
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Ja-	.	.	.	.	.	.
-2r	.	8C	-mai-	.	.	.	.	.	.
-.	.	8C	-ca,	.	.	.	.	.	.
+2r	.	8C	-mai-	.	.	.	.	.	(A
+.	.	8C	-ca,	.	.	.	.	.	a)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8C	ooh	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57
@@ -406,8 +406,8 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8C	I	.	.	.	.	.	.
 .	.	8C	want	.	.	.	.	.	.
 .	.	8BB	to	.	.	.	.	.	.
-.	.	8C	take	.	.	.	.	.	.
-.	.	8C	ya	.	.	.	.	.	.
+.	.	8C	take	.	.	.	.	.	(A
+.	.	8C	ya	.	.	.	.	.	a)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8E	Ber-	.	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58
@@ -415,8 +415,8 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8F	-da,	.	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.	.
 .	.	8E	Ba-	.	.	.	.	.	.
-.	.	8F	-ha-	.	.	.	.	.	.
-.	.	8F	-ma,	.	.	.	.	.	.
+.	.	8F	-ha-	.	.	.	.	.	(B
+.	.	8F	-ma,	.	.	.	.	.	b)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8F	come	.	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59	=59
@@ -424,17 +424,17 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8F	on	.	.	.	.	.	.
 .	.	8F	pret-	.	.	.	.	.	.
 .	.	8E	-ty	.	.	.	.	.	.
-.	.	8F	ma-	.	.	.	.	.	.
-.	.	8F	-ma	.	.	.	.	.	.
+.	.	8F	ma-	.	.	.	.	.	(B
+.	.	8F	-ma	.	.	.	.	.	b)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Key	.	.	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60	=60	=60	=60
 2r	.	8C	Lar-	1CM	C:maj (C E G)	newline	122.733	voice	.
-.	.	8C	-go,	.	.	.	.	.	.
+.	.	8C	-go,	.	.	.	.	.	c
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Mon-	.	.	.	.	.	.
-4r	.	8C	-te-	.	.	.	.	.	.
-.	.	8C	-go,	.	.	.	.	.	.
+4r	.	8C	-te-	.	.	.	.	.	(C
+.	.	8C	-go,	.	.	.	.	.	c)
 [4g	Ooh	8r	.	.	.	.	.	.	.
 .	.	8C	ba-	.	.	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61	=61
@@ -447,9 +447,9 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8f#	down	4r	.	.	.	.	.	.	.
 8g	to	.	.	.	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62	=62	=62
-8f	Ko-	1r	.	1FM	F:maj (F A C)	.	.	voice	.
-8e	-ko-	.	.	.	.	.	.	.	.
-8c	-mo	.	.	.	.	.	.	.	.
+8f	Ko-	1r	.	1FM	F:maj (F A C)	.	.	voice	(C
+8e	-ko-	.	.	.	.	.	.	.	c
+8c	-mo	.	.	.	.	.	.	.	C)
 [8c	_	.	.	.	.	.	.	.	.
 8c]	_	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
@@ -466,7 +466,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 =64	=64	=64	=64	=64	=64	=64	=64	=64	=64
 8d	take	1r	.	1CM	C:maj (C E G)	newline	131.068	voice	.
 4e	it	.	.	.	.	.	.	.	.
-[8e	slow	.	.	.	.	.	.	.	.
+[8e	slow	.	.	.	.	.	.	.	C
 4e]	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65	=65
@@ -479,7 +479,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8d	want	1r	.	1Dm	D:min (D F A)	.	.	voice	.
 8c	_	.	.	.	.	.	.	.	.
 8c	to	.	.	.	.	.	.	.	.
-8c	go,	.	.	.	.	.	.	.	.
+8c	go,	.	.	.	.	.	.	.	C
 8G	_	.	.	.	.	.	.	.	.
 8A	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
@@ -488,9 +488,9 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8f	way	.	.	.	.	.	.	.	.
 8f	down	.	.	.	.	.	.	.	.
 8e	in	.	.	.	.	.	.	.	.
-8c	Ko-	.	.	.	.	.	.	.	.
-8G	-ko-	.	.	.	.	.	.	.	.
-8A	-mo	.	.	.	.	.	.	.	.
+8c	Ko-	.	.	.	.	.	.	.	(C
+8G	-ko-	.	.	.	.	.	.	.	c
+8A	-mo	.	.	.	.	.	.	.	C)
 [8c	_	.	.	.	.	.	.	.	.
 =68	=68	=68	=68	=68	=68	=68	=68	=68	=68
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
@@ -498,7 +498,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 2c]	_	4C	Port	1CM	C:maj (C E G)	newline	139.411	voice	.
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	au	.	.	.	.	.	.
-2r	.	4C	Prince,	.	.	.	.	.	.
+2r	.	4C	Prince,	.	.	.	.	.	H
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	I	.	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69	=69	=69	=69
@@ -506,7 +506,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8BB	to	.	.	.	.	.	.
 .	.	8C	catch	.	.	.	.	.	.
 .	.	8BB	a	.	.	.	.	.	.
-.	.	4C	glimpse	.	.	.	.	.	.
+.	.	4C	glimpse	.	.	.	.	.	H
 .	.	4r	.	.	.	.	.	.	.
 =70	=70	=70	=70	=70	=70	=70	=70	=70	=70
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
@@ -534,7 +534,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8G	-ry	.	.	.	.	.	.	.	.
 8A	bo-	.	.	.	.	.	.	.	.
 4B	-dy	.	.	.	.	.	.	.	.
-[8G	knows	.	.	.	.	.	.	.	.
+[8G	knows	.	.	.	.	.	.	.	C
 =79	=79	=79	=79	=79	=79	=79	=79	=79	=79
 2G_	_	1r	.	1CMM	C:maj7 (C E G B)	.	.	voice	.
 8G]	_	.	.	.	.	.	.	.	.
@@ -548,9 +548,9 @@ r;	.	r;	.	1r;	r	.	0	r	.
 4G	place	.	.	.	.	.	.	.	.
 4A	like	.	.	.	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81	=81	=81	=81
-8G	Ko-	1r	.	1FM	F:maj (F A C)	.	.	voice	.
-4F	-ko-	.	.	.	.	.	.	.	.
-[8C	-mo	.	.	.	.	.	.	.	.
+8G	Ko-	1r	.	1FM	F:maj (F A C)	.	.	voice	(C
+4F	-ko-	.	.	.	.	.	.	.	c
+[8C	-mo	.	.	.	.	.	.	.	C)
 2C]	_	.	.	.	.	.	.	.	.
 =82	=82	=82	=82	=82	=82	=82	=82	=82	=82
 4r	.	1r	.	1Fm	F:min (F A- C)	newline	168.378	voice	.
@@ -560,7 +560,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 =83	=83	=83	=83	=83	=83	=83	=83	=83	=83
 8F	want	1r	.	1CM	C:maj (C E G)	.	.	voice	.
 4E	to	.	.	.	.	.	.	.	.
-8E	go	.	.	.	.	.	.	.	.
+8E	go	.	.	.	.	.	.	.	C
 8r	.	.	.	.	.	.	.	.	.
 8E	and	.	.	.	.	.	.	.	.
 8F	get	.	.	.	.	.	.	.	.
@@ -577,19 +577,19 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8F	Go	.	.	.	.	.	.	.	.
 8F	down	.	.	.	.	.	.	.	.
 8E	to	.	.	.	.	.	.	.	.
-8F	Ko	4r	.	.	.	.	.	.	.
+8F	Ko	4r	.	.	.	.	.	.	(C
 8E	_	.	.	.	.	.	.	.	.
-8C	ko-	8r	.	.	.	.	.	.	.
-[8C	-mo	8BB	A-	.	.	.	.	.	.
+8C	ko-	8r	.	.	.	.	.	.	c
+[8C	-mo	8BB	A-	.	.	.	.	.	C)
 =86	=86	=86	=86	=86	=86	=86	=86	=86	=86
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 2C]	_	8C	-ru-	1CM	C:maj (C E G)	newline	176.618	voice	.
-.	.	8C	-ba,	.	.	.	.	.	.
+.	.	8C	-ba,	.	.	.	.	.	a
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Ja-	.	.	.	.	.	.
-2r	.	8C	-mai-	.	.	.	.	.	.
-.	.	8C	-ca,	.	.	.	.	.	.
+2r	.	8C	-mai-	.	.	.	.	.	(A
+.	.	8C	-ca,	.	.	.	.	.	a)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8C	ooh	.	.	.	.	.	.
 =87	=87	=87	=87	=87	=87	=87	=87	=87	=87
@@ -597,8 +597,8 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8C	I	.	.	.	.	.	.
 .	.	8C	want	.	.	.	.	.	.
 .	.	8BB	to	.	.	.	.	.	.
-.	.	8C	take	.	.	.	.	.	.
-.	.	8C	ya	.	.	.	.	.	.
+.	.	8C	take	.	.	.	.	.	(A
+.	.	8C	ya	.	.	.	.	.	a)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8E	Ber-	.	.	.	.	.	.
 =88	=88	=88	=88	=88	=88	=88	=88	=88	=88
@@ -606,8 +606,8 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8F	-da,	.	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.	.
 .	.	8E	Ba-	.	.	.	.	.	.
-.	.	8F	-ha-	.	.	.	.	.	.
-.	.	8F	-ma,	.	.	.	.	.	.
+.	.	8F	-ha-	.	.	.	.	.	(B
+.	.	8F	-ma,	.	.	.	.	.	b)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8F	come	.	.	.	.	.	.
 =89	=89	=89	=89	=89	=89	=89	=89	=89	=89
@@ -615,17 +615,17 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8F	on	.	.	.	.	.	.
 .	.	8F	pret-	.	.	.	.	.	.
 .	.	8E	-ty	.	.	.	.	.	.
-.	.	8F	ma-	.	.	.	.	.	.
-.	.	8F	-ma	.	.	.	.	.	.
+.	.	8F	ma-	.	.	.	.	.	(B
+.	.	8F	-ma	.	.	.	.	.	b)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Key	.	.	.	.	.	.
 =90	=90	=90	=90	=90	=90	=90	=90	=90	=90
 2r	.	8C	Lar-	1CM	C:maj (C E G)	newline	184.965	voice	.
-.	.	8C	-go,	.	.	.	.	.	.
+.	.	8C	-go,	.	.	.	.	.	c
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Mon-	.	.	.	.	.	.
-4r	.	8C	-te-	.	.	.	.	.	.
-.	.	8C	-go,	.	.	.	.	.	.
+4r	.	8C	-te-	.	.	.	.	.	(C
+.	.	8C	-go,	.	.	.	.	.	c)
 [4g	Ooh	8r	.	.	.	.	.	.	.
 .	.	8C	ba-	.	.	.	.	.	.
 =91	=91	=91	=91	=91	=91	=91	=91	=91	=91
@@ -633,15 +633,15 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8g	I	8C	-by	.	.	.	.	.	.
 8f#	want	8C	why	.	.	.	.	.	.
 8g	to	8BB	don't	.	.	.	.	.	.
-8f#	take	8C	we	.	.	.	.	.	.
-8g	you	8C	go,	.	.	.	.	.	.
+8f#	take	8C	we	.	.	.	.	.	(C
+8g	you	8C	go,	.	.	.	.	.	c)
 8f#	down	4r	.	.	.	.	.	.	.
 8g	to	.	.	.	.	.	.	.	.
 =92	=92	=92	=92	=92	=92	=92	=92	=92	=92
-8f	Ko-	1r	.	1FM	F:maj (F A C)	.	.	voice	.
-8e	-ko	.	.	.	.	.	.	.	.
+8f	Ko-	1r	.	1FM	F:maj (F A C)	.	.	voice	(C
+8e	-ko	.	.	.	.	.	.	.	c
 8c	_	.	.	.	.	.	.	.	.
-[8c	mo	.	.	.	.	.	.	.	.
+[8c	mo	.	.	.	.	.	.	.	C)
 8c]	_	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
@@ -657,7 +657,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 =94	=94	=94	=94	=94	=94	=94	=94	=94	=94
 8d	take	1r	.	1CM	C:maj (C E G)	newline	193.249	voice	.
 4e	it	.	.	.	.	.	.	.	.
-[8e	slow	.	.	.	.	.	.	.	.
+[8e	slow	.	.	.	.	.	.	.	C
 4e]	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 =95	=95	=95	=95	=95	=95	=95	=95	=95	=95
@@ -670,7 +670,7 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8d	want	1r	.	1Dm	D:min (D F A)	.	.	voice	.
 8c	_	.	.	.	.	.	.	.	.
 8c	to	.	.	.	.	.	.	.	.
-8c	go,	.	.	.	.	.	.	.	.
+8c	go,	.	.	.	.	.	.	.	C
 8G	_	.	.	.	.	.	.	.	.
 8A	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
@@ -679,19 +679,19 @@ r;	.	r;	.	1r;	r	.	0	r	.
 8f	way	.	.	.	.	.	.	.	.
 8f	down	.	.	.	.	.	.	.	.
 8e	in	.	.	.	.	.	.	.	.
-8c	Ko-	4r	.	.	.	.	.	.	.
-8G	-ko-	.	.	.	.	.	.	.	.
-8A	-mo	8r	.	.	.	.	.	.	.
+8c	Ko-	4r	.	.	.	.	.	.	(C
+8G	-ko-	.	.	.	.	.	.	.	c
+8A	-mo	8r	.	.	.	.	.	.	C)
 [8c	_	8BB	A-	.	.	.	.	.	.
 =98	=98	=98	=98	=98	=98	=98	=98	=98	=98
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 2c]	_	8C	-ru-	1CM	C:maj (C E G)	newline	201.53	voice	.
-.	.	8C	-ba,	.	.	.	.	.	.
+.	.	8C	-ba,	.	.	.	.	.	a
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Ja-	.	.	.	.	.	.
-2r	.	8C	-mai-	.	.	.	.	.	.
-.	.	8C	-ca,	.	.	.	.	.	.
+2r	.	8C	-mai-	.	.	.	.	.	(A
+.	.	8C	-ca,	.	.	.	.	.	a)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8C	ooh	.	.	.	.	.	.
 =99	=99	=99	=99	=99	=99	=99	=99	=99	=99
@@ -699,17 +699,17 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8C	I	.	.	.	.	.	.
 .	.	8C	want	.	.	.	.	.	.
 .	.	8BB	to	.	.	.	.	.	.
-.	.	8C	take	.	.	.	.	.	.
-.	.	8C	ya	.	.	.	.	.	.
+.	.	8C	take	.	.	.	.	.	(A
+.	.	8C	ya	.	.	.	.	.	a)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8E	Ber-	.	.	.	.	.	.
 =100	=100	=100	=100	=100	=100	=100	=100	=100	=100
 1r	.	8F	-mu-	1FM	F:maj (F A C)	.	.	voice	.
-.	.	8F	-da,	.	.	.	.	.	.
+.	.	8F	-da,	.	.	.	.	.	a
 .	.	8r	.	.	.	.	.	.	.
 .	.	8E	Ba-	.	.	.	.	.	.
-.	.	8F	-ha-	.	.	.	.	.	.
-.	.	8F	-ma,	.	.	.	.	.	.
+.	.	8F	-ha-	.	.	.	.	.	(B
+.	.	8F	-ma,	.	.	.	.	.	b)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8F	come	.	.	.	.	.	.
 =101	=101	=101	=101	=101	=101	=101	=101	=101	=101
@@ -717,17 +717,17 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8F	on	.	.	.	.	.	.
 .	.	8F	pret-	.	.	.	.	.	.
 .	.	8E	-ty	.	.	.	.	.	.
-.	.	8F	ma-	.	.	.	.	.	.
-.	.	8F	-ma	.	.	.	.	.	.
+.	.	8F	ma-	.	.	.	.	.	(B
+.	.	8F	-ma	.	.	.	.	.	b)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Key	.	.	.	.	.	.
 =102	=102	=102	=102	=102	=102	=102	=102	=102	=102
 1r	.	8C	Lar-	1CM	C:maj (C E G)	newline	205.764	voice	.
-.	.	8C	-go,	.	.	.	.	.	.
+.	.	8C	-go,	.	.	.	.	.	c
 .	.	8r	.	.	.	.	.	.	.
 .	.	8BB	Mon-	.	.	.	.	.	.
-.	.	8C	-te-	.	.	.	.	.	.
-.	.	8C	-go,	.	.	.	.	.	.
+.	.	8C	-te-	.	.	.	.	.	(C
+.	.	8C	-go,	.	.	.	.	.	c)
 .	.	8r	.	.	.	.	.	.	.
 .	.	8C	ba-	.	.	.	.	.	.
 =103	=103	=103	=103	=103	=103	=103	=103	=103	=103
@@ -735,8 +735,8 @@ r;	.	r;	.	1r;	r	.	0	r	.
 .	.	8C	-by	.	.	.	.	.	.
 .	.	8C	why	.	.	.	.	.	.
 .	.	8BB	don't	.	.	.	.	.	.
-.	.	8C	we	.	.	.	.	.	.
-.	.	8C	go,	.	.	.	.	.	.
+.	.	8C	we	.	.	.	.	.	(C
+.	.	8C	go,	.	.	.	.	.	c)
 .	.	4r	.	.	.	.	.	.	.
 =104	=104	=104	=104	=104	=104	=104	=104	=104	=104
 1r	.	1r	.	1FM	F:maj (F A C)	.	.	voice	.

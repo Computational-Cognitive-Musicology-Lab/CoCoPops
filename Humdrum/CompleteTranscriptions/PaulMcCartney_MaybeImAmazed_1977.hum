@@ -27,8 +27,8 @@ r;	.	1r;	r	.	0	r	.
 16f	May-	.	.	.	.	.	.
 16f	-be	.	.	.	.	.	.
 16f	I'm	.	.	.	.	.	.
-16d	a-	.	.	.	.	.	.
-8f	-mazed	2FM	F:maj (A F C)	.	.	voice	.
+16d	a-	.	.	.	.	.	(a
+8f	-mazed	2FM	F:maj (A F C)	.	.	voice	A)
 16f	at	.	.	.	.	.	.
 16f	the	.	.	.	.	.	.
 8g	way	.	.	.	.	.	.
@@ -47,8 +47,8 @@ r;	.	1r;	r	.	0	r	.
 16f	May-	.	.	.	.	.	.
 16f	-be	.	.	.	.	.	.
 16f	I'm	.	.	.	.	.	.
-16d	a-	.	.	.	.	.	.
-8f	-fraid	2FM	F:maj (A F C)	.	.	voice	.
+16d	a-	.	.	.	.	.	(a
+8f	-fraid	2FM	F:maj (A F C)	.	.	voice	A)
 16f	of	.	.	.	.	.	.
 16f	the	.	.	.	.	.	.
 16e-	way	.	.	.	.	.	.
@@ -63,8 +63,8 @@ r;	.	1r;	r	.	0	r	.
 4r	.	2B-M	B-:maj (B- D F)	newline	28.352	voice	.
 16f	Maybe	.	.	.	.	.	.
 16f	I'm	.	.	.	.	.	.
-16f	a-	.	.	.	.	.	.
-16d	-ma-	.	.	.	.	.	.
+16f	a-	.	.	.	.	.	(a
+16d	-ma-	.	.	.	.	.	A)
 8.f	-zed	2FM	F:maj (A F C)	.	.	voice	.
 16d	the	.	.	.	.	.	.
 8f	way	.	.	.	.	.	.
@@ -75,7 +75,7 @@ r;	.	1r;	r	.	0	r	.
 [16g	out	.	.	.	.	.	.
 16g]	_	.	.	.	.	.	.
 16e	of	.	.	.	.	.	.
-[8g	time	.	.	.	.	.	.
+[8g	time	.	.	.	.	.	B
 4g]	_	2GM	G:maj (G B D)	.	.	voice	.
 8r	.	.	.	.	.	.	.
 8d	And	.	.	.	.	.	.
@@ -85,15 +85,15 @@ r;	.	1r;	r	.	0	r	.
 [16g	on	.	.	.	.	.	.
 16g]	_	.	.	.	.	.	.
 16e	a	.	.	.	.	.	.
-[8g	line	.	.	.	.	.	.
+[8g	line	.	.	.	.	.	B
 4g]	_	2FM	F:maj (A F C)	.	.	voice	.
 4r	.	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13
 16f	May-	2A-M	A-:maj (A- C E-)	.	.	voice	.
 16f	-be	.	.	.	.	.	.
 16f	I'm	.	.	.	.	.	.
-16d	a-	.	.	.	.	.	.
-8f	-mazed	.	.	.	.	.	.
+16d	a-	.	.	.	.	.	(a
+8f	-mazed	.	.	.	.	.	A)
 16f	at	.	.	.	.	.	.
 16f	the	.	.	.	.	.	.
 16e-	way	2E-M	E-:maj (G E- B-)	.	.	voice	.
@@ -115,16 +115,16 @@ r;	.	1r;	r	.	0	r	.
 16a	May-	.	.	.	.	.	.
 16a	-be	.	.	.	.	.	.
 16a	I'm	.	.	.	.	.	.
-16f#	a	.	.	.	.	.	.
-4a	man	2DMM	D:maj9 (D F# C# E)	.	.	voice	.
+16f#	a	.	.	.	.	.	(a
+4a	man	2DMM	D:maj9 (D F# C# E)	.	.	voice	C)
 16a	may-	.	.	.	.	.	.
 16a	-be	.	.	.	.	.	.
 16a	I'm	.	.	.	.	.	.
 16a	a	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16
 8b	lone-	2DMm	D:9 (D F# C E)	.	.	voice	.
-16a	-ly	.	.	.	.	.	.
-[16b	man	.	.	.	.	.	.
+16a	-ly	.	.	.	.	.	d
+[16b	man	.	.	.	.	.	C
 16b]	_	.	.	.	.	.	.
 16a	Who's	.	.	.	.	.	.
 16b	in	.	.	.	.	.	.
@@ -133,7 +133,7 @@ r;	.	1r;	r	.	0	r	.
 16b	-dle	.	.	.	.	.	.
 8a	of	.	.	.	.	.	.
 8f	some-	4DMm	D:7 (F# D A C)	.	.	voice	.
-8e	-thing	.	.	.	.	.	.
+8e	-thing	.	.	.	.	.	D
 =17	=17	=17	=17	=17	=17	=17	=17
 8d	_	1GM	G:maj (G B D)	.	.	voice	.
 8r	.	.	.	.	.	.	.
@@ -142,11 +142,11 @@ r;	.	1r;	r	.	0	r	.
 16d	does-	.	.	.	.	.	.
 16B	-n't	.	.	.	.	.	.
 8f	real-	.	.	.	.	.	.
-16e	-ly	.	.	.	.	.	.
+16e	-ly	.	.	.	.	.	d
 [16d	un-	.	.	.	.	.	.
 16d]	_	.	.	.	.	.	.
 16B	-der-	.	.	.	.	.	.
-8f	-stand	.	.	.	.	.	.
+8f	-stand	.	.	.	.	.	C
 =18	=18	=18	=18	=18	=18	=18	=18
 8f#	_	1DM	D:maj(b9) (D F# A E-)	.	.	voice	.
 8r	.	.	.	.	.	.	.
@@ -157,15 +157,15 @@ r;	.	1r;	r	.	0	r	.
 16a	May-	.	.	.	.	.	.
 16a	-be	.	.	.	.	.	.
 16a	I'm	.	.	.	.	.	.
-16f#	a	.	.	.	.	.	.
-4a	man	2DMM	D:maj9 (D F# C# E)	.	.	voice	.
+16f#	a	.	.	.	.	.	(a
+4a	man	2DMM	D:maj9 (D F# C# E)	.	.	voice	C)
 16a	may-	.	.	.	.	.	.
 16a	-be	.	.	.	.	.	.
 16a	you're	.	.	.	.	.	.
 16a	the	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20
 8b	on-	2DMm	D:9 (D F# C E)	.	.	voice	.
-16a	-ly	.	.	.	.	.	.
+16a	-ly	.	.	.	.	.	d
 [16b	wo-	.	.	.	.	.	.
 16b]	_	.	.	.	.	.	.
 16a	-man	.	.	.	.	.	.
@@ -175,7 +175,7 @@ r;	.	1r;	r	.	0	r	.
 8ee	-ver	.	.	.	.	.	.
 [16ee	help	.	.	.	.	.	.
 8ee]	_	4DMm	D:7 (F# D A C)	.	.	voice	.
-8dd	me	.	.	.	.	.	.
+8dd	me	.	.	.	.	.	D
 =21	=21	=21	=21	=21	=21	=21	=21
 4r	.	1GM	G:maj (G B D)	.	.	voice	.
 16B	Ba-	.	.	.	.	.	.
@@ -187,7 +187,7 @@ r;	.	1r;	r	.	0	r	.
 [16d	un-	.	.	.	.	.	.
 8d]	_	.	.	.	.	.	.
 16B	-der-	.	.	.	.	.	.
-16d	-stand	.	.	.	.	.	.
+16d	-stand	.	.	.	.	.	C
 =22	=22	=22	=22	=22	=22	=22	=22
 4r	.	2DM	D:maj (F# D A)	.	.	voice	.
 8r	.	.	.	.	.	.	.
@@ -243,15 +243,15 @@ r;	.	1r;	r	.	0	r	.
 16a	May-	.	.	.	.	.	.
 16a	-be	.	.	.	.	.	.
 16a	I'm	.	.	.	.	.	.
-16f#	a	.	.	.	.	.	.
-4a	man	2DMM	D:maj9 (D F# C# E)	.	.	voice	.
+16f#	a	.	.	.	.	.	(a
+4a	man	2DMM	D:maj9 (D F# C# E)	.	.	voice	C)
 16a	may-	.	.	.	.	.	.
 16a	-be	.	.	.	.	.	.
 16a	I'm	.	.	.	.	.	.
 16a	a	.	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34
 8b	lone-	2DMm	D:9 (D F# C E)	.	.	voice	.
-16a	-ly	.	.	.	.	.	.
+16a	-ly	.	.	.	.	.	d
 [16b	man	.	.	.	.	.	.
 16b]	_	.	.	.	.	.	.
 16a	Who's	.	.	.	.	.	.
@@ -261,7 +261,7 @@ r;	.	1r;	r	.	0	r	.
 16b	-dle	.	.	.	.	.	.
 8a	of	.	.	.	.	.	.
 8f	some-	4DMm	D:7 (F# D A C)	.	.	voice	.
-8e	-thing	.	.	.	.	.	.
+8e	-thing	.	.	.	.	.	D
 =35	=35	=35	=35	=35	=35	=35	=35
 8d	_	1GM	G:maj (G B D)	.	.	voice	.
 8r	.	.	.	.	.	.	.
@@ -274,7 +274,7 @@ r;	.	1r;	r	.	0	r	.
 [16d	un-	.	.	.	.	.	.
 16d]	_	.	.	.	.	.	.
 16B	-der-	.	.	.	.	.	.
-8f	-stand	.	.	.	.	.	.
+8f	-stand	.	.	.	.	.	C
 =36	=36	=36	=36	=36	=36	=36	=36
 8f#	_	1DM	D:maj(b9) (D F# A E-)	.	.	voice	.
 8r	.	.	.	.	.	.	.
@@ -285,15 +285,15 @@ r;	.	1r;	r	.	0	r	.
 16a	May-	.	.	.	.	.	.
 16a	-be	.	.	.	.	.	.
 16a	I'm	.	.	.	.	.	.
-16f#	a	.	.	.	.	.	.
-4a	man	2DMM	D:maj9 (D F# C# E)	.	.	voice	.
+16f#	a	.	.	.	.	.	(a
+4a	man	2DMM	D:maj9 (D F# C# E)	.	.	voice	C)
 16a	may-	.	.	.	.	.	.
 16a	-be	.	.	.	.	.	.
 16a	you're	.	.	.	.	.	.
 16a	the	.	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38
 8b	on-	2DMm	D:9 (D F# C E)	.	.	voice	.
-16a	-ly	.	.	.	.	.	.
+16a	-ly	.	.	.	.	.	d
 [16b	wo-	.	.	.	.	.	.
 16b]	_	.	.	.	.	.	.
 16a	-man	.	.	.	.	.	.
@@ -303,7 +303,7 @@ r;	.	1r;	r	.	0	r	.
 8ee	-ver	.	.	.	.	.	.
 [16ee	help	.	.	.	.	.	.
 8ee]	_	4DMm	D:7 (F# D A C)	.	.	voice	.
-8dd	me	.	.	.	.	.	.
+8dd	me	.	.	.	.	.	D
 =39	=39	=39	=39	=39	=39	=39	=39
 4r	.	1GM	G:maj (G B D)	.	.	voice	.
 16B	Ba-	.	.	.	.	.	.
@@ -315,7 +315,7 @@ r;	.	1r;	r	.	0	r	.
 [16d	un-	.	.	.	.	.	.
 8d]	_	.	.	.	.	.	.
 16e	-der-	.	.	.	.	.	.
-16d	-stand	.	.	.	.	.	.
+16d	-stand	.	.	.	.	.	C
 =40	=40	=40	=40	=40	=40	=40	=40
 4r	.	2DM	D:maj (F# D A)	.	.	voice	.
 8r	.	.	.	.	.	.	.
@@ -343,8 +343,8 @@ r;	.	1r;	r	.	0	r	.
 16f	May-	.	.	.	.	.	.
 16f	-be	.	.	.	.	.	.
 16f	I'm	.	.	.	.	.	.
-16d	a-	.	.	.	.	.	.
-8.f	-mazed	2FM	F:maj (A F C)	.	.	voice	.
+16d	a-	.	.	.	.	.	(a
+8.f	-mazed	2FM	F:maj (A F C)	.	.	voice	A)
 16f	the	.	.	.	.	.	.
 8g	way	.	.	.	.	.	.
 8g	you're	.	.	.	.	.	.
@@ -362,8 +362,8 @@ r;	.	1r;	r	.	0	r	.
 16f	May-	.	.	.	.	.	.
 16f	-be	.	.	.	.	.	.
 16f	I'm	.	.	.	.	.	.
-16d	a-	.	.	.	.	.	.
-8f	-fraid	2FM	F:maj (A F C)	.	.	voice	.
+16d	a-	.	.	.	.	.	(a
+8f	-fraid	2FM	F:maj (A F C)	.	.	voice	A)
 16f	of	.	.	.	.	.	.
 16f	the	.	.	.	.	.	.
 16e-	way	.	.	.	.	.	.
@@ -379,42 +379,42 @@ r;	.	1r;	r	.	0	r	.
 16f	May-	.	.	.	.	.	.
 16f	-be	.	.	.	.	.	.
 16f	I'm	.	.	.	.	.	.
-16d	a-	.	.	.	.	.	.
-8.f	-mazed	2FM	F:maj (A F C)	.	.	voice	.
+16d	a-	.	.	.	.	.	(a
+8.f	-mazed	2FM	F:maj (A F C)	.	.	voice	A)
 16d	the	.	.	.	.	.	.
 8f	way	.	.	.	.	.	.
 8a	you	.	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47
 8a	help	2CM	C:maj (C E G)	.	.	voice	.
-16g	me	.	.	.	.	.	.
-[16g	sing	.	.	.	.	.	.
+16g	me	.	.	.	.	.	d
+[16g	sing	.	.	.	.	.	D
 16g]	_	.	.	.	.	.	.
 16e	my	.	.	.	.	.	.
-[8g	song	.	.	.	.	.	.
+[8g	song	.	.	.	.	.	E
 4g]	_	2GM	G:maj (G B D)	.	.	voice	.
 4r	.	.	.	.	.	.	.
 =48	=48	=48	=48	=48	=48	=48	=48
 8a	right	2B-M	B-:maj (B- D F)	.	.	voice	.
-16g	me	.	.	.	.	.	.
+16g	me	.	.	.	.	.	d
 [16g	when	.	.	.	.	.	.
 16g]	_	.	.	.	.	.	.
 16e	I'm	.	.	.	.	.	.
-[8g	wrong	.	.	.	.	.	.
+[8g	wrong	.	.	.	.	.	E
 4g]	_	2FM	F:maj (A F C)	.	.	voice	.
 4r	.	.	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49
 16f	May-	2A-M	A-:maj (A- C E-)	.	.	voice	.
 16f	-be	.	.	.	.	.	.
 16f	I'm	.	.	.	.	.	.
-16d	a-	.	.	.	.	.	.
-8f	-mazed	.	.	.	.	.	.
+16d	a-	.	.	.	.	.	(a
+8f	-mazed	.	.	.	.	.	A)
 16f	at	.	.	.	.	.	.
 16f	the	.	.	.	.	.	.
 16e-	way	2E-M	E-:maj (G E- B-)	.	.	voice	.
 8e-	I	.	.	.	.	.	.
-[16d	real-	.	.	.	.	.	.
+[16d	real-	.	.	.	.	.	(D
 8d]	_	.	.	.	.	.	.
-16e-	-ly	.	.	.	.	.	.
+16e-	-ly	.	.	.	.	.	d)
 [16d	need	.	.	.	.	.	.
 =50	=50	=50	=50	=50	=50	=50	=50
 16d]	_	1CM	C:maj (C E G)	.	.	voice	.
