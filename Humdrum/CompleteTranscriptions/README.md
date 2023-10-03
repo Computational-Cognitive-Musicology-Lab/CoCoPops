@@ -43,7 +43,8 @@ In some cases, vocal roles may change dynamically throughout a piece.
 
 ---
 
-In addition, we mark `*Hstimme` `*Nstimme` to indicate the primary and secondary voices at any given time. 
+In addition, we mark `*Hstimme` and `*Nstimme` to indicate the primary and secondary voices, respectively, at any given time. 
+This notation refers to the German term [Haupstimme](https://en.wikipedia.org/wiki/Hauptstimme), invented by Arnold Schoenberg.
 `*]stimme` can be used to indicate the end of the previous stimme indication---traditionally marked &#119208; in scores.
 These tandem intrpretation may dynamically jump between spines on a measure-by-measure basis, somes times even changing within a vocal phrase.
 
