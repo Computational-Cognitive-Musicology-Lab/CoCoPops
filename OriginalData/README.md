@@ -16,7 +16,10 @@ This puts the data into four separate files in the `OriginalData` directory.
 Later, Tan, Lustig, and Temperley (2019) annotated the lyrics, including syllable stress estimates, for a subset of 80 of the 200 tracks.
 This data is encoded in 80 `.str` files in the `OriginalData` directory.
 
-
 ----
 
+
 The `RawHarmonicTranscriptions` directory contains the original, "un-expanded" harmonic transcriptions.
+Later, Temperely provided me files contained formal analyses of all the songs, encoded in `.fl` files.
+
+
