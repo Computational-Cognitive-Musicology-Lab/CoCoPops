@@ -30,7 +30,6 @@ generateTS <- function(humfile, mirexfile) {
    }
    
    hum <- data.table(Time = humtime, Chord = humchord, Slate = humslate)
-   hum <- hum[!grepl('^!=*', humfile)]
    
    ###
    mirexmat <- stringi::stri_list2matrix(strsplit(mirexfile, split = '\t')) |> t()
@@ -40,6 +39,7 @@ generateTS <- function(humfile, mirexfile) {
    mirexchord[mirexchord == 'X'] <- 'N'
    mirexchord <- gsub('b:', '-:', mirexchord)
    mir <- data.table(Time =  round(as.numeric(mirexmat[, 1]), 3), Chord = mirexchord)
+   if (is.na(tail(mir$Time, 1) )) mir$Time[nrow(mir)] <- round(as.numeric(mirexmat[nrow(mir) - 1,2]), 3) # last timestamp is from "end" column
    
    #
    mir$Spans <- cumsum(mir$Time %in% humtime) 
@@ -47,12 +47,18 @@ generateTS <- function(humfile, mirexfile) {
    hum$NewTime <- NA
    hum$NewChord <- NA
    hum$Record <- seq_len(nrow(hum))
-   lapply(unique(mir$Spans), 
+   lapply(union(hum$Spans, mir$Spans), 
           \(span) {
              .hum <- hum[Spans == span]
              
              
              .mir <- mir[Spans == span]
+             if (nrow(.mir) == 0) {
+                .hum$NewTime <- .hum$NewChord <- NA
+                .hum$Extra <- ''
+                .hum$ExtraLength <- 0
+                return(.hum)
+             }
              
              targetchords <- !is.na(.hum$Chord)
              ntargets <- sum(targetchords)
@@ -64,6 +70,8 @@ generateTS <- function(humfile, mirexfile) {
              .hum$Extra <- tail(.mir, -ntargets)[ , paste(Chord, collapse = ',')]
              .hum
           }) |> do.call(what = 'rbind') -> hum
+   
+   
    
    hum <- cbind(hum, hum[, chordsMatch(Chord, NewChord)])
    
@@ -99,15 +107,17 @@ generateFiles <- function(tsTable, filename, humfile) {
    filename <- paste0('Scripts/timestamps/', filename)
    
    if (tsTable[ , any(!Match, na.rm = TRUE)]) {
-      fwrite(tsTable, file = paste0(filename, '.bad'))
+      return(tsTable[!is.na(Time)])
    } else {
-      fwrite(tsTable, file = paste0(filename, '.good'))
-      browser()
+      # fwrite(tsTable, file = paste0(filename, '.good'))
      newspine <- tsTable[ , ifelse(is.na(NewTime), Slate, NewTime)]
-     humfile[!grepl('^!!', humfile)] <- paste0(humfile[!grepl('^!!', humfile)], '\t', newspine[!grepl('^!!', humfile)])
+     newlines <- humfile
+     newlines[tsTable$Record] <- paste0(humfile[tsTable$Record], '\t', newspine)
+     newlines[grepl('^!!!', humfile)] <- humfile[grepl('!!!', humfile)] 
      
-     writeLines(humfile, paste0(filename, '_timestamped.hum'))
+     writeLines(newlines, paste0(filename, '_timestamped.hum'))
    }
+   NULL
 }
 
 i <- 1:nrow(sampleData)
@@ -118,6 +128,10 @@ sampleData[i, {
   
   tsTable <- generateTS(humfile, mirexfile)
   
-  generateFiles(tsTable, FileName, humfile)
+  bad <- generateFiles(tsTable, FileName, humfile)
+  if (is.null(bad)) NULL else list(File = FileName, Bad = list(bad), N = sum(!bad$Match, na.rm = TRUE), P = mean(!bad$Match, na.rm = TRUE))
+  
   
 }, by = i ] -> x
+
+
