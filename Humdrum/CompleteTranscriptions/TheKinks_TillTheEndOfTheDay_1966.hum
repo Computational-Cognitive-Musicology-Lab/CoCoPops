@@ -1,6 +1,6 @@
-**kern	**silbe	**kern	**silbe	**harmony	**chordsym	**phrase	**timestamp	**leadinstrument	**Rhyme
+**kern	**silbe	**kern	**silbe	**harmony	**chordsym	**phrase	**timestamp	**leadinstrument	**rhyme
 *ICvox	*	*ICvox	*	*M4/4	*M4/4	*	*	*	*
-*d:	*	*d:	*	*D:	*D:	*	*	*	*
+*d:	*	*d:	*	*d:	*d:	*	*	*	*
 *M4/4	*	*M4/4	*	*	*	*	*	*	*
 *clefC3	*	*clefC3	*	*	*	*	*	*	*
 r;	.	r;	.	1r;	r	.	0	r	.
@@ -8,12 +8,12 @@ r;	.	r;	.	1r;	r	.	.	r	.
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
-1r	.	1r	.	2DM	D:5 (D A)	newline	.	guitar	.
-.	.	.	.	2CM	C:5 (C G)	.	.	guitar	.
+1r	.	1r	.	2DM	D:maj (D F# A)	newline	.	guitar	.
+.	.	.	.	2CM	C:maj (C E G)	.	.	guitar	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-1r	.	1r	.	1AM	A:5 (A E)	.	.	guitar	.
+1r	.	1r	.	1AM	A:maj (A C# E)	.	.	guitar	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-4r	.	1r	.	1AM	A:5 (A E)	.	.	voice	.
+4r	.	1r	.	1AM	A:maj (A C# E)	.	.	voice	.
 8~B	Ba-	.	.	.	.	.	.	.	.
 8~A	-by,	.	.	.	.	.	.	.	.
 8c	I	.	.	.	.	.	.	.	.
@@ -22,13 +22,13 @@ r;	.	r;	.	1r;	r	.	.	r	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-8f]	_	1r	.	4CM	C:5 (C G)	newline	.	voice	.
+8f]	_	1r	.	4CM	C:maj (C E G)	newline	.	voice	.
 8r	.	.	.	.	.	.	.	.	.
-4r	.	.	.	4DM	D:5 (D A)	.	.	voice	.
-2r	.	.	.	4FM	F:5 (F C)	.	.	voice	.
-.	.	.	.	4CM	C:5 (C G)	.	.	voice	.
+4r	.	.	.	4Dm	D:min (D F A)	.	.	voice	.
+2r	.	.	.	4FM	F:maj (F A C)	.	.	voice	.
+.	.	.	.	4CM	C:maj (C E G)	.	.	voice	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-4r	.	1r	.	1DM	D:5 (D A)	.	.	voice	.
+4r	.	1r	.	1Dm	D:min (D F A)	.	.	voice	.
 8d	from	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
 8f	mo-	.	.	.	.	.	.	.	.
@@ -36,12 +36,12 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8d	I	.	.	.	.	.	.	.	.
 [8d	rise	.	.	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-4d]	_	1r	.	4CM	C:5 (C G)	.	.	voice	.
-4r	.	.	.	4DM	D:5 (D A)	.	.	voice	.
-2r	.	.	.	4FM	F:5 (F C)	.	.	voice	.
-.	.	.	.	4CM	C:5 (C G)	.	.	voice	.
+4d]	_	1r	.	4CM	C:maj (C E G)	.	.	voice	.
+4r	.	.	.	4Dm	D:min (D F A)	.	.	voice	.
+2r	.	.	.	4FM	F:maj (F A C)	.	.	voice	.
+.	.	.	.	4CM	C:maj (C E G)	.	.	voice	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-4r	.	1r	.	1DM	D:5 (D A)	.	.	voice	.
+4r	.	1r	.	1Dm	D:min (D F A)	.	.	voice	.
 8cq	_	.	.	.	.	.	.	.	.
 4d	Feel	.	.	.	.	.	.	.	.
 8cq	_	.	.	.	.	.	.	.	.
@@ -49,24 +49,24 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8dq	_	.	.	.	.	.	.	.	.
 4A	from	.	.	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-1r	.	2c 2f	Mor-	2FM	F:5 (F C)	newline	.	voice	.
-.	.	2d 2g	-ning!	2GM	G:5 (G D)	.	.	voice	.
+1r	.	2c 2f	Mor-	2FM	F:maj (F A C)	newline	.	voice	.
+.	.	2d 2g	-ning!	2GM	G:maj (G B D)	.	.	voice	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-4r	.	2d 2f	_	2B-M	B-:5 (B- F)	.	.	voice	.
+4r	.	2d 2f	_	2B-M	B-:maj (B- D F)	.	.	voice	.
 8d	'till	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
-8e	end	2c# 2e	_	2AM	A:5 (A E)	.	.	voice	.
+8e	end	2c# 2e	_	2AM	A:maj (A C# E)	.	.	voice	.
 8d	of	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
 8cq	_	.	.	.	.	.	.	.	.
 [8d	day	.	.	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-4d]	_	1r	.	4CM	C:5 (C G)	newline	.	voice	.
-4r	.	.	.	4DM	D:5 (D A)	.	.	voice	.
-2r	.	.	.	4FM	F:5 (F C)	.	.	voice	.
-.	.	.	.	4CM	C:5 (C G)	.	.	voice	.
+4d]	_	1r	.	4CM	C:maj (C E G)	newline	.	voice	.
+4r	.	.	.	4Dm	D:min (D F A)	.	.	voice	.
+2r	.	.	.	4FM	F:maj (F A C)	.	.	voice	.
+.	.	.	.	4CM	C:maj (C E G)	.	.	voice	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-4r	.	4r	.	1DM	D:5 (D A)	.	.	voice	.
+4r	.	4r	.	1Dm	D:min (D F A)	.	.	voice	.
 8d	'Till	8c	'Till	.	.	.	.	.	.
 8d	the	8d	the	.	.	.	.	.	.
 8e	end	8e	end	.	.	.	.	.	.
@@ -75,45 +75,45 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8cq	_	.	.	.	.	.	.	.	.
 [8d	day	8c	day	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-4d]	_	4d	_	4CM	C:5 (C G)	.	.	voice	.
-4r	.	4r	.	4DM	D:5 (D A)	.	.	voice	.
-2r	.	2r	.	4FM	F:5 (F C)	.	.	voice	.
-.	.	.	.	4CM	C:5 (C G)	.	.	voice	.
+4d]	_	4d	_	4CM	C:maj (C E G)	.	.	voice	.
+4r	.	4r	.	4Dm	D:min (D F A)	.	.	voice	.
+2r	.	2r	.	4FM	F:maj (F A C)	.	.	voice	.
+.	.	.	.	4CM	C:maj (C E G)	.	.	voice	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-2r	.	1r	.	2DM	D:5 (D A)	.	.	voice	.
-4~d	Yeah	.	.	2CM	C:5 (C G)	.	.	voice	.
+2r	.	1r	.	2Dm	D:min (D F A)	.	.	voice	.
+4~d	Yeah	.	.	2CM	C:maj (C E G)	.	.	voice	.
 4r	.	.	.	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-8d	You	1r	.	2DM	D:5 (D A)	newline	.	voice	.
+8d	You	1r	.	2Dm	D:min (D F A)	newline	.	voice	.
 4d	and	.	.	.	.	.	.	.	.
 [8d	me	.	.	.	.	.	.	.	A
-4d]	_	.	.	2CM	C:5 (C G)	.	.	voice	.
+4d]	_	.	.	2CM	C:maj (C E G)	.	.	voice	.
 4r	.	.	.	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-2r	.	1r	.	2FM	F:5 (F C)	.	.	voice	.
-8f	we	.	.	2CM	C:5 (C G)	.	.	voice	.
+2r	.	1r	.	2FM	F:maj (F A C)	.	.	voice	.
+8f	we	.	.	2CM	C:maj (C E G)	.	.	voice	.
 8d	live	.	.	.	.	.	.	.	.
 8c	this	.	.	.	.	.	.	.	.
 8c	life	.	.	.	.	.	.	.	B
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-4d	_	1r	.	2DM	D:5 (D A)	.	.	voice	.
+4d	_	1r	.	2Dm	D:min (D F A)	.	.	voice	.
 4d	uh	.	.	.	.	.	.	.	.
-2r	.	.	.	2CM	C:5 (C G)	.	.	voice	.
+2r	.	.	.	2CM	C:maj (C E G)	.	.	voice	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17
-2r	.	1r	.	2FM	F:5 (F C)	.	.	voice	.
-4r	.	.	.	2CM	C:5 (C G)	.	.	voice	.
+2r	.	1r	.	2FM	F:maj (F A C)	.	.	voice	.
+4r	.	.	.	2CM	C:maj (C E G)	.	.	voice	.
 8r	.	.	.	.	.	.	.	.	.
 8c	From	.	.	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 8cq	_	.	.	.	.	.	.	.	.
-4d	when	1r	.	1DM	D:5 (D A)	newline	.	voice	.
+4d	when	1r	.	1Dm	D:min (D F A)	newline	.	voice	.
 4d	we	.	.	.	.	.	.	.	A
 4d	get	.	.	.	.	.	.	.	.
 4d	up	.	.	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-4r	.	1r	.	1CM	C:5 (C G)	.	.	voice	.
+4r	.	1r	.	1CM	C:maj (C E G)	.	.	voice	.
 8c	'till	.	.	.	.	.	.	.	.
 8c	we	.	.	.	.	.	.	.	.
 8d	go	.	.	.	.	.	.	.	.
@@ -122,55 +122,56 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8Gq	_	.	.	.	.	.	.	.	.
 [8A	night	.	.	.	.	.	.	.	B
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20
-1A]	_	[1A	Night	1FM	F:5 (F C)	.	.	voice	.
+1A]	_	[1A	Night	1FM	F:maj (F A C)	.	.	voice	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21
-[2c#	_	2A_	_	1AM	A:5 (A E)	.	.	voice	.
+[2c#	_	2A_	_	1AM	A:maj (A C# E)	.	.	voice	.
 8c#]	_	8A]	_	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-*	*	*	*	*D_chorus	*D_chorus	*D_chorus	*D_chorus	*D_chorus	*
-4d	You	1r	.	1DM	D:5 (D A)	newline	.	voice	.
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+4d	You	1r	.	1Dm	D:min (D F A)	newline	.	voice	.
 4d	and	.	.	.	.	.	.	.	.
 8d	me,	.	.	.	.	.	.	.	.
 4d	we're	.	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.	.
 [8e	free	.	.	.	.	.	.	.	A
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-4.e]	_	1r	.	1CM	C:5 (C G)	.	.	voice	.
+4.e]	_	1r	.	1CM	C:maj (C E G)	.	.	voice	.
 8r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-4f	We	1r	.	1DM	D:5 (D A)	.	.	voice	.
+4f	We	1r	.	1Dm	D:min (D F A)	.	.	voice	.
 4f	do	.	.	.	.	.	.	.	.
 4f	as	.	.	.	.	.	.	.	.
 4f	we	.	.	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-2e	please,	1r	.	2CM	C:5 (C G)	.	.	voice	A
+2e	please,	1r	.	2CM	C:maj (C E G)	.	.	voice	A
 8cq	_	.	.	.	.	.	.	.	.
-16e	yeah,	.	.	2B-M	B-:5 (B- F)	.	.	voice	.
+16e	yeah,	.	.	2B-M	B-:maj (B- D F)	.	.	voice	.
 16d	_	.	.	.	.	.	.	.	.
 8c	_	.	.	.	.	.	.	.	.
 4c	from	.	.	.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-1r	.	2c 2f	Mor-	2FM	F:5 (F C)	newline	.	voice	.
-.	.	2d 2g	-ning!	2GM	G:5 (G D)	.	.	voice	.
+1r	.	2c 2f	Mor-	2FM	F:maj (F A C)	newline	.	voice	.
+.	.	2d 2g	-ning!	2GM	G:maj (G B D)	.	.	voice	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
-4r	.	2d 2f	_	2B-M	B-:5 (B- F)	.	.	voice	.
+4r	.	2d 2f	_	2B-M	B-:maj (B- D F)	.	.	voice	.
 8d	'till	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
-8~e	end	2c# 2e	_	2AM	A:5 (A E)	.	.	voice	.
+8~e	end	2c# 2e	_	2AM	A:maj (A C# E)	.	.	voice	.
 8d	of	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
 8cq	_	.	.	.	.	.	.	.	.
 [8d	day	.	.	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-4d]	_	1r	.	4CM	C:5 (C G)	newline	.	guitar	.
-4r	.	.	.	4DM	D:5 (D A)	.	.	guitar	.
-2r	.	.	.	4FM	F:5 (F C)	.	.	guitar	.
-.	.	.	.	4CM	C:5 (C G)	.	.	guitar	.
+4d]	_	1r	.	4CM	C:maj (C E G)	newline	.	guitar	.
+4r	.	.	.	4Dm	D:min (D F A)	.	.	guitar	.
+2r	.	.	.	4FM	F:maj (F A C)	.	.	guitar	.
+.	.	.	.	4CM	C:maj (C E G)	.	.	guitar	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-4r	.	4r	.	1DM	D:5 (D A)	.	.	guitar	.
+4r	.	4r	.	1Dm	D:min (D F A)	.	.	guitar	.
 8d	'Till	8~c	'Till	.	.	.	.	.	.
 8d	the	8d	the	.	.	.	.	.	.
 8f	end	8~f	end	.	.	.	.	.	.
@@ -179,45 +180,45 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8cq	_	.	.	.	.	.	.	.	.
 [8d	day	8~c	day	.	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-4d]	_	4d	_	4CM	C:5 (C G)	.	.	guitar	.
-4r	.	4r	.	4DM	D:5 (D A)	.	.	guitar	.
-2r	.	2r	.	4FM	F:5 (F C)	.	.	guitar	.
-.	.	.	.	4CM	C:5 (C G)	.	.	guitar	.
+4d]	_	4d	_	4CM	C:maj (C E G)	.	.	guitar	.
+4r	.	4r	.	4Dm	D:min (D F A)	.	.	guitar	.
+2r	.	2r	.	4FM	F:maj (F A C)	.	.	guitar	.
+.	.	.	.	4CM	C:maj (C E G)	.	.	guitar	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31
-2r	.	1r	.	2DM	D:5 (D A)	.	.	guitar	.
-16~d	Yeah	.	.	2CM	C:5 (C G)	.	.	guitar	.
+2r	.	1r	.	2Dm	D:min (D F A)	.	.	guitar	.
+16~d	Yeah	.	.	2CM	C:maj (C E G)	.	.	guitar	.
 16~A	_	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-8d	I	1r	.	2DM	D:5 (D A)	newline	.	voice	.
+8d	I	1r	.	2Dm	D:min (D F A)	newline	.	voice	.
 8d	get	.	.	.	.	.	.	.	.
 8d	up	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
-2r	.	.	.	2CM	C:5 (C G)	.	.	voice	.
+2r	.	.	.	2CM	C:maj (C E G)	.	.	voice	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-4r	.	1r	.	2FM	F:5 (F C)	.	.	voice	.
+4r	.	1r	.	2FM	F:maj (F A C)	.	.	voice	.
 8r	.	.	.	.	.	.	.	.	.
 8c	and	.	.	.	.	.	.	.	.
-8f	I	.	.	2CM	C:5 (C G)	.	.	voice	.
+8f	I	.	.	2CM	C:maj (C E G)	.	.	voice	.
 8d	see	.	.	.	.	.	.	.	.
 8c	the	.	.	.	.	.	.	.	.
 [8d	sun	.	.	.	.	.	.	.	C
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
-8d]	_	1r	.	2DM	D:5 (D A)	.	.	voice	.
+8d]	_	1r	.	2Dm	D:min (D F A)	.	.	voice	.
 8d	up	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
-2r	.	.	.	2CM	C:5 (C G)	.	.	voice	.
+2r	.	.	.	2CM	C:maj (C E G)	.	.	voice	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35
-2r	.	1r	.	2FM	F:5 (F C)	.	.	voice	.
-4r	.	.	.	2CM	C:5 (C G)	.	.	voice	.
+2r	.	1r	.	2FM	F:maj (F A C)	.	.	voice	.
+4r	.	.	.	2CM	C:maj (C E G)	.	.	voice	.
 8r	.	.	.	.	.	.	.	.	.
 8c	And	.	.	.	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36
 8cq	_	.	.	.	.	.	.	.	.
-4d	I	1r	.	1DM	D:5 (D A)	newline	.	voice	.
+4d	I	1r	.	1Dm	D:min (D F A)	newline	.	voice	.
 8cq	_	.	.	.	.	.	.	.	.
 4d	feel	.	.	.	.	.	.	.	.
 8cq	_	.	.	.	.	.	.	.	.
@@ -226,7 +227,7 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8d	yeah	.	.	.	.	.	.	.	.
 8c	_	.	.	.	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37
-4r	.	1r	.	1CM	C:5 (C G)	.	.	voice	.
+4r	.	1r	.	1CM	C:maj (C E G)	.	.	voice	.
 8c	cuz	.	.	.	.	.	.	.	.
 8c	my	.	.	.	.	.	.	.	.
 8d	life	.	.	.	.	.	.	.	.
@@ -235,53 +236,54 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8Gq	_	.	.	.	.	.	.	.	.
 [8A	-gun	.	.	.	.	.	.	.	C
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
-1A]	_	[1A	Gun	1FM	F:5 (F C)	.	.	voice	C
+1A]	_	[1A	Gun	1FM	F:maj (F A C)	.	.	voice	C
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39
-2.c#	_	2.A]	_	1AM	A:5 (A E)	.	.	voice	.
+2.c#	_	2.A]	_	1AM	A:maj (A C# E)	.	.	voice	.
 4r	.	4r	.	.	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40
-*	*	*	*	*D_chorus	*D_chorus	*D_chorus	*D_chorus	*D_chorus	*
-4d	You	1f	Ah	1DM	D:5 (D A)	newline	.	voice	.
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+4d	You	1f	Ah	1Dm	D:min (D F A)	newline	.	voice	.
 4d	and	.	.	.	.	.	.	.	.
 8d	me,	.	.	.	.	.	.	.	.
 4d	we're	.	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.	.
 [8e	free	.	.	.	.	.	.	.	A
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41
-4.e]	_	1e	_	1CM	C:5 (C G)	.	.	voice	.
+4.e]	_	1e	_	1CM	C:maj (C E G)	.	.	voice	.
 8r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42	=42
-4f	We	1f	_	1DM	D:5 (D A)	.	.	voice	.
+4f	We	1f	_	1Dm	D:min (D F A)	.	.	voice	.
 4f	do	.	.	.	.	.	.	.	.
 4f	as	.	.	.	.	.	.	.	.
 4f	we	.	.	.	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43	=43	=43	=43
-4.e	please,	[2e [2g	_	2CM	C:5 (C G)	.	.	voice	A
+4.e	please,	[2e [2g	_	2CM	C:maj (C E G)	.	.	voice	A
 8d	y-	.	.	.	.	.	.	.	.
-16e	-yeah,	8e] 8g]	_	2B-M	B-:5 (B- F)	.	.	voice	.
+16e	-yeah,	8e] 8g]	_	2B-M	B-:maj (B- D F)	.	.	voice	.
 16d	_	.	.	.	.	.	.	.	.
 8c	_	8r	.	.	.	.	.	.	.
 8d	from	4r	.	.	.	.	.	.	.
 8c	_	.	.	.	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44
-1r	.	2c 2f	Mor-	2FM	F:5 (F C)	newline	.	voice	.
-.	.	2d 2g	-ning!	2GM	G:5 (G D)	.	.	voice	.
+1r	.	2c 2f	Mor-	2FM	F:maj (F A C)	newline	.	voice	.
+.	.	2d 2g	-ning!	2GM	G:maj (G B D)	.	.	voice	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45	=45
-4r	.	2d 2f	_	2B-M	B-:5 (B- F)	.	.	voice	.
+4r	.	2d 2f	_	2B-M	B-:maj (B- D F)	.	.	voice	.
 8d	'Till	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
-8~e	end	2c# 2e	_	2AM	A:5 (A E)	.	.	voice	.
+8~e	end	2c# 2e	_	2AM	A:maj (A C# E)	.	.	voice	.
 8d	of	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
 8cq	_	.	.	.	.	.	.	.	.
 [8d	day	.	.	.	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46
-4d]	_	1r	.	1DM	D:5 (D A)	newline	.	guitar	.
+4d]	_	1r	.	1Dm	D:min (D F A)	newline	.	guitar	.
 4r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47
-4r	.	1r	.	1CM	C:5 (C G)	.	.	guitar	.
+4r	.	1r	.	1CM	C:maj (C E G)	.	.	guitar	.
 8d	'Till	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
 8f	end	.	.	.	.	.	.	.	.
@@ -290,11 +292,11 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8cq	_	.	.	.	.	.	.	.	.
 [8d	day	.	.	.	.	.	.	.	.
 =48	=48	=48	=48	=48	=48	=48	=48	=48	=48
-4d]	_	1r	.	1DM	D:5 (D A)	.	.	guitar	.
+4d]	_	1r	.	1Dm	D:min (D F A)	.	.	guitar	.
 4r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49
-4r	.	4r	.	1CM	C:5 (C G)	.	.	guitar	.
+4r	.	4r	.	1CM	C:maj (C E G)	.	.	guitar	.
 8d	'Till	8~f	'Till	.	.	.	.	.	.
 8d	the	8~f	the	.	.	.	.	.	.
 8f	end	8a	end	.	.	.	.	.	.
@@ -303,11 +305,11 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8cq	_	8eq	_	.	.	.	.	.	.
 [8d	day	[8f	day	.	.	.	.	.	.
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50
-4d]	_	4f]	_	1DM	D:5 (D A)	newline	.	guitar	.
+4d]	_	4f]	_	1Dm	D:min (D F A)	newline	.	guitar	.
 4r	.	4r	.	.	.	.	.	.	.
 2r	.	2r	.	.	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51
-4r	.	1r	.	1CM	C:5 (C G)	.	.	guitar	.
+4r	.	1r	.	1CM	C:maj (C E G)	.	.	guitar	.
 8d	'Till	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
 8a	end	.	.	.	.	.	.	.	.
@@ -318,31 +320,32 @@ r;	.	r;	.	1r;	r	.	.	r	.
 =52	=52	=52	=52	=52	=52	=52	=52	=52	=52
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
-4f]	_	1r	.	2DM	D:5 (D A)	newline	.	guitar	.
+4f]	_	1r	.	2Dm	D:min (D F A)	newline	.	guitar	.
 16r	.	.	.	.	.	.	.	.	.
 8.e	(Grunts)	.	.	.	.	.	.	.	.
-4f	_	.	.	2CM	C:5 (C G)	.	.	guitar	.
+4f	_	.	.	2CM	C:maj (C E G)	.	.	guitar	.
 4r	.	.	.	.	.	.	.	.	.
 =53	=53	=53	=53	=53	=53	=53	=53	=53	=53
-1r	.	1r	.	2FM	F:5 (F C)	.	.	guitar	.
-.	.	.	.	2CM	C:5 (C G)	.	.	guitar	.
+1r	.	1r	.	2FM	F:maj (F A C)	.	.	guitar	.
+.	.	.	.	2CM	C:maj (C E G)	.	.	guitar	.
 =54	=54	=54	=54	=54	=54	=54	=54	=54	=54
-1r	.	1r	.	2DM	D:5 (D A)	.	.	guitar	.
-.	.	.	.	2CM	C:5 (C G)	.	.	guitar	.
+1r	.	1r	.	2Dm	D:min (D F A)	.	.	guitar	.
+.	.	.	.	2CM	C:maj (C E G)	.	.	guitar	.
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55
-1r	.	1r	.	2FM	F:5 (F C)	.	.	guitar	.
-.	.	.	.	2CM	C:5 (C G)	.	.	guitar	.
+1r	.	1r	.	2FM	F:maj (F A C)	.	.	guitar	.
+.	.	.	.	2CM	C:maj (C E G)	.	.	guitar	.
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56
-1r	.	1r	.	1DM	D:5 (D A)	newline	.	guitar	.
+1r	.	1r	.	1Dm	D:min (D F A)	newline	.	guitar	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57
-1r	.	1r	.	1CM	C:5 (C G)	.	.	guitar	.
+1r	.	1r	.	1CM	C:maj (C E G)	.	.	guitar	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58
-1r	.	1r	.	1FM	F:5 (F C)	.	.	guitar	.
+1r	.	1r	.	1FM	F:maj (F A C)	.	.	guitar	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59	=59
-1r	.	1r	.	1AM	A:5 (A E)	.	.	guitar	.
+1r	.	1r	.	1AM	A:maj (A C# E)	.	.	guitar	.
 =60	=60	=60	=60	=60	=60	=60	=60	=60	=60
-*	*	*	*	*D_chorus	*D_chorus	*D_chorus	*D_chorus	*D_chorus	*
-8d	You	1f	Ah	1DM	D:5 (D A)	newline	.	voice	.
+*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
+*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+8d	You	1f	Ah	1Dm	D:min (D F A)	newline	.	voice	.
 8c#	_	.	.	.	.	.	.	.	.
 8d	and	.	.	.	.	.	.	.	.
 8c#	_	.	.	.	.	.	.	.	.
@@ -351,41 +354,41 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8dq	_	.	.	.	.	.	.	.	.
 [8e	free	.	.	.	.	.	.	.	A
 =61	=61	=61	=61	=61	=61	=61	=61	=61	=61
-4.e]	_	1e	_	1CM	C:5 (C G)	.	.	voice	.
+4.e]	_	1e	_	1CM	C:maj (C E G)	.	.	voice	.
 8r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62	=62	=62
-4f	We	1f	_	1DM	D:5 (D A)	.	.	voice	.
+4f	We	1f	_	1Dm	D:min (D F A)	.	.	voice	.
 4f	do	.	.	.	.	.	.	.	.
 4f	as	.	.	.	.	.	.	.	.
 4f	we	.	.	.	.	.	.	.	.
 =63	=63	=63	=63	=63	=63	=63	=63	=63	=63
-4.e	please,	[2e [2g	_	2CM	C:5 (C G)	.	.	voice	A
+4.e	please,	[2e [2g	_	2CM	C:maj (C E G)	.	.	voice	A
 8d	y-	.	.	.	.	.	.	.	.
-16e	-yeah,	8e] 8g]	_	2B-M	B-:5 (B- F)	.	.	voice	.
+16e	-yeah,	8e] 8g]	_	2B-M	B-:maj (B- D F)	.	.	voice	.
 16d	_	.	.	.	.	.	.	.	.
 8c	_	8r	.	.	.	.	.	.	.
 8d	from	4r	.	.	.	.	.	.	.
 8~c	_	.	.	.	.	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64	=64	=64	=64
-1r	.	2c 2f	Mor-	2FM	F:5 (F C)	newline	.	voice	.
-.	.	2d 2g	-ning!	2GM	G:5 (G D)	.	.	voice	.
+1r	.	2c 2f	Mor-	2FM	F:maj (F A C)	newline	.	voice	.
+.	.	2d 2g	-ning!	2GM	G:maj (G B D)	.	.	voice	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65	=65
-4r	.	2d 2f	_	2B-M	B-:5 (B- F)	.	.	voice	.
+4r	.	2d 2f	_	2B-M	B-:maj (B- D F)	.	.	voice	.
 8d	'Till	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
-8~e	end	2c# 2e	_	2AM	A:5 (A E)	.	.	voice	.
+8~e	end	2c# 2e	_	2AM	A:maj (A C# E)	.	.	voice	.
 8d	of	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
 8cq	_	.	.	.	.	.	.	.	.
 [8d	day	.	.	.	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66	=66	=66
 *	*	*	*	*E_outro	*E_outro	*E_outro	*E_outro	*E_outro	*
-4d]	_	1r	.	1DM	D:5 (D A)	newline	.	voice	.
+4d]	_	1r	.	1Dm	D:min (D F A)	newline	.	voice	.
 4r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =67	=67	=67	=67	=67	=67	=67	=67	=67	=67
-4r	.	1r	.	1CM	C:5 (C G)	.	.	voice	.
+4r	.	1r	.	1CM	C:maj (C E G)	.	.	voice	.
 8d	'Till	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
 8f	end	.	.	.	.	.	.	.	.
@@ -394,11 +397,11 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8cq	_	.	.	.	.	.	.	.	.
 [8d	day	.	.	.	.	.	.	.	.
 =68	=68	=68	=68	=68	=68	=68	=68	=68	=68
-4d]	_	1d	Ah!	1DM	D:5 (D A)	.	.	voice	.
+4d]	_	1d	Ah!	1Dm	D:min (D F A)	.	.	voice	.
 4r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69	=69	=69	=69
-4r	.	1e	_	1CM	C:5 (C G)	.	.	voice	.
+4r	.	1e	_	1CM	C:maj (C E G)	.	.	voice	.
 8d	'Till	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
 8f 8a	end	.	.	.	.	.	.	.	.
@@ -407,11 +410,11 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8eq	_	.	.	.	.	.	.	.	.
 [8f	day	.	.	.	.	.	.	.	.
 =70	=70	=70	=70	=70	=70	=70	=70	=70	=70
-4f]	_	1d	_	1DM	D:5 (D A)	newline	.	voice	.
+4f]	_	1d	_	1Dm	D:min (D F A)	newline	.	voice	.
 4r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =71	=71	=71	=71	=71	=71	=71	=71	=71	=71
-4r	.	1c 1e	_	1CM	C:5 (C G)	.	.	voice	.
+4r	.	1c 1e	_	1CM	C:maj (C E G)	.	.	voice	.
 8d	'Till	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
 8f	end	.	.	.	.	.	.	.	.
@@ -419,11 +422,11 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8d	the	.	.	.	.	.	.	.	.
 [8f	day	.	.	.	.	.	.	.	.
 =72	=72	=72	=72	=72	=72	=72	=72	=72	=72
-4f]	_	1d 1f	_	1DM	D:5 (D A)	.	.	voice	.
+4f]	_	1d 1f	_	1Dm	D:min (D F A)	.	.	voice	.
 4r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =73	=73	=73	=73	=73	=73	=73	=73	=73	=73
-4r	.	1c 1e	_	1CM	C:5 (C G)	.	.	voice	.
+4r	.	1c 1e	_	1CM	C:maj (C E G)	.	.	voice	.
 8d	'Till	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
 8f 8~g	end	.	.	.	.	.	.	.	.
@@ -431,11 +434,11 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8d	the	.	.	.	.	.	.	.	.
 [8f	day	.	.	.	.	.	.	.	.
 =74	=74	=74	=74	=74	=74	=74	=74	=74	=74
-4f]	_	1d 1f	_	1DM	D:5 (D A)	newline	.	voice	.
+4f]	_	1d 1f	_	1Dm	D:min (D F A)	newline	.	voice	.
 4r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =75	=75	=75	=75	=75	=75	=75	=75	=75	=75
-4r	.	1c 1e	_	1CM	C:5 (C G)	.	.	voice	.
+4r	.	1c 1e	_	1CM	C:maj (C E G)	.	.	voice	.
 8d	'Till	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.	.
 8f	end	.	.	.	.	.	.	.	.
@@ -444,8 +447,8 @@ r;	.	r;	.	1r;	r	.	.	r	.
 8cq	_	.	.	.	.	.	.	.	.
 [8d	day	.	.	.	.	.	.	.	.
 =76	=76	=76	=76	=76	=76	=76	=76	=76	=76
-1d_	_	1d 1f	_	2DM	D:5 (D A)	.	.	guitar	.
-.	.	.	.	2CM	C:5 (C G)	.	.	guitar	.
+1d_	_	1d 1f	_	2Dm	D:min (D F A)	.	.	guitar	.
+.	.	.	.	2CM	C:maj (C E G)	.	.	guitar	.
 =77	=77	=77	=77	=77	=77	=77	=77	=77	=77
 1d]	_	1r	.	2GM	G:maj (G B D)	.	.	guitar	.
 .	.	.	.	2B-M	B-:maj (B- D F)	.	.	guitar	.
