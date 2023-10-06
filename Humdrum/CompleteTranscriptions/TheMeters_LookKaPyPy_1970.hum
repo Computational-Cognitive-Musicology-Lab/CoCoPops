@@ -1,15 +1,15 @@
-**kern	**silbe	**kern	**silbe	**harmony	**chordsym	**phrase	**timestamp	**leadinstrument
-*ICvox	*	*ICvox	*	*M4/4	*M4/4	*	*	*
+**kern	**silbe	**kern	**silbe	**harmony	**phrase	**leadinstrument	**timestamp	**harte
+*ICvox	*	*ICvox	*	*M4/4	*	*	*	*M4/4
 *VRlead	*	*VRbacking	*	*	*	*	*	*
 *Hstimme	*	*Nstimme	*	*	*	*	*	*
-*G:	*	*G:	*	*G:	*G:	*	*	*
+*G:	*	*G:	*	*G:	*	*	*	*G:
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefG2	*	*clefF4	*	*	*	*	*	*
-r;	.	r;	.	1r;	r	.	0	r
+r;	.	r;	.	1r;	.	r	0	1r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
-8B-	Bom	8D	Bom	1N	N	newline	0.279	voice
+8B-	Bom	8D	Bom	1N	newline	voice	NA	N
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -18,7 +18,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2
-8B-	Bom	8D	Bom	1N	N	.	.	voice
+8B-	Bom	8D	Bom	1N	.	voice	.	N
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -29,81 +29,81 @@ r;	.	r;	.	1r;	r	.	0	r
 =3	=3	=3	=3	=3	=3	=3	=3	=3
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-1r	.	1r	.	1GMm	G:7 (G B D F)	newline	5.75	guitar
+1r	.	1r	.	1GMm	newline	guitar	NA	G:7
 =4	=4	=4	=4	=4	=4	=4	=4	=4
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =5	=5	=5	=5	=5	=5	=5	=5	=5
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =6	=6	=6	=6	=6	=6	=6	=6	=6
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =7	=7	=7	=7	=7	=7	=7	=7	=7
-1r	.	1r	.	1GMm	G:7 (G B D F)	newline	16.63	guitar
+1r	.	1r	.	1GMm	newline	guitar	NA	G:7
 =8	=8	=8	=8	=8	=8	=8	=8	=8
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =9	=9	=9	=9	=9	=9	=9	=9	=9
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =10	=10	=10	=10	=10	=10	=10	=10	=10
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =11	=11	=11	=11	=11	=11	=11	=11	=11
-1r	.	1r	.	1FMm	F:7 (F A C E-)	newline	27.418	guitar
+1r	.	1r	.	1FMm	newline	guitar	NA	F:7
 =12	=12	=12	=12	=12	=12	=12	=12	=12
-1r	.	1r	.	1FMm	F:7 (F A C E-)	.	.	guitar
+1r	.	1r	.	1FMm	.	guitar	.	F:7
 =13	=13	=13	=13	=13	=13	=13	=13	=13
-1r	.	1r	.	1FMm	F:7 (F A C E-)	.	.	guitar
+1r	.	1r	.	1FMm	.	guitar	.	F:7
 =14	=14	=14	=14	=14	=14	=14	=14	=14
-1r	.	1r	.	1FMm	F:7 (F A C E-)	.	.	guitar
+1r	.	1r	.	1FMm	.	guitar	.	F:7
 =15	=15	=15	=15	=15	=15	=15	=15	=15
-1r	.	1r	.	1GMm	G:7 (G B D F)	newline	38.196	guitar
+1r	.	1r	.	1GMm	newline	guitar	NA	G:7
 =16	=16	=16	=16	=16	=16	=16	=16	=16
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =17	=17	=17	=17	=17	=17	=17	=17	=17
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =18	=18	=18	=18	=18	=18	=18	=18	=18
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =19	=19	=19	=19	=19	=19	=19	=19	=19
-1r	.	1r	.	1GMm	G:7 (G B D F)	newline	49.016	drums
+1r	.	1r	.	1GMm	newline	drums	NA	G:7
 =20	=20	=20	=20	=20	=20	=20	=20	=20
-1r	.	1r	.	1N	N	.	.	drums
+1r	.	1r	.	1N	.	drums	.	N
 =21	=21	=21	=21	=21	=21	=21	=21	=21
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-1r	.	1r	.	1GMm	G:7 (G B D F)	newline	54.56	organ
+1r	.	1r	.	1GMm	newline	organ	NA	G:7
 =22	=22	=22	=22	=22	=22	=22	=22	=22
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	organ
+1r	.	1r	.	1GMm	.	organ	.	G:7
 =23	=23	=23	=23	=23	=23	=23	=23	=23
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	organ
+1r	.	1r	.	1GMm	.	organ	.	G:7
 =24	=24	=24	=24	=24	=24	=24	=24	=24
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	organ
+1r	.	1r	.	1GMm	.	organ	.	G:7
 =25	=25	=25	=25	=25	=25	=25	=25	=25
-1r	.	1r	.	1GMm	G:7 (G B D F)	newline	65.494	organ
+1r	.	1r	.	1GMm	newline	organ	NA	G:7
 =26	=26	=26	=26	=26	=26	=26	=26	=26
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	organ
+1r	.	1r	.	1GMm	.	organ	.	G:7
 =27	=27	=27	=27	=27	=27	=27	=27	=27
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	organ
+1r	.	1r	.	1GMm	.	organ	.	G:7
 =28	=28	=28	=28	=28	=28	=28	=28	=28
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	organ
+1r	.	1r	.	1GMm	.	organ	.	G:7
 =29	=29	=29	=29	=29	=29	=29	=29	=29
-1r	.	1r	.	1FMm	F:7 (F A C E-)	newline	76.463	organ
+1r	.	1r	.	1FMm	newline	organ	NA	F:7
 =30	=30	=30	=30	=30	=30	=30	=30	=30
-1r	.	1r	.	1FMm	F:7 (F A C E-)	.	.	organ
+1r	.	1r	.	1FMm	.	organ	.	F:7
 =31	=31	=31	=31	=31	=31	=31	=31	=31
-1r	.	1r	.	1FMm	F:7 (F A C E-)	.	.	organ
+1r	.	1r	.	1FMm	.	organ	.	F:7
 =32	=32	=32	=32	=32	=32	=32	=32	=32
-1r	.	1r	.	1FMm	F:7 (F A C E-)	.	.	organ
+1r	.	1r	.	1FMm	.	organ	.	F:7
 =33	=33	=33	=33	=33	=33	=33	=33	=33
-1r	.	1r	.	1GMm	G:7 (G B D F)	newline	87.376	guitar
+1r	.	1r	.	1GMm	newline	guitar	NA	G:7
 =34	=34	=34	=34	=34	=34	=34	=34	=34
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =35	=35	=35	=35	=35	=35	=35	=35	=35
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =36	=36	=36	=36	=36	=36	=36	=36	=36
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =37	=37	=37	=37	=37	=37	=37	=37	=37
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
-1r	.	1r	.	1GMm	G:7 (G B D F)	newline	98.221	voice
+1r	.	1r	.	1GMm	newline	voice	NA	G:7
 =38	=38	=38	=38	=38	=38	=38	=38	=38
-8B-	Bom	8D	Bom	1N	N	.	.	voice
+8B-	Bom	8D	Bom	1N	.	voice	.	N
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -112,7 +112,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39
-8B-	Bom	8D	Bom	1N	N	.	.	voice
+8B-	Bom	8D	Bom	1N	.	voice	.	N
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -121,7 +121,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40
-8B-	Bom	8D	Bom	1N	N	.	.	voice
+8B-	Bom	8D	Bom	1N	.	voice	.	N
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -130,7 +130,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41
-8B-	Bom	8D	Bom	1N	N	newline	109.017	voice
+8B-	Bom	8D	Bom	1N	newline	voice	NA	N
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -139,7 +139,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42
-8B-	Bom	8D	Bom	1N	N	.	.	voice
+8B-	Bom	8D	Bom	1N	.	voice	.	N
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -148,7 +148,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43	=43	=43
-8B-	Bom	8D	Bom	1N	N	.	.	voice
+8B-	Bom	8D	Bom	1N	.	voice	.	N
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -157,7 +157,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44
-8B-	Bom	8D	Bom	1N	N	.	.	voice
+8B-	Bom	8D	Bom	1N	.	voice	.	N
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -166,37 +166,37 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45
-1r	.	1r	.	1FMm	F:7 (F A C E-)	newline	119.7	organ
+1r	.	1r	.	1FMm	newline	organ	NA	F:7
 =46	=46	=46	=46	=46	=46	=46	=46	=46
-1r	.	1r	.	1FMm	F:7 (F A C E-)	.	.	organ
+1r	.	1r	.	1FMm	.	organ	.	F:7
 =47	=47	=47	=47	=47	=47	=47	=47	=47
-1r	.	1r	.	1FMm	F:7 (F A C E-)	.	.	organ
+1r	.	1r	.	1FMm	.	organ	.	F:7
 =48	=48	=48	=48	=48	=48	=48	=48	=48
-1r	.	1r	.	1FMm	F:7 (F A C E-)	.	.	organ
+1r	.	1r	.	1FMm	.	organ	.	F:7
 =49	=49	=49	=49	=49	=49	=49	=49	=49
-1r	.	1r	.	1GMm	G:7 (G B D F)	newline	130.711	guitar
+1r	.	1r	.	1GMm	newline	guitar	NA	G:7
 =50	=50	=50	=50	=50	=50	=50	=50	=50
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =51	=51	=51	=51	=51	=51	=51	=51	=51
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =52	=52	=52	=52	=52	=52	=52	=52	=52
-1r	.	1r	.	1GMm	G:7 (G B D F)	.	.	guitar
+1r	.	1r	.	1GMm	.	guitar	.	G:7
 =53	=53	=53	=53	=53	=53	=53	=53	=53
-1r	.	1r	.	1GMm	G:7 (G B D F)	newline	141.622	drums
+1r	.	1r	.	1GMm	newline	drums	NA	G:7
 =54	=54	=54	=54	=54	=54	=54	=54	=54
-1r	.	1r	.	1N	N	.	.	drums
+1r	.	1r	.	1N	.	drums	.	N
 =55	=55	=55	=55	=55	=55	=55	=55	=55
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
-1r	.	1r	.	1N	N	newline	147.116	voice
+1r	.	1r	.	1N	newline	voice	NA	N
 =56	=56	=56	=56	=56	=56	=56	=56	=56
-1r	.	1r	.	1N	N	.	.	voice
+1r	.	1r	.	1N	.	voice	.	N
 =57	=57	=57	=57	=57	=57	=57	=57	=57
-1r	.	1r	.	1N	N	.	.	voice
+1r	.	1r	.	1N	.	voice	.	N
 =58	=58	=58	=58	=58	=58	=58	=58	=58
-1r	.	1r	.	1N	N	.	.	voice
+1r	.	1r	.	1N	.	voice	.	N
 =59	=59	=59	=59	=59	=59	=59	=59	=59
-8B-	Bom	8D	Bom	1GMm	G:7 (G B D F)	newline	157.904	voice
+8B-	Bom	8D	Bom	1GMm	newline	voice	NA	G:7
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -205,7 +205,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60	=60	=60
-8B-	Bom	8D	Bom	1GMm	G:7 (G B D F)	.	.	voice
+8B-	Bom	8D	Bom	1GMm	.	voice	.	G:7
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -214,7 +214,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61
-8B-	Bom	8D	Bom	1GMm	G:7 (G B D F)	.	.	voice
+8B-	Bom	8D	Bom	1GMm	.	voice	.	G:7
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -223,7 +223,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62	=62
-8B-	Bom	8D	Bom	1GMm	G:7 (G B D F)	.	.	voice
+8B-	Bom	8D	Bom	1GMm	.	voice	.	G:7
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -232,7 +232,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =63	=63	=63	=63	=63	=63	=63	=63	=63
-8B-	Bom	8D	Bom	1GMm	G:7 (G B D F)	newline	168.667	voice
+8B-	Bom	8D	Bom	1GMm	newline	voice	NA	G:7
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -241,7 +241,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64	=64	=64
-8B-	Bom	8D	Bom	1GMm	G:7 (G B D F)	.	.	voice
+8B-	Bom	8D	Bom	1GMm	.	voice	.	G:7
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -250,7 +250,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65
-8B-	Bom	8D	Bom	1GMm	G:7 (G B D F)	.	.	voice
+8B-	Bom	8D	Bom	1GMm	.	voice	.	G:7
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -259,7 +259,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66	=66
-8B-	Bom	8D	Bom	1GMm	G:7 (G B D F)	.	.	voice
+8B-	Bom	8D	Bom	1GMm	.	voice	.	G:7
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -269,7 +269,7 @@ r;	.	r;	.	1r;	r	.	0	r
 4r	.	4r	.	.	.	.	.	.
 =67	=67	=67	=67	=67	=67	=67	=67	=67
 *>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
-8B-	Bom	8D	Bom	1GMm	G:7 (G B D F)	newline	179.6	voice
+8B-	Bom	8D	Bom	1GMm	newline	voice	NA	G:7
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -278,7 +278,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =68	=68	=68	=68	=68	=68	=68	=68	=68
-8B-	Bom	8D	Bom	1GMm	G:7 (G B D F)	.	.	voice
+8B-	Bom	8D	Bom	1GMm	.	voice	.	G:7
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -287,7 +287,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69	=69	=69
-8B-	Bom	8D	Bom	1GMm	G:7 (G B D F)	.	.	voice
+8B-	Bom	8D	Bom	1GMm	.	voice	.	G:7
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -296,7 +296,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
 =70	=70	=70	=70	=70	=70	=70	=70	=70
-8B-	Bom	8D	Bom	1GMm	G:7 (G B D F)	.	.	voice
+8B-	Bom	8D	Bom	1GMm	.	voice	.	G:7
 16~B-	ch	16r	.	.	.	.	.	.
 [16A	bom	[16C	bom	.	.	.	.	.
 8A]	_	8C]	_	.	.	.	.	.
@@ -304,8 +304,8 @@ r;	.	r;	.	1r;	r	.	0	r
 8G]	_	8BB]	_	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.
-r;	.	r;	.	1r;	r	.	191.031	r
-r;	.	r;	.	1r;	r	.	195.788	r
+r;	.	r;	.	1r;	.	r	NA	1r
+r;	.	r;	.	1r;	.	r	NA	1r
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1970/01/31
 !!!BillboardPeak: 56

@@ -1,173 +1,174 @@
-**kern	**silbe	**kern	**silbe	**harmony	**chordsym	**phrase	**timestamp	**leadinstrument
-*ICvox	*	*ICvox	*	*M4/4	*M4/4	*	*	*
+**kern	**silbe	**kern	**silbe	**harmony	**phrase	**leadinstrument	**rhyme	**harte
+*ICvox	*	*ICvox	*	*M4/4	*	*	*	*M4/4
 *VRlead	*	*VRresponse	*	*	*	*	*	*
 *Hstimme	*	*Nstimme	*	*	*	*	*	*
-*C:	*	*C:	*	*c:	*c:	*c:	*c:	*c:
+*c:	*	*c:	*	*c:	*c:	*c:	*	*c:
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefG2	*	*clefG2	*	*	*	*	*	*
-r;	.	r;	.	1r;	r	.	0	r
+r;	.	r;	.	1r;	.	r	.	1r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
-1r	.	1r	.	1Cm	C:1 (C)	newline	.	bass guitar
+1r	.	1r	.	1Cm	newline	bass guitar	.	C:1
 =2	=2	=2	=2	=2	=2	=2	=2	=2
-1r	.	1r	.	1Cm	C:1 (C)	.	.	bass guitar
+1r	.	1r	.	1Cm	.	bass guitar	.	C:1
 =3	=3	=3	=3	=3	=3	=3	=3	=3
-1r	.	1r	.	1Cm	C:min (C E- G)	newline	.	guitar
+1r	.	1r	.	1Cm	newline	guitar	.	C:min
 =4	=4	=4	=4	=4	=4	=4	=4	=4
-1r	.	1r	.	1Cm	C:min (C E- G)	.	.	guitar
+1r	.	1r	.	1Cm	.	guitar	.	C:min
 =5	=5	=5	=5	=5	=5	=5	=5	=5
-1r	.	1r	.	1Cm	C:min (C E- G)	.	.	guitar
+1r	.	1r	.	1Cm	.	guitar	.	C:min
 =6	=6	=6	=6	=6	=6	=6	=6	=6
-1r	.	1r	.	1Cm	C:min (C E- G)	.	.	guitar
+1r	.	1r	.	1Cm	.	guitar	.	C:min
 =7	=7	=7	=7	=7	=7	=7	=7	=7
-1r	.	1r	.	1Cmm	C:min7 (C E- G)	.	.	synthesizer
+1r	.	1r	.	1Cmm	.	synthesizer	.	C:min7
 =8	=8	=8	=8	=8	=8	=8	=8	=8
-1r	.	1r	.	1Cmm	C:min7 (C E- G)	.	.	synthesizer
+1r	.	1r	.	1Cmm	.	synthesizer	.	C:min7
 =9	=9	=9	=9	=9	=9	=9	=9	=9
-1r	.	1r	.	1Fmm	F:min7 (F A- C E-)	.	.	synthesizer
+1r	.	1r	.	1Fmm	.	synthesizer	.	F:min7
 =10	=10	=10	=10	=10	=10	=10	=10	=10
-1r	.	1r	.	1Fmm	F:min7 (F A- C E-)	.	.	synthesizer
+1r	.	1r	.	1Fmm	.	synthesizer	.	F:min7
 =11	=11	=11	=11	=11	=11	=11	=11	=11
-1r	.	1r	.	1Gm	G:sus4(b7) (G C D F)	newline	.	synthesizer
+1r	.	1r	.	1Gm	newline	synthesizer	.	G:sus4(b7)
 =12	=12	=12	=12	=12	=12	=12	=12	=12
-1r	.	1r	.	1Gm	G:sus4(b7) (G C D F)	.	.	synthesizer
+1r	.	1r	.	1Gm	.	synthesizer	.	G:sus4(b7)
 =13	=13	=13	=13	=13	=13	=13	=13	=13
-1r	.	1r	.	1Gm	G:sus4(b7) (G C D F)	.	.	synthesizer
+1r	.	1r	.	1Gm	.	synthesizer	.	G:sus4(b7)
 =14	=14	=14	=14	=14	=14	=14	=14	=14
-1r	.	1r	.	1Gm	G:sus4(b7) (G C D F)	.	.	synthesizer
+1r	.	1r	.	1Gm	.	synthesizer	.	G:sus4(b7)
 =15	=15	=15	=15	=15	=15	=15	=15	=15
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	newline	.	guitar synthesizer
-.	.	.	.	2.CM	C:maj (C E G)	.	.	guitar synthesizer
+*C:	*	*C:	*	*C:	*C:	*C:	*	*C:
+1r	.	1r	.	4B-M	newline	guitar synthesizer	.	B-:maj/2
+.	.	.	.	2.CM	.	guitar synthesizer	.	C:maj
 =16	=16	=16	=16	=16	=16	=16	=16	=16
-1r	.	1r	.	4Cm	C:sus4 (C F G)	.	.	guitar synthesizer
-.	.	.	.	2.CM	C:maj (C E G)	.	.	guitar synthesizer
+1r	.	1r	.	4Cm	.	guitar synthesizer	.	C:sus4
+.	.	.	.	2.CM	.	guitar synthesizer	.	C:maj
 =17	=17	=17	=17	=17	=17	=17	=17	=17
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	guitar synthesizer
-.	.	.	.	2.CM	C:maj (C E G)	.	.	guitar synthesizer
+1r	.	1r	.	4B-M	.	guitar synthesizer	.	B-:maj/2
+.	.	.	.	2.CM	.	guitar synthesizer	.	C:maj
 =18	=18	=18	=18	=18	=18	=18	=18	=18
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	guitar synthesizer
-.	.	.	.	2.Fm	F:sus4 (C F B-)	.	.	guitar synthesizer
+1r	.	1r	.	4B-M	.	guitar synthesizer	.	B-:maj/2
+.	.	.	.	2.Fm	.	guitar synthesizer	.	F:sus4/5
 =19	=19	=19	=19	=19	=19	=19	=19	=19
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-4r	.	1r	.	4B-M	B-:maj (C B- D F)	newline	.	voice
-8r	.	.	.	2.CM	C:maj (C E G)	.	.	voice
+4r	.	1r	.	4B-M	newline	voice	.	B-:maj/2
+8r	.	.	.	2.CM	.	voice	.	C:maj
 8g	Look	.	.	.	.	.	.	.
 8g	up	.	.	.	.	.	.	.
 8f	on	.	.	.	.	.	.	.
 8e	the	.	.	.	.	.	.	.
 8f	wall	.	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20
-16e	_	1r	.	4Cm	C:sus4 (C F G)	.	.	voice
+16e	_	1r	.	4Cm	.	voice	.	C:sus4
 16d	_	.	.	.	.	.	.	.
 8c	_	.	.	.	.	.	.	.
-4r	.	.	.	2.CM	C:maj (C E G)	.	.	voice
+4r	.	.	.	2.CM	.	voice	.	C:maj
 2r	.	.	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21
-2r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	voice
-.	.	.	.	2.CM	C:maj (C E G)	.	.	voice
+2r	.	1r	.	4B-M	.	voice	.	B-:maj/2
+.	.	.	.	2.CM	.	voice	.	C:maj
 8e-	There	.	.	.	.	.	.	.
 8d	on	.	.	.	.	.	.	.
 8c	the	.	.	.	.	.	.	.
-8d	floor	.	.	.	.	.	.	.
+8d	floor	.	.	.	.	.	A	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22
-8c	_	1r	.	4B-M	B-:maj (C B- D F)	.	.	voice
+8c	_	1r	.	4B-M	.	voice	.	B-:maj/2
 8B-	_	.	.	.	.	.	.	.
-4r	.	.	.	2.Fm	F:sus4 (C F B-)	.	.	voice
+4r	.	.	.	2.Fm	.	voice	.	F:sus4/5
 2r	.	.	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23
-2r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	voice
-.	.	.	.	2.CM	C:maj (C E G)	.	.	voice
+2r	.	1r	.	4B-M	.	voice	.	B-:maj/2
+.	.	.	.	2.CM	.	voice	.	C:maj
 8c	Un-	.	.	.	.	.	.	.
 8d	-der	.	.	.	.	.	.	.
 8e	the	.	.	.	.	.	.	.
 8f	pil-	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24
-8e	-low	1r	.	4Cm	C:sus4 (C F G)	.	.	voice
+8e	-low	1r	.	4Cm	.	voice	.	C:sus4
 16d	_	.	.	.	.	.	.	.
 16c	_	.	.	.	.	.	.	.
-4r	.	.	.	2.CM	C:maj (C E G)	.	.	voice
+4r	.	.	.	2.CM	.	voice	.	C:maj
 2r	.	.	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25
-4r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	voice
-8r	.	.	.	2.CM	C:maj (C E G)	.	.	voice
+4r	.	1r	.	4B-M	.	voice	.	B-:maj/2
+8r	.	.	.	2.CM	.	voice	.	C:maj
 8c	Be-	.	.	.	.	.	.	.
 8e-	-hind	.	.	.	.	.	.	.
 8d	_	.	.	.	.	.	.	.
 8c	the	.	.	.	.	.	.	.
-8d	door	.	.	.	.	.	.	.
+8d	door	.	.	.	.	.	A	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26
-8c	_	1r	.	4B-M	B-:maj (C B- D F)	.	.	voice
+8c	_	1r	.	4B-M	.	voice	.	B-:maj/2
 8r	.	.	.	.	.	.	.	.
-4r	.	.	.	2.Fm	F:sus4 (C F B-)	.	.	voice
+4r	.	.	.	2.Fm	.	voice	.	F:sus4/5
 2r	.	.	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27
-4r	.	1r	.	4B-M	B-:maj (C B- D F)	newline	.	voice
-8f	There's	.	.	2.CM	C:maj (C E G)	.	.	voice
+4r	.	1r	.	4B-M	newline	voice	.	B-:maj/2
+8f	There's	.	.	2.CM	.	voice	.	C:maj
 8f	a	.	.	.	.	.	.	.
 8f	crack	.	.	.	.	.	.	.
 8f	in	.	.	.	.	.	.	.
 8f	the	.	.	.	.	.	.	.
 8g	mir-	.	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28
-4e	-ror	1r	.	4Cm	C:sus4 (C F G)	.	.	voice
-4r	.	.	.	4CM	C:maj (C E G)	.	.	voice
-2r	.	.	.	2B-MM	B-:maj7 (C B- D F A)	.	.	voice
+4e	-ror	1r	.	4Cm	.	voice	.	C:sus4
+4r	.	.	.	4CM	.	voice	.	C:maj
+2r	.	.	.	2B-MM	.	voice	.	B-:maj7/2
 =29	=29	=29	=29	=29	=29	=29	=29	=29
-8e	Some-	1r	.	4B-M	B-:maj (C B- D F)	.	.	voice
+8e	Some-	1r	.	4B-M	.	voice	.	B-:maj/2
 8e	-where	.	.	.	.	.	.	.
-8e	there's	.	.	2.CM	C:maj (C E G)	.	.	voice
+8e	there's	.	.	2.CM	.	voice	.	C:maj
 8e	a	.	.	.	.	.	.	.
 8e-	whole	.	.	.	.	.	.	.
 8d	in	.	.	.	.	.	.	.
 8c	the	.	.	.	.	.	.	.
 8d	win-	.	.	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30
-8e	-dow	1r	.	4CMm	C:7 (C E G B-)	.	.	voice
-8e	pane	.	.	.	.	.	.	.
-8e	_	.	.	4B-M	B-:maj (C B- D F)	.	.	voice
+8e	-dow	1r	.	4CMm	.	voice	.	C:7
+8e	pane	.	.	.	.	.	B	.
+8e	_	.	.	4B-M	.	voice	.	B-:maj/2
 8r	.	.	.	.	.	.	.	.
-2r	.	.	.	4FM	F:maj (C F A)	.	.	voice
-.	.	.	.	4Dm	D:min (C D F A)	.	.	voice
+2r	.	.	.	4FM	.	voice	.	F:maj/5
+.	.	.	.	4Dm	.	voice	.	D:min/b7
 =31	=31	=31	=31	=31	=31	=31	=31	=31
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	newline	.	.
-.	.	.	.	2CM	C:maj (C E G)	.	.	.
-.	.	.	.	4E-M	E-:maj (C E- G B-)	.	.	.
+1r	.	1r	.	4B-M	newline	.	.	B-:maj/2
+.	.	.	.	2CM	.	.	.	C:maj
+.	.	.	.	4E-M	.	.	.	E-:maj/6
 =32	=32	=32	=32	=32	=32	=32	=32	=32
-4r	.	1r	.	4Cm	C:min (C E- G)	.	.	.
-8f	Do	.	.	2B-M	B-:maj (C B- D F)	.	.	.
+4r	.	1r	.	4Cm	.	.	.	C:min
+8f	Do	.	.	2B-M	.	.	.	B-:maj/2
 8f	you	.	.	.	.	.	.	.
 8f	think	.	.	.	.	.	.	.
 8f	I'm	.	.	.	.	.	.	.
-8f	to	.	.	4FM	F:maj (C F A)	.	.	.
-8g	blame?	.	.	.	.	.	.	.
+8f	to	.	.	4FM	.	.	.	F:maj/5
+8g	blame?	.	.	.	.	.	B	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33
-4e	_	1r	.	4B-M	B-:maj (C B- D F)	.	.	.
-4r	.	.	.	2CM	C:maj (C E G)	.	.	.
+4e	_	1r	.	4B-M	.	.	.	B-:maj/2
+4r	.	.	.	2CM	.	.	.	C:maj
 4r	.	.	.	.	.	.	.	.
-8r	.	.	.	4E-M	E-:maj (C E- G B-)	.	.	.
+8r	.	.	.	4E-M	.	.	.	E-:maj/6
 [8cc	Tell	.	.	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34
-8cc]	_	1r	.	4Cm	C:min (C E- G)	.	.	.
+8cc]	_	1r	.	4Cm	.	.	.	C:min
 8g	me	.	.	.	.	.	.	.
-8f	do	.	.	2B-M	B-:maj (C B- D F)	.	.	.
+8f	do	.	.	2B-M	.	.	.	B-:maj/2
 8e-	you	.	.	.	.	.	.	.
 8f	think	.	.	.	.	.	.	.
 8f	I'm	.	.	.	.	.	.	.
-8f	to	.	.	4FM	F:maj (C F A)	.	.	.
-8g	blame?	.	.	.	.	.	.	.
+8f	to	.	.	4FM	.	.	.	F:maj/5
+8g	blame?	.	.	.	.	.	B	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35
 *>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-8g	_	1r	.	4FM	F:maj (G F A C)	newline	.	.
+8g	_	1r	.	4FM	newline	.	.	F:maj/2
 8r	.	.	.	.	.	.	.	.
-4r	.	.	.	2.GM	G:maj (G B D)	.	.	.
+4r	.	.	.	2.GM	.	.	.	G:maj
 2r	.	.	.	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36
-2r	.	4r	.	1GM	G:maj (G B D)	.	.	.
+2r	.	4r	.	1GM	.	.	.	G:maj
 .	.	8a	When	.	.	.	.	.
 .	.	8f	we	.	.	.	.	.
 4r	.	8b	do	.	.	.	.	.
@@ -175,13 +176,13 @@ r;	.	r;	.	1r;	r	.	0	r
 8f	You're	4r	.	.	.	.	.	.
 8f	ne-	.	.	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37
-8g	-ver	1r	.	4FM	F:maj (G F A C)	.	.	.
-4g	there	.	.	.	.	.	.	.
-.	.	.	.	2.GM	G:maj (G B D)	.	.	.
+8g	-ver	1r	.	4FM	.	.	.	F:maj/2
+4g	there	.	.	.	.	.	C	.
+.	.	.	.	2.GM	.	.	.	G:maj
 8r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38	=38
-2r	.	4r	.	1GM	G:maj (G B D)	.	.	.
+2r	.	4r	.	1GM	.	.	.	G:maj
 .	.	8cc	When	.	.	.	.	.
 .	.	8cc	you	.	.	.	.	.
 4r	.	8b	show	.	.	.	.	.
@@ -189,14 +190,14 @@ r;	.	r;	.	1r;	r	.	0	r
 8g	you	4r	.	.	.	.	.	.
 8a	stop	.	.	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39
-8g	and	1r	.	4FM	F:maj (G F A C)	.	.	.
-16g	stare	.	.	.	.	.	.	.
+8g	and	1r	.	4FM	.	.	.	F:maj/2
+16g	stare	.	.	.	.	.	C	.
 16e	_	.	.	.	.	.	.	.
-8d	_	.	.	2.GM	G:maj (G B D)	.	.	.
+8d	_	.	.	2.GM	.	.	.	G:maj
 8r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40
-2r	.	4r	.	1GM	G:maj (G B D)	.	.	.
+2r	.	4r	.	1GM	.	.	.	G:maj
 .	.	8a	Ab-	.	.	.	.	.
 .	.	8f	-a-	.	.	.	.	.
 8r	.	8b	-cab	.	.	.	.	.
@@ -204,13 +205,13 @@ r;	.	r;	.	1r;	r	.	0	r
 8f	in	4r	.	.	.	.	.	.
 8f	an-	.	.	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41
-8g	-y-	1r	.	4FM	F:maj (G F A C)	.	.	.
-8g	-where	.	.	.	.	.	.	.
-8g	_	.	.	2.GM	G:maj (G B D)	.	.	.
+8g	-y-	1r	.	4FM	.	.	.	F:maj/2
+8g	-where	.	.	.	.	.	C	.
+8g	_	.	.	2.GM	.	.	.	G:maj
 8r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42
-1r	.	4r	.	1GM	G:maj (G B D)	.	.	.
+1r	.	4r	.	1GM	.	.	.	G:maj
 .	.	8cc	Ab-	.	.	.	.	.
 .	.	8cc	-a-	.	.	.	.	.
 .	.	4.b	-cab	.	.	.	.	.
@@ -218,74 +219,74 @@ r;	.	r;	.	1r;	r	.	0	r
 =43	=43	=43	=43	=43	=43	=43	=43	=43
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-2r	.	1r	.	4B-M	B-:maj (C B- D F)	newline	.	.
-.	.	.	.	2.CM	C:maj (C E G)	.	.	.
+2r	.	1r	.	4B-M	newline	.	.	B-:maj/2
+.	.	.	.	2.CM	.	.	.	C:maj
 8r	.	.	.	.	.	.	.	.
 8e	If	.	.	.	.	.	.	.
 8e	you're	.	.	.	.	.	.	.
 [8f	wrap-	.	.	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44
-4f]	_	1r	.	4Cm	C:sus4 (C F G)	.	.	.
-4e	-pin'	.	.	2.CM	C:maj (C E G)	.	.	.
+4f]	_	1r	.	4Cm	.	.	.	C:sus4
+4e	-pin'	.	.	2.CM	.	.	.	C:maj
 2r	.	.	.	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45
-2r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	.
-.	.	.	.	2.CM	C:maj (C E G)	.	.	.
+2r	.	1r	.	4B-M	.	.	.	B-:maj/2
+.	.	.	.	2.CM	.	.	.	C:maj
 8~e	up	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 8d	the	.	.	.	.	.	.	.
-8d	world	.	.	.	.	.	.	.
+8d	world	.	.	.	.	.	D	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46
-4c	_	1r	.	4B-M	B-:maj (C B- D F)	.	.	.
-4r	.	.	.	2.Fm	F:sus4 (C F B-)	.	.	.
+4c	_	1r	.	4B-M	.	.	.	B-:maj/2
+4r	.	.	.	2.Fm	.	.	.	F:sus4/5
 2r	.	.	.	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47	=47
-2r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	.
-.	.	.	.	2.CM	C:maj (C E G)	.	.	.
+2r	.	1r	.	4B-M	.	.	.	B-:maj/2
+.	.	.	.	2.CM	.	.	.	C:maj
 8r	.	.	.	.	.	.	.	.
 8f	'Cause	.	.	.	.	.	.	.
 8e	you've	.	.	.	.	.	.	.
 [8f	ta-	.	.	.	.	.	.	.
 =48	=48	=48	=48	=48	=48	=48	=48	=48
-4f]	_	1r	.	4Cm	C:sus4 (C F G)	.	.	.
-8e	-ken	.	.	2.CM	C:maj (C E G)	.	.	.
+4f]	_	1r	.	4Cm	.	.	.	C:sus4
+8e	-ken	.	.	2.CM	.	.	.	C:maj
 16d	_	.	.	.	.	.	.	.
 16c	_	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49
-4r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	.
-8e	some-	.	.	2.CM	C:maj (C E G)	.	.	.
+4r	.	1r	.	4B-M	.	.	.	B-:maj/2
+8e	some-	.	.	2.CM	.	.	.	C:maj
 8e	-one	.	.	.	.	.	.	.
 8e	el-	.	.	.	.	.	.	.
 8d	_	.	.	.	.	.	.	.
 8c	-se's	.	.	.	.	.	.	.
-8d	girl	.	.	.	.	.	.	.
+8d	girl	.	.	.	.	.	D	.
 =50	=50	=50	=50	=50	=50	=50	=50	=50
-16c	_	1r	.	4B-M	B-:maj (C B- D F)	.	.	.
+16c	_	1r	.	4B-M	.	.	.	B-:maj/2
 16A	_	.	.	.	.	.	.	.
 8G	_	.	.	.	.	.	.	.
-4r	.	.	.	2.Fm	F:sus4 (C F B-)	.	.	.
+4r	.	.	.	2.Fm	.	.	.	F:sus4/5
 2r	.	.	.	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51	=51
-8r	.	1r	.	4B-M	B-:maj (C B- D F)	newline	.	.
+8r	.	1r	.	4B-M	newline	.	.	B-:maj/2
 8~c	uh	.	.	.	.	.	.	.
-8f	when	.	.	2.CM	C:maj (C E G)	.	.	.
+8f	when	.	.	2.CM	.	.	.	C:maj
 8f	they	.	.	.	.	.	.	.
 8f	turn	.	.	.	.	.	.	.
 8f	on	.	.	.	.	.	.	.
 8f	the	.	.	.	.	.	.	.
 8g	pil-	.	.	.	.	.	.	.
 =52	=52	=52	=52	=52	=52	=52	=52	=52
-4.e	-low	1r	.	4Cm	C:sus4 (C F G)	.	.	.
-.	.	.	.	4CM	C:maj (C E G)	.	.	.
+4.e	-low	1r	.	4Cm	.	.	.	C:sus4
+.	.	.	.	4CM	.	.	.	C:maj
 8r	.	.	.	.	.	.	.	.
-4r	.	.	.	2B-MM	B-:maj7 (C B- D F A)	.	.	.
+4r	.	.	.	2B-MM	.	.	.	B-:maj7/2
 8r	.	.	.	.	.	.	.	.
 [8e	E-	.	.	.	.	.	.	.
 =53	=53	=53	=53	=53	=53	=53	=53	=53
-8e]	_	1r	.	4B-M	B-:maj (C B- D F)	.	.	.
+8e]	_	1r	.	4B-M	.	.	.	B-:maj/2
 8c	-ven	.	.	.	.	.	.	.
-8e	when	.	.	2.CM	C:maj (C E G)	.	.	.
+8e	when	.	.	2.CM	.	.	.	C:maj
 8e	they	.	.	.	.	.	.	.
 8e	an-	.	.	.	.	.	.	.
 8d	-swer	.	.	.	.	.	.	.
@@ -293,47 +294,47 @@ r;	.	r;	.	1r;	r	.	0	r
 16d	tel-	.	.	.	.	.	.	.
 [16e	-e-	.	.	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54	=54	=54
-8e]	_	1r	.	4CMm	C:7 (C E G B-)	.	.	.
+8e]	_	1r	.	4CMm	.	.	.	C:7
 8e	-phone	.	.	.	.	.	.	.
-4e	_	.	.	4B-M	B-:maj (C B- D F)	.	.	.
-2r	.	.	.	4FM	F:maj (C F A)	.	.	.
-.	.	.	.	4Dm	D:min (C D F A)	.	.	.
+4e	_	.	.	4B-M	.	.	.	B-:maj/2
+2r	.	.	.	4FM	.	.	.	F:maj/5
+.	.	.	.	4Dm	.	.	.	D:min/b7
 =55	=55	=55	=55	=55	=55	=55	=55	=55
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	newline	.	.
-.	.	.	.	2CM	C:maj (C E G)	.	.	.
-.	.	.	.	4E-M	E-:maj (C E- G B-)	.	.	.
+1r	.	1r	.	4B-M	newline	.	.	B-:maj/2
+.	.	.	.	2CM	.	.	.	C:maj
+.	.	.	.	4E-M	.	.	.	E-:maj/6
 =56	=56	=56	=56	=56	=56	=56	=56	=56
-4r	.	1r	.	4Cm	C:min (C E- G)	.	.	.
-8f	Don't	.	.	2B-M	B-:maj (C B- D F)	.	.	.
+4r	.	1r	.	4Cm	.	.	.	C:min
+8f	Don't	.	.	2B-M	.	.	.	B-:maj/2
 8f	you	.	.	.	.	.	.	.
 8f	think	.	.	.	.	.	.	.
 8f	that	.	.	.	.	.	.	.
-8f	by	.	.	4FM	F:maj (C F A)	.	.	.
+8f	by	.	.	4FM	.	.	.	F:maj/5
 8g	now	.	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57
-4e	_	1r	.	4B-M	B-:maj (C B- D F)	.	.	.
-4r	.	.	.	2CM	C:maj (C E G)	.	.	.
+4e	_	1r	.	4B-M	.	.	.	B-:maj/2
+4r	.	.	.	2CM	.	.	.	C:maj
 4r	.	.	.	.	.	.	.	.
-8r	.	.	.	4E-M	E-:maj (C E- G B-)	.	.	.
+8r	.	.	.	4E-M	.	.	.	E-:maj/6
 [8b-	Tell	.	.	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58
-8b-]	_	1r	.	4Cm	C:min (C E- G)	.	.	.
+8b-]	_	1r	.	4Cm	.	.	.	C:min
 8g	me	.	.	.	.	.	.	.
-8f	don't	.	.	2B-M	B-:maj (C B- D F)	.	.	.
+8f	don't	.	.	2B-M	.	.	.	B-:maj/2
 8e-	you	.	.	.	.	.	.	.
 8f	think	.	.	.	.	.	.	.
 8f	that	.	.	.	.	.	.	.
-8f	by	.	.	4FM	F:maj (C F A)	.	.	.
+8f	by	.	.	4FM	.	.	.	F:maj/5
 8g	now	.	.	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59
 *>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-8g	_	1r	.	4FM	F:maj (G F A C)	newline	.	.
+8g	_	1r	.	4FM	newline	.	.	F:maj/2
 8r	.	.	.	.	.	.	.	.
-4r	.	.	.	2.GM	G:maj (G B D)	.	.	.
+4r	.	.	.	2.GM	.	.	.	G:maj
 2r	.	.	.	.	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60	=60	=60
-2r	.	4r	.	1GM	G:maj (G B D)	.	.	.
+2r	.	4r	.	1GM	.	.	.	G:maj
 .	.	8a	When	.	.	.	.	.
 .	.	8f	we	.	.	.	.	.
 4r	.	8b	do	.	.	.	.	.
@@ -341,13 +342,13 @@ r;	.	r;	.	1r;	r	.	0	r
 8f	You're	4r	.	.	.	.	.	.
 8f	ne-	.	.	.	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61
-8g	-ver	1r	.	4FM	F:maj (G F A C)	.	.	.
-4g	there	.	.	.	.	.	.	.
-.	.	.	.	2.GM	G:maj (G B D)	.	.	.
+8g	-ver	1r	.	4FM	.	.	.	F:maj/2
+4g	there	.	.	.	.	.	C	.
+.	.	.	.	2.GM	.	.	.	G:maj
 8r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62	=62
-2r	.	4r	.	1GM	G:maj (G B D)	.	.	.
+2r	.	4r	.	1GM	.	.	.	G:maj
 .	.	8cc	When	.	.	.	.	.
 .	.	8cc	you	.	.	.	.	.
 4r	.	8b	show	.	.	.	.	.
@@ -355,14 +356,14 @@ r;	.	r;	.	1r;	r	.	0	r
 8g	you	4r	.	.	.	.	.	.
 8a	stop	.	.	.	.	.	.	.
 =63	=63	=63	=63	=63	=63	=63	=63	=63
-8g	and	1r	.	4FM	F:maj (G F A C)	.	.	.
-16g	stare	.	.	.	.	.	.	.
+8g	and	1r	.	4FM	.	.	.	F:maj/2
+16g	stare	.	.	.	.	.	C	.
 16e	_	.	.	.	.	.	.	.
-8d	_	.	.	2.GM	G:maj (G B D)	.	.	.
+8d	_	.	.	2.GM	.	.	.	G:maj
 8r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64	=64	=64
-2r	.	4r	.	1GM	G:maj (G B D)	.	.	.
+2r	.	4r	.	1GM	.	.	.	G:maj
 .	.	8a	Ab-	.	.	.	.	.
 .	.	8f	-a-	.	.	.	.	.
 8r	.	8b	-cab	.	.	.	.	.
@@ -370,13 +371,13 @@ r;	.	r;	.	1r;	r	.	0	r
 8f	in	4r	.	.	.	.	.	.
 8f	an-	.	.	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65
-8g	-y-	1r	.	4FM	F:maj (G F A C)	.	.	.
-4g	-where	.	.	.	.	.	.	.
-.	.	.	.	2.GM	G:maj (G B D)	.	.	.
+8g	-y-	1r	.	4FM	.	.	.	F:maj/2
+4g	-where	.	.	.	.	.	C	.
+.	.	.	.	2.GM	.	.	.	G:maj
 8r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66	=66
-2r	.	4r	.	1GM	G:maj (G B D)	.	.	.
+2r	.	4r	.	1GM	.	.	.	G:maj
 .	.	8cc	Ab-	.	.	.	.	.
 .	.	8cc	-a-	.	.	.	.	.
 8r	.	4.b	-cab	.	.	.	.	.
@@ -386,18 +387,18 @@ r;	.	r;	.	1r;	r	.	0	r
 =67	=67	=67	=67	=67	=67	=67	=67	=67
 *>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E
 *>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition
-*	*	*	*	*a:	*:	*	*	*
-8a	-lly	1r	.	1Am	A:min (A C E)	newline	.	.
-8.a	care	.	.	.	.	.	.	.
+*a:	*	*a:	*	*a:	*	*	*	*a:
+8a	-lly	1r	.	1Am	newline	.	.	A:min
+8.a	care	.	.	.	.	.	C	.
 8.a	_	.	.	.	.	.	.	.
 8a	_	.	.	.	.	.	.	.
 16g	_	.	.	.	.	.	.	.
 16e	_	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 =68	=68	=68	=68	=68	=68	=68	=68	=68
-1r	.	1r	.	1Am	A:min (A C E)	.	.	.
+1r	.	1r	.	1Am	.	.	.	A:min
 =69	=69	=69	=69	=69	=69	=69	=69	=69
-8r	.	1r	.	1Am	A:min (A C E)	newline	.	voice
+8r	.	1r	.	1Am	newline	synthesizer	.	A:min
 8G	_	.	.	.	.	.	.	.
 8A	_	.	.	.	.	.	.	.
 [8c	_	.	.	.	.	.	.	.
@@ -406,7 +407,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.	.	.
 [8d	_	.	.	.	.	.	.	.
 =70	=70	=70	=70	=70	=70	=70	=70	=70
-8d]	_	1r	.	1Am	A:min (A C E)	.	.	voice
+8d]	_	1r	.	1Am	.	synthesizer	.	A:min
 8c	_	.	.	.	.	.	.	.
 8B	_	.	.	.	.	.	.	.
 [8G	_	.	.	.	.	.	.	.
@@ -414,7 +415,7 @@ r;	.	r;	.	1r;	r	.	0	r
 4A	_	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 =71	=71	=71	=71	=71	=71	=71	=71	=71
-8r	.	1r	.	1Am	A:min (A C E)	.	.	voice
+8r	.	1r	.	1Am	.	synthesizer	.	A:min
 8G	_	.	.	.	.	.	.	.
 8A	_	.	.	.	.	.	.	.
 [8c	_	.	.	.	.	.	.	.
@@ -423,7 +424,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.	.	.
 8d	_	.	.	.	.	.	.	.
 =72	=72	=72	=72	=72	=72	=72	=72	=72
-8r	.	1r	.	1Am	A:min (A C E)	.	.	voice
+8r	.	1r	.	1Am	.	synthesizer	.	A:min
 8d	_	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 [8d	_	.	.	.	.	.	.	.
@@ -431,7 +432,7 @@ r;	.	r;	.	1r;	r	.	0	r
 4c	_	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 =73	=73	=73	=73	=73	=73	=73	=73	=73
-8r	.	1r	.	1Am	A:min (A C E)	.	.	voice
+8r	.	1r	.	1Am	.	synthesizer	.	A:min
 8G	_	.	.	.	.	.	.	.
 8A	_	.	.	.	.	.	.	.
 [8c	_	.	.	.	.	.	.	.
@@ -440,7 +441,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.	.	.
 [8d	_	.	.	.	.	.	.	.
 =74	=74	=74	=74	=74	=74	=74	=74	=74
-8d]	_	1r	.	1Am	A:min (A C E)	.	.	voice
+8d]	_	1r	.	1Am	.	synthesizer	.	A:min
 8c	_	.	.	.	.	.	.	.
 8B	_	.	.	.	.	.	.	.
 [8G	_	.	.	.	.	.	.	.
@@ -448,7 +449,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8A	_	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 =75	=75	=75	=75	=75	=75	=75	=75	=75
-8r	.	1r	.	1Am	A:min (A C E)	.	.	voice
+8r	.	1r	.	1Am	.	synthesizer	.	A:min
 8G	_	.	.	.	.	.	.	.
 8A	_	.	.	.	.	.	.	.
 [8c	_	.	.	.	.	.	.	.
@@ -457,7 +458,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.	.	.
 8d	_	.	.	.	.	.	.	.
 =76	=76	=76	=76	=76	=76	=76	=76	=76
-8r	.	1r	.	1Am	A:min (A C E)	.	.	voice
+8r	.	1r	.	1Am	.	synthesizer	.	A:min
 8e	_	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 4e	_	.	.	.	.	.	.	.
@@ -469,20 +470,20 @@ r;	.	r;	.	1r;	r	.	0	r
 =77	=77	=77	=77	=77	=77	=77	=77	=77
 *>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F	*>Letter>F
 *>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition
-*	*	*	*	*E:	*E:	*	*	*
-1r	.	1r	.	4.BM	B:maj (B D# F#)	newline	.	guitar
-.	.	.	.	4.AM	A:maj (A C# E)	.	.	guitar
-.	.	.	.	4GM	G:maj (G B D)	.	.	guitar
+*E:	*	*E:	*	*E:	*	*	*	*E:
+1r	.	1r	.	4.BM	newline	guitar	.	B:maj
+.	.	.	.	4.AM	.	guitar	.	A:maj
+.	.	.	.	4GM	.	guitar	.	G:maj
 =78	=78	=78	=78	=78	=78	=78	=78	=78
-2r	.	1r	.	2BM	B:maj (B D# F#)	.	.	guitar
-4r	.	.	.	2Em	E:min (G E B)	.	.	guitar
+2r	.	1r	.	2BM	.	guitar	.	B:maj
+4r	.	.	.	2Em	.	guitar	.	E:min/b3
 8r	.	.	.	.	.	.	.	.
 16e	Do	.	.	.	.	.	.	.
 16e	you	.	.	.	.	.	.	.
 =79	=79	=79	=79	=79	=79	=79	=79	=79
 *>Letter>G	*>Letter>G	*>Letter>G	*>Letter>G	*>Letter>G	*>Letter>G	*>Letter>G	*>Letter>G	*>Letter>G
 *>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
-8e	want	1r	.	1EM	E:maj (E G# B)	newline	.	voice
+8e	want	1r	.	1EM	newline	voice	.	E:maj
 8e	it?	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 8e	You	.	.	.	.	.	.	.
@@ -490,7 +491,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8e	it	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 =80	=80	=80	=80	=80	=80	=80	=80	=80
-8e	Got	1r	.	1EM	E:maj (E G# B)	.	.	voice
+8e	Got	1r	.	1EM	.	voice	.	E:maj
 8e	it	.	.	.	.	.	.	.
 8~a	no	.	.	.	.	.	.	.
 8~g#	_	.	.	.	.	.	.	.
@@ -499,7 +500,7 @@ r;	.	r;	.	1r;	r	.	0	r
 16e	Do	.	.	.	.	.	.	.
 16e	you	.	.	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81	=81	=81
-8e	want	1r	.	1EM	E:maj (E G# B)	.	.	voice
+8e	want	1r	.	1EM	.	voice	.	E:maj
 8e	it?	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 8e	You	.	.	.	.	.	.	.
@@ -507,94 +508,94 @@ r;	.	r;	.	1r;	r	.	0	r
 8e	it	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 =82	=82	=82	=82	=82	=82	=82	=82	=82
-4r	.	1r	.	1EM	E:maj (E G# B)	.	.	voice
+4r	.	1r	.	1EM	.	voice	.	E:maj
 8g#	Now	.	.	.	.	.	.	.
 8g#	you	.	.	.	.	.	.	.
 8f#	know	.	.	.	.	.	.	.
 8e	_	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
 =83	=83	=83	=83	=83	=83	=83	=83	=83
-*G:	*	*G:	*	*G:	*G:	*	*	*
-1r	.	1r	.	2GM	G:maj (G B D)	newline	.	guitar
-.	.	.	.	2AM	A:maj (A C# E)	.	.	guitar
+*G:	*	*G:	*	*G:	*	*	*	*G:
+1r	.	1r	.	2GM	newline	guitar	.	G:maj
+.	.	.	.	2AM	.	guitar	.	A:maj
 =84	=84	=84	=84	=84	=84	=84	=84	=84
-1r	.	1r	.	2CM	C:maj (C E G)	.	.	guitar
-.	.	.	.	2GM	G:maj (G B D)	.	.	guitar
+1r	.	1r	.	2CM	.	guitar	.	C:maj
+.	.	.	.	2GM	.	guitar	.	G:maj
 =85	=85	=85	=85	=85	=85	=85	=85	=85
-1r	.	1r	.	2E-M	E-:maj (E- G B-)	.	.	guitar
-.	.	.	.	2B-M	B-:maj (D B- F)	.	.	guitar
+1r	.	1r	.	2E-M	.	guitar	.	E-:maj
+.	.	.	.	2B-M	.	guitar	.	B-:maj/3
 =86	=86	=86	=86	=86	=86	=86	=86	=86
-1r	.	1r	.	4FM	F:maj (F A C)	.	.	guitar
-.	.	.	.	2.GM	G:maj (G B D)	.	.	guitar
+1r	.	1r	.	4FM	.	guitar	.	F:maj
+.	.	.	.	2.GM	.	guitar	.	G:maj
 =87	=87	=87	=87	=87	=87	=87	=87	=87
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-*	*	*	*	*C:	*C:	*	*	*
-2r	.	1r	.	4B-M	B-:maj (C B- D F)	newline	.	voice
-.	.	.	.	2.CM	C:maj (C E G)	.	.	voice
+*C:	*	*C:	*	*C:	*	*	*	*C:
+2r	.	1r	.	4B-M	newline	voice	.	B-:maj/2
+.	.	.	.	2.CM	.	voice	.	C:maj
 8c	It's	.	.	.	.	.	.	.
 8d	an	.	.	.	.	.	.	.
 8e	i-	.	.	.	.	.	.	.
 [8f	-llu-	.	.	.	.	.	.	.
 =88	=88	=88	=88	=88	=88	=88	=88	=88
-4f]	_	1r	.	4Cm	C:sus4 (C F G)	.	.	voice
-8e	-sion	.	.	2.CM	C:maj (C E G)	.	.	voice
+4f]	_	1r	.	4Cm	.	voice	.	C:sus4
+8e	-sion	.	.	2.CM	.	voice	e	C:maj
 8r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =89	=89	=89	=89	=89	=89	=89	=89	=89
-2r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	voice
-.	.	.	.	2.CM	C:maj (C E G)	.	.	voice
+2r	.	1r	.	4B-M	.	voice	.	B-:maj/2
+.	.	.	.	2.CM	.	voice	.	C:maj
 4e	It's	.	.	.	.	.	.	.
 8c	a	.	.	.	.	.	.	.
-8d	game	.	.	.	.	.	.	.
+8d	game	.	.	.	.	.	F	.
 =90	=90	=90	=90	=90	=90	=90	=90	=90
-4c	_	1r	.	4B-M	B-:maj (C B- D F)	.	.	voice
-4r	.	.	.	2.Fm	F:sus4 (C F B-)	.	.	voice
+4c	_	1r	.	4B-M	.	voice	.	B-:maj/2
+4r	.	.	.	2.Fm	.	voice	.	F:sus4/5
 2r	.	.	.	.	.	.	.	.
 =91	=91	=91	=91	=91	=91	=91	=91	=91
-2r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	voice
-.	.	.	.	2.CM	C:maj (C E G)	.	.	voice
+2r	.	1r	.	4B-M	.	voice	.	B-:maj/2
+.	.	.	.	2.CM	.	voice	.	C:maj
 8r	.	.	.	.	.	.	.	.
 8e	Or	.	.	.	.	.	.	.
 8e	re-	.	.	.	.	.	.	.
 [8f	-flec-	.	.	.	.	.	.	.
 =92	=92	=92	=92	=92	=92	=92	=92	=92
-4f]	_	1r	.	4Cm	C:sus4 (C F G)	.	.	voice
-8e	-tion	.	.	2.CM	C:maj (C E G)	.	.	voice
+4f]	_	1r	.	4Cm	.	voice	.	C:sus4
+8e	-tion	.	.	2.CM	.	voice	e	C:maj
 16d	_	.	.	.	.	.	.	.
 16c	_	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =93	=93	=93	=93	=93	=93	=93	=93	=93
-8r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	voice
+8r	.	1r	.	4B-M	.	voice	.	B-:maj/2
 8e	of	.	.	.	.	.	.	.
-8e	some-	.	.	2.CM	C:maj (C E G)	.	.	voice
+8e	some-	.	.	2.CM	.	voice	.	C:maj
 8e	-one	.	.	.	.	.	.	.
 8e	el-	.	.	.	.	.	.	.
 8d	_	.	.	.	.	.	.	.
 8c	-se's	.	.	.	.	.	.	.
-8d	name	.	.	.	.	.	.	.
+8d	name	.	.	.	.	.	F	.
 =94	=94	=94	=94	=94	=94	=94	=94	=94
-4c	_	1r	.	4B-M	B-:maj (C B- D F)	.	.	voice
-4r	.	.	.	2.Fm	F:sus4 (C F B-)	.	.	voice
+4c	_	1r	.	4B-M	.	voice	.	B-:maj/2
+4r	.	.	.	2.Fm	.	voice	.	F:sus4/5
 2r	.	.	.	.	.	.	.	.
 =95	=95	=95	=95	=95	=95	=95	=95	=95
-4r	.	1r	.	4B-M	B-:maj (C B- D F)	newline	.	voice
-8f	When	.	.	2.CM	C:maj (C E G)	.	.	voice
+4r	.	1r	.	4B-M	newline	voice	.	B-:maj/2
+8f	When	.	.	2.CM	.	voice	.	C:maj
 8f	you	.	.	.	.	.	.	.
 8f	wake	.	.	.	.	.	.	.
 8f	in	.	.	.	.	.	.	.
 8f	the	.	.	.	.	.	.	.
 8g	morn-	.	.	.	.	.	.	.
 =96	=96	=96	=96	=96	=96	=96	=96	=96
-4e	-in'	1r	.	4Cm	C:sus4 (C F G)	.	.	voice
-4r	.	.	.	4CM	C:maj (C E G)	.	.	voice
-4r	.	.	.	2B-MM	B-:maj7 (C B- D F A)	.	.	voice
+4e	-in'	1r	.	4Cm	.	voice	.	C:sus4
+4r	.	.	.	4CM	.	voice	.	C:maj
+4r	.	.	.	2B-MM	.	voice	.	B-:maj7/2
 8r	.	.	.	.	.	.	.	.
 8d	wake	.	.	.	.	.	.	.
 =97	=97	=97	=97	=97	=97	=97	=97	=97
-8e	_	1r	.	4B-M	B-:maj (C B- D F)	.	.	voice
+8e	_	1r	.	4B-M	.	voice	.	B-:maj/2
 8e	and	.	.	.	.	.	.	.
-8e	find	.	.	2.CM	C:maj (C E G)	.	.	voice
+8e	find	.	.	2.CM	.	voice	.	C:maj
 8e	you're	.	.	.	.	.	.	.
 8e	co-	.	.	.	.	.	.	.
 8d	-vered	.	.	.	.	.	.	.
@@ -602,82 +603,82 @@ r;	.	r;	.	1r;	r	.	0	r
 16d	cell-	.	.	.	.	.	.	.
 [16c	-o-	.	.	.	.	.	.	.
 =98	=98	=98	=98	=98	=98	=98	=98	=98
-8c]	_	1r	.	4CMm	C:7 (C E G B-)	.	.	voice
-8e	-phane	.	.	.	.	.	.	.
-8e	_	.	.	4B-M	B-:maj (C B- D F)	.	.	voice
+8c]	_	1r	.	4CMm	.	voice	.	C:7
+8e	-phane	.	.	.	.	.	F	.
+8e	_	.	.	4B-M	.	voice	.	B-:maj/2
 8r	.	.	.	.	.	.	.	.
-2r	.	.	.	4FM	F:maj (C F A)	.	.	voice
-.	.	.	.	4Dm	D:min (C D F A)	.	.	voice
+2r	.	.	.	4FM	.	voice	.	F:maj/5
+.	.	.	.	4Dm	.	voice	.	D:min/b7
 =99	=99	=99	=99	=99	=99	=99	=99	=99
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	newline	.	.
-.	.	.	.	2CM	C:maj (C E G)	.	.	.
-.	.	.	.	4E-M	E-:maj (C E- G B-)	.	.	.
+1r	.	1r	.	4B-M	newline	.	.	B-:maj/2
+.	.	.	.	2CM	.	.	.	C:maj
+.	.	.	.	4E-M	.	.	.	E-:maj/6
 =100	=100	=100	=100	=100	=100	=100	=100	=100
-8r	.	1r	.	4Cm	C:min (C E- G)	.	.	.
+8r	.	1r	.	4Cm	.	.	.	C:min
 8f	Well	.	.	.	.	.	.	.
-8f	there's	.	.	2B-M	B-:maj (C B- D F)	.	.	.
+8f	there's	.	.	2B-M	.	.	C	B-:maj/2
 8f	a	.	.	.	.	.	.	.
 8f	hole	.	.	.	.	.	.	.
 8f	in	.	.	.	.	.	.	.
-8f	there	.	.	4FM	F:maj (C F A)	.	.	.
+8f	there	.	.	4FM	.	.	C	F:maj/5
 8g	some-	.	.	.	.	.	.	.
 =101	=101	=101	=101	=101	=101	=101	=101	=101
-4e	-where	1r	.	4B-M	B-:maj (C B- D F)	.	.	.
-4r	.	.	.	2CM	C:maj (C E G)	.	.	.
+4e	-where	1r	.	4B-M	.	.	C	B-:maj/2
+4r	.	.	.	2CM	.	.	.	C:maj
 2r	.	.	.	.	.	.	.	.
-.	.	.	.	4E-M	E-:maj (C E- G B-)	.	.	.
+.	.	.	.	4E-M	.	.	.	E-:maj/6
 =102	=102	=102	=102	=102	=102	=102	=102	=102
-8r	.	1r	.	4Cm	C:min (C E- G)	.	.	.
+8r	.	1r	.	4Cm	.	.	.	C:min
 8a	Yeah	.	.	.	.	.	.	.
-8f	there's	.	.	2B-M	B-:maj (C B- D F)	.	.	.
+8f	there's	.	.	2B-M	.	.	C	B-:maj/2
 8f	a	.	.	.	.	.	.	.
 8f	hole	.	.	.	.	.	.	.
 8f	in	.	.	.	.	.	.	.
-8f	there	.	.	4FM	F:maj (C F A)	.	.	.
+8f	there	.	.	4FM	.	.	C	F:maj/5
 8g	some-	.	.	.	.	.	.	.
 =103	=103	=103	=103	=103	=103	=103	=103	=103
-8e	-where	1r	.	4B-M	B-:maj (C B- D F)	.	.	.
+8e	-where	1r	.	4B-M	.	.	C	B-:maj/2
 8e	_	.	.	.	.	.	.	.
-16d	_	.	.	2CM	C:maj (C E G)	.	.	.
+16d	_	.	.	2CM	.	.	.	C:maj
 16c	_	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.
-8r	.	.	.	4E-M	E-:maj (C E- G B-)	.	.	.
+8r	.	.	.	4E-M	.	.	.	E-:maj/6
 [8cc	Ba-	.	.	.	.	.	.	.
 =104	=104	=104	=104	=104	=104	=104	=104	=104
-8cc]	_	1r	.	4Cm	C:min (C E- G)	.	.	.
+8cc]	_	1r	.	4Cm	.	.	.	C:min
 8g	-by	.	.	.	.	.	.	.
-8f	there's	.	.	2B-M	B-:maj (C B- D F)	.	.	.
+8f	there's	.	.	2B-M	.	.	C	B-:maj/2
 8f	a	.	.	.	.	.	.	.
 8f	hole	.	.	.	.	.	.	.
 8f	in	.	.	.	.	.	.	.
-8f	there	.	.	4FM	F:maj (C F A)	.	.	.
+8f	there	.	.	4FM	.	.	C	F:maj/5
 8g	some-	.	.	.	.	.	.	.
 =105	=105	=105	=105	=105	=105	=105	=105	=105
-8g	-where	1r	.	4B-M	B-:maj (C B- D F)	.	.	.
+8g	-where	1r	.	4B-M	.	.	C	B-:maj/2
 8g	_	.	.	.	.	.	.	.
-8g	_	.	.	2CM	C:maj (C E G)	.	.	.
+8g	_	.	.	2CM	.	.	.	C:maj
 16f	_	.	.	.	.	.	.	.
 16e	_	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
-.	.	.	.	4E-M	E-:maj (C E- G B-)	.	.	.
+.	.	.	.	4E-M	.	.	.	E-:maj/6
 =106	=106	=106	=106	=106	=106	=106	=106	=106
-8r	.	1r	.	4Cm	C:min (C E- G)	.	.	.
+8r	.	1r	.	4Cm	.	.	.	C:min
 8g	Now	.	.	.	.	.	.	.
-8f	there's	.	.	2B-M	B-:maj (C B- D F)	.	.	.
+8f	there's	.	.	2B-M	.	.	C	B-:maj/2
 8f	a	.	.	.	.	.	.	.
 8f	hole	.	.	.	.	.	.	.
 8f	in	.	.	.	.	.	.	.
-8f	there	.	.	4FM	F:maj (C F A)	.	.	.
+8f	there	.	.	4FM	.	.	C	F:maj/5
 8g	some-	.	.	.	.	.	.	.
 =107	=107	=107	=107	=107	=107	=107	=107	=107
 *>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-4g	-where	1r	.	4FM	F:maj (G F A C)	newline	.	voice
-4r	.	.	.	2.GM	G:maj (G B D)	.	.	voice
+4g	-where	1r	.	4FM	newline	voice	C	F:maj/2
+4r	.	.	.	2.GM	.	voice	.	G:maj
 2r	.	.	.	.	.	.	.	.
 =108	=108	=108	=108	=108	=108	=108	=108	=108
-2r	.	4r	.	1GM	G:maj (G B D)	.	.	voice
+2r	.	4r	.	1GM	.	voice	.	G:maj
 .	.	8a	When	.	.	.	.	.
 .	.	8f	we	.	.	.	.	.
 4r	.	8b	do	.	.	.	.	.
@@ -685,12 +686,12 @@ r;	.	r;	.	1r;	r	.	0	r
 8f	You're	4r	.	.	.	.	.	.
 8f	ne-	.	.	.	.	.	.	.
 =109	=109	=109	=109	=109	=109	=109	=109	=109
-8g	-ver	1r	.	4FM	F:maj (G F A C)	.	.	voice
-4.g	there	.	.	.	.	.	.	.
-.	.	.	.	2.GM	G:maj (G B D)	.	.	voice
+8g	-ver	1r	.	4FM	.	voice	.	F:maj/2
+4.g	there	.	.	.	.	.	C	.
+.	.	.	.	2.GM	.	voice	.	G:maj
 2r	.	.	.	.	.	.	.	.
 =110	=110	=110	=110	=110	=110	=110	=110	=110
-2r	.	4r	.	1GM	G:maj (G B D)	.	.	voice
+2r	.	4r	.	1GM	.	voice	.	G:maj
 .	.	8cc	When	.	.	.	.	.
 .	.	8cc	you	.	.	.	.	.
 4r	.	8b	show	.	.	.	.	.
@@ -698,14 +699,14 @@ r;	.	r;	.	1r;	r	.	0	r
 8g	you	4r	.	.	.	.	.	.
 8a	stop	.	.	.	.	.	.	.
 =111	=111	=111	=111	=111	=111	=111	=111	=111
-8g	and	1r	.	4FM	F:maj (G F A C)	.	.	voice
-16g	stare	.	.	.	.	.	.	.
+8g	and	1r	.	4FM	.	voice	.	F:maj/2
+16g	stare	.	.	.	.	.	C	.
 16e	_	.	.	.	.	.	.	.
-8d	_	.	.	2.GM	G:maj (G B D)	.	.	voice
+8d	_	.	.	2.GM	.	voice	.	G:maj
 8r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
 =112	=112	=112	=112	=112	=112	=112	=112	=112
-2r	.	4r	.	1GM	G:maj (G B D)	.	.	voice
+2r	.	4r	.	1GM	.	voice	.	G:maj
 .	.	8a	Ab-	.	.	.	.	.
 .	.	8f	-a-	.	.	.	.	.
 8r	.	8b	-cab	.	.	.	.	.
@@ -713,77 +714,77 @@ r;	.	r;	.	1r;	r	.	0	r
 8f	in	4r	.	.	.	.	.	.
 8f	an-	.	.	.	.	.	.	.
 =113	=113	=113	=113	=113	=113	=113	=113	=113
-8g	-y-	1r	.	4FM	F:maj (G F A C)	.	.	voice
-4.g	-where	.	.	.	.	.	.	.
-.	.	.	.	2.GM	G:maj (G B D)	.	.	voice
+8g	-y-	1r	.	4FM	.	voice	.	F:maj/2
+4.g	-where	.	.	.	.	.	C	.
+.	.	.	.	2.GM	.	voice	.	G:maj
 2r	.	.	.	.	.	.	.	.
 =114	=114	=114	=114	=114	=114	=114	=114	=114
-1r	.	4r	.	1GM	G:maj (G B D)	.	.	voice
+1r	.	4r	.	1GM	.	voice	.	G:maj
 .	.	8cc	Ab-	.	.	.	.	.
 .	.	8cc	-a-	.	.	.	.	.
 .	.	4.b	-cab	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.
 =115	=115	=115	=115	=115	=115	=115	=115	=115
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
-2r	.	2r	.	2N	N	newline	.	drums
+*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*M2/4
+2r	.	2r	.	2N	newline	drums	.	N
 =116	=116	=116	=116	=116	=116	=116	=116	=116
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
-*	*	*	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
-1r	.	1r	.	1Cmm	C:min7 (C E- G B-)	newline	.	synthesizer guitar
+*	*	*	*	*M4/4	*M4/4	*M4/4	*	*M4/4
+1r	.	1r	.	1Cmm	newline	synthesizer guitar	.	C:min7
 =117	=117	=117	=117	=117	=117	=117	=117	=117
-1r	.	1r	.	1Cm	C:sus4 (C F G)	newline	.	guitar
+1r	.	1r	.	1Cm	newline	guitar	.	C:sus4
 =118	=118	=118	=118	=118	=118	=118	=118	=118
-1r	.	1r	.	1Cm	C:sus4 (C F G)	.	.	guitar
+1r	.	1r	.	1Cm	.	guitar	.	C:sus4
 =119	=119	=119	=119	=119	=119	=119	=119	=119
-1r	.	1r	.	1Fmm	F:min7 (F A- C E-)	.	.	guitar
+1r	.	1r	.	1Fmm	.	guitar	.	F:min7
 =120	=120	=120	=120	=120	=120	=120	=120	=120
-1r	.	1r	.	1Fmm	F:min7 (F A- C E-)	.	.	guitar
+1r	.	1r	.	1Fmm	.	guitar	.	F:min7
 =121	=121	=121	=121	=121	=121	=121	=121	=121
-1r	.	1r	.	1Gm	G:sus4(b7) (G C D F)	newline	.	guitar
+1r	.	1r	.	1Gm	newline	guitar	.	G:sus4(b7)
 =122	=122	=122	=122	=122	=122	=122	=122	=122
-1r	.	1r	.	1Gm	G:sus4(b7) (G C D F)	.	.	guitar
+1r	.	1r	.	1Gm	.	guitar	.	G:sus4(b7)
 =123	=123	=123	=123	=123	=123	=123	=123	=123
-1r	.	1r	.	1Gm	G:sus4(b7) (G C D F)	.	.	guitar
+1r	.	1r	.	1Gm	.	guitar	.	G:sus4(b7)
 =124	=124	=124	=124	=124	=124	=124	=124	=124
-1r	.	1r	.	1Gm	G:sus4(b7) (G C D F)	.	.	guitar
+1r	.	1r	.	1Gm	.	guitar	.	G:sus4(b7)
 =125	=125	=125	=125	=125	=125	=125	=125	=125
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	newline	.	guitar synthesizer
-.	.	.	.	2.CM	C:maj (C E G)	.	.	guitar synthesizer
+1r	.	1r	.	4B-M	newline	guitar synthesizer	.	B-:maj/2
+.	.	.	.	2.CM	.	guitar synthesizer	.	C:maj
 =126	=126	=126	=126	=126	=126	=126	=126	=126
-1r	.	1r	.	4Cm	C:sus4 (C F G)	.	.	guitar synthesizer
-.	.	.	.	2.CM	C:maj (C E G)	.	.	guitar synthesizer
+1r	.	1r	.	4Cm	.	guitar synthesizer	.	C:sus4
+.	.	.	.	2.CM	.	guitar synthesizer	.	C:maj
 =127	=127	=127	=127	=127	=127	=127	=127	=127
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	guitar synthesizer
-.	.	.	.	2.CM	C:maj (C E G)	.	.	guitar synthesizer
+1r	.	1r	.	4B-M	.	guitar synthesizer	.	B-:maj/2
+.	.	.	.	2.CM	.	guitar synthesizer	.	C:maj
 =128	=128	=128	=128	=128	=128	=128	=128	=128
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	guitar synthesizer
-.	.	.	.	2.Fm	F:sus4 (C F B-)	.	.	guitar synthesizer
+1r	.	1r	.	4B-M	.	guitar synthesizer	.	B-:maj/2
+.	.	.	.	2.Fm	.	guitar synthesizer	.	F:sus4/5
 =129	=129	=129	=129	=129	=129	=129	=129	=129
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	newline	.	guitar synthesizer
-.	.	.	.	2.CM	C:maj (C E G)	.	.	guitar synthesizer
+1r	.	1r	.	4B-M	newline	guitar synthesizer	.	B-:maj/2
+.	.	.	.	2.CM	.	guitar synthesizer	.	C:maj
 =130	=130	=130	=130	=130	=130	=130	=130	=130
-1r	.	1r	.	4Cm	C:sus4 (C F G)	.	.	guitar synthesizer
-.	.	.	.	2.CM	C:maj (C E G)	.	.	guitar synthesizer
+1r	.	1r	.	4Cm	.	guitar synthesizer	.	C:sus4
+.	.	.	.	2.CM	.	guitar synthesizer	.	C:maj
 =131	=131	=131	=131	=131	=131	=131	=131	=131
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	guitar synthesizer
-.	.	.	.	2.CM	C:maj (C E G)	.	.	guitar synthesizer
+1r	.	1r	.	4B-M	.	guitar synthesizer	.	B-:maj/2
+.	.	.	.	2.CM	.	guitar synthesizer	.	C:maj
 =132	=132	=132	=132	=132	=132	=132	=132	=132
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	guitar synthesizer
-.	.	.	.	2.Fm	F:sus4 (C F B-)	.	.	guitar synthesizer
+1r	.	1r	.	4B-M	.	guitar synthesizer	.	B-:maj/2
+.	.	.	.	2.Fm	.	guitar synthesizer	.	F:sus4/5
 =133	=133	=133	=133	=133	=133	=133	=133	=133
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	newline	.	guitar synthesizer
-.	.	.	.	2.CM	C:maj (C E G)	.	.	guitar synthesizer
+1r	.	1r	.	4B-M	newline	guitar synthesizer	.	B-:maj/2
+.	.	.	.	2.CM	.	guitar synthesizer	.	C:maj
 =134	=134	=134	=134	=134	=134	=134	=134	=134
-1r	.	1r	.	4Cm	C:sus4 (C F G)	.	.	guitar synthesizer
-.	.	.	.	2.CM	C:maj (C E G)	.	.	guitar synthesizer
+1r	.	1r	.	4Cm	.	guitar synthesizer	.	C:sus4
+.	.	.	.	2.CM	.	guitar synthesizer	.	C:maj
 =135	=135	=135	=135	=135	=135	=135	=135	=135
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	guitar synthesizer
-.	.	.	.	2.CM	C:maj (C E G)	.	.	guitar synthesizer
+1r	.	1r	.	4B-M	.	guitar synthesizer	.	B-:maj/2
+.	.	.	.	2.CM	.	guitar synthesizer	.	C:maj
 =136	=136	=136	=136	=136	=136	=136	=136	=136
-1r	.	1r	.	4B-M	B-:maj (C B- D F)	.	.	guitar synthesizer
-.	.	.	.	2.Fm	F:sus4 (C F B-)	.	.	guitar synthesizer
-r;	.	r;	.	1r;	r	.	.	r
+1r	.	1r	.	4B-M	.	guitar synthesizer	.	B-:maj/2
+.	.	.	.	2.Fm	.	guitar synthesizer	.	F:sus4/5
+r;	.	r;	.	1r;	.	r	.	1r
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1982/02/20
 !!!BillboardPeak: 26
