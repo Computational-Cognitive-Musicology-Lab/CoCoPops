@@ -5,12 +5,12 @@
 *C:	*	*C:	*	*C:	*	*	*	*	*C:
 *M4/4	*	*M4/4	*	*	*	*	*	*	*
 *clefG2	*	*clefC3	*	*	*	*	*	*	*
-r;	.	r;	.	1r;	.	r	.	0	1r
-4g	Freeze	1r	.	1r	.	r	.	NA	1r
+r;	.	r;	.	1r;	.	r	.	0	N.C.
+4g	Freeze	1r	.	1r	.	r	.	NA	N.C.
 4e	frame!	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
-r;	.	r;	.	1r;	.	r	.	.	1r
-r;	.	r;	.	1r;	.	r	.	.	1r
+r;	.	r;	.	1r;	.	r	.	.	N.C.
+r;	.	r;	.	1r;	.	r	.	.	N.C.
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
@@ -281,12 +281,12 @@ r;	.	r;	.	1r;	.	r	.	.	1r
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 2r	.	4g	Freeze	2CM	newline	voice	.	NA	C:maj
 .	.	4e	frame	.	.	.	.	.	.
-4c	Freeze	2r	.	2N	.	voice	.	.	N
+4c	Freeze	2r	.	2N	.	voice	.	.	N.C.
 4A	frame	.	.	.	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66	=66	=66
 2r	.	4g	Freeze	2CM	.	voice	.	.	C:maj
 .	.	4e	frame	.	.	.	.	.	.
-4c	Freeze	2r	.	2N	.	voice	.	.	N
+4c	Freeze	2r	.	2N	.	voice	.	.	N.C.
 8dq	_	.	.	.	.	.	.	.	.
 4e-	frame	.	.	.	.	.	.	.	.
 =67	=67	=67	=67	=67	=67	=67	=67	=67	=67
@@ -294,13 +294,13 @@ r;	.	r;	.	1r;	.	r	.	.	1r
 2r	.	4g	Freeze	2CM	.	voice	.	.	C:maj
 .	.	4e	frame	.	.	.	.	.	.
 8gq	_	.	.	.	.	.	.	.	.
-4bb-	Freeze	2r	.	2N	.	voice	.	.	N
+4bb-	Freeze	2r	.	2N	.	voice	.	.	N.C.
 4d-	frame!	.	.	.	.	.	.	.	.
 =68	=68	=68	=68	=68	=68	=68	=68	=68	=68
 *clefC3	*	*clefG2	*	*	*	*	*	*	*
 2r	.	4g	Freeze	2CM	.	voice	.	.	C:maj
 .	.	4e	frame,	.	.	.	.	.	.
-8r	.	2bb-	woo!	2N	.	voice	.	.	N
+8r	.	2bb-	woo!	2N	.	voice	.	.	N.C.
 8c	N-	.	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.	.
 4e-	-now,	.	.	.	.	.	.	.	.
@@ -309,7 +309,7 @@ r;	.	r;	.	1r;	.	r	.	.	1r
 4r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =70	=70	=70	=70	=70	=70	=70	=70	=70	=70
-1r	.	1r	.	1N	.	voice	.	.	N
+1r	.	1r	.	1N	.	voice	.	.	N.C.
 =71	=71	=71	=71	=71	=71	=71	=71	=71	=71
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
@@ -435,24 +435,24 @@ r;	.	r;	.	1r;	.	r	.	.	1r
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 2r	.	4g	Freeze	2CM	newline	voice	.	NA	C:maj
 .	.	4e	frame	.	.	.	.	.	.
-4c	Freeze	2r	.	2N	.	voice	.	.	N
+4c	Freeze	2r	.	2N	.	voice	.	.	N.C.
 4A	frame	.	.	.	.	.	.	.	.
 =96	=96	=96	=96	=96	=96	=96	=96	=96	=96
 2r	.	4g	Freeze	2CM	.	voice	.	.	C:maj
 .	.	4e	frame	.	.	.	.	.	.
-4e-	Freeze	2r	.	2N	.	voice	.	.	N
+4e-	Freeze	2r	.	2N	.	voice	.	.	N.C.
 8dq	_	.	.	.	.	.	.	.	.
 [4e-	frame	.	.	.	.	.	.	.	.
 =97	=97	=97	=97	=97	=97	=97	=97	=97	=97
 4e	_	4g	Freeze	2CM	.	voice	.	.	C:maj
 4r	.	4e	frame	.	.	.	.	.	.
 8gq	_	.	.	.	.	.	.	.	.
-4bb-	Freeze	2r	.	2N	.	voice	.	.	N
+4bb-	Freeze	2r	.	2N	.	voice	.	.	N.C.
 4d-	frame!	.	.	.	.	.	.	.	.
 =98	=98	=98	=98	=98	=98	=98	=98	=98	=98
 2r	.	4g	Freeze	2CM	.	voice	.	.	C:maj
 .	.	4e	frame,	.	.	.	.	.	.
-8r	.	2bb-	woo!	2N	.	voice	.	.	N
+8r	.	2bb-	woo!	2N	.	voice	.	.	N.C.
 8c	N-	.	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.	.
 4e-]	-now,	.	.	.	.	.	.	.	.
@@ -461,7 +461,7 @@ r;	.	r;	.	1r;	.	r	.	.	1r
 4r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =100	=100	=100	=100	=100	=100	=100	=100	=100	=100
-1r	.	1r	.	1N	.	voice	.	.	N
+1r	.	1r	.	1N	.	voice	.	.	N.C.
 =101	=101	=101	=101	=101	=101	=101	=101	=101	=101
 *>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
 *>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
@@ -565,31 +565,31 @@ r;	.	r;	.	1r;	.	r	.	.	1r
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
 2r	.	4g	Freeze	2CM	newline	voice	.	NA	C:maj
 .	.	4e	frame	.	.	.	.	.	.
-4c	Freeze	2r	.	2N	.	voice	.	.	N
+4c	Freeze	2r	.	2N	.	voice	.	.	N.C.
 [4~A	frame	.	.	.	.	.	.	.	.
 =134	=134	=134	=134	=134	=134	=134	=134	=134	=134
 4A]	_	4g	Freeze	2CM	.	voice	.	.	C:maj
 4r	.	4e	frame	.	.	.	.	.	.
-4c 4e-	Freeze	2r	.	2N	.	voice	.	.	N
+4c 4e-	Freeze	2r	.	2N	.	voice	.	.	N.C.
 8dq 8f#q	_	.	.	.	.	.	.	.	.
 4e- 4g	frame	.	.	.	.	.	.	.	.
 =135	=135	=135	=135	=135	=135	=135	=135	=135	=135
 2r	.	4g	Freeze	2CM	.	voice	.	.	C:maj
 .	.	4e	frame	.	.	.	.	.	.
 8gq	_	.	.	.	.	.	.	.	.
-4bb-	Freeze	2r	.	2N	.	voice	.	.	N
+4bb-	Freeze	2r	.	2N	.	voice	.	.	N.C.
 4d-	frame	.	.	.	.	.	.	.	.
 =136	=136	=136	=136	=136	=136	=136	=136	=136	=136
 2r	.	4g	Freeze	2CM	.	voice	.	.	C:maj
 .	.	4e	frame,	.	.	.	.	.	.
-8r	.	2bb-	woo!	2N	.	voice	.	.	N
+8r	.	2bb-	woo!	2N	.	voice	.	.	N.C.
 8c	N-	.	.	.	.	.	.	.	.
 8dq	_	.	.	.	.	.	.	.	.
 4e-	-now,	.	.	.	.	.	.	.	.
 =137	=137	=137	=137	=137	=137	=137	=137	=137	=137
 1d	freeze!	1r	.	1GM	.	voice	.	.	G:maj
 =138	=138	=138	=138	=138	=138	=138	=138	=138	=138
-1r	.	1r	.	1N	.	voice	.	.	N
+1r	.	1r	.	1N	.	voice	.	.	N.C.
 =139	=139	=139	=139	=139	=139	=139	=139	=139	=139
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
@@ -748,9 +748,9 @@ r;	.	r;	.	1r;	.	r	.	.	1r
 .	.	4d 4f 4b-	_	.	.	.	.	.	.
 =170	=170	=170	=170	=170	=170	=170	=170	=170	=170
 1r	.	1c; 1f 1a	_	1FM	.	voice	.	.	F:maj
-r;	.	r;	.	1r;	.	r	.	.	1r
-r;	.	r;	.	1r;	.	r	.	NA	1r
-r;	.	r;	.	1r;	.	r	.	NA	1r
+r;	.	r;	.	1r;	.	r	.	.	N.C.
+r;	.	r;	.	1r;	.	r	.	NA	N.C.
+r;	.	r;	.	1r;	.	r	.	NA	N.C.
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1982/03/20
 !!!BillboardPeak: 4
