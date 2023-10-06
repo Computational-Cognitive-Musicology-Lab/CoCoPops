@@ -1,16 +1,16 @@
-**kern	**silbe	**kern	**silbe	**harmony	**chordsym	**phrase	**leadinstrument	**rhyme	**timestamp
-*ICvox	*	*ICvox	*	*M4/4	*M4/4	*	*	*	*
-*E:	*	*E:	*	*E:	*E:	*	*	*	*
+**kern	**silbe	**kern	**silbe	**harmony	**phrase	**leadinstrument	**rhyme	**timestamp	**harte
+*ICvox	*	*ICvox	*	*M4/4	*	*	*	*	*M4/4
+*E:	*	*E:	*	*E:	*	*	*	*	*E:
 *M4/4	*	*M4/4	*	*	*	*	*	*	*
 *clefF4	*	*clefC3	*	*	*	*	*	*	*
-r;	.	r;	.	1r;	r	.	r	.	0
-r;	.	r;	.	1r;	r	.	r	.	0.534
+r;	.	r;	.	1r;	.	r	.	0	1r
+r;	.	r;	.	1r;	.	r	.	0.534	1r
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
-1r	.	1r	.	1EMm	E:7 (E G# B D)	newline	r	.	26.471
+1r	.	1r	.	1EMm	newline	r	.	26.471	E:7
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-2r	.	2r	.	1EMm	E:7 (E G# B D)	.	r	.	27.125
+2r	.	2r	.	1EMm	.	r	.	27.125	E:7
 4r	.	4r	.	.	.	.	.	.	.
 8Gq	_	8B-q	_	.	.	.	.	.	.
 8G#	Got	8B	Got	.	.	.	.	.	.
@@ -18,7 +18,7 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-8B	run-	8d	run-	1EMm	E:7 (E G# B D)	newline	voice	.	32.685
+8B	run-	8d	run-	1EMm	newline	voice	.	32.685	E:7
 8B	-nin'	8d	-nin'	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
@@ -27,7 +27,7 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8G#	got	8B	got	.	.	.	.	.	.
 8G#	me	8B	me	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-8B	hi-	8d	hi-	1EMm	E:7 (E G# B D)	.	voice	.	35.314
+8B	hi-	8d	hi-	1EMm	.	voice	.	35.314	E:7
 8B	-din'	8d	-din'	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
@@ -37,7 +37,7 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8G#	me	8B	me	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 8Aq	_	8c#q	_	.	.	.	.	.	.
-4B	run,	4d	run,	1EMm	E:7 (E G# B D)	.	voice	.	37.944
+4B	run,	4d	run,	1EMm	.	voice	.	37.944	E:7
 8Aq	_	8c#q	_	.	.	.	.	.	.
 4B	hide,	4d	hide,	.	.	.	.	.	.
 8Aq	_	8c#q	_	.	.	.	.	.	.
@@ -46,7 +46,7 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8B	run,	8d	run,	.	.	.	.	.	.
 [8B	a	[8d	a	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-8B]	_	8d]	_	1EMm	E:7 (E G# B D)	.	voice	.	40.573
+8B]	_	8d]	_	1EMm	.	voice	.	40.573	E:7
 8B	ny-	8d	ny	.	.	.	.	.	.
 8A	-way	4r	.	.	.	.	.	.	.
 8B	you	.	.	.	.	.	.	.	.
@@ -56,11 +56,11 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8D	it	.	.	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 8C#q	_	.	.	.	.	.	.	.	.
-4.G	roll	1r	.	1AMm	A:7 (A C# E G)	newline	voice	A	43.203
+4.G	roll	1r	.	1AMm	newline	voice	A	43.203	A:7
 8r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-4.B	Yeah,	4d	yeah,	1AMm	A:7 (A C# E G)	.	voice	.	45.792
+4.B	Yeah,	4d	yeah,	1AMm	.	voice	.	45.792	A:7
 .	.	8B	_	.	.	.	.	.	.
 8A	y-	8B	yeah!	.	.	.	.	.	.
 4B	-yeah,	[4B	_	.	.	.	.	.	.
@@ -68,11 +68,11 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8B	-yeah	8B	_	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 8Gq	_	.	.	.	.	.	.	.	.
-4G#	_	1r	.	1EMm	E:7 (E G# B D)	.	voice	.	48.382
+4G#	_	1r	.	1EMm	.	voice	.	48.382	E:7
 4r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-2r	.	1r	.	1EMm	E:7 (E G# B D)	.	voice	.	50.971
+2r	.	1r	.	1EMm	.	voice	.	50.971	E:7
 8r	.	.	.	.	.	.	.	.	.
 8~BB	You've	.	.	.	.	.	.	.	.
 8Gq	_	.	.	.	.	.	.	.	.
@@ -80,38 +80,38 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8G#	me	.	.	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 8Aq	_	8c#q	_	.	.	.	.	.	.
-4B	doin'	4d	doin'	2BMm	B:7 (F# B D# A)	newline	voice	.	53.561
+4B	doin'	4d	doin'	2BMm	newline	voice	.	53.561	B:7/5
 8B	what	8d	what	.	.	.	.	.	.
 8A	you	8B	you	.	.	.	.	.	.
-8A	want	8B	want	2BMm	B:7 (B D# F# A)	.	voice	.	54.847
+8A	want	8B	want	2BMm	.	voice	.	54.847	B:7
 [8A	me,	[8B	me,	.	.	.	.	.	.
 8A]	_	8B]	_	.	.	.	.	.	.
 8C#	a-	8C#	a-	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 8Aq	_	8c#q	_	.	.	.	.	.	.
-8B	-ba-	8d	-ba-	2BMm	B:7 (F# B D# A)	.	voice	.	56.133
+8B	-ba-	8d	-ba-	2BMm	.	voice	.	56.133	B:7/5
 8B	-by,	8d	-by,	.	.	.	.	.	.
 8A	why	8d	why	.	.	.	.	.	.
 8G	you	8c#	you	.	.	.	.	.	.
-8G	wan-	8B	wan-	2BMm	B:7 (B D# F# A)	.	voice	.	57.42
+8G	wan-	8B	wan-	2BMm	.	voice	.	57.42	B:7
 8F#	-na	8B	-na	.	.	.	.	.	.
 8E	let	8A	let	.	.	.	.	.	.
 .	.	8Gq	_	.	.	.	.	.	.
-[8E	go	8G#	go	.	.	.	.	A	.
+[8E	go	8G#	go	.	.	.	A	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-4E]	_	1r	.	1EMm	E:7 (E G# B D)	.	voice	.	58.706
+4E]	_	1r	.	1EMm	.	voice	.	58.706	E:7
 4r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-2r	.	2r	.	2EMm	E:7 (E G# B D)	.	voice	.	61.279
-4r	.	4r	.	2BMm	B:7 (B D# F# A)	.	voice	.	62.565
+2r	.	2r	.	2EMm	.	voice	.	61.279	E:7
+4r	.	4r	.	2BMm	.	voice	.	62.565	B:7
 8Gq	_	8B-q	_	.	.	.	.	.	.
 8G#	Go-	8B	Go-	.	.	.	.	.	.
 8G#	-in'	8B	-in'	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-8B	up	8d	up	1EMm	E:7 (E G# B D)	newline	voice	.	63.852
+8B	up	8d	up	1EMm	newline	voice	.	63.852	E:7
 8r	.	8r	.	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
@@ -120,7 +120,7 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8G#	go-	8B	go-	.	.	.	.	.	.
 8G#	-in'	8B	-in'	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-8B	down	8d	down	1EMm	E:7 (E G# B D)	.	voice	.	66.433
+8B	down	8d	down	1EMm	.	voice	.	66.433	E:7
 8r	.	8r	.	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
@@ -130,7 +130,7 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8G#	-in'	8B	-in'	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 8Aq	_	8c#q	_	.	.	.	.	.	.
-4B	up,	4d	up,	1EMm	E:7 (E G# B D)	.	voice	.	69.014
+4B	up,	4d	up,	1EMm	.	voice	.	69.014	E:7
 8Aq	_	8c#q	_	.	.	.	.	.	.
 4B	down,	4d	down,	.	.	.	.	.	.
 8Aq	_	8c#q	_	.	.	.	.	.	.
@@ -139,7 +139,7 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8B	up	8d	up	.	.	.	.	.	.
 [8B	a	[8d	a	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-8B]	_	8d]	_	1EMm	E:7 (E G# B D)	.	voice	.	71.595
+8B]	_	8d]	_	1EMm	.	voice	.	71.595	E:7
 8B	ny-	8d	ny-	.	.	.	.	.	.
 8A	-way	8~B	-way	.	.	.	.	.	.
 8B	you	8A	you	.	.	.	.	.	.
@@ -149,11 +149,11 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8D	it	.	.	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19
 8C#q	_	.	.	.	.	.	.	.	.
-4.G	roll	1r	.	1AMm	A:7 (A C# E G)	newline	voice	B	74.176
+4.G	roll	1r	.	1AMm	newline	voice	B	74.176	A:7
 8r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20
-4.B	Yeah,	4d	Yeah,	1AMm	A:7 (A C# E G)	.	voice	.	76.724
+4.B	Yeah,	4d	Yeah,	1AMm	.	voice	.	76.724	A:7
 .	.	8B	_	.	.	.	.	.	.
 8A	y-	8B	y-	.	.	.	.	.	.
 4B	-yeah,	[4B	-yeah!	.	.	.	.	.	.
@@ -161,13 +161,13 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8B	-yeah	8B	_	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 8Gq	_	.	.	.	.	.	.	.	.
-4.G#	_	1r	.	1EMm	E:7 (E G# B D)	.	voice	.	79.272
+4.G#	_	1r	.	1EMm	.	voice	.	79.272	E:7
 16F#Q	_	.	.	.	.	.	.	.	.
 16EQ	_	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-2r	.	1r	.	1EMm	E:7 (E G# B D)	.	voice	.	81.82
+2r	.	1r	.	1EMm	.	voice	.	81.82	E:7
 8r	.	.	.	.	.	.	.	.	.
 8~BB	You've	.	.	.	.	.	.	.	.
 8Gq	_	.	.	.	.	.	.	.	.
@@ -175,62 +175,62 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8G#	me	.	.	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 8Aq	_	8c#q	_	.	.	.	.	.	.
-4B	doin'	4d	doin'	2BMm	B:7 (F# B D# A)	newline	voice	.	84.368
+4B	doin'	4d	doin'	2BMm	newline	voice	.	84.368	B:7/5
 8B	what	8d	what	.	.	.	.	.	.
 8A	you	8B	you	.	.	.	.	.	.
-8A	want	8B	want	2BMm	B:7 (B D# F# A)	.	voice	.	85.641
+8A	want	8B	want	2BMm	.	voice	.	85.641	B:7
 [8A	me,	[8B	me,	.	.	.	.	.	.
 8A]	_	8B]	_	.	.	.	.	.	.
 8~C#	a'-	8~C#	a'-	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 8Aq	_	8c#q	_	.	.	.	.	.	.
-8B	-ba-	8d	-ba-	2BMm	B:7 (F# B D# A)	.	voice	.	86.914
+8B	-ba-	8d	-ba-	2BMm	.	voice	.	86.914	B:7/5
 8B	-by	8d	-by	.	.	.	.	.	.
 8A	why	8d	why	.	.	.	.	.	.
 8G	you	8c#	you	.	.	.	.	.	.
-8G	wan-	8B	wan-	2BMm	B:7 (B D# F# A)	.	voice	.	88.187
+8G	wan-	8B	wan-	2BMm	.	voice	.	88.187	B:7
 8F#	-na	8B	-na	.	.	.	.	.	.
 .	.	8~Gq	_	.	.	.	.	.	.
 8E	let	8~G#	let	.	.	.	.	.	.
 .	.	8~Gq	_	.	.	.	.	.	.
-[8E	go	8~G#	go	.	.	.	.	B	.
+[8E	go	8~G#	go	.	.	.	B	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-8E]	_	1r	.	1EMm	E:7 (E G# B D)	.	voice	.	89.461
+8E]	_	1r	.	1EMm	.	voice	.	89.461	E:7
 8r	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-1r	.	1r	.	2EMm	E:7 (E G# B D)	.	voice	.	92.007
-.	.	.	.	2BMm	B:7 (B D# F# A)	.	voice	.	93.28
+1r	.	1r	.	2EMm	.	voice	.	92.007	E:7
+.	.	.	.	2BMm	.	voice	.	93.28	B:7
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
-1r	.	1r	.	1EMm	E:7 (E G# B D)	newline	harmonica	.	94.553
+1r	.	1r	.	1EMm	newline	harmonica	.	94.553	E:7
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-1r	.	1r	.	1EMm	E:7 (E G# B D)	.	harmonica	.	97.093
+1r	.	1r	.	1EMm	.	harmonica	.	97.093	E:7
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-1r	.	1r	.	1EMm	E:7 (E G# B D)	.	harmonica	.	99.633
+1r	.	1r	.	1EMm	.	harmonica	.	99.633	E:7
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-1r	.	1r	.	1EMm	E:7 (E G# B D)	.	harmonica	.	102.173
+1r	.	1r	.	1EMm	.	harmonica	.	102.173	E:7
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31
-1r	.	1r	.	1AMm	A:7 (A C# E G)	newline	harmonica	.	104.713
+1r	.	1r	.	1AMm	newline	harmonica	.	104.713	A:7
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32
-1r	.	1r	.	1AMm	A:7 (A C# E G)	.	harmonica	.	107.215
+1r	.	1r	.	1AMm	.	harmonica	.	107.215	A:7
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-1r	.	1r	.	1EMm	E:7 (E G# B D)	.	harmonica	.	109.717
+1r	.	1r	.	1EMm	.	harmonica	.	109.717	E:7
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
-1r	.	1r	.	1EMm	E:7 (E G# B D)	.	harmonica	.	112.22
+1r	.	1r	.	1EMm	.	harmonica	.	112.22	E:7
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35
-1r	.	1r	.	2BMm	B:7 (F# B D# A)	newline	harmonica	.	114.722
-.	.	.	.	2BMm	B:7 (B D# F# A)	.	harmonica	.	115.971
+1r	.	1r	.	2BMm	newline	harmonica	.	114.722	B:7/5
+.	.	.	.	2BMm	.	harmonica	.	115.971	B:7
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36
-1r	.	1r	.	2BMm	B:7 (F# B D# A)	.	harmonica	.	117.221
-.	.	.	.	2BMm	B:7 (B D# F# A)	.	harmonica	.	118.47
+1r	.	1r	.	2BMm	.	harmonica	.	117.221	B:7/5
+.	.	.	.	2BMm	.	harmonica	.	118.47	B:7
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37
-1r	.	1r	.	1EMm	E:7 (E G# B D)	.	harmonica	.	119.719
+1r	.	1r	.	1EMm	.	harmonica	.	119.719	E:7
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
-2r	.	2r	.	2EMm	E:7 (E G# B D)	.	harmonica	.	122.218
-8r	.	8r	.	2BMm	B:7 (B D# F# A)	.	harmonica	.	123.467
+2r	.	2r	.	2EMm	.	harmonica	.	122.218	E:7
+8r	.	8r	.	2BMm	.	harmonica	.	123.467	B:7
 8~BB	You've	8~E	You've	.	.	.	.	.	.
 8Gq	_	8B-q	_	.	.	.	.	.	.
 8G#	got	8B	got	.	.	.	.	.	.
@@ -239,7 +239,7 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
 8Aq	_	8c#q	_	.	.	.	.	.	.
-8B	hi-	8d	hi-	1EMm	E:7 (E G# B D)	newline	voice	.	124.717
+8B	hi-	8d	hi-	1EMm	newline	voice	.	124.717	E:7
 8B	-din'	8d	-din'	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
@@ -249,7 +249,7 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8G#	me	8B	me	.	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40
 8Aq	_	8c#q	_	.	.	.	.	.	.
-8B	pee-	8d	pee-	1EMm	E:7 (E G# B D)	.	voice	.	127.254
+8B	pee-	8d	pee-	1EMm	.	voice	.	127.254	E:7
 8B	-pin'	8d	-pin'	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
@@ -259,7 +259,7 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8G#	me	8B	me	.	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41
 8Aq	_	8c#q	_	.	.	.	.	.	.
-4B	peep,	4d	peep,	1EMm	E:7 (E G# B D)	.	voice	.	129.791
+4B	peep,	4d	peep,	1EMm	.	voice	.	129.791	E:7
 8Aq	_	8c#q	_	.	.	.	.	.	.
 4B	hide,	4d	hide,	.	.	.	.	.	.
 8Aq	_	8c#q	_	.	.	.	.	.	.
@@ -268,7 +268,7 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8B	peep	8d	peep	.	.	.	.	.	.
 [8B	a	[8d	a	.	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42	=42
-8B]	_	8d]	_	1EMm	E:7 (E G# B D)	.	voice	.	132.328
+8B]	_	8d]	_	1EMm	.	voice	.	132.328	E:7
 8A	ny-	8d	ny-	.	.	.	.	.	.
 8B	-way	8d	-way	.	.	.	.	.	.
 8A	you	8c#	you	.	.	.	.	.	.
@@ -278,11 +278,11 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8D	it	8r	.	.	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43	=43	=43	=43
 8C#q	_	.	.	.	.	.	.	.	.
-4.G	roll	1r	.	1AMm	A:7 (A C# E G)	newline	voice	C	134.864
+4.G	roll	1r	.	1AMm	newline	voice	C	134.864	A:7
 8r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44
-4.B	Yeah,	4d	Yeah,	1AMm	A:7 (A C# E G)	.	voice	.	137.371
+4.B	Yeah,	4d	Yeah,	1AMm	.	voice	.	137.371	A:7
 .	.	8B	_	.	.	.	.	.	.
 8A	y-	8B	y-	.	.	.	.	.	.
 4B	-yeah,	[4B	-yeah!	.	.	.	.	.	.
@@ -290,11 +290,11 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8B	-yeah	8B	_	.	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45	=45
 8Gq	_	.	.	.	.	.	.	.	.
-4G#	_	1r	.	1EMm	E:7 (E G# B D)	.	voice	.	139.877
+4G#	_	1r	.	1EMm	.	voice	.	139.877	E:7
 4r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46
-2r	.	1r	.	1EMm	E:7 (E G# B D)	.	voice	.	142.383
+2r	.	1r	.	1EMm	.	voice	.	142.383	E:7
 8r	.	.	.	.	.	.	.	.	.
 8~BB	You've	.	.	.	.	.	.	.	.
 8Gq	_	.	.	.	.	.	.	.	.
@@ -302,51 +302,51 @@ r;	.	r;	.	1r;	r	.	r	.	0.534
 8G#	me	.	.	.	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47
 8Aq	_	8c#q	_	.	.	.	.	.	.
-4B	doin'	4d	doin'	2BMm	B:7 (F# B D# A)	newline	voice	.	144.89
+4B	doin'	4d	doin'	2BMm	newline	voice	.	144.89	B:7/5
 8B	what	8d	what	.	.	.	.	.	.
 8A	you	8B	you	.	.	.	.	.	.
-8A	want	8B	want	2BMm	B:7 (B D# F# A)	.	voice	.	146.14
+8A	want	8B	want	2BMm	.	voice	.	146.14	B:7
 [8A	me,	[8B	me,	.	.	.	.	.	.
 8A]	_	8B]	_	.	.	.	.	.	.
 8~C#	a'	8~C#	a'	.	.	.	.	.	.
 =48	=48	=48	=48	=48	=48	=48	=48	=48	=48
 8Aq	_	8c#q	_	.	.	.	.	.	.
-8B	ba-	8d	ba-	2BMm	B:7 (F# B D# A)	.	voice	.	147.39
+8B	ba-	8d	ba-	2BMm	.	voice	.	147.39	B:7/5
 8B	-by	8d	-by	.	.	.	.	.	.
 8A	why	8d	why	.	.	.	.	.	.
 8G	you	8c#	you	.	.	.	.	.	.
-8G	wan-	8B	wan-	2BMm	B:7 (B D# F# A)	.	voice	.	148.64
+8G	wan-	8B	wan-	2BMm	.	voice	.	148.64	B:7
 8F#	-na	8B	-na	.	.	.	.	.	.
 8E	let	8A	let	.	.	.	.	.	.
 .	.	8Gq	_	.	.	.	.	.	.
-[8E	go	8G#	go	.	.	.	.	C	.
+[8E	go	8G#	go	.	.	.	C	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49
-4E]	_	1r	.	1EMm	E:7 (E G# B D)	.	voice	.	149.89
+4E]	_	1r	.	1EMm	.	voice	.	149.89	E:7
 4r	.	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.	.
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50
-1r	.	1r	.	2EMm	E:7 (E G# B D)	.	voice	.	152.39
-.	.	.	.	2BMm	B:7 (B D# F# A)	.	voice	.	153.64
+1r	.	1r	.	2EMm	.	voice	.	152.39	E:7
+.	.	.	.	2BMm	.	voice	.	153.64	B:7
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental
-1r	.	1r	.	1EMm	E:7 (E G# B D)	newline	voice	.	154.891
+1r	.	1r	.	1EMm	newline	voice	.	154.891	E:7
 =52	=52	=52	=52	=52	=52	=52	=52	=52	=52
-1r	.	1r	.	1EMm	E:7 (E G# B D)	.	voice	.	157.376
+1r	.	1r	.	1EMm	.	voice	.	157.376	E:7
 =53	=53	=53	=53	=53	=53	=53	=53	=53	=53
-1r	.	1r	.	1EMm	E:7 (E G# B D)	.	voice	.	159.862
+1r	.	1r	.	1EMm	.	voice	.	159.862	E:7
 =54	=54	=54	=54	=54	=54	=54	=54	=54	=54
-1r	.	1r	.	1EMm	E:7 (E G# B D)	.	voice	.	162.347
+1r	.	1r	.	1EMm	.	voice	.	162.347	E:7
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55
-1r	.	1r	.	1AMm	A:7 (A C# E G)	newline	voice	.	164.833
+1r	.	1r	.	1AMm	newline	voice	.	164.833	A:7
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56
-1r	.	1r	.	1AMm	A:7 (A C# E G)	.	voice	.	165.635
+1r	.	1r	.	1AMm	.	voice	.	165.635	A:7
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57
-1r	.	1r	.	1EMm	E:7 (E G# B D)	.	voice	.	166.438
+1r	.	1r	.	1EMm	.	voice	.	166.438	E:7
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58
-1r	.	1r	.	1EMm	E:7 (E G# B D)	.	voice	.	167.24
-r;	.	r;	.	1r;	r	.	r	.	168.043
-r;	.	r;	.	1r;	r	.	r	.	170.499
+1r	.	1r	.	1EMm	.	voice	.	167.24	E:7
+r;	.	r;	.	1r;	.	r	.	168.043	1r
+r;	.	r;	.	1r;	.	r	.	170.499	1r
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1960/05/16, 1960/04/04
 !!!BillboardPeak: 37, 37

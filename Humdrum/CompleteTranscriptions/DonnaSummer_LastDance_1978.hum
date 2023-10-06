@@ -1,13 +1,13 @@
-**kern	**silbe	**harmony	**chordsym	**phrase	**leadinstrument	**rhyme	**timestamp
-*ICvox	*	*M4/4	*M4/4	*	*	*	*
-*E-:	*	*E-:	*E-:	*	*	*	*
+**kern	**silbe	**harmony	**phrase	**leadinstrument	**rhyme	**timestamp	**harte
+*ICvox	*	*M4/4	*	*	*	*	*M4/4
+*E-:	*	*E-:	*	*	*	*	*E-:
 *M4/4	*	*	*	*	*	*	*
 *clefG2	*	*	*	*	*	*	*
-r;	.	1r;	r	.	r	.	0
+r;	.	1r;	.	r	.	0	1r
 =1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
-2r	.	1E-M	E-:maj (E- G B-)	newline	flute	.	0.881
+2r	.	1E-M	newline	flute	.	0.881	E-:maj
 8r	.	.	.	.	.	.	.
 8ddq	_	.	.	.	.	.	.
 8ee-	Hoo	.	.	.	.	.	.
@@ -15,14 +15,14 @@ r;	.	1r;	r	.	r	.	0
 8b-q	_	.	.	.	.	.	.
 8cc	hoo	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2
-[4b-	_	1A-M	A-:maj (E- A- C)	.	flute	.	4.588
+[4b-	_	1A-M	.	flute	.	4.588	A-:maj/5
 16b-]	_	.	.	.	.	.	.
 16a-	_	.	.	.	.	.	.
 16g	_	.	.	.	.	.	.
 16a-	_	.	.	.	.	.	.
 2b-	.	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3
-2r	.	1E-M	E-:maj (E- G B-)	.	flute	.	8.294
+2r	.	1E-M	.	flute	.	8.294	E-:maj
 8r	.	.	.	.	.	.	.
 8ddq	_	.	.	.	.	.	.
 8ee-	Hoo	.	.	.	.	.	.
@@ -30,29 +30,29 @@ r;	.	1r;	r	.	r	.	0
 8b-q	_	.	.	.	.	.	.
 8cc	hoo	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4
-1b-	.	1A-M	A-:maj (E- A- C)	.	flute	.	12
+1b-	.	1A-M	.	flute	.	12	A-:maj/5
 =5	=5	=5	=5	=5	=5	=5	=5
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-4r	.	1E-MM	E-:maj7 (E- G B- D)	newline	voice	.	15.706
+4r	.	1E-MM	newline	voice	.	15.706	E-:maj7
 8r	.	.	.	.	.	.	.
 8cq	_	.	.	.	.	.	.
 8d	Last	.	.	.	.	.	.
 8B-q	_	.	.	.	.	.	.
-8c	dance	.	.	.	.	A	.
+8c	dance	.	.	.	A	.	.
 4.B-	_	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6
-4r	.	1A-M	A-:maj (E- A- C)	.	voice	.	19.491
+4r	.	1A-M	.	voice	.	19.491	A-:maj/5
 8r	.	.	.	.	.	.	.
 8cq	_	.	.	.	.	.	.
 8d	last	.	.	.	.	.	.
 8B-q	_	.	.	.	.	.	.
-8c	chance	.	.	.	.	A	.
+8c	chance	.	.	.	A	.	.
 4B-	_	.	.	.	.	.	.
 16c	for	.	.	.	.	.	.
 [16B-	_	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7
-16B-]	_	1E-MM	E-:maj7 (E- G B- D)	.	voice	.	23.275
+16B-]	_	1E-MM	.	voice	.	23.275	E-:maj7
 32c	love	.	.	.	.	.	.
 32d-	_	.	.	.	.	.	.
 32c	_	.	.	.	.	.	.
@@ -60,30 +60,30 @@ r;	.	1r;	r	.	r	.	0
 4B-]	_	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8
-2r	.	1B-Am	B-:aug(b7) (B- D F# A-)	.	voice	.	27.06
+2r	.	1B-Am	.	voice	.	27.06	B-:aug(b7)
 4r	.	.	.	.	.	.	.
 16B-	Yes,	.	.	.	.	.	.
 8c	it's	.	.	.	.	.	.
 [16B-	my	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9
-16B-]	_	1E-MM	E-:maj7 (E- G B- D)	newline	voice	.	30.844
+16B-]	_	1E-MM	newline	voice	.	30.844	E-:maj7
 8cq	_	.	.	.	.	.	.
 8.d	last	.	.	.	.	.	.
 8B-q	_	.	.	.	.	.	.
-8c	chance	.	.	.	.	A	.
+8c	chance	.	.	.	A	.	.
 [8B-	_	.	.	.	.	.	.
 4B-]	_	.	.	.	.	.	.
 8.r	.	.	.	.	.	.	.
 16E-	for	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10
-8e-	ro-	1A-M	A-:maj (E- A- C)	.	voice	.	34.65
-[4.e-	-mance	.	.	.	.	A	.
+8e-	ro-	1A-M	.	voice	.	34.65	A-:maj/5
+[4.e-	-mance	.	.	.	A	.	.
 8e-]	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 16c	to-	.	.	.	.	.	.
 [16B-	-night	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11
-16B-]	_	1E-Mm	E-:7 (E- G B- D-)	.	voice	.	38.456
+16B-]	_	1E-Mm	.	voice	.	38.456	E-:7
 32c	_	.	.	.	.	.	.
 32d-	_	.	.	.	.	.	.
 32c	_	.	.	.	.	.	.
@@ -95,12 +95,12 @@ r;	.	1r;	r	.	r	.	0
 [8B-	_	.	.	.	.	.	.
 2B-]	_	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12
-2r	.	1E-Mm	E-:7 (E- G B- D-)	.	voice	.	42.262
+2r	.	1E-Mm	.	voice	.	42.262	E-:7
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8e-	I	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13
-8e-	need	1A-MM	A-:maj7 (A- C E- G)	newline	voice	.	46.068
+8e-	need	1A-MM	newline	voice	.	46.068	A-:maj7
 16e-	you	.	.	.	.	.	.
 [16c	_	.	.	.	.	.	.
 16c]	_	.	.	.	.	.	.
@@ -108,7 +108,7 @@ r;	.	1r;	r	.	r	.	0
 2r	.	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14
 8e-q	_	.	.	.	.	.	.
-8f	by	1B-M	B-:maj (A- B- D F)	.	voice	B	49.842
+8f	by	1B-M	.	voice	B	49.842	B-:maj/b7
 16f	me	.	.	.	.	.	.
 16d	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
@@ -116,17 +116,17 @@ r;	.	1r;	r	.	r	.	0
 8.r	.	.	.	.	.	.	.
 16f	be-	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15
-8g	-side	1Gmm	G:min7 (G B- D F)	.	voice	B	53.616
+8g	-side	1Gmm	.	voice	B	53.616	G:min7
 8f#q	_	.	.	.	.	.	.
 [4.g	me	.	.	.	.	.	.
 4g]	_	.	.	.	.	.	.
 8fq	_	.	.	.	.	.	.
 8g	to	.	.	.	.	.	.
-32g-	guide	.	.	.	.	B	.
+32g-	guide	.	.	.	B	.	.
 32f	_	.	.	.	.	.	.
 [16e-	_	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16
-16e-]	_	1Cm	C:min (C E- G)	.	voice	.	57.39
+16e-]	_	1Cm	.	voice	.	57.39	C:min
 32f	me	.	.	.	.	.	.
 [32e-	_	.	.	.	.	.	.
 8e-_	_	.	.	.	.	.	.
@@ -136,7 +136,7 @@ r;	.	1r;	r	.	r	.	0
 16e-	To	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17
 16e-Q	_	.	.	.	.	.	.
-16f	hold	1A-MM	A-:maj7 (A- C E- G)	newline	voice	C	61.164
+16f	hold	1A-MM	newline	voice	C	61.164	A-:maj7
 8e-	_	.	.	.	.	.	.
 16e-	me	.	.	.	.	.	.
 16c	_	.	.	.	.	.	.
@@ -146,7 +146,7 @@ r;	.	1r;	r	.	r	.	0
 16e-	to	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18
 8e-q	_	.	.	.	.	.	.
-8f	scold	1B-M	B-:maj (A- B- D F)	.	voice	C	64.333
+8f	scold	1B-M	.	voice	C	64.333	B-:maj/b7
 8f	me	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
@@ -156,10 +156,10 @@ r;	.	1r;	r	.	r	.	0
 8f#q	_	.	.	.	.	.	.
 [8g	bad,	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19
-4g]	_	2Gmm	G:min7 (G B- D F)	.	voice	.	67.502
+4g]	_	2Gmm	.	voice	.	67.502	G:min7
 4g	I'm	.	.	.	.	.	.
 8fq	_	.	.	.	.	.	.
-6g	so,	2GMm	G:7 (G B D F)	.	voice	.	69.087
+6g	so,	2GMm	.	voice	.	69.087	G:7
 8fq	_	.	.	.	.	.	.
 6g	so	.	.	.	.	.	.
 24f	bad	.	.	.	.	.	.
@@ -167,23 +167,23 @@ r;	.	1r;	r	.	r	.	0
 24f	_	.	.	.	.	.	.
 24e-	_	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20
-32f	_	2Cm	C:min (C E- G)	.	voice	.	70.671
+32f	_	2Cm	.	voice	.	70.671	C:min
 32e-	_	.	.	.	.	.	.
 32f	_	.	.	.	.	.	.
 [32e-	_	.	.	.	.	.	.
 8e-_	_	.	.	.	.	.	.
 4e-_	_	.	.	.	.	.	.
-4e-]	_	2FMm	F:9 (F A E- G)	.	voice	.	72.256
+4e-]	_	2FMm	.	voice	.	72.256	F:9
 4r	.	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21
-2r	.	1FMm;	F:9 (F A E- G)	.	voice	.	73.84
+2r	.	1FMm;	.	voice	.	73.84	F:9
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8e-	So	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-8.e-	let's	1E-M	E-:maj (B- E- G)	newline	r	.	80.179
+8.e-	let's	1E-M	newline	r	.	80.179	E-:maj/5
 16B-Q	_	.	.	.	.	.	.
 [16c	dance	.	.	.	.	.	.
 8c]	_	.	.	.	.	.	.
@@ -192,7 +192,7 @@ r;	.	1r;	r	.	r	.	0
 4r	.	.	.	.	.	.	.
 8e-	The	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23
-8.e-	last	1A-M	A-:maj (B- A- C E-)	.	r	.	82.076
+8.e-	last	1A-M	.	r	.	82.076	A-:maj/2
 16e-Q	_	.	.	.	.	.	.
 [16f	dance	.	.	.	.	.	.
 8f]	_	.	.	.	.	.	.
@@ -201,7 +201,7 @@ r;	.	1r;	r	.	r	.	0
 4r	.	.	.	.	.	.	.
 8e-	L-	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24
-8.e-	-let's	1E-M	E-:maj (B- E- G)	.	r	.	83.973
+8.e-	-let's	1E-M	.	r	.	83.973	E-:maj/5
 16B-Q	_	.	.	.	.	.	.
 [16c	dance	.	.	.	.	.	.
 8c]	_	.	.	.	.	.	.
@@ -210,7 +210,7 @@ r;	.	1r;	r	.	r	.	0
 4r	.	.	.	.	.	.	.
 8e-	the	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25
-8.e-	last	1A-M	A-:maj (B- A- C E-)	.	r	.	85.87
+8.e-	last	1A-M	.	r	.	85.87	A-:maj/2
 16e-Q	_	.	.	.	.	.	.
 [16f	dance	.	.	.	.	.	.
 8f]	_	.	.	.	.	.	.
@@ -219,7 +219,7 @@ r;	.	1r;	r	.	r	.	0
 4r	.	.	.	.	.	.	.
 8e-	L-	.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26
-8.e-	-let's	1E-M	E-:maj (B- E- G)	newline	r	.	87.768
+8.e-	-let's	1E-M	newline	r	.	87.768	E-:maj/5
 16B-Q	_	.	.	.	.	.	.
 [16c	dance	.	.	.	.	.	.
 8c]	_	.	.	.	.	.	.
@@ -228,7 +228,7 @@ r;	.	1r;	r	.	r	.	0
 4r	.	.	.	.	.	.	.
 8e-	the	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27
-8.e-	last	1A-M	A-:maj (B- A- C E-)	.	r	.	89.704
+8.e-	last	1A-M	.	r	.	89.704	A-:maj/2
 16e-Q	_	.	.	.	.	.	.
 [16f	dance	.	.	.	.	.	.
 8f]	_	.	.	.	.	.	.
@@ -239,33 +239,33 @@ r;	.	1r;	r	.	r	.	0
 8e-	_	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28
 8fq	_	.	.	.	.	.	.
-[1g	night	1FMm	F:9 (A F E- G)	newline	r	.	91.64
+[1g	night	1FMm	newline	r	.	91.64	F:9/3
 =29	=29	=29	=29	=29	=29	=29	=29
-4.g]	_	1B-M	B-:maj (B- D F)	.	r	.	93.506
+4.g]	_	1B-M	.	r	.	93.506	B-:maj
 8r	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-8.d	Last	1E-MM	E-:maj7 (E- G B- D)	newline	r	.	95.373
+8.d	Last	1E-MM	newline	r	.	95.373	E-:maj7
 16B-Q	_	.	.	.	.	.	.
-[16c	dance	.	.	.	.	A	.
+[16c	dance	.	.	.	A	.	.
 8c]	_	.	.	.	.	.	.
 [8B-	_	.	.	.	.	.	.
 8B-]	_	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31
-8.d	last	1A-M	A-:maj (E- A- C)	.	r	.	97.281
+8.d	last	1A-M	.	r	.	97.281	A-:maj/5
 16B-Q	_	.	.	.	.	.	.
-[16c	chance,	.	.	.	.	A	.
+[16c	chance,	.	.	.	A	.	.
 8c]	_	.	.	.	.	.	.
 [8B-	_	.	.	.	.	.	.
 4B-]	_	.	.	.	.	.	.
 8c	for	.	.	.	.	.	.
 [8B-	_	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32
-8B-]	_	1E-MM	E-:maj7 (E- G B- D)	.	r	.	99.188
+8B-]	_	1E-MM	.	r	.	99.188	E-:maj7
 16c	love	.	.	.	.	.	.
 16d-	_	.	.	.	.	.	.
 16c	_	.	.	.	.	.	.
@@ -273,30 +273,30 @@ r;	.	1r;	r	.	r	.	0
 4.B-]	_	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33
-2r	.	1B-Am	B-:aug(b7) (B- D F# A-)	.	r	.	101.096
+2r	.	1B-Am	.	r	.	101.096	B-:aug(b7)
 6B-	Yes,	.	.	.	.	.	.
 6c	it's	.	.	.	.	.	.
 6B-	my	.	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34
 8cq	_	.	.	.	.	.	.
-8.d	last	1E-MM	E-:maj7 (E- G B- D)	newline	r	.	103.004
+8.d	last	1E-MM	newline	r	.	103.004	E-:maj7
 16B-Q	_	.	.	.	.	.	.
-[16c	chance	.	.	.	.	A	.
+[16c	chance	.	.	.	A	.	.
 8c]	_	.	.	.	.	.	.
 [8B-	_	.	.	.	.	.	.
 8B-]	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 8~E-	for	.	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35
-8.e-	ro-	1A-M	A-:maj (E- A- C)	.	r	.	104.905
-[16e-	-mance	.	.	.	.	A	.
+8.e-	ro-	1A-M	.	r	.	104.905	A-:maj/5
+[16e-	-mance	.	.	.	A	.	.
 4e-_	_	.	.	.	.	.	.
 4e-]	_	.	.	.	.	.	.
 8e-q	_	.	.	.	.	.	.
 8c	to	.	.	.	.	.	.
 [8B-	_	.	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36
-8B-]	_	1E-Mm	E-:7 (E- G B- D-)	.	r	.	106.806
+8B-]	_	1E-Mm	.	r	.	106.806	E-:7
 16c	night	.	.	.	.	.	.
 16d-	_	.	.	.	.	.	.
 16c	_	.	.	.	.	.	.
@@ -307,7 +307,7 @@ r;	.	1r;	r	.	r	.	0
 [8.B-	_	.	.	.	.	.	.
 4B-]	_	.	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37
-4r	.	1E-Mm	E-:7 (E- G B- D-)	.	r	.	108.708
+4r	.	1E-Mm	.	r	.	108.708	E-:7
 4g	Oh,	.	.	.	.	.	.
 8a-q	_	.	.	.	.	.	.
 4b-	oh,	.	.	.	.	.	.
@@ -315,7 +315,7 @@ r;	.	1r;	r	.	r	.	0
 8g-	I	.	.	.	.	.	.
 [8f	_	.	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38
-8f]	_	1A-MM	A-:maj7 (A- C E- G)	newline	r	.	110.609
+8f]	_	1A-MM	newline	r	.	110.609	A-:maj7
 8e-q	_	.	.	.	.	.	.
 8f	need	.	.	.	.	.	.
 8e-	_	.	.	.	.	.	.
@@ -323,34 +323,34 @@ r;	.	1r;	r	.	r	.	0
 8c	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 8e-q	_	.	.	.	.	.	.
-[8f	by	.	.	.	.	B	.
+[8f	by	.	.	.	B	.	.
 =39	=39	=39	=39	=39	=39	=39	=39
-4f]	_	1B-M	B-:maj (A- B- D F)	.	r	.	112.507
+4f]	_	1B-M	.	r	.	112.507	B-:maj/b7
 8f	me	.	.	.	.	.	.
 8d	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 8f	be-	.	.	.	.	.	.
 8fq	_	.	.	.	.	.	.
-[8g	-side	.	.	.	.	B	.
+[8g	-side	.	.	.	B	.	.
 =40	=40	=40	=40	=40	=40	=40	=40
-8g]	_	1Gmm	G:min7 (G B- D F)	.	r	.	114.405
+8g]	_	1Gmm	.	r	.	114.405	G:min7
 [4.g	me	.	.	.	.	.	.
 8g]	_	.	.	.	.	.	.
 8b-	_	.	.	.	.	.	.
 8fq	_	.	.	.	.	.	.
 8g-	to	.	.	.	.	.	.
-8f	guide	.	.	.	.	B	.
+8f	guide	.	.	.	B	.	.
 =41	=41	=41	=41	=41	=41	=41	=41
-8e-	_	1Cm	C:min (C E- G)	.	r	.	116.303
+8e-	_	1Cm	.	r	.	116.303	C:min
 8e-	me	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 16r	.	.	.	.	.	.	.
 16e-	To	.	.	.	.	.	.
 8e-q	_	.	.	.	.	.	.
-[8f	hold	.	.	.	.	C	.
+[8f	hold	.	.	.	C	.	.
 =42	=42	=42	=42	=42	=42	=42	=42
-16f]	_	1A-MM	A-:maj7 (A- C E- G)	newline	r	.	118.201
+16f]	_	1A-MM	newline	r	.	118.201	A-:maj7
 16e-	_	.	.	.	.	.	.
 16e-	me	.	.	.	.	.	.
 16r	.	.	.	.	.	.	.
@@ -358,9 +358,9 @@ r;	.	1r;	r	.	r	.	0
 4r	.	.	.	.	.	.	.
 8e-	to	.	.	.	.	.	.
 8e-q	_	.	.	.	.	.	.
-[8f	scold	.	.	.	.	C	.
+[8f	scold	.	.	.	C	.	.
 =43	=43	=43	=43	=43	=43	=43	=43
-4f]	_	1B-M	B-:maj (A- B- D F)	.	r	.	120.103
+4f]	_	1B-M	.	r	.	120.103	B-:maj/b7
 4f	me,	.	.	.	.	.	.
 8d	cuz	.	.	.	.	.	.
 8e-	when	.	.	.	.	.	.
@@ -368,32 +368,32 @@ r;	.	1r;	r	.	r	.	0
 8fq	_	.	.	.	.	.	.
 [8g	bad	.	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44
-4g]	_	2Gmm	G:min7 (G B- D F)	.	r	.	122.005
+4g]	_	2Gmm	.	r	.	122.005	G:min7
 4g	I'm	.	.	.	.	.	.
-8g	so,	2GMm	G:7 (G B D F)	.	r	.	122.956
+8g	so,	2GMm	.	r	.	122.956	G:7
 4g	so	.	.	.	.	.	.
 24g-	bad!	.	.	.	.	.	.
 24f	_	.	.	.	.	.	.
 24e-	_	.	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45
-16.f	_	2Cm	C:min (C E- G)	.	r	.	123.907
+16.f	_	2Cm	.	r	.	123.907	C:min
 32e-	_	.	.	.	.	.	.
 16f	_	.	.	.	.	.	.
 [16e-	_	.	.	.	.	.	.
 4e-_	_	.	.	.	.	.	.
-4e-]	_	2FMm	F:9 (F A E- G)	.	r	.	124.858
+4e-]	_	2FMm	.	r	.	124.858	F:9
 4e-	So	.	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-8.g	let's	1E-M	E-:maj (B- E- G)	newline	r	.	125.809
+8.g	let's	1E-M	newline	r	.	125.809	E-:maj/5
 [16g	dance	.	.	.	.	.	.
 4g]	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8e-	the	.	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47
-8.e-	last	1A-M	A-:maj (B- A- C E-)	.	r	.	127.706
+8.e-	last	1A-M	.	r	.	127.706	A-:maj/2
 16e-Q	_	.	.	.	.	.	.
 [16f	dance	.	.	.	.	.	.
 8f]	_	.	.	.	.	.	.
@@ -402,14 +402,14 @@ r;	.	1r;	r	.	r	.	0
 4r	.	.	.	.	.	.	.
 8e-	l-	.	.	.	.	.	.
 =48	=48	=48	=48	=48	=48	=48	=48
-8.g	-let's	1E-M	E-:maj (B- E- G)	.	r	.	129.603
+8.g	-let's	1E-M	.	r	.	129.603	E-:maj/5
 [16g	dance	.	.	.	.	.	.
 4g]	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8e-	the	.	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49
-8.e-	last	1A-M	A-:maj (B- A- C E-)	.	r	.	131.499
+8.e-	last	1A-M	.	r	.	131.499	A-:maj/2
 16e-Q	_	.	.	.	.	.	.
 [16f	dance	.	.	.	.	.	.
 8f]	_	.	.	.	.	.	.
@@ -418,15 +418,15 @@ r;	.	1r;	r	.	r	.	0
 4r	.	.	.	.	.	.	.
 8e-	l-	.	.	.	.	.	.
 =50	=50	=50	=50	=50	=50	=50	=50
-*F:	*	*F:	*F:	*F:	*F:	*	*F:
-8.a	-let's	1FM	F:maj (C F A)	newline	r	.	133.396
+*F:	*	*F:	*F:	*F:	*	*F:	*F:
+8.a	-let's	1FM	newline	r	.	133.396	F:maj/5
 [16a	dance	.	.	.	.	.	.
 4a]	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8f	the	.	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51
-8.f	last	1B-M	B-:maj (C B- D F)	.	r	.	135.287
+8.f	last	1B-M	.	r	.	135.287	B-:maj/2
 16fQ	_	.	.	.	.	.	.
 [16g	dance	.	.	.	.	.	.
 8g]	_	.	.	.	.	.	.
@@ -436,22 +436,22 @@ r;	.	1r;	r	.	r	.	0
 8f	_	.	.	.	.	.	.
 =52	=52	=52	=52	=52	=52	=52	=52
 8gq	_	.	.	.	.	.	.
-[1a	night!	1GMm	G:9 (B G F A)	newline	voice	.	137.178
+[1a	night!	1GMm	newline	voice	.	137.178	G:9/3
 =53	=53	=53	=53	=53	=53	=53	=53
-1a]	_	1B-MM	B-:maj7 (B- D F A)	.	voice	.	139.09
+1a]	_	1B-MM	.	voice	.	139.09	B-:maj7
 =54	=54	=54	=54	=54	=54	=54	=54
 8gq	_	.	.	.	.	.	.
-1b-	_	1FM	F:maj (A F C)	.	voice	.	141.002
+1b-	_	1FM	.	voice	.	141.002	F:maj/3
 =55	=55	=55	=55	=55	=55	=55	=55
 *clefG2	*	*	*	*	*	*	*
-[1ff	Ahh	2Gmm	G:min7 (G B- D F)	.	voice	.	142.914
-.	.	2CM	C:sus4(b7,9) (C F G B- D)	.	voice	.	143.87
+[1ff	Ahh	2Gmm	.	voice	.	142.914	G:min7
+.	.	2CM	.	voice	.	143.87	C:sus4(b7,9)
 =56	=56	=56	=56	=56	=56	=56	=56
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-1ff_	_	1FM	F:maj (F A C)	newline	strings	.	144.826
+1ff_	_	1FM	newline	strings	.	144.826	F:maj
 =57	=57	=57	=57	=57	=57	=57	=57
-8ff]	_	1B-M	B-:maj (F B- D)	.	strings	.	146.718
+8ff]	_	1B-M	.	strings	.	146.718	B-:maj/5
 8dd	hoo,	.	.	.	.	.	.
 8cc	_	.	.	.	.	.	.
 8dd	_	.	.	.	.	.	.
@@ -460,7 +460,7 @@ r;	.	1r;	r	.	r	.	0
 4cc	_	.	.	.	.	.	.
 8dd	_	.	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58	=58
-4r	.	1FM	F:maj (F A C)	.	strings	.	148.61
+4r	.	1FM	.	strings	.	148.61	F:maj
 16r	.	.	.	.	.	.	.
 8dd	Hoo	.	.	.	.	.	.
 16ccQ	_	.	.	.	.	.	.
@@ -471,7 +471,7 @@ r;	.	1r;	r	.	r	.	0
 8dd	_	.	.	.	.	.	.
 16r	.	.	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59
-4r	.	1CAm	C:aug(b7) (C E G# B-)	.	strings	.	150.503
+4r	.	1CAm	.	strings	.	150.503	C:aug(b7)
 8r	.	.	.	.	.	.	.
 8ccq	_	.	.	.	.	.	.
 [8dd	Yeah	.	.	.	.	.	.
@@ -479,7 +479,7 @@ r;	.	1r;	r	.	r	.	0
 4cc	_	.	.	.	.	.	.
 8dd	yee	.	.	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60	=60
-4a	yee	1FM	F:maj (F A C)	newline	strings	.	152.395
+4a	yee	1FM	newline	strings	.	152.395	F:maj
 8r	.	.	.	.	.	.	.
 8ccq	_	.	.	.	.	.	.
 8dd	Hoo	.	.	.	.	.	.
@@ -488,7 +488,7 @@ r;	.	1r;	r	.	r	.	0
 16b-	_	.	.	.	.	.	.
 8a	_	.	.	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61	=61
-4r	.	1B-M	B-:maj (F B- D)	.	strings	.	154.298
+4r	.	1B-M	.	strings	.	154.298	B-:maj/5
 16r	.	.	.	.	.	.	.
 8dd	hoo	.	.	.	.	.	.
 16ccQ	_	.	.	.	.	.	.
@@ -499,7 +499,7 @@ r;	.	1r;	r	.	r	.	0
 8dd	_	.	.	.	.	.	.
 [16cc	_	.	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62
-16cc]	_	1FMm	F:7 (F A C E-)	.	strings	.	156.201
+16cc]	_	1FMm	.	strings	.	156.201	F:7
 16ddQ	_	.	.	.	.	.	.
 8ee-	hoo	.	.	.	.	.	.
 [16dd	_	.	.	.	.	.	.
@@ -513,22 +513,22 @@ r;	.	1r;	r	.	r	.	0
 8.cc]	_	.	.	.	.	.	.
 16r	.	.	.	.	.	.	.
 =63	=63	=63	=63	=63	=63	=63	=63
-4r	.	1FMm	F:7 (F A C E-)	.	strings	.	158.104
+4r	.	1FMm	.	strings	.	158.104	F:7
 4gQ	_	.	.	.	.	.	.
 4~a	Oh,	.	.	.	.	.	.
 4~a	_	.	.	.	.	.	.
 4aQ	_	.	.	.	.	.	.
 4g	I	.	.	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64	=64
-8f	n-	1B-MM	B-:maj7 (B- D F A)	newline	voice	.	160.007
+8f	n-	1B-MM	newline	voice	.	160.007	B-:maj7
 8g	-need	.	.	.	.	.	.
 8f	_	.	.	.	.	.	.
 [8f	you,	.	.	.	.	.	.
 4.f]	_	.	.	.	.	.	.
 8fq	_	.	.	.	.	.	.
-[8g	by	.	.	.	.	B	.
+[8g	by	.	.	.	B	.	.
 =65	=65	=65	=65	=65	=65	=65	=65
-4g]	_	1CM	C:maj (B- C E G)	.	voice	.	161.908
+4g]	_	1CM	.	voice	.	161.908	C:maj/b7
 8g	me	.	.	.	.	.	.
 8e	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
@@ -536,14 +536,14 @@ r;	.	1r;	r	.	r	.	0
 16gQ	_	.	.	.	.	.	.
 [16a	_	.	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66
-8a]	_	1Amm	A:min7 (A C E G)	.	voice	.	163.809
+8a]	_	1Amm	.	voice	.	163.809	A:min7
 [4.a	me,	.	.	.	.	.	.
 4a]	_	.	.	.	.	.	.
 8gq	_	.	.	.	.	.	.
 8a	to	.	.	.	.	.	.
-8g	guide	.	.	.	.	B	.
+8g	guide	.	.	.	B	.	.
 =67	=67	=67	=67	=67	=67	=67	=67
-8f	_	1Dm	D:min (D F A)	.	voice	.	165.709
+8f	_	1Dm	.	voice	.	165.709	D:min
 8fq	_	.	.	.	.	.	.
 8g	me!	.	.	.	.	.	.
 8f	_	.	.	.	.	.	.
@@ -552,9 +552,9 @@ r;	.	1r;	r	.	r	.	0
 4f	_	.	.	.	.	.	.
 8f	To	.	.	.	.	.	.
 8a-q	_	.	.	.	.	.	.
-[8a	hold	.	.	.	.	C	.
+[8a	hold	.	.	.	C	.	.
 =68	=68	=68	=68	=68	=68	=68	=68
-8a]	_	1B-MM	B-:maj7 (B- D F A)	newline	voice	.	167.61
+8a]	_	1B-MM	newline	voice	.	167.61	B-:maj7
 8g	_	.	.	.	.	.	.
 8g	me	.	.	.	.	.	.
 [8f	_	.	.	.	.	.	.
@@ -562,9 +562,9 @@ r;	.	1r;	r	.	r	.	0
 8r	.	.	.	.	.	.	.
 8f	to	.	.	.	.	.	.
 8gq	_	.	.	.	.	.	.
-[8a	scold	.	.	.	.	C	.
+[8a	scold	.	.	.	C	.	.
 =69	=69	=69	=69	=69	=69	=69	=69
-8a]	_	1CM	C:maj (B- C E G)	.	voice	.	169.495
+8a]	_	1CM	.	voice	.	169.495	C:maj/b7
 8g	_	.	.	.	.	.	.
 8g	me	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
@@ -574,27 +574,27 @@ r;	.	1r;	r	.	r	.	0
 8gq	_	.	.	.	.	.	.
 [8a	bad,	.	.	.	.	.	.
 =70	=70	=70	=70	=70	=70	=70	=70
-4a]	_	2Amm	A:min7 (A C E G)	.	voice	.	171.38
+4a]	_	2Amm	.	voice	.	171.38	A:min7
 4a	I'm	.	.	.	.	.	.
-4cc#	so,	2AMm	A:7 (A C# E G)	.	voice	.	172.323
+4cc#	so,	2AMm	.	voice	.	172.323	A:7
 8gq	_	.	.	.	.	.	.
 8a	so	.	.	.	.	.	.
 8g	_	.	.	.	.	.	.
 =71	=71	=71	=71	=71	=71	=71	=71
 8fq	_	.	.	.	.	.	.
-16g	_	2Dm	D:min (D F A)	.	voice	.	173.266
+16g	_	2Dm	.	voice	.	173.266	D:min
 16a-	_	.	.	.	.	.	.
 16g	_	.	.	.	.	.	.
 [16f	_	.	.	.	.	.	.
 8f]	_	.	.	.	.	.	.
 [8f	bad!	.	.	.	.	.	.
-4f]	_	2GMm	G:9 (D G B F A)	.	voice	.	174.208
+4f]	_	2GMm	.	voice	.	174.208	G:9/5
 8f	So	.	.	.	.	.	.
 8d	_	.	.	.	.	.	.
 =72	=72	=72	=72	=72	=72	=72	=72
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-8r	.	1FM	F:maj (C F A)	newline	voice	.	175.151
+8r	.	1FM	newline	voice	.	175.151	F:maj/5
 16~a-	come	.	.	.	.	.	.
 [16a	on,	.	.	.	.	.	.
 8a]	_	.	.	.	.	.	.
@@ -603,7 +603,7 @@ r;	.	1r;	r	.	r	.	0
 8d	by	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =73	=73	=73	=73	=73	=73	=73	=73
-8r	.	1B-M	B-:maj (C B- D F)	.	voice	.	177.049
+8r	.	1B-M	.	voice	.	177.049	B-:maj/2
 [8f	Dance	.	.	.	.	.	.
 16f]	_	.	.	.	.	.	.
 8f	that	.	.	.	.	.	.
@@ -612,7 +612,7 @@ r;	.	1r;	r	.	r	.	0
 8r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =74	=74	=74	=74	=74	=74	=74	=74
-8r	.	1FM	F:maj (C F A)	.	voice	.	178.947
+8r	.	1FM	.	voice	.	178.947	F:maj/5
 16~a-	Come	.	.	.	.	.	.
 [16a	on,	.	.	.	.	.	.
 8a]	_	.	.	.	.	.	.
@@ -621,7 +621,7 @@ r;	.	1r;	r	.	r	.	0
 8d	by	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =75	=75	=75	=75	=75	=75	=75	=75
-8r	.	1B-M	B-:maj (C B- D F)	.	voice	.	180.845
+8r	.	1B-M	.	voice	.	180.845	B-:maj/2
 8fq	_	.	.	.	.	.	.
 [8g	Dance	.	.	.	.	.	.
 16g]	_	.	.	.	.	.	.
@@ -631,7 +631,7 @@ r;	.	1r;	r	.	r	.	0
 16d	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =76	=76	=76	=76	=76	=76	=76	=76
-8r	.	1FM	F:maj (C F A)	newline	voice	.	182.743
+8r	.	1FM	newline	voice	.	182.743	F:maj/5
 8~a-	Come	.	.	.	.	.	.
 [8a	on,	.	.	.	.	.	.
 [8f	ba	.	.	.	.	.	.
@@ -639,7 +639,7 @@ r;	.	1r;	r	.	r	.	0
 8d	by	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =77	=77	=77	=77	=77	=77	=77	=77
-8r	.	1B-M	B-:maj (C B- D F)	.	voice	.	184.644
+8r	.	1B-M	.	voice	.	184.644	B-:maj/2
 8g	Let's	.	.	.	.	.	.
 8b-	_	.	.	.	.	.	.
 8a-	dance	.	.	.	.	.	.
@@ -647,28 +647,28 @@ r;	.	1r;	r	.	r	.	0
 8g	to	.	.	.	.	.	.
 8f	_	.	.	.	.	.	.
 =78	=78	=78	=78	=78	=78	=78	=78
-1a_	night	1GMm	G:9 (B G F A)	newline	voice	.	186.545
+1a_	night	1GMm	newline	voice	.	186.545	G:9/3
 =79	=79	=79	=79	=79	=79	=79	=79
-1a_	_	1B-MM	B-:maj7 (B- D F A)	.	voice	.	188.455
+1a_	_	1B-MM	.	voice	.	188.455	B-:maj7
 =80	=80	=80	=80	=80	=80	=80	=80
-1a]	_	1FM	F:maj (A F C)	.	voice	.	190.364
+1a]	_	1FM	.	voice	.	190.364	F:maj/3
 =81	=81	=81	=81	=81	=81	=81	=81
-4r	.	2Gmm	G:min7 (G B- D F)	.	voice	.	192.273
+4r	.	2Gmm	.	voice	.	192.273	G:min7
 8r	.	.	.	.	.	.	.
 16g	Yeah!	.	.	.	.	.	.
 16a-	_	.	.	.	.	.	.
-8g	_	2CM	C:sus4(b7,9) (C F G B- D)	.	voice	.	193.228
+8g	_	2CM	.	voice	.	193.228	C:sus4(b7,9)
 8fq	_	.	.	.	.	.	.
 8g	_	.	.	.	.	.	.
 16a-	_	.	.	.	.	.	.
 16g	_	.	.	.	.	.	.
 [8f	_	.	.	.	.	.	.
 =82	=82	=82	=82	=82	=82	=82	=82
-1f]	_	1CM	C:sus4(b7,9) (C F G B- D)	newline	strings	.	194.183
+1f]	_	1CM	newline	strings	.	194.183	C:sus4(b7,9)
 =83	=83	=83	=83	=83	=83	=83	=83
-1r	.	1FM	F:maj (F A C)	.	strings	.	195.625
-r;	.	1r;	r	.	r	.	197.068
-r;	.	1r;	r	.	r	.	199.654
+1r	.	1FM	.	strings	.	195.625	F:maj
+r;	.	1r;	.	r	.	197.068	1r
+r;	.	1r;	.	r	.	199.654	1r
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1978/07/01, 1978/09/23, 1978/05/20
 !!!BillboardPeak: 3, 3, 3

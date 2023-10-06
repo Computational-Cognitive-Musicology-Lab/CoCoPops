@@ -1,15 +1,15 @@
-**kern	**silbe	**kern	**silbe	**harmony	**chordsym	**phrase	**leadinstrument	**rhyme	**timestamp
-*ICvox	*	*ICvox	*	*M4/4	*M4/4	*	*	*	*
-*e-:	*	*e-:	*	*e-:	*e-:	*	*	*	*
+**kern	**silbe	**kern	**silbe	**harmony	**phrase	**leadinstrument	**rhyme	**timestamp	**harte
+*ICvox	*	*ICvox	*	*M4/4	*	*	*	*	*M4/4
+*e-:	*	*e-:	*	*e-:	*	*	*	*	*e-:
 *M4/4	*	*M4/4	*	*	*	*	*	*	*
 *clefF4	*	*clefF4	*	*	*	*	*	*	*
-r;	.	r;	.	1r;	r	.	r	.	0
+r;	.	r;	.	1r;	.	r	.	0	1r
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
-1r	.	1r	.	1E-m	E-:sus2 (E- F B-)	newline	guitar	.	0.348
+1r	.	1r	.	1E-m	newline	guitar	.	0.348	E-:sus2
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-4r	.	4r	.	1E-m	E-:sus2 (E- F B-)	.	guitar	.	2.887
+4r	.	4r	.	1E-m	.	guitar	.	2.887	E-:sus2
 16E-	Hel-	16E-	Hel-	.	.	.	.	.	.
 8.E-	-lo.	8.E-	-lo.	.	.	.	.	.	.
 8G-	dark-	8E-	dark-	.	.	.	.	.	.
@@ -19,12 +19,12 @@ r;	.	r;	.	1r;	r	.	r	.	0
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-[2A-	friend	2.D-	friend	1D-M	D-:maj(9) (D- F A- E-)	newline	voice	A	5.426
+[2A-	friend	2.D-	friend	1D-M	newline	voice	A	5.426	D-:maj(9)
 8A-]	_	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-8r	.	8r	.	1D-M	D-:maj(9) (D- F A- E-)	.	voice	.	7.682
+8r	.	8r	.	1D-M	.	voice	.	7.682	D-:maj(9)
 8D-	I've	8D-	I've	.	.	.	.	.	.
 8D-	come	8D-	come	.	.	.	.	.	.
 16D-	to	16D-	to	.	.	.	.	.	.
@@ -34,11 +34,11 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8A-	you	8D-	you	.	.	.	.	.	.
 8A-	a-	8E-	a-	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-2.G-	-gain	[2.E-	-gain	1E-m	E-:min(9) (E- G- B- F)	.	voice	A	9.938
+2.G-	-gain	[2.E-	-gain	1E-m	.	voice	A	9.938	E-:min(9)
 4r	.	8E-]	_	.	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-8r	.	8r	.	1E-m	E-:min(9) (E- G- B- F)	.	voice	.	12.194
+8r	.	8r	.	1E-m	.	voice	.	12.194	E-:min(9)
 8G-	Be-	8G-	Be-	.	.	.	.	.	.
 8G-	-cause	8G-	-cause	.	.	.	.	.	.
 8G-	a	8G-	a	.	.	.	.	.	.
@@ -47,14 +47,14 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8d-	soft-	8G-	soft-	.	.	.	.	.	.
 8d-	-ly	8G-	-ly	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-4e-	_	4G-	_	2C-M	C-:maj (C- E- G-)	newline	voice	.	14.45
-8e-	cree-	8G-	cree-	.	.	.	.	(B	.
-[8d-	-ping	[8G-	-ping	.	.	.	.	b)	.
-4.d-]	_	4G-]	_	2G-M	G-:maj (G- B- D-)	.	voice	.	15.587
+4e-	_	4G-	_	2C-M	newline	voice	.	14.45	C-:maj
+8e-	cree-	8G-	cree-	.	.	.	(B	.	.
+[8d-	-ping	[8G-	-ping	.	.	.	b)	.	.
+4.d-]	_	4G-]	_	2G-M	.	voice	.	15.587	G-:maj
 .	.	4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-4r	.	4r	.	1G-M	G-:maj (G- B- D-)	.	voice	.	16.724
+4r	.	4r	.	1G-M	.	voice	.	16.724	G-:maj
 8G-	left	8G-	left	.	.	.	.	.	.
 8G-	its	8G-	its	.	.	.	.	.	.
 8B-	seeds	8G-	seeds	.	.	.	.	.	.
@@ -62,18 +62,18 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8d-	I	8G-	I	.	.	.	.	.	.
 8d-	was	8G-	was	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-4e-	_	4G-	_	2C-M	C-:maj (C- E- G-)	.	voice	.	18.998
-8e-	slee-	8G-	slee-	.	.	.	.	(B	.
-[8d-	-ping	[8G-	-ping	.	.	.	.	b)	.
-2d-]	_	2G-]	_	2G-M	G-:maj (G- B- D-)	.	voice	.	20.135
+4e-	_	4G-	_	2C-M	.	voice	.	18.998	C-:maj
+8e-	slee-	8G-	slee-	.	.	.	(B	.	.
+[8d-	-ping	[8G-	-ping	.	.	.	b)	.	.
+2d-]	_	2G-]	_	2G-M	.	voice	.	20.135	G-:maj
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*	*M2/4
-4r	.	4r	.	2G-M	G-:maj (G- B- D-)	.	voice	.	.
+*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*M2/4	*M2/4
+4r	.	4r	.	2G-M	.	voice	.	.	G-:maj
 8G-	And	8G-	And	.	.	.	.	.	.
 8G-	the	8G-	the	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-*M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4
-8e-	vi-	8G-	vi-	1C-M	C-:maj (C- E- G-)	newline	voice	.	22.409
+*M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4
+8e-	vi-	8G-	vi-	1C-M	newline	voice	.	22.409	C-:maj
 [8e-	-sion	[8G-	-sion	.	.	.	.	.	.
 4e-_	_	4G-_	_	.	.	.	.	.	.
 8e-]	_	8G-]	_	.	.	.	.	.	.
@@ -81,41 +81,41 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8e-	that	8G-	that	.	.	.	.	.	.
 8f	was	8G-	was	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-8g-	plan-	8c-	plan-	1C-M	C-:maj (C- E- G-)	.	voice	.	24.657
+8g-	plan-	8c-	plan-	1C-M	.	voice	.	24.657	C-:maj
 4.g-	-ted	4.c-	-ted	.	.	.	.	.	.
 8f	in	8c-	in	.	.	.	.	.	.
 4e-	my	4c-	my	.	.	.	.	.	.
-[8d-	brain	[8B-	brain	.	.	.	.	C	.
+[8d-	brain	[8B-	brain	.	.	.	C	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-4d-]	_	8B-]	_	1G-M	G-:maj (G- B- D-)	.	voice	.	26.905
+4d-]	_	8B-]	_	1G-M	.	voice	.	26.905	G-:maj
 .	.	8A-	_	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.	.
 8e-	still	8c-	still	.	.	.	.	.	.
 8d-	re-	8B-	re-	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-4.B-	-mains	4.G-	-mains	2G-M	G-:maj (G- B- D-)	.	voice	C	29.154
+4.B-	-mains	4.G-	-mains	2G-M	.	voice	C	29.154	G-:maj
 8r	.	8r	.	.	.	.	.	.	.
-2r	.	2r	.	2E-m	E-:min (E- G- B-)	.	voice	.	30.278
+2r	.	2r	.	2E-m	.	voice	.	30.278	E-:min
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*	*M2/4
-8r	.	8r	.	2G-M	G-:maj (G- B- D-)	.	voice	.	31.402
+*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*M2/4	*M2/4
+8r	.	8r	.	2G-M	.	voice	.	31.402	G-:maj
 16G-	Wi-	8G-	Wi-	.	.	.	.	.	.
 [16G-	-thin	.	.	.	.	.	.	.	.
 8G-]	_	8G-	-thin	.	.	.	.	.	.
 8G-	the	8G-	the	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-*M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4
-2.d-	sound	2.F	sound	1D-M	D-:maj(9) (D- F A- E-)	newline	voice	.	32.526
+*M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4
+2.d-	sound	2.F	sound	1D-M	newline	voice	.	32.526	D-:maj(9)
 8r	.	8r	.	.	.	.	.	.	.
 8F	of	8F	of	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17
-8G-	si-	8E-	si-	1E-m	E-:min(9) (E- G- B- F)	newline	voice	.	34.876
+8G-	si-	8E-	si-	1E-m	newline	voice	.	34.876	E-:min(9)
 [4.E-	-lence	[4.E-	-lence	.	.	.	.	.	.
 4E-]	_	4E-]	_	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-8r	.	8r	.	1E-m	E-:min(9) (E- G- B- F)	.	voice	.	37.26
+8r	.	8r	.	1E-m	.	voice	.	37.26	E-:min(9)
 8E-	In	8E-	In	.	.	.	.	.	.
 8E-	rest-	8E-	rest-	.	.	.	.	.	.
 8E-	-less	8E-	-less	.	.	.	.	.	.
@@ -127,9 +127,9 @@ r;	.	r;	.	1r;	r	.	r	.	0
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-1A-	-lone	1D-	-lone	1D-M	D-:maj(9) (D- F A- E-)	newline	voice	D	39.644
+1A-	-lone	1D-	-lone	1D-M	newline	voice	D	39.644	D-:maj(9)
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20
-4r	.	4r	.	1D-M	D-:maj(9) (D- F A- E-)	.	voice	.	41.907
+4r	.	4r	.	1D-M	.	voice	.	41.907	D-:maj(9)
 8F	Nar-	8D-	Nar-	.	.	.	.	.	.
 8F	-row	8D-	-row	.	.	.	.	.	.
 8F	streets	8D-	streets	.	.	.	.	.	.
@@ -137,11 +137,11 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8A-	cob-	8D-	cob-	.	.	.	.	.	.
 8A-	-ble-	8E-	-ble-	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21
-[2.G-	-stone	[2.E-	-stone	1E-m	E-:min(9) (E- G- B- F)	.	voice	D	44.171
+[2.G-	-stone	[2.E-	-stone	1E-m	.	voice	D	44.171	E-:min(9)
 8G-]	_	8E-]	_	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-4r	.	4r	.	1E-m	E-:min(9) (E- G- B- F)	.	voice	.	46.434
+4r	.	4r	.	1E-m	.	voice	.	46.434	E-:min(9)
 8G-	'Neath	8G-	'Neath	.	.	.	.	.	.
 8G-	the	8G-	the	.	.	.	.	.	.
 8B-	ha-	8G-	ha-	.	.	.	.	.	.
@@ -149,14 +149,14 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8d-	of	8G-	of	.	.	.	.	.	.
 8d-	a	8G-	a	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-4e-	_	4G-	_	2C-M	C-:maj (C- E- G-)	newline	voice	.	48.697
+4e-	_	4G-	_	2C-M	newline	voice	.	48.697	C-:maj
 8e-	street	8G-	street	.	.	.	.	.	.
-[8d-	lamp	[8G-	lamp	.	.	.	.	E	.
-4.d-]	_	4G-]	_	2G-M	G-:maj (G- B- D-)	.	voice	.	49.839
+[8d-	lamp	[8G-	lamp	.	.	.	E	.	.
+4.d-]	_	4G-]	_	2G-M	.	voice	.	49.839	G-:maj
 .	.	4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-8r	.	8r	.	1G-M	G-:maj (G- B- D-)	.	voice	.	50.982
+8r	.	8r	.	1G-M	.	voice	.	50.982	G-:maj
 8G-	I	8G-	I	.	.	.	.	.	.
 8G-	turned	8G-	turned	.	.	.	.	.	.
 8G-	my	8G-	my	.	.	.	.	.	.
@@ -165,20 +165,20 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8d-	to	8G-	to	.	.	.	.	.	.
 8d-	the	8G-	the	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-4e-	cold	4G-	cold	2C-M	C-:maj (C- E- G-)	.	voice	.	53.266
+4e-	cold	4G-	cold	2C-M	.	voice	.	53.266	C-:maj
 8e-	and	8G-	and	.	.	.	.	.	.
-[8d-	damp	[8G-	damp	.	.	.	.	E	.
-4d-]	_	8G-]	_	2G-M	G-:maj (G- B- D-)	.	voice	.	54.408
+[8d-	damp	[8G-	damp	.	.	.	E	.	.
+4d-]	_	8G-]	_	2G-M	.	voice	.	54.408	G-:maj
 .	.	8r	.	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*	*M2/4
-4r	.	4r	.	2G-M	G-:maj (G- B- D-)	.	voice	.	.
+*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*M2/4	*M2/4
+4r	.	4r	.	2G-M	.	voice	.	.	G-:maj
 8G-	When	8G-	When	.	.	.	.	.	.
 8G-	my	8G-	my	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
-*M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4
-4e-	eyes	8G-	eyes	1C-M	C-:maj (C- E- G-)	newline	voice	.	56.693
+*M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4
+4e-	eyes	8G-	eyes	1C-M	newline	voice	.	56.693	C-:maj
 .	.	[8G-	_	.	.	.	.	.	.
 8e-	were	4G-_	were	.	.	.	.	.	.
 [8e-	stabbed	.	.	.	.	.	.	.	.
@@ -186,14 +186,14 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8e-	by	8G-	by	.	.	.	.	.	.
 8f	a	8A-	a	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-4g-	flash	4c-	flash	1C-M	C-:maj (C- E- G-)	.	voice	.	58.981
+4g-	flash	4c-	flash	1C-M	.	voice	.	58.981	C-:maj
 8g-	of	8c-	of	.	.	.	.	.	.
 8g-	a	8c-	a	.	.	.	.	.	.
 8f	ne-	8c-	ne-	.	.	.	.	.	.
 4e-	-on	4c-	-on	.	.	.	.	.	.
-[8d-	light	[8B-	light	.	.	.	.	F	.
+[8d-	light	[8B-	light	.	.	.	F	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-8d-]	_	8B-]	_	1G-M	G-:maj (G- B- D-)	.	voice	.	61.269
+8d-]	_	8B-]	_	1G-M	.	voice	.	61.269	G-:maj
 8r	.	8r	.	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
@@ -201,26 +201,26 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8e-	split	8c-	split	.	.	.	.	.	.
 8d-	the	8B-	the	.	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-2B-	night	4.G-	night	2G-M	G-:maj (G- B- D-)	.	voice	F	63.557
+2B-	night	4.G-	night	2G-M	.	voice	F	63.557	G-:maj
 .	.	8r	.	.	.	.	.	.	.
-2r	.	2r	.	2E-m	E-:min (E- G- B-)	.	voice	.	64.701
+2r	.	2r	.	2E-m	.	voice	.	64.701	E-:min
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*	*M2/4
-8r	.	8r	.	2G-M	G-:maj (G- B- D-)	.	voice	.	65.845
+*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*M2/4	*M2/4
+8r	.	8r	.	2G-M	.	voice	.	65.845	G-:maj
 8G-	And	8G-	And	.	.	.	.	.	.
 8G-	touched	8G-	touched	.	.	.	.	.	.
 8G-	the	8G-	the	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32
-*M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4
-2.d-	sound	2.F	sound	1D-M	D-:maj(9) (D- F A- E-)	newline	voice	.	66.99
+*M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4
+2.d-	sound	2.F	sound	1D-M	newline	voice	.	66.99	D-:maj(9)
 8r	.	8r	.	.	.	.	.	.	.
 8F	of	8F	of	.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-8G-	si-	8E-	si-	1E-m	E-:min(9) (E- G- B- F)	newline	voice	.	69.269
+8G-	si-	8E-	si-	1E-m	newline	voice	.	69.269	E-:min(9)
 [4.E-	-lence	[4.E-	-lence	.	.	.	.	.	.
 2E-]	_	2E-]	_	.	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
-8r	.	8r	.	1E-m	E-:min(9) (E- G- B- F)	.	voice	.	71.565
+8r	.	8r	.	1E-m	.	voice	.	71.565	E-:min(9)
 8E-	And	8E-	And	.	.	.	.	.	.
 8E-	in	8E-	in	.	.	.	.	.	.
 8E-	the	8E-	the	.	.	.	.	.	.
@@ -231,9 +231,9 @@ r;	.	r;	.	1r;	r	.	r	.	0
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-1A-	saw	1D-	saw	1D-M	D-:maj(9) (D- F A- E-)	newline	voice	G	73.861
+1A-	saw	1D-	saw	1D-M	newline	voice	G	73.861	D-:maj(9)
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36
-8r	.	8r	.	1D-M	D-:maj(9) (D- F A- E-)	.	voice	.	76.129
+8r	.	8r	.	1D-M	.	voice	.	76.129	D-:maj(9)
 8F	ten	8D-	ten	.	.	.	.	.	.
 8F	thou-	8D-	thou-	.	.	.	.	.	.
 8F	-sand	8D-	-sand	.	.	.	.	.	.
@@ -242,11 +242,11 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8A-	may-	8D-	may-	.	.	.	.	.	.
 8F	-be	8E-	-be	.	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37
-[2.G-	more	[2.E-	more	1E-m	E-:min(9) (E- G- B- F)	.	voice	G	78.397
+[2.G-	more	[2.E-	more	1E-m	.	voice	G	78.397	E-:min(9)
 8G-]	_	8E-]	_	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
-4r	.	4r	.	1E-m	E-:min(9) (E- G- B- F)	.	voice	.	80.665
+4r	.	4r	.	1E-m	.	voice	.	80.665	E-:min(9)
 8G-	Peo-	8G-	Peo-	.	.	.	.	.	.
 8G-	-ple	8G-	-ple	.	.	.	.	.	.
 8B-	tal-	8G-	tal-	.	.	.	.	.	.
@@ -254,13 +254,13 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8d-	with-	8G-	with-	.	.	.	.	.	.
 8d-	-out	8G-	-out	.	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39
-4e-	_	4G-	_	2C-M	C-:maj (C- E- G-)	newline	voice	.	82.934
-8e-	speak-	8G-	speak-	.	.	.	.	(B	.
-[8d-	-ing	[8G-	-ing	.	.	.	.	b)	.
-2d-]	_	4G-]	_	2G-M	G-:maj (G- B- D-)	.	voice	.	84.055
+4e-	_	4G-	_	2C-M	newline	voice	.	82.934	C-:maj
+8e-	speak-	8G-	speak-	.	.	.	(B	.	.
+[8d-	-ing	[8G-	-ing	.	.	.	b)	.	.
+2d-]	_	4G-]	_	2G-M	.	voice	.	84.055	G-:maj
 .	.	4r	.	.	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40
-4r	.	4r	.	1G-M	G-:maj (G- B- D-)	.	voice	.	85.176
+4r	.	4r	.	1G-M	.	voice	.	85.176	G-:maj
 8G-	peo-	8G-	peo-	.	.	.	.	.	.
 8G-	-ple	8G-	-ple	.	.	.	.	.	.
 8B-	hear-	8G-	hear-	.	.	.	.	.	.
@@ -268,30 +268,30 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8d-	with-	8G-	with-	.	.	.	.	.	.
 8d-	-out	8G-	-out	.	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41
-4e-	_	4G-	_	2C-M	C-:maj (C- E- G-)	.	voice	.	87.418
+4e-	_	4G-	_	2C-M	.	voice	.	87.418	C-:maj
 8e-	list-	8G-	list-	.	.	.	.	.	.
-[8d-	-'ning	[8G-	-'ning	.	.	.	.	b	.
-2d-]	_	4G-]	_	2G-M	G-:maj (G- B- D-)	.	voice	.	88.539
+[8d-	-'ning	[8G-	-'ning	.	.	.	b	.	.
+2d-]	_	4G-]	_	2G-M	.	voice	.	88.539	G-:maj
 .	.	4r	.	.	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42	=42
-4r	.	4r	.	1G-M	G-:maj (G- B- D-)	.	voice	.	89.66
+4r	.	4r	.	1G-M	.	voice	.	89.66	G-:maj
 8G-	Peo-	8G-	Peo-	.	.	.	.	.	.
 8G-	-ple	8G-	-ple	.	.	.	.	.	.
 8B-	wri-	8G-	wri-	.	.	.	.	.	.
 4.d-	-ting	4.G-	-ting	.	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43	=43	=43	=43
-[2e-	songs	[2G-	songs	1C-M	C-:maj (C- E- G-)	newline	voice	.	91.902
+[2e-	songs	[2G-	songs	1C-M	newline	voice	.	91.902	C-:maj
 8e-]	_	8G-]	_	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
 4f	that	4B-	that	.	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44
-8g-	voi-	8c-	voi-	1C-M	C-:maj (C- E- G-)	.	voice	.	94.125
+8g-	voi-	8c-	voi-	1C-M	.	voice	.	94.125	C-:maj
 4.g-	-ces	4.c-	-ces	.	.	.	.	.	.
 8f	ne-	8c-	ne-	.	.	.	.	.	.
 4e-	-ver	4c-	-ver	.	.	.	.	.	.
-[8d-	share	[8B-	share	.	.	.	.	G	.
+[8d-	share	[8B-	share	.	.	.	G	.	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45	=45
-8d-]	_	8B-]	_	1G-M	G-:maj (G- B- D-)	.	voice	.	96.349
+8d-]	_	8B-]	_	1G-M	.	voice	.	96.349	G-:maj
 8r	.	8r	.	.	.	.	.	.	.
 4r	.	4r	.	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
@@ -299,25 +299,25 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8e-	no	8c-	no	.	.	.	.	.	.
 8d-	one	8B-	one	.	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46
-2B-	dared	2G-	dared	2G-M	G-:maj (G- B- D-)	.	voice	G	98.572
-2r	.	2r	.	2E-m	E-:min (E- G- B-)	.	voice	.	99.683
+2B-	dared	2G-	dared	2G-M	.	voice	G	98.572	G-:maj
+2r	.	2r	.	2E-m	.	voice	.	99.683	E-:min
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*	*M2/4
-8r	.	8r	.	2G-M	G-:maj (G- B- D-)	.	voice	.	100.795
+*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*M2/4	*M2/4
+8r	.	8r	.	2G-M	.	voice	.	100.795	G-:maj
 8G-	dis-	8G-	dis-	.	.	.	.	.	.
 8G-	-turb	8G-	-turb	.	.	.	.	.	.
 8G-	the	8G-	the	.	.	.	.	.	.
 =48	=48	=48	=48	=48	=48	=48	=48	=48	=48
-*M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4
-2.d-	sound	2.F	sound	1D-M	D-:maj(9) (D- F A- E-)	newline	voice	.	101.907
+*M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4
+2.d-	sound	2.F	sound	1D-M	newline	voice	.	101.907	D-:maj(9)
 8r	.	8r	.	.	.	.	.	.	.
 8F	of	8F	of	.	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49
-8G-	si-	8E-	si-	1E-m	E-:min(9) (E- G- B- F)	newline	voice	.	104.148
+8G-	si-	8E-	si-	1E-m	newline	voice	.	104.148	E-:min(9)
 [4.E-	-lence	[4.E-	-lence	.	.	.	.	.	.
 2E-]	_	2E-]	_	.	.	.	.	.	.
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50
-4r	.	4r	.	1E-m	E-:min(9) (E- G- B- F)	.	voice	.	106.4
+4r	.	4r	.	1E-m	.	voice	.	106.4	E-:min(9)
 8E-	Fools	8E-	Fools	.	.	.	.	.	.
 8E-	said	8E-	said	.	.	.	.	.	.
 8G-	I,	8E-	I,	.	.	.	.	.	.
@@ -328,9 +328,9 @@ r;	.	r;	.	1r;	r	.	r	.	0
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-1A-	know	1D-	know	1D-M	D-:maj(9) (D- F A- E-)	newline	voice	D	108.651
+1A-	know	1D-	know	1D-M	newline	voice	D	108.651	D-:maj(9)
 =52	=52	=52	=52	=52	=52	=52	=52	=52	=52
-4r	.	4r	.	1D-M	D-:maj(9) (D- F A- E-)	.	voice	.	110.838
+4r	.	4r	.	1D-M	.	voice	.	110.838	D-:maj(9)
 8F	si-	8D-	si-	.	.	.	.	.	.
 8F	-lence	8D-	-lence	.	.	.	.	.	.
 8F	like	8D-	like	.	.	.	.	.	.
@@ -338,11 +338,11 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8A-	can-	8D-	can-	.	.	.	.	.	.
 8F	-cer	8D-	-cer	.	.	.	.	.	.
 =53	=53	=53	=53	=53	=53	=53	=53	=53	=53
-[2.G-	grows	[2.E-	grows	1E-m	E-:min(9) (E- G- B- F)	.	voice	D	113.026
+[2.G-	grows	[2.E-	grows	1E-m	.	voice	D	113.026	E-:min(9)
 8G-]	_	8E-]	_	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54	=54	=54	=54
-4r	.	4r	.	1E-m	E-:min(9) (E- G- B- F)	.	voice	.	115.213
+4r	.	4r	.	1E-m	.	voice	.	115.213	E-:min(9)
 8G-	Hear	8G-	Hear	.	.	.	.	.	.
 8G-	my	8G-	my	.	.	.	.	.	.
 8B-	words	8G-	words	.	.	.	.	.	.
@@ -350,13 +350,13 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8d-	I	8G-	I	.	.	.	.	.	.
 8d-	might	8G-	might	.	.	.	.	.	.
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55
-4e-	_	4G-	_	2C-M	C-:maj (C- E- G-)	newline	voice	.	117.4
-8e-	teach	8G-	teach	.	.	.	.	(B	.
-[8d-	you	[8G-	you	.	.	.	.	b)	.
-2d-]	_	4G-]	_	2G-M	G-:maj (G- B- D-)	.	voice	.	118.51
+4e-	_	4G-	_	2C-M	newline	voice	.	117.4	C-:maj
+8e-	teach	8G-	teach	.	.	.	(B	.	.
+[8d-	you	[8G-	you	.	.	.	b)	.	.
+2d-]	_	4G-]	_	2G-M	.	voice	.	118.51	G-:maj
 .	.	4r	.	.	.	.	.	.	.
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56
-4r	.	4r	.	1G-M	G-:maj (G- B- D-)	.	voice	.	119.621
+4r	.	4r	.	1G-M	.	voice	.	119.621	G-:maj
 8G-	take	8G-	take	.	.	.	.	.	.
 8G-	my	8G-	my	.	.	.	.	.	.
 8B-	arms	8G-	arms	.	.	.	.	.	.
@@ -364,55 +364,55 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8d-	I	8G-	I	.	.	.	.	.	.
 8d-	might	8G-	might	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57
-4e-	_	4G-	_	2C-M	C-:maj (C- E- G-)	.	voice	.	121.842
-8e-	reach	8G-	reach	.	.	.	.	(B	.
-[8d-	you	[8G-	you	.	.	.	.	b)	.
-2d-]	_	4G-]	_	2G-M	G-:maj (G- B- D-)	.	voice	.	122.953
+4e-	_	4G-	_	2C-M	.	voice	.	121.842	C-:maj
+8e-	reach	8G-	reach	.	.	.	(B	.	.
+[8d-	you	[8G-	you	.	.	.	b)	.	.
+2d-]	_	4G-]	_	2G-M	.	voice	.	122.953	G-:maj
 .	.	4r	.	.	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*	*M2/4
-4r	.	4r	.	2G-M	G-:maj (G- B- D-)	.	voice	.	.
+*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*M2/4	*M2/4
+4r	.	4r	.	2G-M	.	voice	.	.	G-:maj
 8G-	But	8G-	But	.	.	.	.	.	.
 8G-	my	8G-	my	.	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59	=59
-*M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4
-[2e-	words	[2G-	words	1C-M	C-:maj (C- E- G-)	newline	voice	.	125.174
+*M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4
+[2e-	words	[2G-	words	1C-M	newline	voice	.	125.174	C-:maj
 8e-]	_	8G-]	_	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
 4f	like	4G-	like	.	.	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60	=60	=60	=60
-8g-	si-	8c-	si-	1C-M	C-:maj (C- E- G-)	.	voice	.	127.373
+8g-	si-	8c-	si-	1C-M	.	voice	.	127.373	C-:maj
 4.g-	-lent	4.c-	-lent	.	.	.	.	.	.
 8a-q	_	.	.	.	.	.	.	.	.
 8f	rain-	4c-	rain-	.	.	.	.	.	.
 4.e-	-drops	.	.	.	.	.	.	.	.
 .	.	4c-	_	.	.	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61	=61
-4d-	fell	4B-	-fell	1G-M	G-:maj (G- B- D-)	.	voice	H	129.572
+4d-	fell	4B-	-fell	1G-M	.	voice	H	129.572	G-:maj
 4r	.	4r	.	.	.	.	.	.	.
 2r	.	2r	.	.	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62	=62	=62
-2r	.	2r	.	2G-M	G-:maj (G- B- D-)	.	voice	.	131.771
-4r	.	4r	.	2E-m	E-:min (E- G- B-)	.	voice	.	132.871
+2r	.	2r	.	2G-M	.	voice	.	131.771	G-:maj
+4r	.	4r	.	2E-m	.	voice	.	132.871	E-:min
 8r	.	8r	.	.	.	.	.	.	.
 8~E-	And	8~BB-	And	.	.	.	.	.	.
 =63	=63	=63	=63	=63	=63	=63	=63	=63	=63
-8G-	e-	8E-	e-	1G-M	G-:maj (G- B- D-)	.	voice	.	133.97
+8G-	e-	8E-	e-	1G-M	.	voice	.	133.97	G-:maj
 [4.G-	-choed	[4.G-	-choed	.	.	.	.	.	.
 4G-]	_	4G-]	_	.	.	.	.	.	.
 8G-	in	8G-	in	.	.	.	.	.	.
 8G-	the	8G-	the	.	.	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64	=64	=64	=64
 8cq	_	.	.	.	.	.	.	.	.
-2.d-	wells	2.F	wells	1D-M	D-:maj(9) (D- F A- E-)	newline	voice	H	136.169
+2.d-	wells	2.F	wells	1D-M	newline	voice	H	136.169	D-:maj(9)
 8r	.	8r	.	.	.	.	.	.	.
 8F	of	8F	of	.	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65	=65
-8G-	si-	8E-	si-	1E-m	E-:min(9) (E- G- B- F)	newline	voice	.	138.443
+8G-	si-	8E-	si-	1E-m	newline	voice	.	138.443	E-:min(9)
 [4.E-	-lence	[4.E-	-lence	.	.	.	.	.	.
 2E-]	_	2E-]	_	.	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66	=66	=66
-4r	.	4r	.	1E-m	E-:min(9) (E- G- B- F)	.	voice	.	140.737
+4r	.	4r	.	1E-m	.	voice	.	140.737	E-:min(9)
 8E-	And	8E-	And	.	.	.	.	.	.
 8E-	the	8E-	the	.	.	.	.	.	.
 8G-	peo-	8E-	peo-	.	.	.	.	.	.
@@ -422,9 +422,9 @@ r;	.	r;	.	1r;	r	.	r	.	0
 =67	=67	=67	=67	=67	=67	=67	=67	=67	=67
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-1A-	prayed	1D-	prayed	1D-M	D-:maj(9) (D- F A- E-)	newline	voice	C	143.03
+1A-	prayed	1D-	prayed	1D-M	newline	voice	C	143.03	D-:maj(9)
 =68	=68	=68	=68	=68	=68	=68	=68	=68	=68
-4r	.	4r	.	1D-M	D-:maj(9) (D- F A- E-)	.	voice	.	145.209
+4r	.	4r	.	1D-M	.	voice	.	145.209	D-:maj(9)
 8F	to	8D-	to	.	.	.	.	.	.
 8F	the	8D-	the	.	.	.	.	.	.
 16F	ne-	16D-	ne-	.	.	.	.	.	.
@@ -432,11 +432,11 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8A-	god	8D-	god	.	.	.	.	.	.
 8F	they	8E-	they	.	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69	=69	=69	=69
-[2.G-	made	1E-	made	1E-m	E-:min(9) (E- G- B- F)	.	voice	C	147.388
+[2.G-	made	1E-	made	1E-m	.	voice	C	147.388	E-:min(9)
 8G-]	_	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 =70	=70	=70	=70	=70	=70	=70	=70	=70	=70
-4r	.	4r	.	1E-m	E-:min(9) (E- G- B- F)	.	voice	.	149.567
+4r	.	4r	.	1E-m	.	voice	.	149.567	E-:min(9)
 8G-	And	8G-	And	.	.	.	.	.	.
 16G-	the	8G-	the	.	.	.	.	.	.
 16G-	s-	.	.	.	.	.	.	.	.
@@ -445,13 +445,13 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8d-	out	8G-	out	.	.	.	.	.	.
 8d-	its	8G-	its	.	.	.	.	.	.
 =71	=71	=71	=71	=71	=71	=71	=71	=71	=71
-4e-	_	4G-	_	2C-M	C-:maj (C- E- G-)	newline	voice	.	151.746
-8e-	war-	8G-	war-	.	.	.	.	(G	.
-[8d-	-ning	[8G-	-ning	.	.	.	.	g)	.
-2d-]	_	4G-]	_	2G-M	G-:maj (G- B- D-)	.	voice	.	152.843
+4e-	_	4G-	_	2C-M	newline	voice	.	151.746	C-:maj
+8e-	war-	8G-	war-	.	.	.	(G	.	.
+[8d-	-ning	[8G-	-ning	.	.	.	g)	.	.
+2d-]	_	4G-]	_	2G-M	.	voice	.	152.843	G-:maj
 .	.	4r	.	.	.	.	.	.	.
 =72	=72	=72	=72	=72	=72	=72	=72	=72	=72
-4r	.	4r	.	1G-M	G-:maj (G- B- D-)	.	voice	.	153.94
+4r	.	4r	.	1G-M	.	voice	.	153.94	G-:maj
 8G-	in	8G-	in	.	.	.	.	.	.
 8G-	the	8G-	the	.	.	.	.	.	.
 8B-	words	8G-	words	.	.	.	.	.	.
@@ -459,34 +459,34 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8d-	it	8G-	it	.	.	.	.	.	.
 8d-	was	8G-	was	.	.	.	.	.	.
 =73	=73	=73	=73	=73	=73	=73	=73	=73	=73
-4e-	_	4G-	_	2C-M	C-:maj (C- E- G-)	.	voice	.	156.134
-8e-	for-	8G-	for-	.	.	.	.	(G	.
-[8d-	-ming	[8G-	-ming	.	.	.	.	g)	.
-2d-]	_	2G-]	_	2G-M	G-:maj (G- B- D-)	.	voice	.	157.231
+4e-	_	4G-	_	2C-M	.	voice	.	156.134	C-:maj
+8e-	for-	8G-	for-	.	.	.	(G	.	.
+[8d-	-ming	[8G-	-ming	.	.	.	g)	.	.
+2d-]	_	2G-]	_	2G-M	.	voice	.	157.231	G-:maj
 =74	=74	=74	=74	=74	=74	=74	=74	=74	=74
-4r	.	4r	.	1G-M	G-:maj (G- B- D-)	.	voice	.	158.329
+4r	.	4r	.	1G-M	.	voice	.	158.329	G-:maj
 8G-	And	8G-	And	.	.	.	.	.	.
 8G-	the	8G-	the	.	.	.	.	.	.
 4B-	signs	4G-	signs	.	.	.	.	.	.
 8d-	said,	8G-	said,	.	.	.	.	.	.
 8d-	the	8G-	the	.	.	.	.	.	.
 =75	=75	=75	=75	=75	=75	=75	=75	=75	=75
-4e-	words	4c-	words	1C-M	C-:maj (C- E- G-)	newline	voice	.	160.523
+4e-	words	4c-	words	1C-M	newline	voice	.	160.523	C-:maj
 8e-	of	8c-	of	.	.	.	.	.	.
 8e-	the	8c-	the	.	.	.	.	.	.
 8e-	pro-	8c-	pro-	.	.	.	.	.	.
 8e-	-phets	8c-	-phets	.	.	.	.	.	.
 4f	are	4c-	are	.	.	.	.	.	.
 =76	=76	=76	=76	=76	=76	=76	=76	=76	=76
-8g-	writ-	8c-	writ-	1C-M	C-:maj (C- E- G-)	.	voice	.	162.721
+8g-	writ-	8c-	writ-	1C-M	.	voice	.	162.721	C-:maj
 8g-	-ten	8c-	-ten	.	.	.	.	.	.
 8g-	on	8c-	on	.	.	.	.	.	.
 8g-	the	8c-	the	.	.	.	.	.	.
 8f	sub-	8c-	sub-	.	.	.	.	.	.
 4e-	-way	4c-	-way	.	.	.	.	.	.
-[8d-	walls	[8B-	walls	.	.	.	.	I	.
+[8d-	walls	[8B-	walls	.	.	.	I	.	.
 =77	=77	=77	=77	=77	=77	=77	=77	=77	=77
-4d-]	_	4B-]	_	1G-M	G-:maj (G- B- D-)	.	voice	.	164.919
+4d-]	_	4B-]	_	1G-M	.	voice	.	164.919	G-:maj
 4r	.	4r	.	.	.	.	.	.	.
 8r	.	8r	.	.	.	.	.	.	.
 8~B-	and	8~G-	and	.	.	.	.	.	.
@@ -494,28 +494,28 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16e-	-ne-	16c-	-ne-	.	.	.	.	.	.
 8d-	-ment	8B-	-ment	.	.	.	.	.	.
 =78	=78	=78	=78	=78	=78	=78	=78	=78	=78
-2B-	halls	4.G-	halls	2G-M	G-:maj (G- B- D-)	.	voice	I	167.118
+2B-	halls	4.G-	halls	2G-M	.	voice	I	167.118	G-:maj
 .	.	8r	.	.	.	.	.	.	.
-4r	.	4r	.	2E-m	E-:min (E- G- B-)	.	voice	.	168.217
+4r	.	4r	.	2E-m	.	voice	.	168.217	E-:min
 8r	.	8r	.	.	.	.	.	.	.
 8~E-	And	8~BB-	And	.	.	.	.	.	.
 =79	=79	=79	=79	=79	=79	=79	=79	=79	=79
-8G-	whis-	8G-	whis-	1G-M	G-:maj (G- B- D-)	.	voice	.	169.316
+8G-	whis-	8G-	whis-	1G-M	.	voice	.	169.316	G-:maj
 [4.G-	-pered	[4.G-	-pered	.	.	.	.	.	.
 4.G-]	_	4.G-]	_	.	.	.	.	.	.
 8G-	the	8G-	the	.	.	.	.	.	.
 =80	=80	=80	=80	=80	=80	=80	=80	=80	=80
-2.d-	sounds	2.F	sounds	1D-M	D-:maj(9) (D- F A- E-)	newline	voice	.	171.514
+2.d-	sounds	2.F	sounds	1D-M	newline	voice	.	171.514	D-:maj(9)
 8r	.	8r	.	.	.	.	.	.	.
 8F	of	8F	of	.	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81	=81	=81	=81
-8G-	si-	8E-	si-	1E-m	E-:min(9) (E- G- B- F)	newline	voice	.	175.056
+8G-	si-	8E-	si-	1E-m	newline	voice	.	175.056	E-:min(9)
 [4.E-	-lence	[4.E-	-lence	.	.	.	.	.	.
 2E-]	_	2E-]	_	.	.	.	.	.	.
 =82	=82	=82	=82	=82	=82	=82	=82	=82	=82
-1r	.	1r	.	1E-m	E-:min(9) (E- G- B- F)	.	voice	.	178.557
-r;	.	r;	.	1r;	r	.	r	.	183.809
-r;	.	r;	.	1r;	r	.	r	.	189.362
+1r	.	1r	.	1E-m	.	voice	.	178.557	E-:min(9)
+r;	.	r;	.	1r;	.	r	.	183.809	1r
+r;	.	r;	.	1r;	.	r	.	189.362	1r
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1965/12/11
 !!!BillboardPeak: 1

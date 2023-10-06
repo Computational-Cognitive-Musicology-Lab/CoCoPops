@@ -1,27 +1,27 @@
-**kern	**silbe	**kern	**silbe	**harmony	**chordsym	**phrase	**leadinstrument	**rhyme	**timestamp
-*ICvox	*	*ICvox	*	*M4/4	*M4/4	*	*	*	*
-*F#:	*	*F#:	*	*F#:	*F#:	*	*	*	*
+**kern	**silbe	**kern	**silbe	**harmony	**phrase	**leadinstrument	**rhyme	**timestamp	**harte
+*ICvox	*	*ICvox	*	*M4/4	*	*	*	*	*M4/4
+*F#:	*	*F#:	*	*F#:	*	*	*	*	*F#:
 *M4/4	*	*M4/4	*	*	*	*	*	*	*
 *clefF4	*	*clefC3	*	*	*	*	*	*	*
-r;	.	r;	.	1r;	r	.	r	.	0
+r;	.	r;	.	1r;	.	r	.	0	1r
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
-1r	.	1r	.	1F#M	F#:maj (F# A# C#)	newline	guitar	.	0.697
+1r	.	1r	.	1F#M	newline	guitar	.	0.697	F#:maj
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-1r	.	1r	.	1AM	A:maj (A C# E)	.	guitar	.	2.536
+1r	.	1r	.	1AM	.	guitar	.	2.536	A:maj
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-1r	.	1r	.	1BM	B:maj (B D# F#)	.	guitar	.	4.375
+1r	.	1r	.	1BM	.	guitar	.	4.375	B:maj
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-1r	.	1r	.	1F#M	F#:maj (F# A# C#)	.	guitar	.	6.215
+1r	.	1r	.	1F#M	.	guitar	.	6.215	F#:maj
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-1r	.	1r	.	1F#M	F#:maj (F# A# C#)	newline	guitar	.	8.054
+1r	.	1r	.	1F#M	newline	guitar	.	8.054	F#:maj
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-1r	.	1r	.	1AM	A:maj (A C# E)	.	guitar	.	9.852
+1r	.	1r	.	1AM	.	guitar	.	9.852	A:maj
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-1r	.	1r	.	1BM	B:maj (B D# F#)	.	guitar	.	11.65
+1r	.	1r	.	1BM	.	guitar	.	11.65	B:maj
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-2r	.	1r	.	1F#M	F#:maj (F# A# C#)	.	guitar	.	13.448
+2r	.	1r	.	1F#M	.	guitar	.	13.448	F#:maj
 8r	.	.	.	.	.	.	.	.	.
 8c#	All	.	.	.	.	.	.	.	.
 8~B#	my	.	.	.	.	.	.	.	.
@@ -29,7 +29,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-16B#	_	1r	.	1F#M	F#:maj (F# A# C#)	newline	voice	.	15.247
+16B#	_	1r	.	1F#M	newline	voice	.	15.247	F#:maj
 [8.c#	_	.	.	.	.	.	.	.	.
 8c#]	_	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
@@ -38,7 +38,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16E#	to	.	.	.	.	.	.	.	.
 [16F#	ask	.	.	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-8F#]	_	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	17.063
+8F#]	_	1r	.	1F#M	.	voice	.	17.063	F#:maj
 8F#	me	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
@@ -46,21 +46,21 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8B	-thing	.	.	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 8B#q	_	.	.	.	.	.	.	.	.
-4c#	they	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	18.88
+4c#	they	1r	.	1F#M	.	voice	.	18.88	F#:maj
 8B	did-	.	.	.	.	.	.	.	.
 8A	-n't	.	.	.	.	.	.	.	.
 8B	un-	.	.	.	.	.	.	.	.
 4A	-der-	.	.	.	.	.	.	.	.
-8A	-stand	.	.	.	.	.	.	A	.
+8A	-stand	.	.	.	.	.	A	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-4F#	_	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	20.697
+4F#	_	1r	.	1F#M	.	voice	.	20.697	F#:maj
 4r	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 16B#	How	.	.	.	.	.	.	.	.
 8B	I	.	.	.	.	.	.	.	.
 16A	get	.	.	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-16B	_	1r	.	1F#M	F#:maj (F# A# C#)	newline	voice	.	22.513
+16B	_	1r	.	1F#M	newline	voice	.	22.513	F#:maj
 8.c#	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
@@ -68,7 +68,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16E	the	.	.	.	.	.	.	.	.
 [16F#	wo	.	.	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-8F#]	_	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	24.319
+8F#]	_	1r	.	1F#M	.	voice	.	24.319	F#:maj
 8F#	men	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
@@ -76,12 +76,12 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8B	the	.	.	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 8B#q	_	.	.	.	.	.	.	.	.
-2c#	palms	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	26.126
+2c#	palms	1r	.	1F#M	.	voice	.	26.126	F#:maj
 8B	of	.	.	.	.	.	.	.	.
 4A	my	.	.	.	.	.	.	.	.
-8A	hand	.	.	.	.	.	.	A	.
+8A	hand	.	.	.	.	.	A	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-4F#	_	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	27.932
+4F#	_	1r	.	1F#M	.	voice	.	27.932	F#:maj
 4r	.	.	.	.	.	.	.	.	.
 16r	.	.	.	.	.	.	.	.	.
 16F#	And	.	.	.	.	.	.	.	.
@@ -91,7 +91,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-4r	.	4r	.	1AM	A:maj (A C# E)	newline	voice	.	29.738
+4r	.	4r	.	1AM	newline	voice	.	29.738	A:maj
 8c#	treat	8c# 8e 8a	Treat	.	.	.	.	.	.
 8B	her	8c# 8e 8a	her	.	.	.	.	.	.
 8B	like	8c# 8e 8a	like	.	.	.	.	.	.
@@ -100,7 +100,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8B#q	_	.	.	.	.	.	.	.	.
 [8c#	la	8c# 8e 8a	you	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-16c#]	_	8d 8f# 8a	got	1Bm	B:min (B D F#)	.	voice	.	31.57
+16c#]	_	8d 8f# 8a	got	1Bm	.	voice	.	31.57	B:min
 8.B	dy	.	.	.	.	.	.	.	.
 .	.	8d 8f# 8a	to,	.	.	.	.	.	.
 8A	_	8d 8f# 8a	got	.	.	.	.	.	.
@@ -111,15 +111,15 @@ r;	.	r;	.	1r;	r	.	r	.	0
 .	.	8d 8f# 8a	like	.	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-2r	.	4r	.	1AM	A:maj (A C# E)	.	voice	.	33.402
+2r	.	4r	.	1AM	.	voice	.	33.402	A:maj
 .	.	8c# 8e 8a	Treat	.	.	.	.	.	.
 .	.	8c# 8e 8a	her	.	.	.	.	.	.
 8B	best	8c# 8e 8a	like	.	.	.	.	.	.
 8A	you	8r	.	.	.	.	.	.	.
 8F#	can	8r	.	.	.	.	.	.	.
-[8A	do	8c# 8e 8a	you	.	.	.	.	B	.
+[8A	do	8c# 8e 8a	you	.	.	.	B	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20
-4A]	_	8d 8f# 8a	got	1Bm	B:min (B D F#)	.	voice	.	35.234
+4A]	_	8d 8f# 8a	got	1Bm	.	voice	.	35.234	B:min
 .	.	8d 8f# 8a	to,	.	.	.	.	.	.
 4r	.	8d 8f# 8a	got	.	.	.	.	.	.
 .	.	16d 16f# 16a	to	.	.	.	.	.	.
@@ -131,7 +131,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8c#	to	.	.	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 8e#q	_	.	.	.	.	.	.	.	.
-4f#	treat	4r	.	1AM	A:maj (A C# E)	.	voice	.	37.066
+4f#	treat	4r	.	1AM	.	voice	.	37.066	A:maj
 4e	her	4F#	Doo	.	.	.	.	.	.
 8eq	_	.	.	.	.	.	.	.	.
 4f#	like	8A	doo	.	.	.	.	.	.
@@ -140,7 +140,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8B#q	_	.	.	.	.	.	.	.	.
 [8c#	la	8B#	doo	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-16c#]	_	4c#	_	1Bm	B:min (B D F#)	.	voice	.	38.898
+16c#]	_	4c#	_	1Bm	.	voice	.	38.898	B:min
 8.B	dy,	.	.	.	.	.	.	.	.
 4A	_	8B	doo	.	.	.	.	.	.
 .	.	8A	_	.	.	.	.	.	.
@@ -151,19 +151,19 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16E	to	8E	_	.	.	.	.	.	.
 16E	y-	.	.	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-2F#	-you	[1F# [1A# [1c#	_	1F#M	F#:maj (F# A# C#)	newline	voice	B	40.73
+2F#	-you	[1F# [1A# [1c#	_	1F#M	newline	voice	B	40.73	F#:maj
 4r	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 [8F#	Lor	.	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-8F#]	_	1F#_ 1A#_ 1c#_	_	1F#M	F#:maj (F# A# C#)	.	voice	.	42.53
+8F#]	_	1F#_ 1A#_ 1c#_	_	1F#M	.	voice	.	42.53	F#:maj
 8C#	d	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 8F#	you	.	.	.	.	.	.	.	.
 4F#	can	.	.	.	.	.	.	.	.
-[8E	see	.	.	.	.	.	.	C	.
+[8E	see	.	.	.	.	.	C	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-8E]	_	2F#] 2A#] 2c#]	_	1F#M	F#:maj (F# A# C#)	.	voice	.	44.33
+8E]	_	2F#] 2A#] 2c#]	_	1F#M	.	voice	.	44.33	F#:maj
 8r	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 8r	.	2r	.	.	.	.	.	.	.
@@ -172,7 +172,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16F#	what	.	.	.	.	.	.	.	.
 8F#	I	.	.	.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-4F#	mean	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	C	46.131
+4F#	mean	1r	.	1F#M	.	voice	C	46.131	F#:maj
 4r	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 8c#	I	.	.	.	.	.	.	.	.
@@ -183,7 +183,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-8c#]	_	4r	.	1F#M	F#:maj (F# A# C#)	newline	voice	.	47.931
+8c#]	_	4r	.	1F#M	newline	voice	.	47.931	F#:maj
 8~A#	da	.	.	.	.	.	.	.	.
 4r	.	8~A 8~B 8e	Treat	.	.	.	.	.	.
 .	.	8A# 8c# 8f#	her	.	.	.	.	.	.
@@ -193,7 +193,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16E	a	.	.	.	.	.	.	.	.
 [16F#	wo	.	.	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-8F#]	_	4r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	49.747
+8F#]	_	4r	.	1F#M	.	voice	.	49.747	F#:maj
 4F#	man	.	.	.	.	.	.	.	.
 .	.	8~A 8~B 8e	Got	.	.	.	.	.	.
 8r	.	16A# 16c# 16f#	to	.	.	.	.	.	.
@@ -204,15 +204,15 @@ r;	.	r;	.	1r;	r	.	r	.	0
 4A	soon	4r	.	.	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29
 8B#q	_	.	.	.	.	.	.	.	.
-4c#	take	4r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	51.564
+4c#	take	4r	.	1F#M	.	voice	.	51.564	F#:maj
 8B	ad	8~A 8~B 8e	Treat	.	.	.	.	.	.
 8r	.	8A# 8c# 8f#	her	.	.	.	.	.	.
 8B	van-	8A# 8c# 8f#	like	.	.	.	.	.	.
 8A	-tage	8r	.	.	.	.	.	.	.
 8A	of	4r	.	.	.	.	.	.	.
-8A	you	.	.	.	.	.	.	B	.
+8A	you	.	.	.	.	.	B	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-8F#	_	4r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	53.38
+8F#	_	4r	.	1F#M	.	voice	.	53.38	F#:maj
 8F#	uh	.	.	.	.	.	.	.	.
 4r	.	8~A 8~B 8e	Got	.	.	.	.	.	.
 .	.	16A# 16c# 16f#	to	.	.	.	.	.	.
@@ -224,8 +224,8 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8B	me	.	.	.	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31
 8Aq	_	.	.	.	.	.	.	.	.
-8B	tell	4r	.	1F#M	F#:maj (F# A# C#)	newline	voice	.	55.197
-8c#	you	.	.	.	.	.	.	B	.
+8B	tell	4r	.	1F#M	newline	voice	.	55.197	F#:maj
+8c#	you	.	.	.	.	.	B	.	.
 4r	.	8~A 8~B 8e	Treat	.	.	.	.	.	.
 .	.	8A# 8c# 8f#	her	.	.	.	.	.	.
 8r	.	8A# 8c# 8f#	like	.	.	.	.	.	.
@@ -233,7 +233,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8F#	-my	4r	.	.	.	.	.	.	.
 [8F#	friend	.	.	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32
-8F#]	_	4r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	57.019
+8F#]	_	4r	.	1F#M	.	voice	.	57.019	F#:maj
 8r	.	.	.	.	.	.	.	.	.
 4r	.	8~A 8~B 8e	Got	.	.	.	.	.	.
 .	.	16A# 16c# 16f#	to	.	.	.	.	.	.
@@ -244,15 +244,15 @@ r;	.	r;	.	1r;	r	.	r	.	0
 4A	just	4r	.	.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 8B#q	_	.	.	.	.	.	.	.	.
-4c#	ain't	4r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	58.84
+4c#	ain't	4r	.	1F#M	.	voice	.	58.84	F#:maj
 4B	no	8~A 8~B 8e	Treat	.	.	.	.	.	.
 .	.	8A# 8c# 8f#	her	.	.	.	.	.	.
 4B	sub-	8A# 8c# 8f#	like	.	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.	.
 8A	-sti-	4r	.	.	.	.	.	.	.
-8A	-tute	.	.	.	.	.	.	B	.
+8A	-tute	.	.	.	.	.	B	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
-8F#	_	4r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	60.662
+8F#	_	4r	.	1F#M	.	voice	.	60.662	F#:maj
 8F#	tah	.	.	.	.	.	.	.	.
 4r	.	8~A 8~B 8e	Got	.	.	.	.	.	.
 .	.	16A# 16c# 16f#	to	.	.	.	.	.	.
@@ -265,7 +265,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-4r	.	4r	.	1AM	A:maj (A C# E)	newline	voice	.	62.484
+4r	.	4r	.	1AM	newline	voice	.	62.484	A:maj
 8c#	treat	8c# 8e 8a	Treat	.	.	.	.	.	.
 8B	her	8c# 8e 8a	her	.	.	.	.	.	.
 8B	like	8c# 8e 8a	like	.	.	.	.	.	.
@@ -274,7 +274,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8B#q	_	.	.	.	.	.	.	.	.
 [8c#	la	8c# 8e 8a	you	.	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36
-16c#]	_	8d 8f# 8a	got	1Bm	B:min (B D F#)	.	voice	.	64.314
+16c#]	_	8d 8f# 8a	got	1Bm	.	voice	.	64.314	B:min
 8.B	dy	.	.	.	.	.	.	.	.
 .	.	8d 8f# 8a	to,	.	.	.	.	.	.
 8A	_	8d 8f# 8a	got	.	.	.	.	.	.
@@ -285,15 +285,15 @@ r;	.	r;	.	1r;	r	.	r	.	0
 .	.	8d 8f# 8a	like	.	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37
-4r	.	4r	.	1AM	A:maj (A C# E)	.	voice	.	66.145
+4r	.	4r	.	1AM	.	voice	.	66.145	A:maj
 8r	.	8c# 8e 8a	Treat	.	.	.	.	.	.
 8D	the	8c# 8e 8a	her	.	.	.	.	.	.
 8B	best	8c# 8e 8a	like	.	.	.	.	.	.
 8A	you	8r	.	.	.	.	.	.	.
 8F#	can	8r	.	.	.	.	.	.	.
-[8A	do	8c# 8e 8a	you	.	.	.	.	B	.
+[8A	do	8c# 8e 8a	you	.	.	.	B	.	.
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
-4A]	_	8d 8f# 8a	got	1Bm	B:min (B D F#)	.	voice	.	67.975
+4A]	_	8d 8f# 8a	got	1Bm	.	voice	.	67.975	B:min
 .	.	8d 8f# 8a	to,	.	.	.	.	.	.
 4r	.	8d 8f# 8a	got	.	.	.	.	.	.
 .	.	16d 16f# 16a	to	.	.	.	.	.	.
@@ -305,7 +305,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8c#	-ta	.	.	.	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39
 8e#q	_	.	.	.	.	.	.	.	.
-4f#	treat	4r	.	1AM	A:maj (A C# E)	.	voice	.	69.806
+4f#	treat	4r	.	1AM	.	voice	.	69.806	A:maj
 4e	her	4F#	Doo	.	.	.	.	.	.
 8eq	_	.	.	.	.	.	.	.	.
 4f#	like	8A	doo	.	.	.	.	.	.
@@ -314,7 +314,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8B#q	_	.	.	.	.	.	.	.	.
 [8c#	la	8B#	doo	.	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40
-16c#]	_	4c#	_	1Bm	B:min (B D F#)	.	voice	.	71.636
+16c#]	_	4c#	_	1Bm	.	voice	.	71.636	B:min
 8.B	dy,	.	.	.	.	.	.	.	.
 4A	_	8B	doo	.	.	.	.	.	.
 .	.	8A	_	.	.	.	.	.	.
@@ -325,19 +325,19 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16E	to	8E	_	.	.	.	.	.	.
 16E	y-	.	.	.	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41
-2F#	-you	[1F# [1A# [1c#	_	1F#M	F#:maj (F# A# C#)	newline	voice	B	73.466
+2F#	-you	[1F# [1A# [1c#	_	1F#M	newline	voice	B	73.466	F#:maj
 4r	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 [8F#	Lor	.	.	.	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42	=42
-8F#]	_	1F#_ 1A#_ 1c#_	_	1F#M	F#:maj (F# A# C#)	.	voice	.	75.275
+8F#]	_	1F#_ 1A#_ 1c#_	_	1F#M	.	voice	.	75.275	F#:maj
 8C#	d	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 8F#	you	.	.	.	.	.	.	.	.
 4F#	can	.	.	.	.	.	.	.	.
-[8E	see	.	.	.	.	.	.	C	.
+[8E	see	.	.	.	.	.	C	.	.
 =43	=43	=43	=43	=43	=43	=43	=43	=43	=43
-8E]	_	2F#] 2A#] 2c#]	_	1F#M	F#:maj (F# A# C#)	.	voice	.	77.083
+8E]	_	2F#] 2A#] 2c#]	_	1F#M	.	voice	.	77.083	F#:maj
 8~C#	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 8r	.	2r	.	.	.	.	.	.	.
@@ -346,7 +346,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16F#	what	.	.	.	.	.	.	.	.
 8F#	I	.	.	.	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44
-4F#	mean	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	C	78.891
+4F#	mean	1r	.	1F#M	.	voice	C	78.891	F#:maj
 8r	.	.	.	.	.	.	.	.	.
 8B#q	_	.	.	.	.	.	.	.	.
 [8c#	Oh,	.	.	.	.	.	.	.	.
@@ -359,7 +359,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 =45	=45	=45	=45	=45	=45	=45	=45	=45	=45
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
-8c#]	_	4r	.	1F#M	F#:maj (F# A# C#)	newline	voice	.	80.7
+8c#]	_	4r	.	1F#M	newline	voice	.	80.7	F#:maj
 [8c#	her	.	.	.	.	.	.	.	.
 16c#]	_	8r	.	.	.	.	.	.	.
 8.r	.	.	.	.	.	.	.	.	.
@@ -367,9 +367,9 @@ r;	.	r;	.	1r;	r	.	r	.	0
 4r	.	8c#] 8f#]	_	.	.	.	.	.	.
 .	.	8c# 8f#	her	.	.	.	.	.	.
 8r	.	4r	.	.	.	.	.	.	.
-[8A	tease	.	.	.	.	.	.	D	.
+[8A	tease	.	.	.	.	.	D	.	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46
-8A]	_	4r	.	1AM	A:maj (A C# E)	.	voice	.	82.532
+8A]	_	4r	.	1AM	.	voice	.	82.532	A:maj
 8A	her	.	.	.	.	.	.	.	.
 4r	.	8r	.	.	.	.	.	.	.
 .	.	[8c# [8e [8a	Tease	.	.	.	.	.	.
@@ -378,16 +378,16 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8F#	but	4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47
-8c#	most	1r	.	1BM	B:maj (B D# F#)	.	voice	.	84.364
+8c#	most	1r	.	1BM	.	voice	.	84.364	B:maj
 8B	of	.	.	.	.	.	.	.	.
 8B	all,	.	.	.	.	.	.	.	.
 8A	you	.	.	.	.	.	.	.	.
 8B	got	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 8F#	to	.	.	.	.	.	.	.	.
-[8F#	please	.	.	.	.	.	.	D	.
+[8F#	please	.	.	.	.	.	D	.	.
 =48	=48	=48	=48	=48	=48	=48	=48	=48	=48
-8F#]	_	4r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	86.197
+8F#]	_	4r	.	1F#M	.	voice	.	86.197	F#:maj
 8F#	her	.	.	.	.	.	.	.	.
 4r	.	8r	.	.	.	.	.	.	.
 .	.	8e#q	_	.	.	.	.	.	.
@@ -399,7 +399,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16B#Q	_	.	.	.	.	.	.	.	.
 [16c#	hold	.	.	.	.	.	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49
-8c#]	_	4r	.	1F#M	F#:maj (F# A# C#)	newline	voice	.	88.029
+8c#]	_	4r	.	1F#M	newline	voice	.	88.029	F#:maj
 [8c#	her	.	.	.	.	.	.	.	.
 16c#]	_	8r	.	.	.	.	.	.	.
 8.r	.	.	.	.	.	.	.	.	.
@@ -409,7 +409,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8F#	and	4r	.	.	.	.	.	.	.
 [8A	want	.	.	.	.	.	.	.	.
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50
-8A]	_	4r	.	1AM	A:maj (A C# E)	.	voice	.	89.874
+8A]	_	4r	.	1AM	.	voice	.	89.874	A:maj
 8A	her	.	.	.	.	.	.	.	.
 4r	.	8r	.	.	.	.	.	.	.
 .	.	[8c# [8e [8a	Want	.	.	.	.	.	.
@@ -418,7 +418,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8r	.	4r	.	.	.	.	.	.	.
 8F#	and	.	.	.	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51
-8c#	make	1r	.	1BM	B:maj (B D# F#)	.	voice	.	91.718
+8c#	make	1r	.	1BM	.	voice	.	91.718	B:maj
 8B	her	.	.	.	.	.	.	.	.
 8B	feel	.	.	.	.	.	.	.	.
 8A	you'll	.	.	.	.	.	.	.	.
@@ -427,7 +427,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8A	ways	.	.	.	.	.	.	.	.
 [8A	need	.	.	.	.	.	.	.	.
 =52	=52	=52	=52	=52	=52	=52	=52	=52	=52
-8A]	_	4r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	93.563
+8A]	_	4r	.	1F#M	.	voice	.	93.563	F#:maj
 [8F#	her	.	.	.	.	.	.	.	.
 8F#]	_	8r	.	.	.	.	.	.	.
 .	.	8e#q	_	.	.	.	.	.	.
@@ -439,7 +439,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16B#Q	_	.	.	.	.	.	.	.	.
 [16c#	wo	.	.	.	.	.	.	.	.
 =53	=53	=53	=53	=53	=53	=53	=53	=53	=53
-8c#]	_	4r	.	1F#M	F#:maj (F# A# C#)	newline	voice	.	95.408
+8c#]	_	4r	.	1F#M	newline	voice	.	95.408	F#:maj
 4.c#	man	.	.	.	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.	.
 .	.	8eq	_	.	.	.	.	.	.
@@ -451,7 +451,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16B#Q	_	.	.	.	.	.	.	.	.
 [16c#	men	.	.	.	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54	=54	=54	=54
-8c#]	_	4r	.	1AM	A:maj (A C# E)	.	voice	.	97.24
+8c#]	_	4r	.	1AM	.	voice	.	97.24	A:maj
 4.c#	tal	.	.	.	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.	.
 .	.	8eq	_	.	.	.	.	.	.
@@ -462,7 +462,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8r	.	.	.	.	.	.	.	.	.
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55
 8B#q	_	.	.	.	.	.	.	.	.
-4c#	ea-	4r	.	1BM	B:maj (B D# F#)	.	voice	.	99.073
+4c#	ea-	4r	.	1BM	.	voice	.	99.073	B:maj
 4B	-sy	8r	.	.	.	.	.	.	.
 .	.	8eq	_	.	.	.	.	.	.
 .	.	[8f#	Wo	.	.	.	.	.	.
@@ -471,7 +471,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 .	.	4d#	man!	.	.	.	.	.	.
 8A	-set	.	.	.	.	.	.	.	.
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56
-8F#	_	4r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	100.905
+8F#	_	4r	.	1F#M	.	voice	.	100.905	F#:maj
 8F#	tah	.	.	.	.	.	.	.	.
 4r	.	8r	.	.	.	.	.	.	.
 .	.	8eq 8g#q	_	.	.	.	.	.	.
@@ -482,7 +482,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8A	her	8c# 8f#	_	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57
 8B#q	_	.	.	.	.	.	.	.	.
-2c#	feel	4r	.	1F#M	F#:maj (F# A# C#)	newline	voice	E	102.737
+2c#	feel	4r	.	1F#M	newline	voice	E	102.737	F#:maj
 .	.	8r	.	.	.	.	.	.	.
 .	.	8eq	_	.	.	.	.	.	.
 .	.	[8f#	Feel!	.	.	.	.	.	.
@@ -491,25 +491,25 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8B	she's	4d#	_	.	.	.	.	.	.
 16A	for	.	.	.	.	.	.	.	.
 16B#Q	_	.	.	.	.	.	.	.	.
-[16c#	real,	.	.	.	.	.	.	E	.
+[16c#	real,	.	.	.	.	.	E	.	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58
-4c#]	_	4r	.	1AM	A:maj (A C# E)	.	voice	.	104.571
+4c#]	_	4r	.	1AM	.	voice	.	104.571	A:maj
 8B	yeah	8r	.	.	.	.	.	.	.
 .	.	8eq	_	.	.	.	.	.	.
-8A	_	[8f#	Real!	.	.	.	.	E	.
+8A	_	[8f#	Real!	.	.	.	E	.	.
 8r	.	4f#]	_	.	.	.	.	.	.
 8F#	And	.	.	.	.	.	.	.	.
 4A	she'll	4d#	_	.	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59	=59
 8Bq	_	.	.	.	.	.	.	.	.
-4c#	give	1r	.	1BM	B:maj (B D# F#)	.	voice	.	106.404
+4c#	give	1r	.	1BM	.	voice	.	106.404	B:maj
 8B	you	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 8B	hap-	.	.	.	.	.	.	.	.
 4A	-pi-	.	.	.	.	.	.	.	.
 8A	-ness,	.	.	.	.	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60	=60	=60	=60
-4F#	_	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	108.238
+4F#	_	1r	.	1F#M	.	voice	.	108.238	F#:maj
 8B#q	_	.	.	.	.	.	.	.	.
 4c#	whoa-	.	.	.	.	.	.	.	.
 4B	-oh-	.	.	.	.	.	.	.	.
@@ -517,15 +517,15 @@ r;	.	r;	.	1r;	r	.	r	.	0
 =61	=61	=61	=61	=61	=61	=61	=61	=61	=61
 *>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2	*>Letter>B2
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-2F#	strange!	4r	.	1F#M	F#:maj (F# A# C#)	newline	voice	.	110.071
+2F#	strange!	4r	.	1F#M	newline	voice	.	110.071	F#:maj
 .	.	8~A 8~B 8e	Treat	.	.	.	.	.	.
 .	.	8A# 8c# 8f#	her	.	.	.	.	.	.
 8r	.	8A# 8c# 8f#	like	.	.	.	.	.	.
 8E	As	8r	.	.	.	.	.	.	.
 8F#	it	4r	.	.	.	.	.	.	.
-8F#	seem	.	.	.	.	.	.	C	.
+8F#	seem	.	.	.	.	.	C	.	.
 =62	=62	=62	=62	=62	=62	=62	=62	=62	=62
-8C#	_	4r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	111.911
+8C#	_	4r	.	1F#M	.	voice	.	111.911	F#:maj
 8C#	zuh	.	.	.	.	.	.	.	.
 4r	.	8~A 8~B 8e	Got	.	.	.	.	.	.
 .	.	16A# 16c# 16f#	to	.	.	.	.	.	.
@@ -536,15 +536,15 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8F#	know	4r	.	.	.	.	.	.	.
 8E	you	.	.	.	.	.	.	.	.
 =63	=63	=63	=63	=63	=63	=63	=63	=63	=63
-4F#	can't	4r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	113.751
+4F#	can't	4r	.	1F#M	.	voice	.	113.751	F#:maj
 8F#	treat	8~A 8~B 8e	Treat	.	.	.	.	.	.
 8C#	a	8A# 8c# 8f#	her	.	.	.	.	.	.
 8F#	wo-	8A# 8c# 8f#	like	.	.	.	.	.	.
 4F#	-man	8r	.	.	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.	.
-[8E	mean	.	.	.	.	.	.	C	.
+[8E	mean	.	.	.	.	.	C	.	.
 =64	=64	=64	=64	=64	=64	=64	=64	=64	=64
-4.E]	_	4r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	115.59
+4.E]	_	4r	.	1F#M	.	voice	.	115.59	F#:maj
 .	.	8~A 8~B 8e	Got	.	.	.	.	.	.
 8r	.	16A# 16c# 16f#	to	.	.	.	.	.	.
 .	.	[16A# [16c# [16f#	treat	.	.	.	.	.	.
@@ -555,7 +555,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8B	my	.	.	.	.	.	.	.	.
 16A	friend	.	.	.	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65	=65
-16B	_	1r	.	1F#M	F#:maj (F# A# C#)	newline	voice	.	117.43
+16B	_	1r	.	1F#M	newline	voice	.	117.43	F#:maj
 8.c#	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
@@ -563,7 +563,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16E	you	.	.	.	.	.	.	.	.
 [16F#	have	.	.	.	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66	=66	=66
-8F#]	_	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	119.258
+8F#]	_	1r	.	1F#M	.	voice	.	119.258	F#:maj
 8F#	it	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
@@ -573,34 +573,34 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16A	the	.	.	.	.	.	.	.	.
 =67	=67	=67	=67	=67	=67	=67	=67	=67	=67
 8B#q	_	.	.	.	.	.	.	.	.
-4.c#	sim-	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	121.087
+4.c#	sim-	1r	.	1F#M	.	voice	.	121.087	F#:maj
 8~E	-ple,	.	.	.	.	.	.	.	.
 8B	ea-	.	.	.	.	.	.	.	.
 4A	-sy	.	.	.	.	.	.	.	.
 8A	way	.	.	.	.	.	.	.	.
 =68	=68	=68	=68	=68	=68	=68	=68	=68	=68
-8F#	_	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	122.915
+8F#	_	1r	.	1F#M	.	voice	.	122.915	F#:maj
 8F#	yah	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 8c#	If	.	.	.	.	.	.	.	.
 8B	you	.	.	.	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69	=69	=69	=69
-8B	fail	1r	.	1F#M	F#:maj (F# A# C#)	newline	voice	.	124.743
+8B	fail	1r	.	1F#M	newline	voice	.	124.743	F#:maj
 8c#	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 8F#	to	.	.	.	.	.	.	.	.
 [8F#	do	.	.	.	.	.	.	.	.
 =70	=70	=70	=70	=70	=70	=70	=70	=70	=70
-8F#]	_	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	126.571
+8F#]	_	1r	.	1F#M	.	voice	.	126.571	F#:maj
 8F#	this	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 4A	don't	.	.	.	.	.	.	.	.
 =71	=71	=71	=71	=71	=71	=71	=71	=71	=71
 8B#q	_	.	.	.	.	.	.	.	.
-8c#	blame	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	128.4
+8c#	blame	1r	.	1F#M	.	voice	.	128.4	F#:maj
 8c#	her	.	.	.	.	.	.	.	.
 8B#	if	.	.	.	.	.	.	.	.
 8A#	she	.	.	.	.	.	.	.	.
@@ -608,7 +608,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 4A	my	.	.	.	.	.	.	.	.
 8A	way	.	.	.	.	.	.	.	.
 =72	=72	=72	=72	=72	=72	=72	=72	=72	=72
-8F#	_	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	130.228
+8F#	_	1r	.	1F#M	.	voice	.	130.228	F#:maj
 8F#	yah	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 16r	.	.	.	.	.	.	.	.	.
@@ -619,7 +619,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 =73	=73	=73	=73	=73	=73	=73	=73	=73	=73
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-4r	.	4r	.	1AM	A:maj (A C# E)	newline	voice	.	132.056
+4r	.	4r	.	1AM	newline	voice	.	132.056	A:maj
 8c#	treat	8c# 8e 8a	Treat	.	.	.	.	.	.
 8B	her	8c# 8e 8a	her	.	.	.	.	.	.
 8B	like	8c# 8e 8a	like	.	.	.	.	.	.
@@ -628,7 +628,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8B#q	_	.	.	.	.	.	.	.	.
 [8c#	la	8c# 8e 8a	you	.	.	.	.	.	.
 =74	=74	=74	=74	=74	=74	=74	=74	=74	=74
-16c#]	_	8d 8f# 8a	got	1Bm	B:min (B D F#)	.	voice	.	133.891
+16c#]	_	8d 8f# 8a	got	1Bm	.	voice	.	133.891	B:min
 8.B	dy	.	.	.	.	.	.	.	.
 .	.	8d 8f# 8a	to,	.	.	.	.	.	.
 8A	_	8d 8f# 8a	got	.	.	.	.	.	.
@@ -639,7 +639,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 .	.	8d 8f# 8a	like	.	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.	.
 =75	=75	=75	=75	=75	=75	=75	=75	=75	=75
-4r	.	4r	.	1AM	A:maj (A C# E)	.	voice	.	135.726
+4r	.	4r	.	1AM	.	voice	.	135.726	A:maj
 8r	.	8c# 8e 8a	Treat	.	.	.	.	.	.
 8D	the	8c# 8e 8a	her	.	.	.	.	.	.
 8B	best	8c# 8e 8a	like	.	.	.	.	.	.
@@ -647,7 +647,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8F#	can	8r	.	.	.	.	.	.	.
 [8A	do	8c# 8e 8a	you	.	.	.	.	.	.
 =76	=76	=76	=76	=76	=76	=76	=76	=76	=76
-4A]	_	8d 8f# 8a	got	1Bm	B:min (B D F#)	.	voice	.	137.561
+4A]	_	8d 8f# 8a	got	1Bm	.	voice	.	137.561	B:min
 .	.	8d 8f# 8a	to,	.	.	.	.	.	.
 4r	.	8d 8f# 8a	got	.	.	.	.	.	.
 .	.	16d 16f# 16a	to	.	.	.	.	.	.
@@ -659,7 +659,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8c#	-na	.	.	.	.	.	.	.	.
 =77	=77	=77	=77	=77	=77	=77	=77	=77	=77
 8e#q	_	.	.	.	.	.	.	.	.
-4f#	treat	4r	.	1AM	A:maj (A C# E)	.	voice	.	139.396
+4f#	treat	4r	.	1AM	.	voice	.	139.396	A:maj
 4e	her	4F#	Doo	.	.	.	.	.	.
 8eq	_	.	.	.	.	.	.	.	.
 4f#	like	8A	doo	.	.	.	.	.	.
@@ -668,7 +668,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8B#q	_	.	.	.	.	.	.	.	.
 [8c#	la	8B#	doo	.	.	.	.	.	.
 =78	=78	=78	=78	=78	=78	=78	=78	=78	=78
-16c#]	_	4c#	_	1Bm	B:min (B D F#)	.	voice	.	141.23
+16c#]	_	4c#	_	1Bm	.	voice	.	141.23	B:min
 8.B	dy,	.	.	.	.	.	.	.	.
 4A	_	8B	doo	.	.	.	.	.	.
 .	.	8A	_	.	.	.	.	.	.
@@ -677,20 +677,20 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16A	-i-	.	.	.	.	.	.	.	.
 8B	-in,	8F#	_	.	.	.	.	.	.
 16E	to	8E	_	.	.	.	.	.	.
-16E	m-	.	.	.	.	.	.	C	.
+16E	m-	.	.	.	.	.	C	.	.
 =79	=79	=79	=79	=79	=79	=79	=79	=79	=79
-[2.F#	-me,	[1F# [1A# [1c#	_	1F#M	F#:maj (F# A# C#)	newline	voice	C	143.065
+[2.F#	-me,	[1F# [1A# [1c#	_	1F#M	newline	voice	C	143.065	F#:maj
 8F#]	_	.	.	.	.	.	.	.	.
 [8E	Lord	.	.	.	.	.	.	.	.
 =80	=80	=80	=80	=80	=80	=80	=80	=80	=80
-8F#	_	1F#_ 1A#_ 1c#_	_	1F#M	F#:maj (F# A# C#)	.	voice	.	144.875
+8F#	_	1F#_ 1A#_ 1c#_	_	1F#M	.	voice	.	144.875	F#:maj
 8C#	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 8F#	You	.	.	.	.	.	.	.	.
 4F#	can	.	.	.	.	.	.	.	.
-8E_	see	.	.	.	.	.	.	C	.
+8E_	see	.	.	.	.	.	C	.	.
 =81	=81	=81	=81	=81	=81	=81	=81	=81	=81
-8E]	_	2F#] 2A#] 2c#]	_	1F#M	F#:maj (F# A# C#)	.	voice	.	146.684
+8E]	_	2F#] 2A#] 2c#]	_	1F#M	.	voice	.	146.684	F#:maj
 8~C#	_	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 8r	.	2r	.	.	.	.	.	.	.
@@ -699,7 +699,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16F#	what	.	.	.	.	.	.	.	.
 8F#	I	.	.	.	.	.	.	.	.
 =82	=82	=82	=82	=82	=82	=82	=82	=82	=82
-4F#	mean	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	C	148.493
+4F#	mean	1r	.	1F#M	.	voice	C	148.493	F#:maj
 8r	.	.	.	.	.	.	.	.	.
 8B#q	_	.	.	.	.	.	.	.	.
 [8c#	Oh,	.	.	.	.	.	.	.	.
@@ -710,7 +710,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 =83	=83	=83	=83	=83	=83	=83	=83	=83	=83
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-4r	.	4r	.	1AM	A:maj (A C# E)	newline	voice	.	150.302
+4r	.	4r	.	1AM	newline	voice	.	150.302	A:maj
 8c#	treat	8c# 8e 8a	Treat	.	.	.	.	.	.
 8B	her	8c# 8e 8a	her	.	.	.	.	.	.
 8B	like	8c# 8e 8a	like	.	.	.	.	.	.
@@ -719,8 +719,8 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8B#q	_	.	.	.	.	.	.	.	.
 [8c#	la	8c# 8e 8a	you	.	.	.	.	.	.
 =84	=84	=84	=84	=84	=84	=84	=84	=84	=84
-16c#]	_	8d 8f# 8a	got	1Bm	B:min (B D F#)	.	voice	.	152.146
-8.B	dy	.	.	.	.	.	.	C	.
+16c#]	_	8d 8f# 8a	got	1Bm	.	voice	.	152.146	B:min
+8.B	dy	.	.	.	.	.	C	.	.
 .	.	8d 8f# 8a	to,	.	.	.	.	.	.
 8A	_	8d 8f# 8a	got	.	.	.	.	.	.
 8r	.	16d 16f# 16a	to	.	.	.	.	.	.
@@ -730,15 +730,15 @@ r;	.	r;	.	1r;	r	.	r	.	0
 .	.	8d 8f# 8a	like	.	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.	.
 =85	=85	=85	=85	=85	=85	=85	=85	=85	=85
-4r	.	4r	.	1AM	A:maj (A C# E)	.	voice	.	153.99
+4r	.	4r	.	1AM	.	voice	.	153.99	A:maj
 8r	.	8c# 8e 8a	Treat	.	.	.	.	.	.
 8D	the	8c# 8e 8a	her	.	.	.	.	.	.
 8B	best	8c# 8e 8a	like	.	.	.	.	.	.
 8A	you	8r	.	.	.	.	.	.	.
 8F#	can	8r	.	.	.	.	.	.	.
-[8A	do	8c# 8e 8a	you	.	.	.	.	B	.
+[8A	do	8c# 8e 8a	you	.	.	.	B	.	.
 =86	=86	=86	=86	=86	=86	=86	=86	=86	=86
-4A]	_	8d 8f# 8a	got	1Bm	B:min (B D F#)	.	voice	.	155.834
+4A]	_	8d 8f# 8a	got	1Bm	.	voice	.	155.834	B:min
 .	.	8d 8f# 8a	to,	.	.	.	.	.	.
 4r	.	8d 8f# 8a	got	.	.	.	.	.	.
 .	.	16d 16f# 16a	to	.	.	.	.	.	.
@@ -750,7 +750,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8c#	-ta	.	.	.	.	.	.	.	.
 =87	=87	=87	=87	=87	=87	=87	=87	=87	=87
 8e#q	_	.	.	.	.	.	.	.	.
-4f#	treat	4r	.	1AM	A:maj (A C# E)	.	voice	.	157.678
+4f#	treat	4r	.	1AM	.	voice	.	157.678	A:maj
 4e	her	4F#	Doo	.	.	.	.	.	.
 8eq	_	.	.	.	.	.	.	.	.
 4f#	like	8A	doo	.	.	.	.	.	.
@@ -759,7 +759,7 @@ r;	.	r;	.	1r;	r	.	r	.	0
 8B#q	_	.	.	.	.	.	.	.	.
 [8c#	la	8B#	doo	.	.	.	.	.	.
 =88	=88	=88	=88	=88	=88	=88	=88	=88	=88
-16c#]	_	4c#	_	1Bm	B:min (B D F#)	.	voice	.	159.521
+16c#]	_	4c#	_	1Bm	.	voice	.	159.521	B:min
 8.B	dy,	.	.	.	.	.	.	.	.
 4A	_	8B	doo	.	.	.	.	.	.
 .	.	8A	_	.	.	.	.	.	.
@@ -768,24 +768,24 @@ r;	.	r;	.	1r;	r	.	r	.	0
 16A	i-	.	.	.	.	.	.	.	.
 8B	-in	8F#	_	.	.	.	.	.	.
 16E	to	8E	_	.	.	.	.	.	.
-16E	y-	.	.	.	.	.	.	B	.
+16E	y-	.	.	.	.	.	B	.	.
 =89	=89	=89	=89	=89	=89	=89	=89	=89	=89
-[2.F#	-you	[1F# [1A# [1c#	_	1F#M	F#:maj (F# A# C#)	newline	voice	B	161.365
+[2.F#	-you	[1F# [1A# [1c#	_	1F#M	newline	voice	B	161.365	F#:maj
 8F#]	_	.	.	.	.	.	.	.	.
 [8E	Lor	.	.	.	.	.	.	.	.
 =90	=90	=90	=90	=90	=90	=90	=90	=90	=90
-8F#	_	1F#] 1A#] 1c#]	_	1F#M	F#:maj (F# A# C#)	.	voice	.	161.821
+8F#	_	1F#] 1A#] 1c#]	_	1F#M	.	voice	.	161.821	F#:maj
 8C#	d	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.
 8F#	you	.	.	.	.	.	.	.	.
 4F#	can	.	.	.	.	.	.	.	.
 8E]	see	.	.	.	.	.	.	.	.
 =91	=91	=91	=91	=91	=91	=91	=91	=91	=91
-1r	.	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	162.278
+1r	.	1r	.	1F#M	.	voice	.	162.278	F#:maj
 =92	=92	=92	=92	=92	=92	=92	=92	=92	=92
-1r	.	1r	.	1F#M	F#:maj (F# A# C#)	.	voice	.	162.734
-r;	.	r;	.	1r;	r	.	r	.	163.19
-r;	.	r;	.	1r;	r	.	r	.	166.191
+1r	.	1r	.	1F#M	.	voice	.	162.734	F#:maj
+r;	.	r;	.	1r;	.	r	.	163.19	1r
+r;	.	r;	.	1r;	.	r	.	166.191	1r
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1971/05/08, 1971/06/12
 !!!BillboardPeak: 3, 3
