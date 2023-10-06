@@ -159,7 +159,7 @@ sampleData[i, {
   mirexfile <- readLines(paste0('OriginalData/MirexFiles/', stringr::str_pad(ID, width=4, pad = '0'), 'full.lab'))
   
   tsTable <- generateTS(humfile, mirexfile, FileName)
-  
+  if (is.null(tsTable)) file.copy(paste0('Humdrum/CompleteTranscriptions/', FileName, '.hum'), paste0('Scripts/timestamps/', FileName, '_timestamped.hum'))
   bad <- generateFiles(tsTable, FileName, humfile)
   if (is.null(bad)) NULL else list(File = FileName, Bad = list(bad), ID = ID, N = sum(!bad$Match, na.rm = TRUE), P = mean(!bad$Match, na.rm = TRUE))
   
