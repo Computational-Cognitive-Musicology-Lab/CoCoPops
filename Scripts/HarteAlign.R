@@ -44,3 +44,10 @@ hh[[,c('**harte','**chordsym')]] -> k
 k |> collapseStops() |> cleave(1:2, newFields = 'Harte') -> k
 root <- function(x) str_extract(x, '.*:')
 qual <- function(x) str_extract(x, ':[^ /]*')
+<<<<<<< HEAD
+=======
+
+
+# hh |> filter(Exclusive != 'chordsym') |> removeEmptySpines() -> hh2
+writeHumdrum(hh2, prefix = '', affix = 'yyy', EMD = NULL)
+>>>>>>> voiceRoles
