@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# this function invokes BarlineCheck on all the existing kern files, and saves the output to the Humdrum/BarlineCheck directory
+
+
+for file in ../MelodicTranscriptions/Kern/*.krn 
+do
+echo $file
+  ./BarlineCheck $file > ../Humdrum/BarlineChecks/$(basename $file .krn).bar
+done

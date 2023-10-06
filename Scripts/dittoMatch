@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# This script takes a regular expression and a .tsv file, and fills any matches forward
+
+
+awk -v regex=$1 'BEGIN{cur = "."; FS = "\t"}
+                 {if ($1 ~ regex) cur=$1 ; print cur}' $2

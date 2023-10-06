@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+xml2hum $1 | grep -v '^!!page' | grep -v '^!!line' | grep -v '^\*clef' | grep -v '^\*staff' > tmp.krn
+
+humsed 's/n*[/\]*[LJKk]*\(\]\)*	/\1	/g' tmp.krn | less
+
+
+
+

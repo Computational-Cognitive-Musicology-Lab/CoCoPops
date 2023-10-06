@@ -1,0 +1,35 @@
+#/!/bin/bash
+
+# This script is used to compare melodic transcriptions files (.krn) to my translated humdrum harmonic data files (.hum), to see if their barlines and time signatures line up.
+
+# Nat Condit-Schultz
+# 2018 March 16
+#
+# Either the .krn or .hum file can be used as input.
+#
+#
+shopt -s extglob 
+
+X=$(basename $1)
+PIECE=${X%%.*}
+
+echo $PIECE
+
+harmFile="../Humdrum/OriginalMcGillData_Edited/"$PIECE".hum"
+melFile="../MelodicTranscriptions/Kern/"$PIECE".krn"
+
+cat $harmFile | sed '/^\*-/q' | awk '{FS="\t"}{print $1}' > harmFile.tmp
+cat $melFile  | sed '/^\*-/q' | awk '{FS="\t"}{print $1}' > melFile.tmp
+
+./dittoMatch "*M[1-9]" harmFile.tmp > harmTS.tmp
+./dittoMatch "*M[1-9]"  melFile.tmp >  melTS.tmp
+
+paste -d "" harmFile.tmp harmTS.tmp > harm.tmp
+paste -d ""  melFile.tmp  melTS.tmp > mel.tmp
+
+grep '^=' harm.tmp > harmBars.tmp
+grep '^=' mel.tmp > melBars.tmp
+
+diff  -y --suppress-common-lines *Bars.tmp > ../Humdrum/BarlineChecks/$PIECE.bar
+
+rm *.tmp
