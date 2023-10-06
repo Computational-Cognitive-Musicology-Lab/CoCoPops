@@ -1,19 +1,19 @@
-**kern	**silbe	**harmony	**chordsym	**phrase	**timestamp	**leadinstrument	**rhyme
+**kern	**silbe	**harmony	**chordsym	**phrase	**leadinstrument	**rhyme	**timestamp
 *ICvox	*	*M4/4	*M4/4	*	*	*	*
 *E:	*	*E:	*E:	*	*	*	*
 *M4/4	*	*	*	*	*	*	*
 *clefG2	*	*	*	*	*	*	*
-r;	.	1r;	r	.	0	r	.
+r;	.	1r;	r	.	r	.	0
 =1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
-1r	.	1BM	B:maj (B D# F#)	newline	0.209	saxophone	.
+1r	.	1BM	B:maj (B D# F#)	newline	saxophone	.	0.209
 =2	=2	=2	=2	=2	=2	=2	=2
-1r	.	1AM	A:maj (A C# E)	.	.	saxophone	.
+1r	.	1AM	A:maj (A C# E)	.	saxophone	.	1.848
 =3	=3	=3	=3	=3	=3	=3	=3
-1r	.	1EM	E:maj (E G# B)	.	.	saxophone	.
+1r	.	1EM	E:maj (E G# B)	.	saxophone	.	3.487
 =4	=4	=4	=4	=4	=4	=4	=4
-2r	.	1EM	E:maj (E G# B)	.	.	saxophone	.
+2r	.	1EM	E:maj (E G# B)	.	saxophone	.	5.126
 8e	Come	.	.	.	.	.	.
 8f#	on	.	.	.	.	.	.
 8g#	_	.	.	.	.	.	.
@@ -21,40 +21,40 @@ r;	.	1r;	r	.	0	r	.
 =5	=5	=5	=5	=5	=5	=5	=5
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-8g#]	_	1EM	E:maj (E G# B)	newline	6.764	voice	.
+8g#]	_	1EM	E:maj (E G# B)	newline	voice	.	6.764
 8g#	by	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6
-4r	.	1EM	E:maj (E G# B)	.	.	voice	.
+4r	.	1EM	E:maj (E G# B)	.	voice	.	8.274
 4e	lets	.	.	.	.	.	.
 4g#	do	.	.	.	.	.	.
 4f#	the	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7
-4e	twist	1EM	E:maj (E G# B)	.	.	voice	A
+4e	twist	1EM	E:maj (E G# B)	.	voice	A	9.783
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8
-2r	.	1EM	E:maj (E G# B)	.	.	voice	.
+2r	.	1EM	E:maj (E G# B)	.	voice	.	11.292
 8e	Come	.	.	.	.	.	.
 8f#	on	.	.	.	.	.	.
 8g#	_	.	.	.	.	.	.
 8f#	ba-	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9
-4.e	_	1AM	A:maj (A C# E)	newline	12.801	voice	.
+4.e	_	1AM	A:maj (A C# E)	newline	voice	.	12.801
 [8a	-by	.	.	.	.	.	.
 2a]	_	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10
-4r	.	1AM	A:maj (A C# E)	.	.	voice	.
+4r	.	1AM	A:maj (A C# E)	.	voice	.	14.322
 4e	lets	.	.	.	.	.	.
 4g#	do	.	.	.	.	.	.
 4f#	the	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11
-4e	twist	1EM	E:maj (E G# B)	.	.	voice	A
+4e	twist	1EM	E:maj (E G# B)	.	voice	A	15.843
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12
-8r	.	1EM	E:maj (E G# B)	.	.	voice	.
+8r	.	1EM	E:maj (E G# B)	.	voice	.	17.364
 8g#	take	.	.	.	.	.	.
 8g#	me	.	.	.	.	.	.
 4g#	by	.	.	.	.	.	.
@@ -62,85 +62,85 @@ r;	.	1r;	r	.	0	r	.
 8g#	lit-	.	.	.	.	.	.
 8e	-tle	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13
-8f#	hand	1BM	B:maj (B D# F#)	newline	18.885	voice	.
+8f#	hand	1BM	B:maj (B D# F#)	newline	voice	.	18.885
 4B	_	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14
-4r	.	1AM	A:maj (A C# E)	.	.	voice	.
+4r	.	1AM	A:maj (A C# E)	.	voice	.	20.411
 8c#	and	.	.	.	.	.	.
 8e	go	.	.	.	.	.	.
 4B	_	.	.	.	.	.	.
 4e	like	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15
-4e	this	1EM	E:maj (E G# B)	.	.	voice	A
+4e	this	1EM	E:maj (E G# B)	.	voice	A	21.937
 2r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8f#	Ee	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16
-4.g#	_	1EM	E:maj (E G# B)	.	.	voice	.
+4.g#	_	1EM	E:maj (E G# B)	.	voice	.	23.463
 8f#	ya	.	.	.	.	.	.
 2e	_	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-4g#	Twist	1EM	E:maj (E G# B)	newline	24.989	voice	A
+4g#	Twist	1EM	E:maj (E G# B)	newline	voice	A	24.989
 2r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8f#	-ba-	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18
-4e	_	1EM	E:maj (E G# B)	.	.	voice	.
+4e	_	1EM	E:maj (E G# B)	.	voice	.	26.51
 8e	-by	.	.	.	.	.	.
 8f#	ba-	.	.	.	.	.	.
 4e	_	.	.	.	.	.	.
 4e	by	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19
-4e	twist	1EM	E:maj (E G# B)	.	.	voice	A
+4e	twist	1EM	E:maj (E G# B)	.	voice	A	28.031
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20
-4.b	Ooh	1EM	E:maj (E G# B)	.	.	voice	.
+4.b	Ooh	1EM	E:maj (E G# B)	.	voice	.	29.552
 4cc#	_	.	.	.	.	.	.
 4b	_	.	.	.	.	.	.
 8f#	yeah	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21
-4g#	_	1AM	A:maj (A C# E)	newline	31.073	voice	.
+4g#	_	1AM	A:maj (A C# E)	newline	voice	.	31.073
 8f#	_	.	.	.	.	.	.
 [8e	_	.	.	.	.	.	.
 2e]	_	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22
-4r	.	1AM	A:maj (A C# E)	.	.	voice	.
+4r	.	1AM	A:maj (A C# E)	.	voice	.	32.577
 8r	.	.	.	.	.	.	.
 4f#	just	.	.	.	.	.	.
 4.g#	like	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23
-8f#	this	1EM	E:maj (E G# B)	.	.	voice	A
+8f#	this	1EM	E:maj (E G# B)	.	voice	A	34.081
 8e	_	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24
-4r	.	1EM	E:maj (E G# B)	.	.	voice	.
+4r	.	1EM	E:maj (E G# B)	.	voice	.	35.586
 8B	Come	.	.	.	.	.	.
 4f#	on	.	.	.	.	.	.
 8g#	lit-	.	.	.	.	.	.
 8e	-tle	.	.	.	.	.	.
-8f#	miss	.	.	.	.	.	A
+8f#	miss	.	.	.	.	A	.
 =25	=25	=25	=25	=25	=25	=25	=25
-4B	_	1BM	B:maj (B D# F#)	newline	37.09	voice	.
+4B	_	1BM	B:maj (B D# F#)	newline	voice	.	37.09
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26
-4r	.	1AM	A:maj (A C# E)	.	.	voice	.
+4r	.	1AM	A:maj (A C# E)	.	voice	.	38.619
 8c#	and	.	.	.	.	.	.
 8e	do	.	.	.	.	.	.
 4B	_	.	.	.	.	.	.
 4e	the	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27
-4e	twist	1EM	E:maj (E G# B)	.	.	voice	A
+4e	twist	1EM	E:maj (E G# B)	.	voice	A	40.149
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28
-8r	.	1EM	E:maj (E G# B)	.	.	voice	.
+8r	.	1EM	E:maj (E G# B)	.	voice	.	41.678
 4c#	My	.	.	.	.	.	.
 8e	da-	.	.	.	.	.	.
 8e	-ddy	.	.	.	.	.	.
@@ -149,213 +149,213 @@ r;	.	1r;	r	.	0	r	.
 =29	=29	=29	=29	=29	=29	=29	=29
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-8g#]	_	1EM	E:maj (E G# B)	newline	43.208	voice	.
+8g#]	_	1EM	E:maj (E G# B)	newline	voice	.	43.208
 8f#	-in	.	.	.	.	.	.
 8e	_	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30
-8r	.	1EM	E:maj (E G# B)	.	.	voice	.
+8r	.	1EM	E:maj (E G# B)	.	voice	.	44.736
 4e	and	.	.	.	.	.	.
 8g#	ma-	.	.	.	.	.	.
 8g#	-ma	.	.	.	.	.	.
 8f#	ain't	.	.	.	.	.	.
 8e	a-	.	.	.	.	.	.
-8e	-round	.	.	.	.	.	B
+8e	-round	.	.	.	.	B	.
 =31	=31	=31	=31	=31	=31	=31	=31
-8c#	_	1EM	E:maj (E G# B)	.	.	voice	.
+8c#	_	1EM	E:maj (E G# B)	.	voice	.	46.264
 8B	_	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8g#	yeah	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32
-8e	_	1EM	E:maj (E G# B)	.	.	voice	.
+8e	_	1EM	E:maj (E G# B)	.	voice	.	47.792
 4r	.	.	.	.	.	.	.
 8g#	Da-	.	.	.	.	.	.
 8e	-ddy	.	.	.	.	.	.
 4f#	just	.	.	.	.	.	.
 8f#	slee-	.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33
-4.e	_	1AM	A:maj (A C# E)	newline	49.32	voice	.
+4.e	_	1AM	A:maj (A C# E)	newline	voice	.	49.32
 [8a	pin'	.	.	.	.	.	.
 2a]	_	.	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34
-8r	.	1AM	A:maj (A C# E)	.	.	voice	.
+8r	.	1AM	A:maj (A C# E)	.	voice	.	50.826
 4e	and	.	.	.	.	.	.
 8a	ma-	.	.	.	.	.	.
 8a	-ma	.	.	.	.	.	.
 8g	ain't	.	.	.	.	.	.
 8g#	a-	.	.	.	.	.	.
-8f#	-round	.	.	.	.	.	B
+8f#	-round	.	.	.	.	B	.
 =35	=35	=35	=35	=35	=35	=35	=35
-4e	_	1EM	E:maj (E G# B)	.	.	voice	.
+4e	_	1EM	E:maj (E G# B)	.	voice	.	52.332
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36
-8r	.	1EM	E:maj (E G# B)	.	.	voice	.
+8r	.	1EM	E:maj (E G# B)	.	voice	.	53.838
 8g#	we're	.	.	.	.	.	.
 16g#	gon-	.	.	.	.	.	.
 16g#	-na	.	.	.	.	.	.
-4g#	twist	.	.	.	.	.	A
+4g#	twist	.	.	.	.	A	.
 8e	it	.	.	.	.	.	.
-8g#	twist	.	.	.	.	.	A
+8g#	twist	.	.	.	.	A	.
 [8e	it	.	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37
-8e]	_	1BM	B:maj (B D# F#)	newline	55.344	voice	.
-8f#	twist-	.	.	.	.	.	A
+8e]	_	1BM	B:maj (B D# F#)	newline	voice	.	55.344
+8f#	twist-	.	.	.	.	A	.
 4B	-in	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38
-8r	.	1AM	A:maj (A C# E)	.	.	voice	.
+8r	.	1AM	A:maj (A C# E)	.	voice	.	56.872
 8c#	till	.	.	.	.	.	.
 8c#	we	.	.	.	.	.	.
 8e	tear	.	.	.	.	.	.
 8c#	the	.	.	.	.	.	.
 4e	house	.	.	.	.	.	.
-[8e	down	.	.	.	.	.	B
+[8e	down	.	.	.	.	B	.
 =39	=39	=39	=39	=39	=39	=39	=39
-4e]	_	1EM	E:maj (E G# B)	.	.	voice	.
+4e]	_	1EM	E:maj (E G# B)	.	voice	.	58.4
 2r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8f#	Come	.	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40	=40
-4.g#	_	1EM	E:maj (E G# B)	.	.	voice	.
+4.g#	_	1EM	E:maj (E G# B)	.	voice	.	59.928
 8f#	on	.	.	.	.	.	.
 4e	_	.	.	.	.	.	.
 4e	and	.	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-4g#	Twist	1EM	E:maj (E G# B)	newline	61.456	voice	A
+4g#	Twist	1EM	E:maj (E G# B)	newline	voice	A	61.456
 2r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8f#	yeah	.	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42
-4e	_	1EM	E:maj (E G# B)	.	.	voice	.
+4e	_	1EM	E:maj (E G# B)	.	voice	.	62.985
 8r	.	.	.	.	.	.	.
 8f#	ba-	.	.	.	.	.	.
 4e	_	.	.	.	.	.	.
 4e	-by	.	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43	=43
-4e	twist	1EM	E:maj (E G# B)	.	.	voice	A
+4e	twist	1EM	E:maj (E G# B)	.	voice	A	64.514
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44
-4.b	Ooh	1EM	E:maj (E G# B)	.	.	voice	.
+4.b	Ooh	1EM	E:maj (E G# B)	.	voice	.	66.043
 4cc#	_	.	.	.	.	.	.
 4b	_	.	.	.	.	.	.
 8f#	yeah	.	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45
-4g#	_	1AM	A:maj (A C# E)	newline	67.572	voice	.
+4g#	_	1AM	A:maj (A C# E)	newline	voice	.	67.572
 8f#	_	.	.	.	.	.	.
 [8e	_	.	.	.	.	.	.
 2e]	_	.	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46
-4r	.	1AM	A:maj (A C# E)	.	.	voice	.
+4r	.	1AM	A:maj (A C# E)	.	voice	.	69.094
 8r	.	.	.	.	.	.	.
 4f#	just	.	.	.	.	.	.
 4.g#	like	.	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47
-8f#	this	1EM	E:maj (E G# B)	.	.	voice	A
+8f#	this	1EM	E:maj (E G# B)	.	voice	A	70.616
 8e	_	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =48	=48	=48	=48	=48	=48	=48	=48
-8r	.	1EM	E:maj (E G# B)	.	.	voice	.
+8r	.	1EM	E:maj (E G# B)	.	voice	.	72.138
 4B	Come	.	.	.	.	.	.
 4f#	on	.	.	.	.	.	.
 8g#	lit-	.	.	.	.	.	.
 8e	-tle	.	.	.	.	.	.
-8f#	miss	.	.	.	.	.	A
+8f#	miss	.	.	.	.	A	.
 =49	=49	=49	=49	=49	=49	=49	=49
-4B	_	1BM	B:maj (B D# F#)	newline	73.66	voice	.
+4B	_	1BM	B:maj (B D# F#)	newline	voice	.	73.66
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =50	=50	=50	=50	=50	=50	=50	=50
-4r	.	1AM	A:maj (A C# E)	.	.	voice	.
+4r	.	1AM	A:maj (A C# E)	.	voice	.	75.173
 8c#	and	.	.	.	.	.	.
 8e	do	.	.	.	.	.	.
 4B	_	.	.	.	.	.	.
 4e	the	.	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51
-4e	twist	1EM	E:maj (E G# B)	.	.	voice	A
+4e	twist	1EM	E:maj (E G# B)	.	voice	A	76.687
 2r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8f#	Ee	.	.	.	.	.	.
 =52	=52	=52	=52	=52	=52	=52	=52
-4.g#	_	1EM	E:maj (E G# B)	.	.	voice	.
+4.g#	_	1EM	E:maj (E G# B)	.	voice	.	78.2
 8f#	ya	.	.	.	.	.	.
 2e	_	.	.	.	.	.	.
 =53	=53	=53	=53	=53	=53	=53	=53
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo	*>Label>Solo
-1r	.	1EM	E:maj (E G# B)	newline	79.713	saxophone	.
+1r	.	1EM	E:maj (E G# B)	newline	saxophone	.	79.713
 =54	=54	=54	=54	=54	=54	=54	=54
-1r	.	1EM	E:maj (E G# B)	.	.	saxophone	.
+1r	.	1EM	E:maj (E G# B)	.	saxophone	.	81.24
 =55	=55	=55	=55	=55	=55	=55	=55
-1r	.	1EM	E:maj (E G# B)	.	.	saxophone	.
+1r	.	1EM	E:maj (E G# B)	.	saxophone	.	82.767
 =56	=56	=56	=56	=56	=56	=56	=56
-1r	.	1EM	E:maj (E G# B)	.	.	saxophone	.
+1r	.	1EM	E:maj (E G# B)	.	saxophone	.	84.294
 =57	=57	=57	=57	=57	=57	=57	=57
-1r	.	1AM	A:maj (A C# E)	newline	85.821	saxophone	.
+1r	.	1AM	A:maj (A C# E)	newline	saxophone	.	85.821
 =58	=58	=58	=58	=58	=58	=58	=58
-1r	.	1AM	A:maj (A C# E)	.	.	saxophone	.
+1r	.	1AM	A:maj (A C# E)	.	saxophone	.	87.351
 =59	=59	=59	=59	=59	=59	=59	=59
-1r	.	1EM	E:maj (E G# B)	.	.	saxophone	.
+1r	.	1EM	E:maj (E G# B)	.	saxophone	.	88.881
 =60	=60	=60	=60	=60	=60	=60	=60
-1r	.	1EM	E:maj (E G# B)	.	.	saxophone	.
+1r	.	1EM	E:maj (E G# B)	.	saxophone	.	90.411
 =61	=61	=61	=61	=61	=61	=61	=61
-1r	.	1BM	B:maj (B D# F#)	newline	91.941	saxophone	.
+1r	.	1BM	B:maj (B D# F#)	newline	saxophone	.	91.941
 =62	=62	=62	=62	=62	=62	=62	=62
-1r	.	1AM	A:maj (A C# E)	.	.	saxophone	.
+1r	.	1AM	A:maj (A C# E)	.	saxophone	.	93.454
 =63	=63	=63	=63	=63	=63	=63	=63
-1r	.	1EM	E:maj (E G# B)	.	.	saxophone	.
+1r	.	1EM	E:maj (E G# B)	.	saxophone	.	94.967
 =64	=64	=64	=64	=64	=64	=64	=64
-4.b	Yeah	1EM	E:maj (E G# B)	.	.	saxophone	.
+4.b	Yeah	1EM	E:maj (E G# B)	.	saxophone	.	96.48
 4g#	you	.	.	.	.	.	.
 4g#	should	.	.	.	.	.	.
 [8g#	see	.	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-4g#]	_	1EM	E:maj (E G# B)	newline	97.993	voice	.
+4g#]	_	1EM	E:maj (E G# B)	newline	voice	.	97.993
 8f#	_	.	.	.	.	.	.
 [8e	_	.	.	.	.	.	.
 2e]	_	.	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66
-4r	.	1EM	E:maj (E G# B)	.	.	voice	.
+4r	.	1EM	E:maj (E G# B)	.	voice	.	99.533
 8r	.	.	.	.	.	.	.
 4e	my	.	.	.	.	.	.
 8e	lit-	.	.	.	.	.	.
 8c#	-tle	.	.	.	.	.	.
-[8e	sis	.	.	.	.	.	A
+[8e	sis	.	.	.	.	A	.
 =67	=67	=67	=67	=67	=67	=67	=67
-8e]	_	1EM	E:maj (E G# B)	.	.	voice	.
+8e]	_	1EM	E:maj (E G# B)	.	voice	.	101.073
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 =68	=68	=68	=68	=68	=68	=68	=68
-4r	.	1EM	E:maj (E G# B)	.	.	voice	.
+4r	.	1EM	E:maj (E G# B)	.	voice	.	102.614
 8r	.	.	.	.	.	.	.
 4e	you	.	.	.	.	.	.
 4g#	should	.	.	.	.	.	.
 8f#	see	.	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69	=69
-4.e	_	1AM	A:maj (A C# E)	newline	104.154	voice	.
+4.e	_	1AM	A:maj (A C# E)	newline	voice	.	104.154
 [8a	my	.	.	.	.	.	.
 2a]	_	.	.	.	.	.	.
 =70	=70	=70	=70	=70	=70	=70	=70
-4r	.	1AM	A:maj (A C# E)	.	.	voice	.
+4r	.	1AM	A:maj (A C# E)	.	voice	.	105.663
 8r	.	.	.	.	.	.	.
 8f#	my	.	.	.	.	.	.
 8g#	_	.	.	.	.	.	.
 8f#	lit-	.	.	.	.	.	.
 8e	-tle	.	.	.	.	.	.
-8e	sis	.	.	.	.	.	A
+8e	sis	.	.	.	.	A	.
 =71	=71	=71	=71	=71	=71	=71	=71
-1r	.	1EM	E:maj (E G# B)	.	.	voice	.
+1r	.	1EM	E:maj (E G# B)	.	voice	.	107.172
 =72	=72	=72	=72	=72	=72	=72	=72
-8r	.	1EM	E:maj (E G# B)	.	.	voice	.
+8r	.	1EM	E:maj (E G# B)	.	voice	.	108.681
 8f#	she	.	.	.	.	.	.
 8g#	rea-	.	.	.	.	.	.
 8f#	-lly	.	.	.	.	.	.
@@ -364,147 +364,147 @@ r;	.	1r;	r	.	0	r	.
 8g#	how	.	.	.	.	.	.
 8e	to	.	.	.	.	.	.
 =73	=73	=73	=73	=73	=73	=73	=73
-8f#	rock	1BM	B:maj (B D# F#)	newline	110.19	voice	.
+8f#	rock	1BM	B:maj (B D# F#)	newline	voice	.	110.19
 8B	_	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =74	=74	=74	=74	=74	=74	=74	=74
-4r	.	1AM	A:maj (A C# E)	.	.	voice	.
+4r	.	1AM	A:maj (A C# E)	.	voice	.	111.73
 8c#	she	.	.	.	.	.	.
 8e	knows	.	.	.	.	.	.
 4B	_	.	.	.	.	.	.
 8e	how	.	.	.	.	.	.
 8c#	to	.	.	.	.	.	.
 =75	=75	=75	=75	=75	=75	=75	=75
-4e	twist	1EM	E:maj (E G# B)	.	.	voice	A
+4e	twist	1EM	E:maj (E G# B)	.	voice	A	113.269
 2r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8f#	Come	.	.	.	.	.	.
 =76	=76	=76	=76	=76	=76	=76	=76
-4.g#	_	1EM	E:maj (E G# B)	.	.	voice	.
+4.g#	_	1EM	E:maj (E G# B)	.	voice	.	114.809
 8f#	on	.	.	.	.	.	.
 4e	_	.	.	.	.	.	.
 4e	and	.	.	.	.	.	.
 =77	=77	=77	=77	=77	=77	=77	=77
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-4g#	Twist	1EM	E:maj (E G# B)	newline	116.348	voice	A
+4g#	Twist	1EM	E:maj (E G# B)	newline	voice	A	116.348
 2r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8f#	yeah	.	.	.	.	.	.
 =78	=78	=78	=78	=78	=78	=78	=78
-4e	_	1EM	E:maj (E G# B)	.	.	voice	.
+4e	_	1EM	E:maj (E G# B)	.	voice	.	117.878
 8r	.	.	.	.	.	.	.
 8f#	ba-	.	.	.	.	.	.
 4e	_	.	.	.	.	.	.
 4e	-by	.	.	.	.	.	.
 =79	=79	=79	=79	=79	=79	=79	=79
-4e	twist	1EM	E:maj (E G# B)	.	.	voice	A
+4e	twist	1EM	E:maj (E G# B)	.	voice	A	119.408
 2r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 [8b	Ooh	.	.	.	.	.	.
 =80	=80	=80	=80	=80	=80	=80	=80
-4.b]	_	1EM	E:maj (E G# B)	.	.	voice	.
+4.b]	_	1EM	E:maj (E G# B)	.	voice	.	120.937
 4cc#	_	.	.	.	.	.	.
 4b	_	.	.	.	.	.	.
 8f#	yeah	.	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81	=81
-4g#	_	1AM	A:maj (A C# E)	newline	122.467	voice	.
+4g#	_	1AM	A:maj (A C# E)	newline	voice	.	122.467
 8f#	_	.	.	.	.	.	.
 [8e	_	.	.	.	.	.	.
 2e]	_	.	.	.	.	.	.
 =82	=82	=82	=82	=82	=82	=82	=82
-4r	.	1AM	A:maj (A C# E)	.	.	voice	.
+4r	.	1AM	A:maj (A C# E)	.	voice	.	124.001
 8r	.	.	.	.	.	.	.
 4f#	just	.	.	.	.	.	.
 4.g#	like	.	.	.	.	.	.
 =83	=83	=83	=83	=83	=83	=83	=83
-8f#	this	1EM	E:maj (E G# B)	.	.	voice	A
+8f#	this	1EM	E:maj (E G# B)	.	voice	A	125.535
 8e	_	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =84	=84	=84	=84	=84	=84	=84	=84
-8r	.	1EM	E:maj (E G# B)	.	.	voice	.
+8r	.	1EM	E:maj (E G# B)	.	voice	.	127.069
 4B	Come	.	.	.	.	.	.
 4f#	on	.	.	.	.	.	.
 8g#	lit-	.	.	.	.	.	.
 8e	-tle	.	.	.	.	.	.
-8f#	miss	.	.	.	.	.	A
+8f#	miss	.	.	.	.	A	.
 =85	=85	=85	=85	=85	=85	=85	=85
-4B	_	1BM	B:maj (B D# F#)	newline	128.603	voice	.
+4B	_	1BM	B:maj (B D# F#)	newline	voice	.	128.603
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =86	=86	=86	=86	=86	=86	=86	=86
-4r	.	1AM	A:maj (A C# E)	.	.	voice	.
+4r	.	1AM	A:maj (A C# E)	.	voice	.	130.137
 8c#	and	.	.	.	.	.	.
 8e	do	.	.	.	.	.	.
 4B	_	.	.	.	.	.	.
 4e	the	.	.	.	.	.	.
 =87	=87	=87	=87	=87	=87	=87	=87
-4e	twist	1EM	E:maj (E G# B)	.	.	voice	A
+4e	twist	1EM	E:maj (E G# B)	.	voice	A	131.671
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =88	=88	=88	=88	=88	=88	=88	=88
-2r	.	1EM	E:maj (E G# B)	.	.	voice	.
+2r	.	1EM	E:maj (E G# B)	.	voice	.	133.205
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 [8e	Yeah	.	.	.	.	.	.
 =89	=89	=89	=89	=89	=89	=89	=89
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-8e]	_	1EM	E:maj (E G# B)	newline	134.739	voice	.
+8e]	_	1EM	E:maj (E G# B)	newline	voice	.	134.739
 2r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 =90	=90	=90	=90	=90	=90	=90	=90
-2r	.	1EM	E:maj (E G# B)	.	.	voice	.
+2r	.	1EM	E:maj (E G# B)	.	voice	.	136.271
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 [8g#	rock	.	.	.	.	.	.
 =91	=91	=91	=91	=91	=91	=91	=91
-8g#]	_	1EM	E:maj (E G# B)	.	.	voice	.
+8g#]	_	1EM	E:maj (E G# B)	.	voice	.	137.804
 4.g#	on	.	.	.	.	.	.
 8f#	now	.	.	.	.	.	.
 8e	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =92	=92	=92	=92	=92	=92	=92	=92
-1r	.	1EM	E:maj (E G# B)	.	.	voice	.
+1r	.	1EM	E:maj (E G# B)	.	voice	.	139.336
 =93	=93	=93	=93	=93	=93	=93	=93
-2r	.	1AM	A:maj (A C# E)	newline	140.869	voice	.
+2r	.	1AM	A:maj (A C# E)	newline	voice	.	140.869
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8f#	yeah	.	.	.	.	.	.
 =94	=94	=94	=94	=94	=94	=94	=94
-4g#	_	1AM	A:maj (A C# E)	.	.	voice	.
+4g#	_	1AM	A:maj (A C# E)	.	voice	.	142.395
 8f#	_	.	.	.	.	.	.
 2e	_	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 =95	=95	=95	=95	=95	=95	=95	=95
-2r	.	1EM	E:maj (E G# B)	.	.	voice	.
+2r	.	1EM	E:maj (E G# B)	.	voice	.	143.922
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
-[8g#	twist	.	.	.	.	.	A
+[8g#	twist	.	.	.	.	A	.
 =96	=96	=96	=96	=96	=96	=96	=96
-8g#]	_	1EM	E:maj (E G# B)	.	.	voice	.
+8g#]	_	1EM	E:maj (E G# B)	.	voice	.	145.448
 4.g#	on	.	.	.	.	.	.
 8f#	down	.	.	.	.	.	.
 8e	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =97	=97	=97	=97	=97	=97	=97	=97
-2r	.	1BM	B:maj (B D# F#)	newline	146.974	voice	.
+2r	.	1BM	B:maj (B D# F#)	newline	voice	.	146.974
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
-8f#	twist	.	.	.	.	.	A
+8f#	twist	.	.	.	.	A	.
 =98	=98	=98	=98	=98	=98	=98	=98
-8g#	_	1AM	A:maj (A C# E)	.	.	voice	.
+8g#	_	1AM	A:maj (A C# E)	.	voice	.	148.508
 [8f#	_	.	.	.	.	.	.
 2.f#]	_	.	.	.	.	.	.
 =99	=99	=99	=99	=99	=99	=99	=99
-1r	.	1EM	E:maj (E G# B)	.	.	voice	.
+1r	.	1EM	E:maj (E G# B)	.	voice	.	150.042
 =100	=100	=100	=100	=100	=100	=100	=100
-1r	.	1EM	E:1 (E)	.	.	voice	.
-r;	.	1r;	r	.	153.111	r	.
-r;	.	1r;	r	.	156.299	r	.
+1r	.	1EM	E:1 (E)	.	voice	.	151.577
+r;	.	1r;	r	.	r	.	153.111
+r;	.	1r;	r	.	r	.	156.299
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1962/03/17, 1962/03/24
 !!!BillboardPeak: 1, 1
@@ -522,3 +522,4 @@ r;	.	1r;	r	.	156.299	r	.
 !!!SampleActualRank: 24, 32
 !!!SampleID#: 948, 1103
 !!!SampleTargetRank: 25, 31
+!!!EMD: Edited in humdrumR 0.7.0.2 on 2023-10-06

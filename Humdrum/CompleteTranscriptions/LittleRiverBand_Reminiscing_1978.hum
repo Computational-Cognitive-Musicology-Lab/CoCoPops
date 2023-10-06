@@ -1,41 +1,41 @@
-**kern	**silbe	**harmony	**chordsym	**phrase	**timestamp	**leadinstrument	**rhyme
+**kern	**silbe	**harmony	**chordsym	**phrase	**leadinstrument	**rhyme	**timestamp
 *ICvox	*	*M4/4	*M4/4	*	*	*	*
 *D:	*	*D:	*D:	*	*	*	*
 *M4/4	*	*	*	*	*	*	*
 *clefG2	*	*	*	*	*	*	*
-r;	.	1r;	r	.	0	r	.
+r;	.	1r;	r	.	r	.	0
 =1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
-1r	.	1E-M	E-:maj (E- G B-)	newline	0.325	synth	.
+1r	.	1E-M	E-:maj (E- G B-)	newline	synth	.	0.325
 =2	=2	=2	=2	=2	=2	=2	=2
-1r	.	2Fmm	F:min9 (F A- E- G)	.	.	synth	.
-.	.	2B-M	B-:sus4(b7) (B- E- F A-)	.	.	synth	.
+1r	.	2Fmm	F:min9 (F A- E- G)	.	synth	.	2.992
+.	.	2B-M	B-:sus4(b7) (B- E- F A-)	.	synth	.	4.325
 =3	=3	=3	=3	=3	=3	=3	=3
-1r	.	1E-M	E-:maj (E- G B-)	.	.	synth	.
+1r	.	1E-M	E-:maj (E- G B-)	.	synth	.	5.658
 =4	=4	=4	=4	=4	=4	=4	=4
-1r	.	2A-mm	A-:min9 (A- C- G- B-)	.	.	synth	.
-.	.	2D-Mm	D-:9 (D- F C- E-)	.	.	synth	.
+1r	.	2A-mm	A-:min9 (A- C- G- B-)	.	synth	.	8.324
+.	.	2D-Mm	D-:9 (D- F C- E-)	.	synth	.	9.658
 =5	=5	=5	=5	=5	=5	=5	=5
-1r	.	2F#mm	F#:min9 (F# A E G#)	.	.	synth	.
-.	.	2BMm	B:9 (B D# A C#)	.	.	synth	.
+1r	.	2F#mm	F#:min9 (F# A E G#)	.	synth	.	10.991
+.	.	2BMm	B:9 (B D# A C#)	.	synth	.	12.324
 =6	=6	=6	=6	=6	=6	=6	=6
-1r	.	2Emm	E:min9 (E G D F#)	.	.	synth	.
-.	.	2AMm	A:9 (E A C# G B)	.	.	synth	.
+1r	.	2Emm	E:min9 (E G D F#)	.	synth	.	13.657
+.	.	2AMm	A:9 (E A C# G B)	.	synth	.	14.99
 =7	=7	=7	=7	=7	=7	=7	=7
-1r	.	1DM	D:maj (D F# A)	newline	16.324	synth	.
+1r	.	1DM	D:maj (D F# A)	newline	synth	.	16.324
 =8	=8	=8	=8	=8	=8	=8	=8
-1r	.	1DM	D:maj (D F# A)	.	.	synth	.
+1r	.	1DM	D:maj (D F# A)	.	synth	.	18.855
 =9	=9	=9	=9	=9	=9	=9	=9
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-8d	Fri-	1GMM	G:maj7 (G B D F#)	newline	21.387	voice	.
+8d	Fri-	1GMM	G:maj7 (G B D F#)	newline	voice	.	21.387
 16B	-day	.	.	.	.	.	.
-[16d	night,	.	.	.	.	.	A
+[16d	night,	.	.	.	.	A	.
 16d]	_	.	.	.	.	.	.
 16d	it	.	.	.	.	.	.
 16B	was	.	.	.	.	.	.
-[16d	late	.	.	.	.	.	B
+[16d	late	.	.	.	.	B	.
 16d]	_	.	.	.	.	.	.
 16d	I	.	.	.	.	.	.
 8B	was	.	.	.	.	.	.
@@ -44,7 +44,7 @@ r;	.	1r;	r	.	0	r	.
 16B	you	.	.	.	.	.	.
 [16d	home	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10
-8d]	_	1GMM	G:maj7 (G B D F#)	.	.	voice	.
+8d]	_	1GMM	G:maj7 (G B D F#)	.	voice	.	23.962
 16B	We	.	.	.	.	.	.
 [16d	got	.	.	.	.	.	.
 16d]	_	.	.	.	.	.	.
@@ -52,72 +52,72 @@ r;	.	1r;	r	.	0	r	.
 [16d	to	.	.	.	.	.	.
 16d]	_	.	.	.	.	.	.
 16B	the	.	.	.	.	.	.
-8d	gate	.	.	.	.	.	B
+8d	gate	.	.	.	.	B	.
 16B	And	.	.	.	.	.	.
 8f#	I	.	.	.	.	.	.
 16g	was	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11
-8f#	dream-	1CMm	C:9(13,#11) (C E B- D A F#)	.	.	voice	.
+8f#	dream-	1CMm	C:9(13,#11) (C E B- D A F#)	.	voice	.	26.537
 16d	-ing	.	.	.	.	.	.
 [16d	of	.	.	.	.	.	.
 16d]	_	.	.	.	.	.	.
 16B-	the	.	.	.	.	.	.
-[8B-	night	.	.	.	.	.	A
+[8B-	night	.	.	.	.	A	.
 2B-]	_	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12
-1r	.	1CMm	C:9(13,#11) (C E B- D A F#)	.	.	voice	.
+1r	.	1CMm	C:9(13,#11) (C E B- D A F#)	.	voice	.	29.112
 =13	=13	=13	=13	=13	=13	=13	=13
-16B	Would	1BMm	B:9 (B D# A C#)	.	.	voice	.
+16B	Would	1BMm	B:9 (B D# A C#)	.	voice	.	31.688
 8F#	it	.	.	.	.	.	.
 [16F#	turn	.	.	.	.	.	.
 16F#]	_	.	.	.	.	.	.
 8D#	out	.	.	.	.	.	.
-[16D#	right?	.	.	.	.	.	A
+[16D#	right?	.	.	.	.	A	.
 2D#]	_	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14
-2r	.	1BMm	B:9 (B D# A C#)	.	.	voice	.
+2r	.	1BMm	B:9 (B D# A C#)	.	voice	.	34.263
 4r	.	.	.	.	.	.	.
 8f#	How	.	.	.	.	.	.
 8g	to	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15
-4f#	tell	1GMM	G:maj7 (G B D F#)	newline	36.838	voice	.
+4f#	tell	1GMM	G:maj7 (G B D F#)	newline	voice	.	36.838
 8d	you,	.	.	.	.	.	.
-[8d	girl	.	.	.	.	.	C
+[8d	girl	.	.	.	.	C	.
 2d]	_	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16
-2r	.	1GMM	G:maj7 (G B D F#)	.	.	voice	.
+2r	.	1GMM	G:maj7 (G B D F#)	.	voice	.	39.387
 8r	.	.	.	.	.	.	.
 8f#	I	.	.	.	.	.	.
 8f#	wan-	.	.	.	.	.	.
 16g	-na	.	.	.	.	.	.
 [16a	build	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17
-8a]	_	1CMm	C:9(13,#11) (C E B- D A F#)	.	.	voice	.
+8a]	_	1CMm	C:9(13,#11) (C E B- D A F#)	.	voice	.	41.936
 8g	my	.	.	.	.	.	.
-8f#	world	.	.	.	.	.	C
+8f#	world	.	.	.	.	C	.
 16g	a-	.	.	.	.	.	.
 [16f#	-round	.	.	.	.	.	.
 8f#]	_	.	.	.	.	.	.
-[8d	you	.	.	.	.	.	D
+[8d	you	.	.	.	.	D	.
 4d]	_	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18
-1r	.	1CMm	C:9(13,#11) (C E B- D A F#)	.	.	voice	.
+1r	.	1CMm	C:9(13,#11) (C E B- D A F#)	.	voice	.	44.484
 =19	=19	=19	=19	=19	=19	=19	=19
-8d#	Tell	1BMm	B:9 (B D# A C#)	.	.	voice	.
+8d#	Tell	1BMm	B:9 (B D# A C#)	.	voice	.	47.033
 8B	you	.	.	.	.	.	.
 16B	that	.	.	.	.	.	.
 8A	it's	.	.	.	.	.	.
-[16B	true	.	.	.	.	.	D
+[16B	true	.	.	.	.	D	.
 16B]	_	.	.	.	.	.	.
 16A	_	.	.	.	.	.	.
 [8F#	_	.	.	.	.	.	.
 4F#]	_	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20
-1r	.	1BMm	B:9 (B D# A C#)	.	.	voice	.
+1r	.	1BMm	B:9 (B D# A C#)	.	voice	.	49.582
 =21	=21	=21	=21	=21	=21	=21	=21
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-16r	.	1GMM	G:maj7 (G B D F#)	newline	52.131	voice	.
+16r	.	1GMM	G:maj7 (G B D F#)	newline	voice	.	52.131
 16B	I	.	.	.	.	.	.
 16B	wan-	.	.	.	.	.	.
 16B	-na	.	.	.	.	.	.
@@ -126,11 +126,11 @@ r;	.	1r;	r	.	0	r	.
 [16f#	un-	.	.	.	.	.	.
 16f#]	_	.	.	.	.	.	.
 8B	-der-	.	.	.	.	.	.
-[16d	-stand	.	.	.	.	.	E
+[16d	-stand	.	.	.	.	E	.
 8d]	_	.	.	.	.	.	.
 8d	I'm	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22
-16f	tal-	1B-Mm	B-:9 (B- D A- C)	.	.	voice	.
+16f	tal-	1B-Mm	B-:9 (B- D A- C)	.	voice	.	54.679
 16e	-king	.	.	.	.	.	.
 16d	a-	.	.	.	.	.	.
 [16d	-bout	.	.	.	.	.	.
@@ -140,115 +140,115 @@ r;	.	1r;	r	.	0	r	.
 16d]	_	.	.	.	.	.	.
 [8.c	time	.	.	.	.	.	.
 8c]	_	.	.	.	.	.	.
-[8d	plan	.	.	.	.	.	E
+[8d	plan	.	.	.	.	E	.
 =23	=23	=23	=23	=23	=23	=23	=23
-1d]	_	2DM	D:maj (D F# A)	.	.	voice	.
-.	.	2GM	G:maj (D G B)	.	.	voice	.
+1d]	_	2DM	D:maj (D F# A)	.	voice	.	57.228
+.	.	2GM	G:maj (D G B)	.	voice	.	58.502
 =24	=24	=24	=24	=24	=24	=24	=24
-1r	.	1DM	D:maj (D F# A)	.	.	voice	.
+1r	.	1DM	D:maj (D F# A)	.	voice	.	59.776
 =25	=25	=25	=25	=25	=25	=25	=25
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-4r	.	1GMM	G:maj7 (G B D F#)	newline	62.324	voice	.
+4r	.	1GMM	G:maj7 (G B D F#)	newline	voice	.	62.324
 8f#	That's	.	.	.	.	.	.
 16e	the	.	.	.	.	.	.
 [16d	way	.	.	.	.	.	.
 16d]	_	.	.	.	.	.	.
 16d	it	.	.	.	.	.	.
 16B	be-	.	.	.	.	.	.
-[16d	-gan	.	.	.	.	.	E
+[16d	-gan	.	.	.	.	E	.
 16d]	_	.	.	.	.	.	.
 16d	We	.	.	.	.	.	.
 8B	were	.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26
-8d	hand-	1GMM	G:maj7 (G B D F#)	.	.	voice	.
+8d	hand-	1GMM	G:maj7 (G B D F#)	.	voice	.	64.872
 16B	-in-	.	.	.	.	.	.
-[16d	-hand	.	.	.	.	.	E
+[16d	-hand	.	.	.	.	E	.
 8d]	_	.	.	.	.	.	.
 8B	Glenn	.	.	.	.	.	.
 16d	Mil-	.	.	.	.	.	.
 8B	-ler's	.	.	.	.	.	.
-[16f#	band	.	.	.	.	.	E
+[16f#	band	.	.	.	.	E	.
 8f#]	_	.	.	.	.	.	.
 8g	Was	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27
-16f#	bet-	1CMm	C:9(13,#11) (C E B- D A F#)	.	.	voice	.
+16f#	bet-	1CMm	C:9(13,#11) (C E B- D A F#)	.	voice	.	67.42
 8.d	-ter	.	.	.	.	.	.
-8d	than	.	.	.	.	.	E
+8d	than	.	.	.	.	E	.
 16B-	be-	.	.	.	.	.	.
-[16B-	-fore	.	.	.	.	.	F
+[16B-	-fore	.	.	.	.	F	.
 2B-]	_	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28
-2r	.	1CMm	C:9(13,#11) (C E B- D A F#)	.	.	voice	.
+2r	.	1CMm	C:9(13,#11) (C E B- D A F#)	.	voice	.	69.968
 4r	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
 8B	We	.	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29
-8B	yelled	1BMm	B:9 (B D# A C#)	.	.	voice	.
+8B	yelled	1BMm	B:9 (B D# A C#)	.	voice	.	72.515
 8B	and	.	.	.	.	.	.
 [4B	screamed	.	.	.	.	.	.
 8B]	_	.	.	.	.	.	.
 16F#	for	.	.	.	.	.	.
-[16F#	more	.	.	.	.	.	F
+[16F#	more	.	.	.	.	F	.
 4F#]	_	.	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30
-2r	.	1BMm	B:9 (B D# A C#)	.	.	voice	.
+2r	.	1BMm	B:9 (B D# A C#)	.	voice	.	75.063
 8r	.	.	.	.	.	.	.
 [8f#	And	.	.	.	.	.	.
 16f#]	_	.	.	.	.	.	.
 8.g	the	.	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31
-4f#	Por-	1GMM	G:maj7 (G B D F#)	newline	77.611	voice	F
+4f#	Por-	1GMM	G:maj7 (G B D F#)	newline	voice	F	77.611
 8d	-ter	.	.	.	.	.	.
-[8e	tune	.	.	.	.	.	G
+[8e	tune	.	.	.	.	G	.
 8e]	_	.	.	.	.	.	.
 [8d	_	.	.	.	.	.	.
 4d]	_	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32
-2r	.	1GMM	G:maj7 (G B D F#)	.	.	voice	.
+2r	.	1GMM	G:maj7 (G B D F#)	.	voice	.	80.141
 4r	.	.	.	.	.	.	.
 16f#	Made	.	.	.	.	.	.
 8.g	us	.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33
-4.a	dance	1CMm	C:9(13,#11) (C E B- D A F#)	.	.	voice	.
+4.a	dance	1CMm	C:9(13,#11) (C E B- D A F#)	.	voice	.	82.672
 16g	a-	.	.	.	.	.	.
 [16f#	-cross	.	.	.	.	.	.
 8f#]	_	.	.	.	.	.	.
 8g	the	.	.	.	.	.	.
-16f#	room	.	.	.	.	.	G
+16f#	room	.	.	.	.	G	.
 8.d	_	.	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34
-2r	.	1CMm	C:9(13,#11) (C E B- D A F#)	.	.	voice	.
+2r	.	1CMm	C:9(13,#11) (C E B- D A F#)	.	voice	.	85.203
 4r	.	.	.	.	.	.	.
 8.r	.	.	.	.	.	.	.
 16B	It	.	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35
-8d#	en-	1BMm	B:9 (B D# A C#)	.	.	voice	.
+8d#	en-	1BMm	B:9 (B D# A C#)	.	voice	.	87.733
 16B	-ded	.	.	.	.	.	.
 [16B	all	.	.	.	.	.	.
 16B]	_	.	.	.	.	.	.
 8.d#	too	.	.	.	.	.	.
-8B	soon	.	.	.	.	.	G
+8B	soon	.	.	.	.	G	.
 16A	_	.	.	.	.	.	.
 [16F#	_	.	.	.	.	.	.
 4F#]	_	.	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36
-1r	.	1BMm	B:9 (B D# A C#)	.	.	voice	.
+1r	.	1BMm	B:9 (B D# A C#)	.	voice	.	90.264
 =37	=37	=37	=37	=37	=37	=37	=37
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-8.r	.	1GMM	G:maj7 (G B D F#)	newline	92.795	voice	.
+8.r	.	1GMM	G:maj7 (G B D F#)	newline	voice	.	92.795
 16B	And	.	.	.	.	.	.
 8d	on	.	.	.	.	.	.
 16e	the	.	.	.	.	.	.
 [16f#	way	.	.	.	.	.	.
 16f#]	_	.	.	.	.	.	.
 8e	back	.	.	.	.	.	.
-[16e	home	.	.	.	.	.	H
+[16e	home	.	.	.	.	H	.
 8e]	_	.	.	.	.	.	.
 8d	I	.	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38
-16f	pro-	1B-Mm	B-:9 (B- D A- C)	.	.	voice	.
+16f	pro-	1B-Mm	B-:9 (B- D A- C)	.	voice	.	95.317
 16e	-mised	.	.	.	.	.	.
 8d	you'd	.	.	.	.	.	.
 8d	ne-	.	.	.	.	.	.
@@ -257,83 +257,83 @@ r;	.	1r;	r	.	0	r	.
 8.d]	_	.	.	.	.	.	.
 [16c	a-	.	.	.	.	.	.
 8c]	_	.	.	.	.	.	.
-[8d	-lone	.	.	.	.	.	H
+[8d	-lone	.	.	.	.	H	.
 =39	=39	=39	=39	=39	=39	=39	=39
-1d_	_	2DM	D:maj (D F# A)	.	.	voice	.
-.	.	2GM	G:maj (D G B)	.	.	voice	.
+1d_	_	2DM	D:maj (D F# A)	.	voice	.	97.839
+.	.	2GM	G:maj (D G B)	.	voice	.	99.1
 =40	=40	=40	=40	=40	=40	=40	=40
-4d]	_	1DM	D:maj (D F# A)	.	.	voice	.
+4d]	_	1DM	D:maj (D F# A)	.	voice	.	100.361
 4r	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41
 *>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
 *>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
-8b	Hur-	1GMM	G:maj7 (G B D F#)	newline	102.883	voice	.
+8b	Hur-	1GMM	G:maj7 (G B D F#)	newline	voice	.	102.883
 16a	-ry,	.	.	.	.	.	.
 [16b	don't	.	.	.	.	.	.
 16b]	_	.	.	.	.	.	.
-16a	be	.	.	.	.	.	(a
-8b	late	.	.	.	.	.	A)
+16a	be	.	.	.	.	(a	.
+8b	late	.	.	.	.	A)	.
 2r	.	.	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42
-8a	I	1Gmm	G:min9 (G B- F A)	.	.	voice	.
+8a	I	1Gmm	G:min9 (G B- F A)	.	voice	.	105.426
 16g	can't	.	.	.	.	.	.
 [16a	har-	.	.	.	.	.	.
 16a]	_	.	.	.	.	.	.
-16g	-dly	.	.	.	.	.	(a
-[8a	wait	.	.	.	.	.	A)
+16g	-dly	.	.	.	.	(a	.
+[8a	wait	.	.	.	.	A)	.
 4.a]	_	.	.	.	.	.	.
 8b	I	.	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43	=43
-6f#	said	1BMm	B:9 (B D# A C#)	.	.	voice	.
+6f#	said	1BMm	B:9 (B D# A C#)	.	voice	.	107.968
 6f#	to	.	.	.	.	.	.
 6e	my-	.	.	.	.	.	.
 6f#	-self	.	.	.	.	.	.
 6g	when	.	.	.	.	.	.
 6a	we're	.	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44
-2.f#	old	1BMm	B:9 (B D# A C#)	.	.	voice	.
+2.f#	old	1BMm	B:9 (B D# A C#)	.	voice	.	110.511
 16f#	We'll	.	.	.	.	.	.
 8.f#	go	.	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-8f#	dan-	1GMM	G:maj7 (G B D F#)	newline	113.054	voice	.
-16d	-cing	.	.	.	.	.	i
+8f#	dan-	1GMM	G:maj7 (G B D F#)	newline	voice	.	113.054
+16d	-cing	.	.	.	.	i	.
 [16d	in	.	.	.	.	.	.
 16d]	_	.	.	.	.	.	.
 16d	the	.	.	.	.	.	.
-[8d	dark	.	.	.	.	.	J
+[8d	dark	.	.	.	.	J	.
 4d]	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46
-8f	Wal-	1B-Mm	B-:9 (B- D A- C)	.	.	voice	.
-8e	-king	.	.	.	.	.	i
+8f	Wal-	1B-Mm	B-:9 (B- D A- C)	.	voice	.	115.557
+8e	-king	.	.	.	.	i	.
 8d	through	.	.	.	.	.	.
 16B-	the	.	.	.	.	.	.
-[16B-	park	.	.	.	.	.	J
+[16B-	park	.	.	.	.	J	.
 8B-]	_	.	.	.	.	.	.
 8d	And	.	.	.	.	.	.
 8d	re-	.	.	.	.	.	.
 16c	-mi-	.	.	.	.	.	.
-[16e	-nis-	.	.	.	.	.	(I
+[16e	-nis-	.	.	.	.	(I	.
 =47	=47	=47	=47	=47	=47	=47	=47
-16e]	_	2DM	D:maj (D F# A)	.	.	voice	.
-[8.d	-cing	.	.	.	.	.	i)
+16e]	_	2DM	D:maj (D F# A)	.	voice	.	118.06
+[8.d	-cing	.	.	.	.	i)	.
 2.d]	_	.	.	.	.	.	.
-.	.	2GM	G:maj (D G B)	.	.	voice	.
+.	.	2GM	G:maj (D G B)	.	voice	.	119.311
 =48	=48	=48	=48	=48	=48	=48	=48
-1r	.	1DM	D:maj (D F# A)	.	.	voice	.
+1r	.	1DM	D:maj (D F# A)	.	voice	.	120.563
 =49	=49	=49	=49	=49	=49	=49	=49
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
-8d	Fri-	1GMM	G:maj7 (G B D F#)	newline	123.066	voice	.
+8d	Fri-	1GMM	G:maj7 (G B D F#)	newline	voice	.	123.066
 16B	-day	.	.	.	.	.	.
 [16d	night,	.	.	.	.	.	.
 16d]	_	.	.	.	.	.	.
 16d	it	.	.	.	.	.	.
 16B	was	.	.	.	.	.	.
-[16d	late	.	.	.	.	.	A
+[16d	late	.	.	.	.	A	.
 16d]	_	.	.	.	.	.	.
 16d	I	.	.	.	.	.	.
 8B	was	.	.	.	.	.	.
@@ -342,7 +342,7 @@ r;	.	1r;	r	.	0	r	.
 16B	you	.	.	.	.	.	.
 [16d	home	.	.	.	.	.	.
 =50	=50	=50	=50	=50	=50	=50	=50
-8d]	_	1GMM	G:maj7 (G B D F#)	.	.	voice	.
+8d]	_	1GMM	G:maj7 (G B D F#)	.	voice	.	125.63
 16B	We	.	.	.	.	.	.
 [16d	got	.	.	.	.	.	.
 16d]	_	.	.	.	.	.	.
@@ -350,45 +350,45 @@ r;	.	1r;	r	.	0	r	.
 [16d	to	.	.	.	.	.	.
 16d]	_	.	.	.	.	.	.
 16B	the	.	.	.	.	.	.
-8d	gate	.	.	.	.	.	A
+8d	gate	.	.	.	.	A	.
 16B	And	.	.	.	.	.	.
 8f#	I	.	.	.	.	.	.
 16g	was	.	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51
-8f#	dream-	1CMm	C:9(13,#11) (C E B- D A F#)	.	.	voice	.
+8f#	dream-	1CMm	C:9(13,#11) (C E B- D A F#)	.	voice	.	128.195
 16d	-ing	.	.	.	.	.	.
 [16d	of	.	.	.	.	.	.
 16d]	_	.	.	.	.	.	.
 16B-	the	.	.	.	.	.	.
-[8B-	night	.	.	.	.	.	B
+[8B-	night	.	.	.	.	B	.
 2B-]	_	.	.	.	.	.	.
 =52	=52	=52	=52	=52	=52	=52	=52
-1r	.	1CMm	C:9(13,#11) (C E B- D A F#)	.	.	voice	.
+1r	.	1CMm	C:9(13,#11) (C E B- D A F#)	.	voice	.	130.76
 =53	=53	=53	=53	=53	=53	=53	=53
-16F#	Would	1BMm	B:9 (B D# A C#)	.	.	voice	.
+16F#	Would	1BMm	B:9 (B D# A C#)	.	voice	.	133.325
 8G#	it	.	.	.	.	.	.
 [16B	turn	.	.	.	.	.	.
 16B]	_	.	.	.	.	.	.
 8.d	out	.	.	.	.	.	.
 8c#	_	.	.	.	.	.	.
-4.B	right?	.	.	.	.	.	B
+4.B	right?	.	.	.	.	B	.
 =54	=54	=54	=54	=54	=54	=54	=54
-2r	.	1BMm	B:9 (B D# A C#)	.	.	voice	.
+2r	.	1BMm	B:9 (B D# A C#)	.	voice	.	135.889
 6a	Now	.	.	.	.	.	.
 6g#	as	.	.	.	.	.	.
 6g	the	.	.	.	.	.	.
 =55	=55	=55	=55	=55	=55	=55	=55
-4f#	years	1GMM	G:maj7 (G B D F#)	newline	138.454	voice	.
+4f#	years	1GMM	G:maj7 (G B D F#)	newline	voice	.	138.454
 16d	roll	.	.	.	.	.	.
 16B	_	.	.	.	.	.	.
-[8e	on	.	.	.	.	.	K
+[8e	on	.	.	.	.	K	.
 8e]	_	.	.	.	.	.	.
 [8d	_	.	.	.	.	.	.
 8d]	_	.	.	.	.	.	.
 16B	_	.	.	.	.	.	.
 16A	_	.	.	.	.	.	.
 =56	=56	=56	=56	=56	=56	=56	=56
-16B	_	1GMM	G:maj7 (G B D F#)	.	.	voice	.
+16B	_	1GMM	G:maj7 (G B D F#)	.	voice	.	140.975
 [8.d	_	.	.	.	.	.	.
 4d]	_	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.
@@ -396,86 +396,86 @@ r;	.	1r;	r	.	0	r	.
 8f#	time	.	.	.	.	.	.
 8g	we	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57
-8a	hear	1CMm	C:9(13,#11) (C E B- D A F#)	.	.	voice	.
+8a	hear	1CMm	C:9(13,#11) (C E B- D A F#)	.	voice	.	143.497
 8g	our	.	.	.	.	.	.
 8f#	fa-	.	.	.	.	.	.
 8g	-v'rite	.	.	.	.	.	.
-16f#	song	.	.	.	.	.	K
+16f#	song	.	.	.	.	K	.
 [8.d	_	.	.	.	.	.	.
 4d_	_	.	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58	=58
-4.d]	_	1CMm	C:9(13,#11) (C E B- D A F#)	.	.	voice	.
+4.d]	_	1CMm	C:9(13,#11) (C E B- D A F#)	.	voice	.	146.018
 8r	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 8.r	.	.	.	.	.	.	.
 16B	The	.	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59
-8d#	memo-	1BMm	B:9 (B D# A C#)	.	.	voice	.
+8d#	memo-	1BMm	B:9 (B D# A C#)	.	voice	.	148.539
 8B	-ries	.	.	.	.	.	.
 8B	come	.	.	.	.	.	.
 16A	a-	.	.	.	.	.	.
-[16B	-long	.	.	.	.	.	K
+[16B	-long	.	.	.	.	K	.
 16B]	_	.	.	.	.	.	.
 16A	_	.	.	.	.	.	.
 [8F#	_	.	.	.	.	.	.
 4F#]	_	.	.	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60	=60
-1r	.	1BMm	B:9 (B D# A C#)	.	.	voice	.
+1r	.	1BMm	B:9 (B D# A C#)	.	voice	.	151.061
 =61	=61	=61	=61	=61	=61	=61	=61
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-4f#	Ol-	1GMM	G:maj7 (G B D F#)	newline	153.582	voice	.
+4f#	Ol-	1GMM	G:maj7 (G B D F#)	newline	voice	.	153.582
 8e	-der	.	.	.	.	.	.
 [8e	times	.	.	.	.	.	.
 8e]	_	.	.	.	.	.	.
 8d	we're	.	.	.	.	.	.
-16d	mis-	.	.	.	.	.	(I
-16e	-sing	.	.	.	.	.	i)
+16d	mis-	.	.	.	.	(I	.
+16e	-sing	.	.	.	.	i)	.
 8r	.	.	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62
-12f	Spen-	1B-Mm	B-:9 (B- D A- C)	.	.	voice	.
+12f	Spen-	1B-Mm	B-:9 (B- D A- C)	.	voice	.	156.102
 12e	-ding	.	.	.	.	.	.
 12d	the	.	.	.	.	.	.
 8d	hours	.	.	.	.	.	.
 8B	_	.	.	.	.	.	.
 8d	re-	.	.	.	.	.	.
 16B	-mi-	.	.	.	.	.	.
-[16e	-nis-	.	.	.	.	.	(I
+[16e	-nis-	.	.	.	.	(I	.
 16e]	_	.	.	.	.	.	.
-[8.d	-cing	.	.	.	.	.	i)
+[8.d	-cing	.	.	.	.	i)	.
 =63	=63	=63	=63	=63	=63	=63	=63
-1d]	_	2DM	D:maj (D F# A)	.	.	voice	.
-.	.	2GM	G:maj (D G B)	.	.	voice	.
+1d]	_	2DM	D:maj (D F# A)	.	voice	.	158.622
+.	.	2GM	G:maj (D G B)	.	voice	.	159.882
 =64	=64	=64	=64	=64	=64	=64	=64
-1r	.	1DM	D:maj (D F# A)	.	.	voice	.
+1r	.	1DM	D:maj (D F# A)	.	voice	.	161.142
 =65	=65	=65	=65	=65	=65	=65	=65
 *>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
 *>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
-8b	Hur-	1GMM	G:maj7 (G B D F#)	newline	163.662	voice	.
+8b	Hur-	1GMM	G:maj7 (G B D F#)	newline	voice	.	163.662
 16a	-ry,	.	.	.	.	.	.
 [16b	don't	.	.	.	.	.	.
 16b]	_	.	.	.	.	.	.
 16a	be	.	.	.	.	.	.
-8b	late	.	.	.	.	.	A
+8b	late	.	.	.	.	A	.
 2r	.	.	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66
-8a	I	1Gmm	G:min9 (G B- F A)	.	.	voice	.
+8a	I	1Gmm	G:min9 (G B- F A)	.	voice	.	166.191
 16g	can't	.	.	.	.	.	.
 [16a	har-	.	.	.	.	.	.
 16a]	_	.	.	.	.	.	.
 16g	-dly	.	.	.	.	.	.
-[8a	wait	.	.	.	.	.	A
+[8a	wait	.	.	.	.	A	.
 4.a]	_	.	.	.	.	.	.
 8b	I	.	.	.	.	.	.
 =67	=67	=67	=67	=67	=67	=67	=67
-6f#	said	1BMm	B:9 (B D# A C#)	.	.	voice	.
+6f#	said	1BMm	B:9 (B D# A C#)	.	voice	.	168.719
 6f#	to	.	.	.	.	.	.
 6a	my-	.	.	.	.	.	.
 6f#	-self	.	.	.	.	.	.
 6g	when	.	.	.	.	.	.
 [6a	we're	.	.	.	.	.	.
 =68	=68	=68	=68	=68	=68	=68	=68
-8a]	_	1BMm	B:9 (B D# A C#)	.	.	voice	.
+8a]	_	1BMm	B:9 (B D# A C#)	.	voice	.	171.248
 [8d#	old	.	.	.	.	.	.
 2d#]	_	.	.	.	.	.	.
 16f#	We'll	.	.	.	.	.	.
@@ -483,48 +483,48 @@ r;	.	1r;	r	.	0	r	.
 =69	=69	=69	=69	=69	=69	=69	=69
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-8f#	dan-	1GMM	G:maj7 (G B D F#)	newline	173.776	voice	.
+8f#	dan-	1GMM	G:maj7 (G B D F#)	newline	voice	.	173.776
 16d	-cing	.	.	.	.	.	.
 [16d	in	.	.	.	.	.	.
 16d]	_	.	.	.	.	.	.
 16d	the	.	.	.	.	.	.
-[8d	dark	.	.	.	.	.	B
+[8d	dark	.	.	.	.	B	.
 4d]	_	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.
 =70	=70	=70	=70	=70	=70	=70	=70
-8f	Wal-	1B-Mm	B-:9 (B- D A- C)	.	.	voice	.
+8f	Wal-	1B-Mm	B-:9 (B- D A- C)	.	voice	.	176.279
 8e	-king	.	.	.	.	.	.
 8d	through	.	.	.	.	.	.
 16B-	the	.	.	.	.	.	.
-[16B-	park	.	.	.	.	.	B
+[16B-	park	.	.	.	.	B	.
 8B-]	_	.	.	.	.	.	.
 8d	And	.	.	.	.	.	.
 8d	re-	.	.	.	.	.	.
-16c	-mi-	.	.	.	.	.	(I
-[16e	-nis-	.	.	.	.	.	i)
+16c	-mi-	.	.	.	.	(I	.
+[16e	-nis-	.	.	.	.	i)	.
 =71	=71	=71	=71	=71	=71	=71	=71
-16e]	_	2DM	D:maj (D F# A)	.	.	voice	.
+16e]	_	2DM	D:maj (D F# A)	.	voice	.	178.781
 [8.d	-cing	.	.	.	.	.	.
 2.d]	_	.	.	.	.	.	.
-.	.	2GM	G:maj (D G B)	.	.	voice	.
+.	.	2GM	G:maj (D G B)	.	voice	.	180.032
 =72	=72	=72	=72	=72	=72	=72	=72
-1r	.	1DM	D:maj (D F# A)	.	.	voice	.
+1r	.	1DM	D:maj (D F# A)	.	voice	.	181.284
 =73	=73	=73	=73	=73	=73	=73	=73
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
-1r	.	1GMM	G:maj7 (G B D F#)	newline	183.786	trumpet	.
+1r	.	1GMM	G:maj7 (G B D F#)	newline	trumpet	.	183.786
 =74	=74	=74	=74	=74	=74	=74	=74
-1r	.	1GMM	G:maj7 (G B D F#)	.	.	trumpet	.
+1r	.	1GMM	G:maj7 (G B D F#)	.	trumpet	.	186.272
 =75	=75	=75	=75	=75	=75	=75	=75
-1r	.	1CMm	C:9(13,#11) (C E B- D A F#)	.	.	trumpet	.
+1r	.	1CMm	C:9(13,#11) (C E B- D A F#)	.	trumpet	.	188.758
 =76	=76	=76	=76	=76	=76	=76	=76
-1r	.	1CMm	C:9(13,#11) (C E B- D A F#)	.	.	trumpet	.
+1r	.	1CMm	C:9(13,#11) (C E B- D A F#)	.	trumpet	.	191.244
 =77	=77	=77	=77	=77	=77	=77	=77
-1r	.	1BMm	B:9 (B D# A C#)	.	.	trumpet	.
+1r	.	1BMm	B:9 (B D# A C#)	.	trumpet	.	193.73
 =78	=78	=78	=78	=78	=78	=78	=78
-1r	.	1BMm	B:9 (B D# A C#)	.	.	trumpet	.
-r;	.	1r;	r	.	207.403	r	.
-r;	.	1r;	r	.	211.578	r	.
+1r	.	1BMm	B:9 (B D# A C#)	.	trumpet	.	196.216
+r;	.	1r;	r	.	r	.	207.403
+r;	.	1r;	r	.	r	.	211.578
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1978/08/19
 !!!BillboardPeak: 3
@@ -542,3 +542,4 @@ r;	.	1r;	r	.	211.578	r	.
 !!!SampleActualRank: 28
 !!!SampleID#: 0077
 !!!SampleTargetRank: 27
+!!!EMD: Edited in humdrumR 0.7.0.2 on 2023-10-06
