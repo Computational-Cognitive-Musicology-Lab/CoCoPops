@@ -12,6 +12,7 @@ This project started at Ohio State, led by Hubert Gauvin, Claire Arthur, and Nat
 Currently, Claire and Nat at Geogia Tech are the only people actively working on it.
 Other people who have contributed to the project include:
 
++ Jonathan Eldridge
 + Rhythm Jain
 + Gary Yim 
 + Dana Devlieger
@@ -53,8 +54,11 @@ Finally, links to each song on YouTube are present in the `YoutubeLink` column!
 The root directory contains four subdirectories:
 
 + The `OriginalData` directory contains the original, unaltered McGill Billboard data.
-+ The `Humdrum` directory contains a variety of humdrum-formatted files, including the final melodic-transcription files.
-+ The `MelodicTranscriptions` directory contains melodic transcription data which has yet to be translated to humdrum, or bound to the chord data.
++ The `Humdrum` directory contains a variety of humdrum-formatted files in different subdirectories:
+    + **The `CompleteTranscriptions` subdirectory is where the most up-to-date version of all completed files, with the harmony, melody, lyrics, timestamps, etc., resides**.  
+    + There is a separate subdirectory `ValenceArousal` which has a clone of the 100-file subset from CompleteTranscriptions that includes continuous V&A ratings.  
+    + The `MelodicTranscriptions` subdirectory contains the same information from the `CompleteTranscriptions` folder, but reduced to only contain the melodic and lyrical information. This subdirectory also contains the [transcription instructions](https://github.com/Computational-Cognitive-Musicology-Lab/CoCoPops/blob/main/Billboard/MelodicTranscriptions/TranscriptionInstructions_2019.pdf).
++ The `MelodyResources` directory contains melodic transcription data in pre-humdrum formats (musicxml and Sibelius). **Note that files in this folder are older, and may not match the final transcriptions in the Humdrum format. Use at your own risk!**
 + The `Scripts` directory contains a variety of scripts (Bash, Awk, and R) used in the project.
 
 
