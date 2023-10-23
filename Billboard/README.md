@@ -56,7 +56,8 @@ The root directory contains four subdirectories:
 + The `OriginalData` directory contains the original, unaltered McGill Billboard data.
 + The `Humdrum` directory contains a variety of humdrum-formatted files in different subdirectories:
     + **The `CompleteTranscriptions` subdirectory is where the most up-to-date version of all completed files, with the harmony, melody, lyrics, timestamps, etc., resides**.  
-    + There is a separate subdirectory `ValenceArousal` which has a clone of the 100-file subset from CompleteTranscriptions that includes continuous V&A ratings.  
+    + There is a separate subdirectory `ValenceArousal` which has a clone of the 100-file subset from CompleteTranscriptions that includes continuous V&A ratings.
+    + The `HarmonicTranscriptions` subdirectory contains the complete set of all McGill Billboard harmonic transcription files, including corrections, in humdrum format.
     + The `MelodicTranscriptions` subdirectory contains the same information from the `CompleteTranscriptions` folder, but reduced to only contain the melodic and lyrical information. This subdirectory also contains the [transcription instructions](https://github.com/Computational-Cognitive-Musicology-Lab/CoCoPops/blob/main/Billboard/MelodicTranscriptions/TranscriptionInstructions_2019.pdf).
 + The `MelodyResources` directory contains melodic transcription data in pre-humdrum formats (musicxml and Sibelius). **Note that files in this folder are older, and may not match the final transcriptions in the Humdrum format. Use at your own risk!**
 + The `Scripts` directory contains a variety of scripts (Bash, Awk, and R) used in the project.
