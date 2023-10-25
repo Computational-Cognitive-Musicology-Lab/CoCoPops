@@ -1,4 +1,7 @@
-# CoCoPops/Billboard/
+# CoCoPops/Billboard
+
+
+This directory contains the *Billboard* subset of the **Coordinated Corpus of Popular Music**.
 
 
 This repository contains a dataset of harmonic and melodic transcriptions of popular songs which charted on Billboard Hot 100 list between 1959 and 1991.
@@ -24,7 +27,7 @@ The repository is organized as follows:
 
 ### Root Directory
 
-In the root directory, in addition to this file, there are two text files containing tab-delineated spread sheets of information about the corpus: `BillboardSampleData.tsv` and `BillboardTranscriptionData.tsv`.
+In the root directory, in addition to this file, there are two text files containing tab-delineated spread sheets of information about the corpus: `Billboard_Sample.tsv` and `BillboardTranscriptionData.tsv`.
 Both files have exactly 740 records: 1 for the header, and 739 for the 739 unique songs in the sample.
 The first three columns of each of these files are, and should remain, identical, except for that we might sort the rows differently from time to time.
 These first three columns state the `FileName`, `ARTIST` and `TITLE` for each sampled song. 
@@ -38,11 +41,11 @@ Parentheticals in titles are simply removed, so Otis Reddings' "(Sittin' On) the
 The `Year` part of the filename is only the first year the song was sampled, which is not necessarily the year the song was released.
 
 
-`BillboardSampleData.tsv` contains information about the sample, all copied directly from the original data (i.e. information has not been independently verified).
+`Billboard_Sample.tsv` contains information about the sample, all copied directly from the original data (i.e. information has not been independently verified).
 Much of this information relates to the original McGill project's sampling scheme:
 The original sampling scheme (Burgoyne, 2011) called for 1300 chart positions to be targeted for sampling, but data for only 890 positions could be gathered. 
 In addition, many songs were sampled more than once so this 890 actually only represents 739 unique recordings.
-In the `BillboardSampleData.tsv` file, songs which are sampled more than once have multiple data points filled into some columns, separated by ", ".
+In the `Billboard_Sample.tsv` file, songs which are sampled more than once have multiple data points filled into some columns, separated by ", ".
 
 `BillboardTranscriptionData.tsv` is a more active document, where we keep track of information about our new transcriptions, and the ongoing transcription process.
 Other information in the `BillboardTranscriptionData.tsv` file includes the name of the melodic transcriber, date the transcription was finished, any comments the transcriber has about the transcription, and a brief description of any changes/edits/fixes which the transcriber thinks should be made to the original McGill chord-annotation data.
