@@ -81,6 +81,15 @@ The translation script makes two guesses at the appropriate quality for these ch
   In some cases, the script still failed to identify the correct key.
   These examples have been manually edited.
 
+## Melody and lyrics
+
+Melodic parts and associated lyrics are recorded in pairs of `**kern` and `**silbe` spine, both standard humdrum representations.
+The `**kern` tokens, following standard practice, begin with a `**recip` indication of the rhythmic duration, followed by the pitch information.
+The `**silbe` representation shows lyrics broken up into syllables, aligned with each note in the `**kern` line.
+
+The `**rhyme` spine indicates where rhymes occur in the lyrics.
+Pairs of syllables that rhyme with each other labeled with arbitrary letters, A, B, C, D, etc.
+Multi-syllable rhymes are indicated by connecting letters with parentheses; e.g., (A B), (A B).
 
 ## Phrase and Instrument
 
@@ -191,5 +200,10 @@ Plus:
 
 # Valence and Arousal
 
-The `**valence` and `**arousal`
+The `**valence` and `**arousal` spines each record four independent, real-time human ratings of valence (positive/negative) and arousal (high/low) respectively.
+The four responses at each time stamp are recorded in four, space-separated humdrum "multi stops."
+These responses are recorded on a scale of 0 to 127, with higher numbers associated with positive valence and high arousal.
+
+In addition, the `**rms` scales indicates the rolling root-mean-square signal level from the audio recording, on a decibel scale.
+
 
