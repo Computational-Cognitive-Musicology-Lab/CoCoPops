@@ -42,6 +42,18 @@ Each subcorpus of CoCoPops is contained in its own subdirectory:
 
 Each subdirectory in this repo has its own `README` file, with detailed explanations of the directory structure and contents.
 
+# Standards
+
+## Filenames
+
+In CoCoPops, all files associated with particular sampled recordings follow the same filenaming convention.
+File names names are formatted as `Arist_Title_Year.extension`, with the following formatting guidelines: The `Artist` and `Title` portion of each filename contains only roman-letters and arabic numerals, no special characters (no hyphens, no apostrophes, no commas, no parenthesis, etc.) and no spaces between words. 
+For instance, files associated with the song "Honey, Honey" by ABBA will all labeled `ABBA_HoneyHoney_1974`; for instance, `ABBA_HoneyHoney_1974.xml`, `ABBA_HoneyHoney_1974.mus`, and `ABBA_HoneyHoney_1974.hum`.
+The spelled out word "And" is always used, never "&". 
+In lieu of spaces, the first character of each word is upper case, while the rest are lower case.
+Parentheticals in titles are simply removed, so Otis Reddings' "(Sittin' On) the Dock of the Bay" is just `OtisRedding_TheDockOfTheBay_1968`.
+The `Year` part of the filename is the year the song was sampled, which is not necessarily the year the song was released (in the Billboard subset, it is the year the song charted on the Hot 100).
+
 
 # References 
 

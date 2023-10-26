@@ -1,6 +1,6 @@
 # CoCoPops/Billboard/Resources/Transcription
 
-This directory contains files related to the transcription process.
+This directory contains files related to our melodic transcription process.
 The file `TranscriptionInfo.tsv` indicates the transcription status of all songs in the datasets, including any notes taken during transcription.
 
 Generally, transcriptions were created in MuseScore or Sibelius, then exported as musicXML, then translated to humdrum format.
