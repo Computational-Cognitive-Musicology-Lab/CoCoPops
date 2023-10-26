@@ -4,10 +4,11 @@ fread('~/Bridge/Research/Data/CoCoPops/RollingStone/RollingStone_Sample.tsv') ->
 
 
 
-
+setorder(bb, Filename)
+setorder(bbt, Filename)
 bb[ , 1:4, with = FALSE] -> bb
-bbt[match(bbt$FileName, bb$Filename)] -> bbt
-bb[ , Melody := bbt[ , !is.na(Transcriber) & Transcriber != '_']]
+bb$Melody <- bbt[ , !is.na(Transcriber) & Transcriber != '_']
+
 bb[ , Harmony := TRUE]
 bb[ , Lyrics := Melody]
 colnames(bb)[4] <- 'YEAR'
