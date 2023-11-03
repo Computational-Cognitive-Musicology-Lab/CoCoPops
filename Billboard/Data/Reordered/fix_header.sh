@@ -5,7 +5,7 @@ for i in "$@"
 do
 old_name="$i"
 new_name=${old_name%.*}
-sed -E 's:(\*\*[a-z]+)\.[0-9]+:\1:g' ${i} > /FixedHeader/${$old_name}
+sed -E 's:(\*\*[a-z]+)\.[0-9]+:\1:g' ${i} > ./FixedHeader/$old_name
 done
 
 exit
