@@ -35,8 +35,9 @@ This directory contains two subdirectories:
 + The `Data` directory contains the humdrum data for the CoCoPops Billboard subset.
 + The `Resources` directory contains various other (potentially) useful information related to the creation of the dataset, including raw Sibelius, Musescore, and XML files. (Note, the original raw transcription files are not maintained and likely contain some errors).
 
-## File Structure
-The dataset includes transcriptions/annotations of 739 unique songs, each in its own file.
+# Data 
+
+The dataset includes transcriptions/annotations of 739 unique songs, each in its own file, all within the `Data` subdirectory.
 
 Currently, 214 files contain complete melodic *and* harmonic transcriptions (and additional metadata).
 These files have the file extension `.hum`.
@@ -47,7 +48,7 @@ These files (without melodic transcriptions) have the extension `harm`.
 
 All the files share the same humdrum-structure, with differing columns of data depending on what is included.
 
-## Provenance
+### Provenance
 
 Initially (in early 2017), the original McGill Billboard data files were parsed and converted to humdrum format.
 The original files were accessed from [this McGill DDMAL website](https://ddmal.music.mcgill.ca/research/The_McGill_Billboard_Project_(Chord_Analysis_Dataset)){target="\_blank"} in December 2016, and are contained elsewhere in the repository (`../Resources/McGill_Data`).
@@ -59,7 +60,7 @@ These XML files were then converted to humdrum format, and aligned with the harm
 The final "complete" harmonic/melodic files have been edited since then, and should be regarded as the master copies of the data.
 
 
-# Humdrum Spines
+## Humdrum Spines
 
 The files in the Data directory (`.harm` and `.hum`) are encoded in [humdrum](https://www.humdrum.org) format.
 Each file contains data in independent "spines" (columns).
@@ -76,7 +77,7 @@ The `.varms.hum` files also contain spines `**valence`, `**arousal`, and `**rms`
 
 The content of each spine is described below.
 
-## Melody and lyrics
+### Melody and lyrics
 
 Melodic parts and associated lyrics are recorded in pairs of `**kern` and `**silbe` spine, both standard humdrum representations.
 The `**kern` tokens, following standard practice, begin with a `**recip` indication of the rhythmic duration, followed by the pitch information.
@@ -86,7 +87,7 @@ The `**rhyme` spine indicates where rhymes occur in the lyrics.
 Pairs of syllables that rhyme with each other labeled with arbitrary letters, A, B, C, D, etc.
 Multi-syllable rhymes are indicated by connecting letters with parentheses; e.g., (A B), (A B).
 
-### Voice 
+#### Voice 
 
 CoCoPops billboard transcriptions are meant to represent the "main" or "lead" vocal part of each song in the sample.
 All `**kern` spines thus include a `*ICvox` token to indicate that the "instrument class" is voice.
@@ -124,7 +125,7 @@ This notation refers to the German term [Haupstimme](https://en.wikipedia.org/wi
 `*]stimme` can be used to indicate the end of the previous stimme indication---traditionally marked &#119208; in scores.
 These tandem interpretations may dynamically jump between spines on a measure-by-measure basis, sometimes even changing within a vocal phrase.
 
-## Harm
+### Harm
 
 Harmony information is encoded in two seprate spines: `**harm` and `**harte`.
 
@@ -135,7 +136,7 @@ The `**harte` interpretation is a newer humdrum implementation of Harte's common
 
 The harmonic rhythm is encoded as humdrum-standard `**recip` rhythm tokens attached to the `**harm` tokens.
 
-### Differences between harm and harte
+#### Differences between harm and harte
 
 The original McGill Billboard labels encode harmony using jazz-style chord symbols using the Harte (2010) syntax.
 These chord symbols are intended to represent the overall chord or pitch-class set (and bass note) played by the accompanying instrument.
@@ -164,7 +165,7 @@ The translation script makes two guesses at the appropriate quality for these ch
   In some cases, the script still failed to identify the correct key.
   These examples have been manually edited.
 
-## Phrase and Instrument
+### Phrase and Instrument
 
 The `**phrase` spine indicates where line-breaks occur in the original McGill transcriptions.
 The exact musical significance of this segmentation is not clear, but they are supposed to indicate "each musical phrase or other sonic element at a comparable level of musical structure."
@@ -173,11 +174,11 @@ The `**leadinstrument` spine is also copied directly from the original transcrip
 
 > "'Leading instruments' are noted where...there is a notable deviation from the norm of a leading vocal throughout the entire song."
 
-## Timestamp
+### Timestamp
 
 The `**timestamp` simply copies the timestamps from the original files, rounded to the nearest one-hundredth of a second.
 
-## Formal Sections
+### Formal Sections
 
 Section labels from the original transcriptions are encoded in humdrum format, as interpretations records beginning with `*>`.
 The original McGill files contain two parallel but (somewhat) distinct formal labellings: abstract letters (A, B, C, etc.) and stylistic names (verse, chorus, etc.).
@@ -186,7 +187,7 @@ These annotations are represented in separate humdrum formal label records, star
 
 
 
-# Valence and Arousal
+## Valence and Arousal
 
 A subset of 100 songs with both melody and harmony transcriptions were used in a human-subjects experiment in order to collect continuous valence and arousal ratings sampled every 500ms (see [our ISMIR paper]{https://www.academia.edu/108502759/THE_COORDINATED_CORPUS_OF_POPULAR_MUSICS_COCOPOPS_A_META_CORPUS_OF_MELODIC_AND_HARMONIC_TRANSCRIPTIONS} for more details about the experiment.)
 
@@ -196,15 +197,15 @@ These responses are recorded on a scale of 0 to 127, with higher numbers associa
 
 In addition, the `**rms` scales indicates the rolling root-mean-square signal level from the audio recording, on a decibel scale.
 
-# Metadata
+## Metadata
 
-## Key, Meter, Tempo
+### Key, Meter, Tempo
 
 Many standard musical features are indicated in humdrum "tandem" interpretations in relevant spines.
 These include key (A major = `*A:`), time signature (4/4 = `*M4/4`), and tempo ($100_{bpm}$ = `*MM100`).
 These features can change dynamically, indicating changes of key, meter, or tempo as needed.
 
-## Reference Records
+### Reference Records
 
 True metadata about each piece, and each piece's place in the original McGill Billboard sampling scheme, is encoded in reference records (beginning `!!!`) at the end of each file.
 
