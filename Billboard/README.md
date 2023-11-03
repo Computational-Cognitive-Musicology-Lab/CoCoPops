@@ -131,7 +131,7 @@ Harmony information is encoded in two seprate spines: `**harm` and `**harte`.
 The `**harm` interpretation is humdrum's standard representation of harmonic Roman numerals ("functional harmony").
 Note that these were *not* manually added via expert annotation, but rather **created by conversion** from an interpreted version of the **harte. (See below for additional details.)
 
-The `**harte` interpretation is a newer humdrum implementation of Harte's common chord syntax, which the original McGill encodings are also based on. (See the [Star Wars Thematic Corpus]{https://github.com/Computational-Cognitive-Musicology-Lab/Star-Wars-Thematic-Corpus} repo for full details on the encoding.)
+The `**harte` interpretation is a newer humdrum implementation of Harte's common chord syntax, which the original McGill encodings are also based on. (See the [Star Wars Thematic Corpus](https://github.com/Computational-Cognitive-Musicology-Lab/Star-Wars-Thematic-Corpus) repo for full details on the encoding.)
 
 The harmonic rhythm is encoded as humdrum-standard `**recip` rhythm tokens attached to the `**harm` tokens.
 
@@ -139,7 +139,7 @@ The harmonic rhythm is encoded as humdrum-standard `**recip` rhythm tokens attac
 
 The original McGill Billboard labels encode harmony using jazz-style chord symbols using the Harte (2010) syntax.
 These chord symbols are intended to represent the overall chord or pitch-class set (and bass note) played by the accompanying instrument.
-The `**harte` spine faithfully reproduces these. (Again, see the [Star Wars Thematic Corpus]{https://github.com/Computational-Cognitive-Musicology-Lab/Star-Wars-Thematic-Corpus} repo for full details on the **harte encoding.)
+The `**harte` spine faithfully reproduces these. (Again, see the [Star Wars Thematic Corpus](https://github.com/Computational-Cognitive-Musicology-Lab/Star-Wars-Thematic-Corpus) repo for full details on the **harte encoding.)
 
 In contrast, our `**harm` annotations are derived from the original McGill annotations, but have been abstracted (manually and automatically) to encode more abstract "harmonies," as understoond in the classical tradition of analysis.
 All chords are annotated as triads (major, minor, augmented, or diminished) or seventh chords (major, dominant, minor, half-diminished, or diminished).
