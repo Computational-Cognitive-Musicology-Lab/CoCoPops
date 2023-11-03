@@ -24,19 +24,17 @@ This repository is organized as follows:
 In the root directory, in addition to this file, there is a text file containing a tab-delineated spread sheet of information about the corpus: `RollingStoneSampleData.tsv`. 
 This file has exactly 201 records: 1 for the header, and 200 for the 200 unique songs in the sample.
 These first three columns state the `FileName`, `ARTIST` and `TITLE` for each sampled song.
-The `FileName` column indicates the root filename (sans extension) used for all files in the dataset associated with that song.
-For instance, files associated with the song "With Or Without You" by U2 will all labeled `U2_WithOrWithoutYou_1987`; for instance, `U2_WithOrWithoutYou_1974.xml`, `U2_WithOrWithoutYou_1974.mus`, or `U2_WithOrWithoutYou_1974.hum`.
-These file names are formatted as follows `Arist_Title_Year.extension`, with the following formatting guidelines: The `Artist` and `Title` portion of each filename contains only roman-letters and Arabic numerals, no special characters (no hyphens, no apostrophes, no commas, no parenthesis, etc.) and no spaces between words. 
-The spelled out word "And" is always used, never "&". 
-In lieu of spaces, the first character of each word is upper case, while the rest are lower case.
-Parentheticals in titles are simply removed, so Otis Reddings' "(Sittin' On) the Dock of the Bay" is just "OtisRedding_TheDockOfTheBay_1968".
-The `Year` part of the filename is only the first year the song was sampled, which is not necessarily the year the song was released.
+The `FileName` column indicates the root filename (minus extension) used for all files in the dataset associated with that song.
+
+
+As described on the root README file, names are formatted as follows `Arist_Title_Year.extension`. 
+Unlike the Billboard subset, the `Year` part of the filename for the RollingStone subset should align with the year of the song's release. 
 
 `RollingStoneSampleData.tsv` contains information about the sample, all copied directly from the original data (i.e. information has not been independently verified).
-Much of this information relates to the Temperley and de Clercq's original release history.
-Their initial paper (2011) included only a 100-song subset of the Rolling Stone list, to which they added an additional 100 songs later.
+Much of this information relates to Temperley and de Clercq's original release history.
+[Their initial paper (2011)](https://www.cambridge.org/core/journals/popular-music/article/corpus-analysis-of-rock-harmony/C5210A8EC985DDF170B53124F4464DA4) included only a 100-song subset of the Rolling Stone list, to which they added an additional 100 songs later.
 Songs in the original sample are indicated in the `RS 5x20 subset` column.
-Later, Tan, Lustig, and Temperley (2019) added lyric information to an 80-song subset: these tracks are indicated in the `Lyric subset` column.
+Later, [Tan, Lustig, and Temperley (2019)](https://online.ucpress.edu/mp/article/36/4/353/62973/Anticipatory-Syncopation-in-Rock-A-Corpus-Study) added lyric information to an 80-song subset: these tracks are indicated in the `Lyric subset` column.
 
 Finally, links to each song on YouTube are present in the `YoutubeLink` column!
 
