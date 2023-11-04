@@ -6,6 +6,7 @@
 *	*	*M4/4	*	*M4/4	*	*	*	*
 *	*	*clefG2	*	*clefC3	*	*	*	*
 1r;	1r	r;	.	r;	.	.	0	.
+1r	1r	4g	Freeze	1r	.	.	NA	.
 .	.	4e	frame!	.	.	.	.	.
 .	.	2r	.	.	.	.	.	.
 1r;	1r	r;	.	r;	.	.	.	.
@@ -13,6 +14,7 @@
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+1CM	C:maj	1r	.	1r	.	.	NA	newline
 =2	=2	=2	=2	=2	=2	=2	=2	=2
 1CM	C:maj	1r	.	1r	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3
@@ -30,6 +32,7 @@
 =9	=9	=9	=9	=9	=9	=9	=9	=9
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental
+1CM	C:maj	1r	.	1r	.	.	NA	newline
 =10	=10	=10	=10	=10	=10	=10	=10	=10
 1CM	C:maj	1r	.	1r	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11
@@ -47,6 +50,7 @@
 =17	=17	=17	=17	=17	=17	=17	=17	=17
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1CM	C:maj	4r	.	4r	.	.	NA	newline
 .	.	8c	I	8e	I	.	.	.
 .	.	8~B-	could	8~d	could	.	.	.
 .	.	8c	see	8e	see	.	.	.
@@ -88,6 +92,7 @@
 .	.	8B-	me	8d	me	.	.	.
 .	.	[8c	wound	[8e	wound	B	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25
+1CM	C:maj	4.c]	_	4.e]	_	.	NA	newline
 .	.	8A	_	8d	_	.	.	.
 .	.	2G	_	2c	_	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26
@@ -124,6 +129,7 @@
 .	.	8B-q	_	.	.	.	.	.
 .	.	[8B	sound	[8d	sound	B	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33
+1GM	G:maj	1B_	_	1d_	_	.	NA	newline
 =34	=34	=34	=34	=34	=34	=34	=34	=34
 1GM	G:maj	2B_	_	2d_	_	.	.	.
 .	.	8B]	_	8d]	_	.	.	.
@@ -134,6 +140,7 @@
 =36	=36	=36	=36	=36	=36	=36	=36	=36
 1FM	F:maj	1r	.	1r	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37
+2GM	G:maj	1r	.	1r	.	.	NA	newline
 2A-M	A-:maj/7	.	.	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38	=38
 2AM	A:maj/b7	1r	.	1r	.	.	.	.
@@ -147,6 +154,7 @@
 =41	=41	=41	=41	=41	=41	=41	=41	=41
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1CM	C:maj	4r	.	4r	.	.	NA	newline
 .	.	8c	Thurs-	8e	Thurs-	.	.	.
 .	.	8c	-day	8e	-day	.	.	.
 .	.	8c	mor-	8e	mor-	.	.	.
@@ -196,6 +204,7 @@
 .	.	8Aq	_	8dq	_	.	.	.
 .	.	[8c	find	[8e	find	D	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49
+1CM	C:maj	4.c]	_	4.e]	_	.	NA	newline
 .	.	8A	_	8d	_	.	.	.
 .	.	2G	_	2c	_	.	.	.
 =50	=50	=50	=50	=50	=50	=50	=50	=50
@@ -242,6 +251,7 @@
 .	.	4c	she's	4e-	she's	.	.	.
 .	.	4A	not	4~d	not	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57
+1GM	G:maj	[1B	mine	[1d	mine	D	NA	newline
 =58	=58	=58	=58	=58	=58	=58	=58	=58
 1GM	G:maj	2B_	_	2d_	_	.	.	.
 .	.	8B]	_	8d]	_	.	.	.
@@ -255,6 +265,7 @@
 =60	=60	=60	=60	=60	=60	=60	=60	=60
 1FM	F:maj	1r	.	1r	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61
+2GM	G:maj	1r	.	1r	.	.	NA	newline
 2A-M	A-:maj/7	.	.	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62	=62
 2AM	A:maj/b7	1r	.	1r	.	.	.	.
@@ -268,6 +279,7 @@
 =65	=65	=65	=65	=65	=65	=65	=65	=65
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2CM	C:maj	2r	.	4g	Freeze	.	NA	newline
 .	.	.	.	4e	frame	.	.	.
 2N	N	4c	Freeze	2r	.	.	.	.
 .	.	4A	frame	.	.	.	.	.
@@ -301,6 +313,7 @@
 =71	=71	=71	=71	=71	=71	=71	=71	=71
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1CM	C:maj	4r	.	4r	.	.	NA	newline
 .	.	8c	Now	8e	Now	.	.	.
 .	.	8c	I'm	8e	I'm	.	.	.
 .	.	8c	loo-	8e	loo-	.	.	.
@@ -349,6 +362,7 @@
 .	.	4c	in	4e-	in	.	.	.
 .	.	4A	my	4c	my	.	.	.
 =79	=79	=79	=79	=79	=79	=79	=79	=79
+1CM	C:maj	4.c	ear	4.e	ear	E	NA	newline
 .	.	8A	_	8d	_	.	.	.
 .	.	2G	_	2c	_	.	.	.
 =80	=80	=80	=80	=80	=80	=80	=80	=80
@@ -391,6 +405,7 @@
 .	.	4c	can't	4e-	can't	.	.	.
 .	.	4B-	be	4~c	be	.	.	.
 =87	=87	=87	=87	=87	=87	=87	=87	=87
+1GM	G:maj	[1B	wrong	[1d	wrong	F	NA	newline
 =88	=88	=88	=88	=88	=88	=88	=88	=88
 1GM	G:maj	2B_	_	2d_	_	.	.	.
 .	.	8B]	_	8d]	_	.	.	.
@@ -404,6 +419,7 @@
 =90	=90	=90	=90	=90	=90	=90	=90	=90
 1FM	F:maj	1r	.	1r	.	.	.	.
 =91	=91	=91	=91	=91	=91	=91	=91	=91
+2GM	G:maj	1r	.	1r	.	.	NA	newline
 2A-M	A-:maj/7	.	.	.	.	.	.	.
 =92	=92	=92	=92	=92	=92	=92	=92	=92
 2AM	A:maj/b7	1r	.	1r	.	.	.	.
@@ -417,6 +433,7 @@
 =95	=95	=95	=95	=95	=95	=95	=95	=95
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2CM	C:maj	2r	.	4g	Freeze	.	NA	newline
 .	.	.	.	4e	frame	.	.	.
 2N	N	4c	Freeze	2r	.	.	.	.
 .	.	4A	frame	.	.	.	.	.
@@ -448,6 +465,7 @@
 =101	=101	=101	=101	=101	=101	=101	=101	=101
 *>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
 *>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans	*>Label>Trans
+1CMm	C:7	1r	.	1r	.	.	NA	newline
 =102	=102	=102	=102	=102	=102	=102	=102	=102
 1CMm	C:7	1r	.	1r	.	.	.	.
 =103	=103	=103	=103	=103	=103	=103	=103	=103
@@ -465,6 +483,7 @@
 =109	=109	=109	=109	=109	=109	=109	=109	=109
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+1CM	C:maj	1r	.	1r	.	.	NA	newline
 =110	=110	=110	=110	=110	=110	=110	=110	=110
 1CM	C:maj	1r	.	1r	.	.	.	.
 =111	=111	=111	=111	=111	=111	=111	=111	=111
@@ -488,6 +507,7 @@
 =116	=116	=116	=116	=116	=116	=116	=116	=116
 1FM	F:maj	1r	.	1r	.	.	.	.
 =117	=117	=117	=117	=117	=117	=117	=117	=117
+1CM	C:maj	4c 4e	Shoot	1r	.	.	NA	newline
 .	.	4r	.	.	.	.	.	.
 .	.	4c 4e	Shoot	.	.	.	.	.
 .	.	4r	.	.	.	.	.	.
@@ -521,6 +541,7 @@
 2B-M	B-:maj	1r	.	1r	.	.	.	.
 2FM	F:maj	.	.	.	.	.	.	.
 =125	=125	=125	=125	=125	=125	=125	=125	=125
+1GM	G:maj	1r	.	1r	.	.	NA	newline
 =126	=126	=126	=126	=126	=126	=126	=126	=126
 1GM	G:maj	1r	.	1r	.	.	.	.
 =127	=127	=127	=127	=127	=127	=127	=127	=127
@@ -528,6 +549,7 @@
 =128	=128	=128	=128	=128	=128	=128	=128	=128
 1FM	F:maj	1r	.	1r	.	.	.	.
 =129	=129	=129	=129	=129	=129	=129	=129	=129
+2GM	G:maj	1r	.	1r	.	.	NA	newline
 2A-M	A-:maj/7	.	.	.	.	.	.	.
 =130	=130	=130	=130	=130	=130	=130	=130	=130
 2AM	A:maj/b7	1r	.	1r	.	.	.	.
@@ -541,6 +563,7 @@
 =133	=133	=133	=133	=133	=133	=133	=133	=133
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+2CM	C:maj	2r	.	4g	Freeze	.	NA	newline
 .	.	.	.	4e	frame	.	.	.
 2N	N	4c	Freeze	2r	.	.	.	.
 .	.	[4~A	frame	.	.	.	.	.
@@ -570,6 +593,7 @@
 =139	=139	=139	=139	=139	=139	=139	=139	=139
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+1CM	C:maj	1r	.	1r	.	.	NA	newline
 =140	=140	=140	=140	=140	=140	=140	=140	=140
 1CM	C:maj	1r	.	1r	.	.	.	.
 =141	=141	=141	=141	=141	=141	=141	=141	=141
@@ -585,6 +609,7 @@
 =146	=146	=146	=146	=146	=146	=146	=146	=146
 1FM	F:maj	1r	.	1r	.	.	.	.
 =147	=147	=147	=147	=147	=147	=147	=147	=147
+1CM	C:maj	1r	.	4c 4e	Freeze	.	NA	newline
 .	.	.	.	4c 4e	frame	.	.	.
 .	.	.	.	2r	.	.	.	.
 =148	=148	=148	=148	=148	=148	=148	=148	=148
@@ -630,6 +655,7 @@
 .	.	8e	like	8A	time	.	.	.
 .	.	8c	a	8A	to	.	.	.
 =155	=155	=155	=155	=155	=155	=155	=155	=155
+1CM	C:maj	4c	freeze	4c 4e	Shoot	.	NA	newline
 .	.	4r	.	4r	.	.	.	.
 .	.	4c	freeze	4c 4e	shoot	.	.	.
 .	.	4r	.	4r	.	.	.	.
@@ -678,6 +704,7 @@
 .	.	.	.	8A	time	.	.	.
 .	.	.	.	8A	to	.	.	.
 =163	=163	=163	=163	=163	=163	=163	=163	=163
+1CM	C:maj	1gg_	_	4c 4e	Shoot	.	NA	newline
 .	.	.	.	4r	.	.	.	.
 .	.	.	.	4c 4e	shoot	.	.	.
 .	.	.	.	4r	.	.	.	.
@@ -722,6 +749,8 @@
 =170	=170	=170	=170	=170	=170	=170	=170	=170
 1FM	F:maj	1r	.	1c; 1f 1a	_	.	.	.
 1r;	1r	r;	.	r;	.	.	.	.
+1r;	1r	r;	.	r;	.	.	NA	.
+1r;	1r	r;	.	r;	.	.	NA	.
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1982/03/20
 !!!BillboardPeak: 4
