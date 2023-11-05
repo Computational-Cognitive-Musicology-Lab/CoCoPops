@@ -1,15 +1,15 @@
 library(data.table)
 library(humdrumR)
 
-setwd("~/Bridge/Research/Data/CoCoPops/BillboardCorpus")
+setwd("~/Bridge/Research/Data/CoCoPops/Billboard")
 
-mirexfiles <- dir('OriginalData/MirexFiles/', pattern = 'full.lab$')
+mirexfiles <- dir('Resources/McGill_Data/MirexFiles/', pattern = 'full.lab$')
 mirexid <- as.integer(stringr::str_extract(mirexfiles, '^[0-9]{1,4}'))
 
-sampleData <- fread('BillboardSampleData.tsv')
+sampleData <- fread('Billboard_Sample.tsv')
 sampleData[ , ID := as.integer(gsub(', .*', '', `Sample ID#`))]
 
-sampleData <- sampleData[paste0(FileName, '.hum') %in% dir('Humdrum/CompleteTranscriptions/')]
+sampleData <- sampleData[paste0(Filename, '.harm') %in% dir('Data')]
 sampleData$MirexFile <- mirexfiles[match(sampleData$ID, mirexid)]
 
 
@@ -133,9 +133,9 @@ chordsMatch <- function(old, new) {
 generateFiles <- function(tsTable, filename, humfile) {
    if (is.null(tsTable)) return(NULL)
    
-   if (!dir.exists('Scripts/timestamps')) dir.create('Scripts/timestamps')
+   if (!dir.exists('Resources/Scripts/timestamps')) dir.create('Resources/Scripts/timestamps')
    
-   filename <- paste0('Scripts/timestamps/', filename)
+   filename <- paste0('Resources/Scripts/timestamps/', filename)
    
    if (tsTable[ , any(!Match, na.rm = TRUE)]) {
       return(tsTable[!is.na(NewTime)])
@@ -154,14 +154,14 @@ generateFiles <- function(tsTable, filename, humfile) {
 i <- 1:nrow(sampleData)
 inspect <- FALSE
 sampleData[i, {
-   cat(i, ': ' , FileName, '\n', sep = '')
-  humfile <- readLines(paste0('Humdrum/CompleteTranscriptions/', FileName, '.hum'))
-  mirexfile <- readLines(paste0('OriginalData/MirexFiles/', stringr::str_pad(ID, width=4, pad = '0'), 'full.lab'))
+   cat(i, ': ' , Filename, '\n', sep = '')
+  humfile <- readLines(paste0('Data/', Filename, '.harm'))
+  mirexfile <- readLines(paste0('Resources/McGill_Data/MirexFiles/', stringr::str_pad(ID, width=4, pad = '0'), 'full.lab'))
   
-  tsTable <- generateTS(humfile, mirexfile, FileName)
-  if (is.null(tsTable)) file.copy(paste0('Humdrum/CompleteTranscriptions/', FileName, '.hum'), paste0('Scripts/timestamps/', FileName, '_timestamped.hum'))
-  bad <- generateFiles(tsTable, FileName, humfile)
-  if (is.null(bad)) NULL else list(File = FileName, Bad = list(bad), ID = ID, N = sum(!bad$Match, na.rm = TRUE), P = mean(!bad$Match, na.rm = TRUE))
+  tsTable <- generateTS(humfile, mirexfile, Filename)
+  if (is.null(tsTable)) file.copy(paste0('Data/', Filename, '.harm'), paste0('Resources/Scripts/timestamps/', Filename, '_timestamped.hum'))
+  bad <- generateFiles(tsTable, Filename, humfile)
+  if (is.null(bad)) NULL else list(File = Filename, Bad = list(bad), ID = ID, N = sum(!bad$Match, na.rm = TRUE), P = mean(!bad$Match, na.rm = TRUE))
   
   
 }, by = i ] -> bad
