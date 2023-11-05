@@ -2,8 +2,11 @@
 
 This repository contains a dataset of 200 melodic and harmonic transcriptions of popular songs which appear on the Rolling Stone "500 Greatest Songs of All Time" list.
 This dataset is part of a larger **Coordinated Corpus of Popular Music** project, led by Nat Condit-Schultz and Claire Arthur, in the [Computational and Cognitive Musicology Lab](https://ccml.gtcmt.gatech.edu/) in the Georgia Tech [Center for Music Technology](https://gtcmt.gatech.edu/).
-This data is a simply a translation of de Clercq and Temperley's [Rolling Stone Corpus](http://rockcorpus.midside.com/) into a [humdrum](www.humdrum.org) format.
-By providing this data in humdrum format, we hope to make it more accessible to a wider variety of reseachers, and easier to compare to similarly formatted data, like the [CoCoPops/Billboard corpus](https://github.com/Computational-Cognitive-Musicology-Lab/CoCoPops-Billboard).
+
+This data is a simply **a translation of de Clercq and Temperley's [Rolling Stone Corpus](http://rockcorpus.midside.com/) into a [humdrum](www.humdrum.org) format.**
+By providing this data in humdrum format, we hope to make it more accessible to a wider variety of reseachers, and easier to compare to similarly formatted data, like the [CoCoPops/Billboard corpus](https://github.com/Computational-Cognitive-Musicology-Lab/CoCoPops-Billboard). 
+The most important **note for those wishing to combine the Billboard and RollingStone subcorpora has to do with the encoding of rhythmic information.** 
+Please see the `Rhythm` subsection below for important details.
 
 The files `RollingStoneSampleData.txt` is a table of metadata about the pieces, which was used to populate the reference records of the humdrum files.
 
