@@ -1,4 +1,5 @@
-
+library(humdrumR)
+setwd('~/Bridge/Research/Data/CoCoPops/Billboard/')
 
 readHumdrum('Data/.*hum') -> bb
 
@@ -6,48 +7,46 @@ bb[[,c('**kern', '**timestamp', '**harmony')]] -> bb
 
 bb |> 
   timeline(Exclusive = ifelse(Exclusive == 'harmony', 'harm', Exclusive)) |> 
-  mutate(Timeline = ifelse(grepl('q', Token), NA, Timeline)) -> bb # make gracenotes NA
+  mutate(Timeline = ifelse(grepl('[qQ]', Token), NA, Timeline)) -> bb # make gracenotes NA
 
-bb |> group_by(Filename, Record) |> summarize(N=length(unique(Timeline))) -> k # check if there is a unique timeline value per record
+#bb |> group_by(Filename, Record) |> summarize(N=length(unique(Timeline))) -> k # check if there is a unique timeline value per record
 
-bb |> filter(Exclusive == 'kern' | Exclusive == 'timestamp') |> removeEmptySpines() -> bb
+bb |>  select(Timeline, Token) |>
+  group_by(Filename, Record) |> 
+  within(Beat = unique(Timeline[!is.na(Timeline)]), 
+         Stamp = as.numeric(Token[Exclusive == 'timestamp']), dataTypes = 'Dd') -> time
+
+time |> ungroup() |> index2( , 1) -> time
+
+time |> select(Stamp) |>
+  within(NextStamp = Stamp[lag = -1],
+         NextBeat = Beat[lag = -1]) -> time
+
+time |> 
+  select(Beat, Stamp) |> 
+  group_by(File) |> 
+  within(Spans = cumsum(!is.na(Stamp))) |>
+  within(SegLen = {
+    rle <- rle(c(Spans))
+    rep(rle$lengths, rle$lengths)
+  }) -> time
 
 
-bb <-cleave(bb, Spine = 1:2)
-
-
-interp <- function(start, end, time) {
-  if (is.na(time[1]) || is.na(tail(time, 1))) {
-    print("NA")
-    return(c(start, rep(NA, length(time) -1)))
-  }
-  browser()
-  time <- time - min(time)
-  prop <- time / max(time)
+interpolate <- function(beats, nextbeat, start, end) {
+  nextbeat <- nextbeat - min(beats)
+  beats <- beats - min(beats)
+  beats <- beats / nextbeat
   
-  head(start + (prop * (end - start)), -1)
-  
+  start + (beats * (end - start))
   
 }
 
 
-bb[1] |> group_by(Filename) |>
-  within(NewTs = {
-    browser()
-    ts <- which(Spine2 != '.')
-    ts <- ts[!ts %in% (ts + 1)]
-    for (open in ts) {
-      close <- which(Spine2 != '.' & seq_along(Spine2) > open)[1]
-      interp(Spine2[open], Spine2[close], Timeline[open:close]) 
-    }
-    
-  })
+time |> group_by(File, Spans) |>
+  within(NewTime = ifelse(SegLen > 1, interpolate(Beat, NextBeat[1], Stamp[1], NextStamp[1]), Stamp)) -> time
 
-bb |> select(Token) |> timeline() -> bb
+time |> ungroup() |> group_by(File) |> select(Beat) |> with(Record[which(duplicated(Beat))[1]])
+# time |> ungroup() |> group_by(File) |> summarize(all(diff(NewTime) > 0))
 
-
-ts <- c(11.076, 12.504, 13.931)
-
-ts - min(ts)
 
 
