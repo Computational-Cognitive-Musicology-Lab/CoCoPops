@@ -50,7 +50,10 @@ The root directory contains three subdirectories:
 ----
 ### Humdrum directory
 
-For this project, a Haskell program was created to translate Temperley and de Clercq's original encodings into the humdrum syntax, with the four original files (2 x .txt, .mel, and .fl) encoded into four separate spines of a single humdrum file.
+As described in the `OriginalData/README.md` file, The original dataset includes, for each of the two hundred songs, four separate text files: two harmonic transcriptions (one by each author; .txt files), one melodic transcription (by one or the other author; .mel files), and timestamp information (timestamps for each downbeat in the recording; .tim files).
+For this project, a Haskell program was created to translate Temperley and de Clercq's original encodings into the humdrum syntax, with the four original files (2 x .txt, .mel, and .fl) encoded into four separate spines of a single humdrum file. 
+Therefore in the Humdrum folder there is one single file per song (`.hum`) with all the above information collated into a single file with each piece of information in a separate column (spine).
+
 This program was created and run in 2019 by Nat Condit-Schultz;
 Information about this initial data translation process is contained below, with additional details in the "WorkLog" file.
 (A number of errors in the original data are documented in the work log. See `Humdrum/worklog.md` for additional details.)
