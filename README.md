@@ -1,5 +1,6 @@
 # CoCoPops: The Coordinated Corpus of Popular Musics
 
+
 This repository is the home of the **Coordinated Corpus of Popular Music** (CoCoPops).
 CoCoPops is a meta-corpus of melodic and harmonic transcriptions of popular music.
 CoCoPops has been developed primarily by Nat Condit-Schultz and Claire Arthur in the [Computational and Cognitive Musicology Lab](https://ccml.gtcmt.gatech.edu/), within the Georgia Tech [Center for Music Technology](https://gtcmt.gatech.edu/).
