@@ -15,9 +15,11 @@ bbharm |> filter(Exclusive == 'harmony') |>
 
 as.data.table.count.frame(checktab) -> checktab
 
-bb |> within(Harm2 <- {
+bbharm |> within(Harm2 <- {
    inversion <- str_extract(Token[Exclusive == 'harte'], '/.*') |> str_extract('[1-7]') |> chartr(old = '1234567', new = 'aebfcgd')
-   Harm[Exclusive == 'harmony'] <- paste0(Harm[Exclusive == 'harmony'], inversion)
+   
+   harm <- Exclusive == 'harmony'
+   Harm[harm] <- paste0(Harm[harm], ifelse(is.na(inversion), '', inversion))
    Harm
    }
   )
