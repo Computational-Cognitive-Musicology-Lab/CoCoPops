@@ -1,129 +1,129 @@
-**harmony	**timestamp	**phrase	**leadinstrument
-*M4/4	*	*	*
-*C:	*	*	*
-1r;	0	.	r
-=1	=1	=1	=1
-*>A_intro	*>A_intro	*>A_intro	*>A_intro
-4N	0.488	newline	piano
-4FM	.	.	piano
-4CM	.	.	piano
-4GM	.	.	piano
-=2	=2	=2	=2
-1CM	.	.	piano
-=3	=3	=3	=3
-*>B_verse	*>B_verse	*>B_verse	*>B_verse
-2.CM	6.441	newline	piano
-4CMm	.	.	piano
-=4	=4	=4	=4
-1FM	.	.	piano
-=5	=5	=5	=5
-2.CM	.	.	piano
-4CMm	.	.	piano
-=6	=6	=6	=6
-1FM	.	.	piano
-=7	=7	=7	=7
-2.CM	20.178	newline	piano
-4CMm	.	.	piano
-=8	=8	=8	=8
-1FM	.	.	piano
-=9	=9	=9	=9
-2CM	27.099	newline	piano
-2GMm	.	.	piano
-=10	=10	=10	=10
-2CMm	.	.	piano
-2FM	.	.	piano
-=11	=11	=11	=11
-2CM	.	.	piano
-2GMm	.	.	piano
-=12	=12	=12	=12
-2CM	.	.	piano
-2GMm	.	.	piano
-=13	=13	=13	=13
-*>B_verse	*>B_verse	*>B_verse	*>B_verse
-2.CM	40.96	newline	piano
-4CMm	.	.	piano
-=14	=14	=14	=14
-1FM	.	.	piano
-=15	=15	=15	=15
-2.CM	.	.	piano
-4CMm	.	.	piano
-=16	=16	=16	=16
-1FM	.	.	piano
-=17	=17	=17	=17
-2.CM	55.004	newline	piano
-4CMm	.	.	piano
-=18	=18	=18	=18
-1FM	.	.	piano
-=19	=19	=19	=19
-2CM	61.997	newline	piano
-2GMm	.	.	piano
-=20	=20	=20	=20
-2CMm	.	.	piano
-2FM	.	.	piano
-=21	=21	=21	=21
-2CM	.	.	piano
-2GMm	.	.	piano
-=22	=22	=22	=22
-1CM	.	.	piano
-=23	=23	=23	=23
-*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
-2FM	76.038	newline	strings
-2GM	.	.	strings
-=24	=24	=24	=24
-2.CM	.	.	strings
-4CMm	.	.	strings
-=25	=25	=25	=25
-2FM	.	.	strings
-2GM	.	.	strings
-=26	=26	=26	=26
-2.CM	.	.	strings
-4CMm	.	.	strings
-=27	=27	=27	=27
-2FM	89.9	newline	piano
-2GM	.	.	piano
-=28	=28	=28	=28
-2CM	.	.	piano
-2Am	.	.	piano
-=29	=29	=29	=29
-1FM	.	.	piano
-=30	=30	=30	=30
-2Dmm	.	.	piano
-2GM	.	.	piano
-=31	=31	=31	=31
-*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse
-2.CM	103.61	newline	piano
-4CMm	.	.	piano
-=32	=32	=32	=32
-1FM	.	.	piano
-=33	=33	=33	=33
-2.CM	.	.	piano
-4CMm	.	.	piano
-=34	=34	=34	=34
-1FM	.	.	piano
-=35	=35	=35	=35
-2.CM	117.725	newline	piano
-4CMm	.	.	piano
-=36	=36	=36	=36
-1FM	.	.	piano
-=37	=37	=37	=37
-2CM	124.718	newline	piano
-2GMm	.	.	piano
-=38	=38	=38	=38
-2CMm	.	.	piano
-2FM	.	.	piano
-=39	=39	=39	=39
-2CM	.	.	piano
-2GMm	.	.	piano
-=40	=40	=40	=40
-4CM	135.35	newline	piano
-4FM	.	.	piano
-4CM	.	.	piano
-4GM	.	.	piano
-=41	=41	=41	=41
-1CM	.	.	piano
-1r;	145.868	.	r
-1r;	149.525	.	r
-*-	*-	*-	*-
+**harmony	**chordsym	**phrase	**timestamp	**leadinstrument
+*M4/4	*M4/4	*	*	*
+*C:	*C:	*	*	*
+1r;	r	.	0	r
+=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+4N	N	newline	0.488	piano
+4FM	F:maj (F A C)	.	.	piano
+4CM	C:maj (C E G)	.	.	piano
+4GM	G:maj (G B D)	.	.	piano
+=2	=2	=2	=2	=2
+1CM	C:maj (C E G)	.	.	piano
+=3	=3	=3	=3	=3
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+2.CM	C:maj (C E G)	newline	6.441	piano
+4CMm	C:7 (C E G B-)	.	.	piano
+=4	=4	=4	=4	=4
+1FM	F:maj (F A C)	.	.	piano
+=5	=5	=5	=5	=5
+2.CM	C:maj (C E G)	.	.	piano
+4CMm	C:7 (C E G B-)	.	.	piano
+=6	=6	=6	=6	=6
+1FM	F:maj (F A C)	.	.	piano
+=7	=7	=7	=7	=7
+2.CM	C:maj (C E G)	newline	20.178	piano
+4CMm	C:7 (C E G B-)	.	.	piano
+=8	=8	=8	=8	=8
+1FM	F:maj (F A C)	.	.	piano
+=9	=9	=9	=9	=9
+2CM	C:maj (C E G)	newline	27.099	piano
+2GMm	G:7 (G B D F)	.	.	piano
+=10	=10	=10	=10	=10
+2CMm	C:7 (C E G B-)	.	.	piano
+2FM	F:maj (F A C)	.	.	piano
+=11	=11	=11	=11	=11
+2CM	C:maj (C E G)	.	.	piano
+2GMm	G:7 (G B D F)	.	.	piano
+=12	=12	=12	=12	=12
+2CM	C:maj (C E G)	.	.	piano
+2GMm	G:7 (G B D F)	.	.	piano
+=13	=13	=13	=13	=13
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+2.CM	C:maj (C E G)	newline	40.96	piano
+4CMm	C:7 (C E G B-)	.	.	piano
+=14	=14	=14	=14	=14
+1FM	F:maj (F A C)	.	.	piano
+=15	=15	=15	=15	=15
+2.CM	C:maj (C E G)	.	.	piano
+4CMm	C:7 (C E G B-)	.	.	piano
+=16	=16	=16	=16	=16
+1FM	F:maj (F A C)	.	.	piano
+=17	=17	=17	=17	=17
+2.CM	C:maj (C E G)	newline	55.004	piano
+4CMm	C:7 (C E G B-)	.	.	piano
+=18	=18	=18	=18	=18
+1FM	F:maj (F A C)	.	.	piano
+=19	=19	=19	=19	=19
+2CM	C:maj (C E G)	newline	61.997	piano
+2GMm	G:7 (G B D F)	.	.	piano
+=20	=20	=20	=20	=20
+2CMm	C:7 (C E G B-)	.	.	piano
+2FM	F:maj (F A C)	.	.	piano
+=21	=21	=21	=21	=21
+2CM	C:maj (C E G)	.	.	piano
+2GMm	G:7 (G B D F)	.	.	piano
+=22	=22	=22	=22	=22
+1CM	C:maj (C E G)	.	.	piano
+=23	=23	=23	=23	=23
+*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
+2FM	F:maj (F A C)	newline	76.038	strings
+2GM	G:maj (G B D)	.	.	strings
+=24	=24	=24	=24	=24
+2.CM	C:maj (C E G)	.	.	strings
+4CMm	C:7 (C E G B-)	.	.	strings
+=25	=25	=25	=25	=25
+2FM	F:maj (F A C)	.	.	strings
+2GM	G:maj (G B D)	.	.	strings
+=26	=26	=26	=26	=26
+2.CM	C:maj (C E G)	.	.	strings
+4CMm	C:7 (C E G B-)	.	.	strings
+=27	=27	=27	=27	=27
+2FM	F:maj (F A C)	newline	89.9	piano
+2GM	G:maj (G B D)	.	.	piano
+=28	=28	=28	=28	=28
+2CM	C:maj (C E G)	.	.	piano
+2Am	A:min (A C E)	.	.	piano
+=29	=29	=29	=29	=29
+1FM	F:maj (F A C)	.	.	piano
+=30	=30	=30	=30	=30
+2Dmm	D:min7 (D F A C)	.	.	piano
+2GM	G:maj (G B D)	.	.	piano
+=31	=31	=31	=31	=31
+*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse
+2.CM	C:maj (C E G)	newline	103.61	piano
+4CMm	C:7 (C E G B-)	.	.	piano
+=32	=32	=32	=32	=32
+1FM	F:maj (F A C)	.	.	piano
+=33	=33	=33	=33	=33
+2.CM	C:maj (C E G)	.	.	piano
+4CMm	C:7 (C E G B-)	.	.	piano
+=34	=34	=34	=34	=34
+1FM	F:maj (F A C)	.	.	piano
+=35	=35	=35	=35	=35
+2.CM	C:maj (C E G)	newline	117.725	piano
+4CMm	C:7 (C E G B-)	.	.	piano
+=36	=36	=36	=36	=36
+1FM	F:maj (F A C)	.	.	piano
+=37	=37	=37	=37	=37
+2CM	C:maj (C E G)	newline	124.718	piano
+2GMm	G:7 (G B D F)	.	.	piano
+=38	=38	=38	=38	=38
+2CMm	C:7 (C E G B-)	.	.	piano
+2FM	F:maj (F A C)	.	.	piano
+=39	=39	=39	=39	=39
+2CM	C:maj (C E G)	.	.	piano
+2GMm	G:7 (G B D F)	.	.	piano
+=40	=40	=40	=40	=40
+4CM	C:maj (C E G)	newline	135.35	piano
+4FM	F:maj (F A C)	.	.	piano
+4CM	C:maj (C E G)	.	.	piano
+4GM	G:maj (G B D)	.	.	piano
+=41	=41	=41	=41	=41
+1CM	C:maj (C E G)	.	.	piano
+1r;	r	.	145.868	r
+1r;	r	.	149.525	r
+*-	*-	*-	*-	*-
 !!!OTL: Last Date
 !!!COC: Floyd Cramer
 !!!BillboardChartDate: 1960/12/31

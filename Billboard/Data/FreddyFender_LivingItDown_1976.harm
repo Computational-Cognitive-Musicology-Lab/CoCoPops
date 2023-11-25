@@ -1,121 +1,121 @@
-**harmony	**timestamp	**phrase	**leadinstrument
-*M4/4	*	*	*
-*C:	*	*	*
-1r;	0	.	r
-=1	=1	=1	=1
-*>A_intro	*>A_intro	*>A_intro	*>A_intro
-1CM	0.284	newline	piano
-=2	=2	=2	=2
-1FM	.	.	piano
-=3	=3	=3	=3
-1CM	.	.	piano
-=4	=4	=4	=4
-1GMm	.	.	piano
-=5	=5	=5	=5
-*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
-1CM	12.198	newline	voice
-=6	=6	=6	=6
-1CMm	.	.	voice
-=7	=7	=7	=7
-1FM	.	.	voice
-=8	=8	=8	=8
-1FM	.	.	voice
-=9	=9	=9	=9
-1CM	23.803	newline	voice
-=10	=10	=10	=10
-1DMm	.	.	voice
-=11	=11	=11	=11
-1Dmm	.	.	voice
-=12	=12	=12	=12
-1GMm	.	.	voice
-=13	=13	=13	=13
-1CM	35.305	newline	voice
-=14	=14	=14	=14
-1CMm	.	.	voice
-=15	=15	=15	=15
-1FM	.	.	voice
-=16	=16	=16	=16
-2FM	.	.	voice
-2F#dd	.	.	voice
-=17	=17	=17	=17
-1CM	46.984	newline	voice
-=18	=18	=18	=18
-1GMm	.	.	voice
-=19	=19	=19	=19
-1FM	.	.	voice
-=20	=20	=20	=20
-2CM	.	.	voice
-2GMm	.	.	voice
-=21	=21	=21	=21
-*>B_verse	*>B_verse	*>B_verse	*>B_verse
-1CM	58.606	newline	voice
-=22	=22	=22	=22
-1CMm	.	.	voice
-=23	=23	=23	=23
-1FM	.	.	voice
-=24	=24	=24	=24
-1FM	.	.	voice
-=25	=25	=25	=25
-1CM	70.24	newline	voice
-=26	=26	=26	=26
-1DMm	.	.	voice
-=27	=27	=27	=27
-1Dmm	.	.	voice
-=28	=28	=28	=28
-1GMm	.	.	voice
-=29	=29	=29	=29
-1CM	81.856	newline	voice
-=30	=30	=30	=30
-1CMm	.	.	voice
-=31	=31	=31	=31
-1FM	.	.	voice
-=32	=32	=32	=32
-1F#dd	.	.	voice
-=33	=33	=33	=33
-1CM	93.436	newline	voice
-=34	=34	=34	=34
-1GMm	.	.	voice
-=35	=35	=35	=35
-1FM	.	.	voice
-=36	=36	=36	=36
-1CM	.	.	voice
-=37	=37	=37	=37
-*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
-1CM	105.124	newline	voice
-=38	=38	=38	=38
-1CMm	.	.	voice
-=39	=39	=39	=39
-1FM	.	.	voice
-=40	=40	=40	=40
-1FM	.	.	voice
-=41	=41	=41	=41
-1CM	116.687	newline	voice
-=42	=42	=42	=42
-1DMm	.	.	voice
-=43	=43	=43	=43
-1Dmm	.	.	voice
-=44	=44	=44	=44
-1GMm	.	.	voice
-=45	=45	=45	=45
-1CM	128.325	newline	voice
-=46	=46	=46	=46
-1CMm	.	.	voice
-=47	=47	=47	=47
-1FM	.	.	voice
-=48	=48	=48	=48
-2FM	.	.	voice
-2F#dd	.	.	voice
-=49	=49	=49	=49
-1CM	139.807	newline	voice
-=50	=50	=50	=50
-1GMm	.	.	voice
-=51	=51	=51	=51
-1FM	.	.	voice
-=52	=52	=52	=52
-1CM	.	.	voice
-1r;	153.383	.	r
-1r;	155.899	.	r
-*-	*-	*-	*-
+**harmony	**chordsym	**phrase	**timestamp	**leadinstrument
+*M4/4	*M4/4	*	*	*
+*C:	*C:	*	*	*
+1r;	r	.	0	r
+=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1CM	C:maj (C E G)	newline	0.284	piano
+=2	=2	=2	=2	=2
+1FM	F:maj (F A C)	.	.	piano
+=3	=3	=3	=3	=3
+1CM	C:maj (C E G)	.	.	piano
+=4	=4	=4	=4	=4
+1GMm	G:7 (G B D F)	.	.	piano
+=5	=5	=5	=5	=5
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1CM	C:maj (C E G)	newline	12.198	voice
+=6	=6	=6	=6	=6
+1CMm	C:7 (C E G B-)	.	.	voice
+=7	=7	=7	=7	=7
+1FM	F:maj (F A C)	.	.	voice
+=8	=8	=8	=8	=8
+1FM	F:maj (F A C)	.	.	voice
+=9	=9	=9	=9	=9
+1CM	C:maj (C E G)	newline	23.803	voice
+=10	=10	=10	=10	=10
+1DMm	D:7 (D F# A C)	.	.	voice
+=11	=11	=11	=11	=11
+1Dmm	D:min7 (D F A C)	.	.	voice
+=12	=12	=12	=12	=12
+1GMm	G:7 (G B D F)	.	.	voice
+=13	=13	=13	=13	=13
+1CM	C:maj (C E G)	newline	35.305	voice
+=14	=14	=14	=14	=14
+1CMm	C:7 (C E G B-)	.	.	voice
+=15	=15	=15	=15	=15
+1FM	F:maj (F A C)	.	.	voice
+=16	=16	=16	=16	=16
+2FM	F:maj (F A C)	.	.	voice
+2F#dd	F#:dim7 (F# A C E-)	.	.	voice
+=17	=17	=17	=17	=17
+1CM	C:maj (G C E)	newline	46.984	voice
+=18	=18	=18	=18	=18
+1GMm	G:7 (G B D F)	.	.	voice
+=19	=19	=19	=19	=19
+1FM	F:maj (F A C)	.	.	voice
+=20	=20	=20	=20	=20
+2CM	C:maj (C E G)	.	.	voice
+2GMm	G:7 (G B D F)	.	.	voice
+=21	=21	=21	=21	=21
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1CM	C:maj (C E G)	newline	58.606	voice
+=22	=22	=22	=22	=22
+1CMm	C:7 (C E G B-)	.	.	voice
+=23	=23	=23	=23	=23
+1FM	F:maj (F A C)	.	.	voice
+=24	=24	=24	=24	=24
+1FM	F:maj (F A C)	.	.	voice
+=25	=25	=25	=25	=25
+1CM	C:maj (C E G)	newline	70.24	voice
+=26	=26	=26	=26	=26
+1DMm	D:7 (D F# A C)	.	.	voice
+=27	=27	=27	=27	=27
+1Dmm	D:min7 (D F A C)	.	.	voice
+=28	=28	=28	=28	=28
+1GMm	G:7 (G B D F)	.	.	voice
+=29	=29	=29	=29	=29
+1CM	C:maj (C E G)	newline	81.856	voice
+=30	=30	=30	=30	=30
+1CMm	C:7 (C E G B-)	.	.	voice
+=31	=31	=31	=31	=31
+1FM	F:maj (F A C)	.	.	voice
+=32	=32	=32	=32	=32
+1F#dd	F#:dim7 (F# A C E-)	.	.	voice
+=33	=33	=33	=33	=33
+1CM	C:maj (G C E)	newline	93.436	voice
+=34	=34	=34	=34	=34
+1GMm	G:7 (G B D F)	.	.	voice
+=35	=35	=35	=35	=35
+1FM	F:maj (F A C)	.	.	voice
+=36	=36	=36	=36	=36
+1CM	C:maj (C E G)	.	.	voice
+=37	=37	=37	=37	=37
+*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
+1CM	C:maj (C E G)	newline	105.124	voice
+=38	=38	=38	=38	=38
+1CMm	C:7 (C E G B-)	.	.	voice
+=39	=39	=39	=39	=39
+1FM	F:maj (F A C)	.	.	voice
+=40	=40	=40	=40	=40
+1FM	F:maj (F A C)	.	.	voice
+=41	=41	=41	=41	=41
+1CM	C:maj (C E G)	newline	116.687	voice
+=42	=42	=42	=42	=42
+1DMm	D:7 (D F# A C)	.	.	voice
+=43	=43	=43	=43	=43
+1Dmm	D:min7 (D F A C)	.	.	voice
+=44	=44	=44	=44	=44
+1GMm	G:7 (G B D F)	.	.	voice
+=45	=45	=45	=45	=45
+1CM	C:maj (C E G)	newline	128.325	voice
+=46	=46	=46	=46	=46
+1CMm	C:7 (C E G B-)	.	.	voice
+=47	=47	=47	=47	=47
+1FM	F:maj (F A C)	.	.	voice
+=48	=48	=48	=48	=48
+2FM	F:maj (F A C)	.	.	voice
+2F#dd	F#:dim7 (F# A C E-)	.	.	voice
+=49	=49	=49	=49	=49
+1CM	C:maj (G C E)	newline	139.807	voice
+=50	=50	=50	=50	=50
+1GMm	G:7 (G B D F)	.	.	voice
+=51	=51	=51	=51	=51
+1FM	F:maj (F A C)	.	.	voice
+=52	=52	=52	=52	=52
+1CM	C:maj (C E G)	.	.	voice
+1r;	r	.	153.383	r
+1r;	r	.	155.899	r
+*-	*-	*-	*-	*-
 !!!OTL: Living It Down
 !!!COC: Freddy Fender
 !!!BillboardChartDate: 1976/11/06

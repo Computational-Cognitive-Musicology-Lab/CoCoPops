@@ -1,111 +1,111 @@
-**harmony	**timestamp	**phrase	**leadinstrument
-*M4/4	*	*	*
-*C:	*	*	*
-1r;	0	.	r
-=1	=1	=1	=1
-*>A_intro	*>A_intro	*>A_intro	*>A_intro
-1CM	0.441	newline	voice
-=2	=2	=2	=2
-1Am	.	.	voice
-=3	=3	=3	=3
-1FM	.	.	voice
-=4	=4	=4	=4
-1GM	.	.	voice
-=5	=5	=5	=5
-1CM	13.987	newline	strings
-=6	=6	=6	=6
-2GM	.	.	strings
-2GM	.	.	strings
-=7	=7	=7	=7
-*>B_verse	*>B_verse	*>B_verse	*>B_verse
-1CM	20.395	newline	voice
-=8	=8	=8	=8
-1Am	.	.	voice
-=9	=9	=9	=9
-1FM	.	.	voice
-=10	=10	=10	=10
-1GM	.	.	voice
-=11	=11	=11	=11
-1FM	33.345	newline	voice
-=12	=12	=12	=12
-1GM	.	.	voice
-=13	=13	=13	=13
-1CM	.	.	voice
-=14	=14	=14	=14
-1FM	.	.	voice
-=15	=15	=15	=15
-1GM	46.068	newline	voice
-=16	=16	=16	=16
-1FM	.	.	voice
-=17	=17	=17	=17
-2CM	.	.	voice
-2FM	.	.	voice
-=18	=18	=18	=18
-2CM	.	.	voice
-2A-Mm	.	.	voice
-=19	=19	=19	=19
-*>B_verse	*>B_verse	*>B_verse	*>B_verse
-*D-:	*D-:	*D-:	*D-:
-1D-M	58.706	newline	voice
-=20	=20	=20	=20
-1B-m	.	.	voice
-=21	=21	=21	=21
-1G-M	.	.	voice
-=22	=22	=22	=22
-1A-M	.	.	voice
-=23	=23	=23	=23
-1G-M	71.515	newline	voice
-=24	=24	=24	=24
-1A-M	.	.	voice
-=25	=25	=25	=25
-1D-M	.	.	voice
-=26	=26	=26	=26
-1G-M	.	.	voice
-=27	=27	=27	=27
-1A-M	84.207	newline	voice
-=28	=28	=28	=28
-1G-M	.	.	voice
-=29	=29	=29	=29
-2D-M	.	.	voice
-2G-M	.	.	voice
-=30	=30	=30	=30
-2D-M	.	.	voice
-2AMm	.	.	voice
-=31	=31	=31	=31
-*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse
-*D:	*D:	*D:	*D:
-1DM	96.877	newline	voice
-=32	=32	=32	=32
-1Bm	.	.	voice
-=33	=33	=33	=33
-1GM	.	.	voice
-=34	=34	=34	=34
-1AM	.	.	voice
-=35	=35	=35	=35
-1GM	109.636	newline	voice
-=36	=36	=36	=36
-1AM	.	.	voice
-=37	=37	=37	=37
-1DM	.	.	voice
-=38	=38	=38	=38
-1GM	.	.	voice
-=39	=39	=39	=39
-1AM	122.369	newline	voice
-=40	=40	=40	=40
-1GM	.	.	voice
-=41	=41	=41	=41
-2DM	.	.	voice
-2GM	.	.	voice
-=42	=42	=42	=42
-2DM	.	.	voice
-2GM	.	.	voice
-=43	=43	=43	=43
-1DM	135.009	newline	strings
-=44	=44	=44	=44
-1DM	.	.	strings
-1r;	144.405	.	r
-1r;	147.383	.	r
-*-	*-	*-	*-
+**harmony	**chordsym	**phrase	**timestamp	**leadinstrument
+*M4/4	*M4/4	*	*	*
+*C:	*C:	*	*	*
+1r;	r	.	0	r
+=1	=1	=1	=1	=1
+*>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
+1CM	C:maj (C E G)	newline	0.441	voice
+=2	=2	=2	=2	=2
+1Am	A:min (A C E)	.	.	voice
+=3	=3	=3	=3	=3
+1FM	F:maj (F A C)	.	.	voice
+=4	=4	=4	=4	=4
+1GM	G:maj (G B D)	.	.	voice
+=5	=5	=5	=5	=5
+1CM	C:maj (C E G)	newline	13.987	strings
+=6	=6	=6	=6	=6
+2GM	G:sus4 (G C D)	.	.	strings
+2GM	G:maj (G B D)	.	.	strings
+=7	=7	=7	=7	=7
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+1CM	C:maj (C E G)	newline	20.395	voice
+=8	=8	=8	=8	=8
+1Am	A:min (A C E)	.	.	voice
+=9	=9	=9	=9	=9
+1FM	F:maj (F A C)	.	.	voice
+=10	=10	=10	=10	=10
+1GM	G:maj (G B D)	.	.	voice
+=11	=11	=11	=11	=11
+1FM	F:maj (F A C)	newline	33.345	voice
+=12	=12	=12	=12	=12
+1GM	G:maj (G B D)	.	.	voice
+=13	=13	=13	=13	=13
+1CM	C:maj (C E G)	.	.	voice
+=14	=14	=14	=14	=14
+1FM	F:maj (F A C)	.	.	voice
+=15	=15	=15	=15	=15
+1GM	G:maj (G B D)	newline	46.068	voice
+=16	=16	=16	=16	=16
+1FM	F:maj (F A C)	.	.	voice
+=17	=17	=17	=17	=17
+2CM	C:maj (C E G)	.	.	voice
+2FM	F:maj (F A C)	.	.	voice
+=18	=18	=18	=18	=18
+2CM	C:maj (C E G)	.	.	voice
+2A-Mm	A-:7 (A- C E- G-)	.	.	voice
+=19	=19	=19	=19	=19
+*>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
+*D-:	*D-:	*D-:	*D-:	*D-:
+1D-M	D-:maj (D- F A-)	newline	58.706	voice
+=20	=20	=20	=20	=20
+1B-m	B-:min (B- D- F)	.	.	voice
+=21	=21	=21	=21	=21
+1G-M	G-:maj (G- B- D-)	.	.	voice
+=22	=22	=22	=22	=22
+1A-M	A-:maj (A- C E-)	.	.	voice
+=23	=23	=23	=23	=23
+1G-M	G-:maj (G- B- D-)	newline	71.515	voice
+=24	=24	=24	=24	=24
+1A-M	A-:maj (A- C E-)	.	.	voice
+=25	=25	=25	=25	=25
+1D-M	D-:maj (D- F A-)	.	.	voice
+=26	=26	=26	=26	=26
+1G-M	G-:maj (G- B- D-)	.	.	voice
+=27	=27	=27	=27	=27
+1A-M	A-:maj (A- C E-)	newline	84.207	voice
+=28	=28	=28	=28	=28
+1G-M	G-:maj (G- B- D-)	.	.	voice
+=29	=29	=29	=29	=29
+2D-M	D-:maj (D- F A-)	.	.	voice
+2G-M	G-:maj (G- B- D-)	.	.	voice
+=30	=30	=30	=30	=30
+2D-M	D-:maj (D- F A-)	.	.	voice
+2AMm	A:7 (A C# E G)	.	.	voice
+=31	=31	=31	=31	=31
+*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse	*>B2_verse
+*D:	*D:	*D:	*D:	*D:
+1DM	D:maj (D F# A)	newline	96.877	voice
+=32	=32	=32	=32	=32
+1Bm	B:min (B D F#)	.	.	voice
+=33	=33	=33	=33	=33
+1GM	G:maj (G B D)	.	.	voice
+=34	=34	=34	=34	=34
+1AM	A:maj (A C# E)	.	.	voice
+=35	=35	=35	=35	=35
+1GM	G:maj (G B D)	newline	109.636	voice
+=36	=36	=36	=36	=36
+1AM	A:maj (A C# E)	.	.	voice
+=37	=37	=37	=37	=37
+1DM	D:maj (D F# A)	.	.	voice
+=38	=38	=38	=38	=38
+1GM	G:maj (G B D)	.	.	voice
+=39	=39	=39	=39	=39
+1AM	A:maj (A C# E)	newline	122.369	voice
+=40	=40	=40	=40	=40
+1GM	G:maj (G B D)	.	.	voice
+=41	=41	=41	=41	=41
+2DM	D:maj (D F# A)	.	.	voice
+2GM	G:maj (G B D)	.	.	voice
+=42	=42	=42	=42	=42
+2DM	D:maj (D F# A)	.	.	voice
+2GM	G:maj (G B D)	.	.	voice
+=43	=43	=43	=43	=43
+1DM	D:maj (D F# A)	newline	135.009	strings
+=44	=44	=44	=44	=44
+1DM	D:maj (D F# A)	.	.	strings
+1r;	r	.	144.405	r
+1r;	r	.	147.383	r
+*-	*-	*-	*-	*-
 !!!OTL: It's Only Make Believe
 !!!COC: Glen Campbell
 !!!BillboardChartDate: 1970/09/05
