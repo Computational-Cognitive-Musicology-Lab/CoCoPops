@@ -30,3 +30,6 @@ bbharm |> within(Harm2 <- {
 
 
 writeHumdrum(bbharm, prefix = 'harm_')
+
+
+bb2 <- readHumdrum('~/Bridge/Research/Data/CoCoPops/Billboard/Data/^harm.*hum')
