@@ -5,7 +5,11 @@ library(humdrumR)
 
 bb <- readHumdrum('~/Bridge/Research/Data/CoCoPops/Billboard/Data/.*hum')
 
-bb |> filter(Exclusive == 'harmony') |> harm(parseArgs = list(augment = 'A', diminish = 'd'), inPlace = TRUE) |> unfilter(complement = 'Token') -> bbharm
+
+bb |> 
+   filter(Exclusive == 'harmony') |> 
+   harm(parseArgs = list(augment = 'A', diminish = 'd'), inPlace = TRUE, natural = '#') |> 
+   unfilter(complement = 'Token') -> bbharm
 
 bbharm |> filter(Exclusive == 'harmony') |> 
   count(Harm=gsub('^[1-9][0-9]*\\.*|[0-9]*%[0-9]*', '', gsub(';', '', Harm)), 
@@ -22,4 +26,7 @@ bbharm |> within(Harm2 <- {
    Harm[harm] <- paste0(Harm[harm], ifelse(is.na(inversion), '', inversion))
    Harm
    }
-  )
+  ) -> bbharm
+
+
+writeHumdrum(bbharm, prefix = 'harm_')
