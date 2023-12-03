@@ -41,8 +41,7 @@
 2Am	A:min	.	.	guitar
 =7	=7	=7	=7	=7
 *M5/4	*M5/4	*M5/4	*M5/4	*M5/4
-4Em	E:min	14.725	newline	guitar
-4Em	E:min	.	.	guitar
+2Em	E:min	14.725	newline	guitar
 4DM	D:maj	.	.	guitar
 4Em	E:min	.	.	guitar
 4Bm	B:min	.	.	guitar
@@ -57,8 +56,7 @@
 2Em	E:min	.	.	guitar
 =10	=10	=10	=10	=10
 *M5/4	*M5/4	*M5/4	*M5/4	*M5/4
-4Em	E:min	20.522	newline	guitar
-4Em	E:min	.	.	guitar
+2Em	E:min	20.522	newline	guitar
 4DM	D:maj	.	.	guitar
 4Em	E:min	.	.	guitar
 4Bm	B:min	.	.	guitar
@@ -75,7 +73,7 @@
 *>B_intro	*>B_intro	*>B_intro	*>B_intro	*>B_intro
 1DM	D:sus2	31.846	newline	guitar
 =14	=14	=14	=14	=14
-1Em	E:1(b3,b7,11,9)	.	.	guitar
+1Em	E:(b3,b7,11,9)	.	.	guitar
 =15	=15	=15	=15	=15
 1GM	G:maj	.	.	guitar
 =16	=16	=16	=16	=16
@@ -84,7 +82,7 @@
 =17	=17	=17	=17	=17
 1DM	D:sus2	39.208	newline	guitar
 =18	=18	=18	=18	=18
-1Em	E:1(b3,b7,11,9)	.	.	guitar
+1Em	E:(b3,b7,11,9)	.	.	guitar
 =19	=19	=19	=19	=19
 1GM	G:maj	.	.	guitar
 =20	=20	=20	=20	=20
@@ -349,7 +347,7 @@
 *>G_interlude	*>G_interlude	*>G_interlude	*>G_interlude	*>G_interlude
 1DM	D:sus2	266.245	->newline	guitar
 =140	=140	=140	=140	=140
-1Em	E:1(b3,b7,11,9)	.	.	guitar
+1Em	E:(b3,b7,11,9)	.	.	guitar
 =141	=141	=141	=141	=141
 1GM	G:maj	.	.	guitar
 =142	=142	=142	=142	=142
@@ -358,7 +356,7 @@
 =143	=143	=143	=143	=143
 1DM	D:sus2	273.718	newline	guitar
 =144	=144	=144	=144	=144
-1Em	E:1(b3,b7,11,9)	.	.	guitar
+1Em	E:(b3,b7,11,9)	.	.	guitar
 =145	=145	=145	=145	=145
 1GM	G:maj	.	.	guitar
 =146	=146	=146	=146	=146
@@ -367,7 +365,7 @@
 =147	=147	=147	=147	=147
 1DM	D:sus2	281.134	newline	guitar
 =148	=148	=148	=148	=148
-1Em	E:1(b3,b7,11,9)	.	.	guitar
+1Em	E:(b3,b7,11,9)	.	.	guitar
 =149	=149	=149	=149	=149
 1GM	G:maj	.	.	guitar
 =150	=150	=150	=150	=150
@@ -376,7 +374,7 @@
 =151	=151	=151	=151	=151
 1DM	D:sus2	288.489	newline	guitar
 =152	=152	=152	=152	=152
-1Em	E:1(b3,b7,11,9)	.	.	guitar
+1Em	E:(b3,b7,11,9)	.	.	guitar
 =153	=153	=153	=153	=153
 1GM	G:maj	.	.	guitar
 =154	=154	=154	=154	=154
@@ -385,7 +383,7 @@
 =155	=155	=155	=155	=155
 1DM	D:sus2	295.899	newline	guitar
 =156	=156	=156	=156	=156
-1Em	E:1(b3,b7,11,9)	.	.	guitar
+1Em	E:(b3,b7,11,9)	.	.	guitar
 =157	=157	=157	=157	=157
 1GM	G:maj	.	.	guitar
 =158	=158	=158	=158	=158
@@ -395,7 +393,7 @@
 *>G_outro	*>G_outro	*>G_outro	*>G_outro	*>G_outro
 1DM	D:sus2	303.34	newline	voice
 =160	=160	=160	=160	=160
-1Em	E:1(b3,b7,11,9)	.	.	voice
+1Em	E:(b3,b7,11,9)	.	.	voice
 =161	=161	=161	=161	=161
 1GM	G:maj	.	.	voice
 =162	=162	=162	=162	=162
@@ -404,7 +402,7 @@
 =163	=163	=163	=163	=163
 1DM	D:sus2	310.641	newline	voice
 =164	=164	=164	=164	=164
-1Em	E:1(b3,b7,11,9)	.	.	voice
+1Em	E:(b3,b7,11,9)	.	.	voice
 =165	=165	=165	=165	=165
 1GM	G:maj	.	.	voice
 =166	=166	=166	=166	=166
@@ -413,7 +411,7 @@
 =167	=167	=167	=167	=167
 1DM	D:sus2	317.888	newline	voice
 =168	=168	=168	=168	=168
-1Em	E:1(b3,b7,11,9)	.	.	voice
+1Em	E:(b3,b7,11,9)	.	.	voice
 =169	=169	=169	=169	=169
 1GM	G:maj	.	.	voice
 =170	=170	=170	=170	=170
@@ -422,7 +420,7 @@
 =171	=171	=171	=171	=171
 1DM	D:sus2	325.363	newline	voice
 =172	=172	=172	=172	=172
-1Em	E:1(b3,b7,11,9)	.	.	voice
+1Em	E:(b3,b7,11,9)	.	.	voice
 =173	=173	=173	=173	=173
 1GM	G:maj	.	.	voice
 =174	=174	=174	=174	=174
@@ -431,7 +429,7 @@
 =175	=175	=175	=175	=175
 1DM	D:sus2	332.583	newline	fadeout
 =176	=176	=176	=176	=176
-1Em	E:1(b3,b7,11,9)	.	.	fadeout
+1Em	E:(b3,b7,11,9)	.	.	fadeout
 =177	=177	=177	=177	=177
 1GM	G:maj	.	.	fadeout
 =178	=178	=178	=178	=178
@@ -440,7 +438,7 @@
 =179	=179	=179	=179	=179
 1DM	D:sus2	339.893	newline	guitar
 =180	=180	=180	=180	=180
-1Em	E:1(b3,b7,11,9)	.	.	guitar
+1Em	E:(b3,b7,11,9)	.	.	guitar
 =181	=181	=181	=181	=181
 1GM	G:maj	.	.	guitar
 =182	=182	=182	=182	=182
