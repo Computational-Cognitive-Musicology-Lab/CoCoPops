@@ -1,7 +1,7 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *A:	*A:	*	*	*
-1r;	<r> N	<0> 0	.	r
+1r;	N	0	.	r
 =1	=1	=1	=1	=1
 *>A3_intro	*>A3_intro	*>A3_intro	*>A3_intro	*>A3_intro
 *M2/4	*M2/4	*M2/4	*M2/4	*M2/4
@@ -79,10 +79,10 @@
 1BM	B:maj	47.516	.	voice
 =28	=28	=28	=28	=28
 2GMM	G:maj7(#9)	49.366	.	voice
-2Em	<E:min(9)> E:min(9)/7	50.292	.	voice
+2Em	E:min(9)/7	50.292	.	voice
 =29	=29	=29	=29	=29
 2Am	A:minmaj7	51.217	.	voice
-2AMM	<A:maj7> A:maj7/2	52.142	.	voice
+2AMM	A:maj7/2	52.142	.	voice
 =30	=30	=30	=30	=30
 1F#mm	F#:min7	53.067	newline	voice
 =31	=31	=31	=31	=31
@@ -144,7 +144,7 @@
 1BMm	B:7	91.632	.	guitar
 =52	=52	=52	=52	=52
 2GMM	G:maj7	93.493	.	guitar
-2GMM	<G:maj7> G:maj7/3	94.424	.	guitar
+2GMM	G:maj7/3	94.424	.	guitar
 =53	=53	=53	=53	=53
 1AMM	A:maj7	95.355	.	guitar
 =54	=54	=54	=54	=54
@@ -178,17 +178,17 @@
 1AM	A:maj	118.016	.	guitar
 =66	=66	=66	=66	=66
 *>A5_chorus	*>A5_chorus	*>A5_chorus	*>A5_chorus	*>A5_chorus
-2DM	<D:maj> D:maj/3	119.882	newline	voice
+2DM	D:maj/3	119.882	newline	voice
 2EM	E:sus4(b7)	120.783	.	voice
 =67	=67	=67	=67	=67
-1AM	<A:maj> A:maj/3	121.684	.	voice
+1AM	A:maj/3	121.684	.	voice
 =68	=68	=68	=68	=68
-2DM	<D:maj> D:maj/3	123.485	.	voice
+2DM	D:maj/3	123.485	.	voice
 2EM	E:sus4(b7)	124.386	.	voice
 =69	=69	=69	=69	=69
-1AM	<A:maj> A:maj/3	125.287	.	voice
+1AM	A:maj/3	125.287	.	voice
 =70	=70	=70	=70	=70
-2DMM	<D:maj7> D:maj7/3	127.088	newline	voice
+2DMM	D:maj7/3	127.088	newline	voice
 4EM	E:sus4(b7)	127.991	.	voice
 4Fd	F:dim	128.442	.	voice
 =71	=71	=71	=71	=71
@@ -200,17 +200,17 @@
 =73	=73	=73	=73	=73
 1AM	A:maj	132.504	.	voice
 =74	=74	=74	=74	=74
-2DM	<D:maj> D:maj/3	134.309	newline	voice
+2DM	D:maj/3	134.309	newline	voice
 2EM	E:sus4(b7)	135.209	.	voice
 =75	=75	=75	=75	=75
-1AM	<A:maj> A:maj/3	136.109	.	voice
+1AM	A:maj/3	136.109	.	voice
 =76	=76	=76	=76	=76
-2DM	<D:maj> D:maj/3	137.908	.	voice
+2DM	D:maj/3	137.908	.	voice
 2EM	E:sus4(b7)	138.808	.	voice
 =77	=77	=77	=77	=77
-1AM	<A:maj> A:maj/3	139.708	.	voice
+1AM	A:maj/3	139.708	.	voice
 =78	=78	=78	=78	=78
-2DMM	<D:maj7> D:maj7/3	141.507	newline	voice
+2DMM	D:maj7/3	141.507	newline	voice
 4EM	E:sus4(b7)	142.409	.	voice
 4Fd	F:dim	142.859	.	voice
 =79	=79	=79	=79	=79
@@ -222,18 +222,18 @@
 =81	=81	=81	=81	=81
 1AM	A:maj	146.916	.	voice
 =82	=82	=82	=82	=82
-2DM	<D:maj> D:maj/3	148.718	newline	voice
+2DM	D:maj/3	148.718	newline	voice
 2EM	E:sus4(b7)	149.621	.	voice
 =83	=83	=83	=83	=83
-1AM	<A:maj> A:maj/3	150.524	.	voice
+1AM	A:maj/3	150.524	.	voice
 =84	=84	=84	=84	=84
-2DM	<D:maj> D:maj/3	152.329	.	voice
+2DM	D:maj/3	152.329	.	voice
 2EM	E:sus4(b7)	153.232	.	voice
 =85	=85	=85	=85	=85
-1AM	<A:maj> A:maj/3	154.135	.	voice
+1AM	A:maj/3	154.135	.	voice
 =86	=86	=86	=86	=86
 *>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
-2DMM	<D:maj7> D:maj7/3	155.94	newline	voice
+2DMM	D:maj7/3	155.94	newline	voice
 4EM	E:sus4(b7)	156.838	.	voice
 4Fd	F:dim	157.287	.	voice
 =87	=87	=87	=87	=87
@@ -245,17 +245,17 @@
 =89	=89	=89	=89	=89
 1AM	A:maj	161.328	.	voice
 =90	=90	=90	=90	=90
-2DM	<D:maj> D:maj/3	163.124	newline	voice
+2DM	D:maj/3	163.124	newline	voice
 2EM	E:sus4(b7)	164.025	.	voice
 =91	=91	=91	=91	=91
-1AM	<A:maj> A:maj/3	164.927	.	voice
+1AM	A:maj/3	164.927	.	voice
 =92	=92	=92	=92	=92
-2DM	<D:maj> D:maj/3	166.73	.	voice
+2DM	D:maj/3	166.73	.	voice
 2EM	E:sus4(b7)	167.632	.	voice
 =93	=93	=93	=93	=93
-1AM	<A:maj> A:maj/3	168.534	.	voice
+1AM	A:maj/3	168.534	.	voice
 =94	=94	=94	=94	=94
-2DMM	<D:maj7> D:maj7/3	170.337	newline	voice
+2DMM	D:maj7/3	170.337	newline	voice
 4EM	E:sus4(b7)	171.205	.	voice
 4Fd	F:dim	171.639	.	voice
 =95	=95	=95	=95	=95
@@ -266,7 +266,7 @@
 2EM	E:sus4(b7)	174.676	.	voice
 =97	=97	=97	=97	=97
 1AM	A:maj	175.543	.	voice
-1r;	<r> N	177.279	.	r
+1r;	N	177.279	.	r
 1r;	r	179.115	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Echoes Of Love

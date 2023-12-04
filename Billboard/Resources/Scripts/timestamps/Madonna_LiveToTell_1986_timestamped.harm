@@ -1,7 +1,7 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *d:	*d:	*d:	*d:	*d:
-1r;	<r> N	<0> 0	.	r
+1r;	N	0	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1Dm	D:1	1.001	newline	synth
@@ -9,8 +9,8 @@
 4Dm	D:5	6.78	newline	synth
 4Dm	D:min(9)	8.323	.	synth
 4Dmm	D:min9	9.866	.	synth
-4Dmm	<D:min11> D:min11/5	11.409	.	synth
-1r;	<r> N	12.951	.	r
+4Dmm	D:min11/5	11.409	.	synth
+1r;	N	12.951	.	r
 =3	=3	=3	=3	=3
 1Dmm	D:min11	19.123	newline	r
 =4	=4	=4	=4	=4
@@ -107,7 +107,7 @@
 2Dm	D:min	101.037	.	voice
 =41	=41	=41	=41	=41
 2Dm	D:min	102.128	.	voice
-2CM	<C:maj> C:maj/3	103.219	.	voice
+2CM	C:maj/3	103.219	.	voice
 =42	=42	=42	=42	=42
 2Dm	D:min	104.31	.	voice
 2CM	C:maj	105.401	.	voice
@@ -191,7 +191,7 @@
 2Dm	D:min	173.101	.	voice
 =74	=74	=74	=74	=74
 2Dm	D:min	174.197	.	voice
-2CM	<C:maj> C:maj/3	175.294	.	voice
+2CM	C:maj/3	175.294	.	voice
 =75	=75	=75	=75	=75
 2Dm	D:min	176.391	.	voice
 2CM	C:maj	177.488	.	voice
@@ -223,7 +223,7 @@
 2Dm	D:min	197.142	.	voice
 =85	=85	=85	=85	=85
 2Dm	D:min	198.242	.	voice
-2CM	<C:maj> C:maj/3	199.342	.	voice
+2CM	C:maj/3	199.342	.	voice
 =86	=86	=86	=86	=86
 2Dm	D:min	200.442	.	voice
 2CM	C:maj	201.542	.	voice
@@ -233,7 +233,7 @@
 =88	=88	=88	=88	=88
 *>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
 1Dm	D:1	204.842	newline	synth
-1r;	<r> N	210.928	.	r
+1r;	N	210.928	.	r
 =89	=89	=89	=89	=89
 1Dm	D:1	217.014	newline	r
 =90	=90	=90	=90	=90
@@ -243,7 +243,7 @@
 4Dmm	D:min11	225.635	.	synth
 =91	=91	=91	=91	=91
 1Dmm	D:min11	226.589	.	synth
-1r;	<r> N	230.406	.	r
+1r;	N	230.406	.	r
 =92	=92	=92	=92	=92
 *>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
 1B-M	B-:maj	234.222	newline	voice
@@ -306,7 +306,7 @@
 2Dm	D:min	289.986	.	voice
 =118	=118	=118	=118	=118
 2Dm	D:min	291.078	.	voice
-2CM	<C:maj> C:maj/3	292.17	.	voice
+2CM	C:maj/3	292.17	.	voice
 =119	=119	=119	=119	=119
 2Dm	D:min	293.262	.	voice
 2CM	C:maj	294.354	.	voice
@@ -338,7 +338,7 @@
 2Dm	D:min	313.992	.	voice
 =129	=129	=129	=129	=129
 2Dm	D:min	315.089	.	voice
-2CM	<C:maj> C:maj/3	316.186	.	voice
+2CM	C:maj/3	316.186	.	voice
 =130	=130	=130	=130	=130
 2Dm	D:min	317.283	.	voice
 2CM	C:maj	318.379	.	voice
@@ -370,7 +370,7 @@
 2Dm	D:min	338.023	.	voice
 =140	=140	=140	=140	=140
 2Dm	D:min	339.11	.	voice
-2CM	<C:maj> C:maj/3	340.197	.	voice
+2CM	C:maj/3	340.197	.	voice
 =141	=141	=141	=141	=141
 2Dm	D:min	341.284	.	voice
 2CM	C:maj	342.371	.	voice
@@ -381,7 +381,7 @@
 1Dmm	D:min11	345.632	newline	voice
 =144	=144	=144	=144	=144
 1Dmm	D:min11	347.325	.	voice
-1r;	<r> N	349.019	.	r
+1r;	N	349.019	.	r
 1r;	r	352.121	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Live To Tell

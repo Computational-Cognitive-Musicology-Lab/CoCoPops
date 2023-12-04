@@ -1,7 +1,7 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *b:	*b:	*b:	*b:	*b:
-1r;	<r> N	<0> 0	.	r
+1r;	N	0	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 2.Bm	B:1	0.441	newline	drums
@@ -40,7 +40,7 @@
 1Em	E:sus4(b7,9,13)	31.107	newline	voice
 =14	=14	=14	=14	=14
 2Em	E:sus4(b7,9,13)	33.624	.	voice
-4C#mm	<C#:min7> C#:min7/b3	34.882	.	voice
+4C#mm	C#:min7/b3	34.882	.	voice
 4Em	E:sus4(b7,9,13)	35.511	.	voice
 =15	=15	=15	=15	=15
 2.Bm	B:1	36.14	.	voice
@@ -52,7 +52,7 @@
 1Em	E:sus4(b7,9,13)	41.174	newline	voice
 =18	=18	=18	=18	=18
 2Em	E:sus4(b7,9,13)	43.708	.	voice
-4C#mm	<C#:min7> C#:min7/b3	44.975	.	voice
+4C#mm	C#:min7/b3	44.975	.	voice
 4Em	E:sus4(b7,9,13)	45.609	.	voice
 =19	=19	=19	=19	=19
 2.Bm	B:1	46.242	.	voice
@@ -63,16 +63,16 @@
 =21	=21	=21	=21	=21
 *>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
 2Bm	B:min	51.311	newline	voice
-2AM	<A:maj> A:maj/3	52.58	.	voice
+2AM	A:maj/3	52.58	.	voice
 =22	=22	=22	=22	=22
 2DM	D:maj	53.849	.	voice
-2AM	<A:maj> A:maj/3	55.118	.	voice
+2AM	A:maj/3	55.118	.	voice
 =23	=23	=23	=23	=23
 2Bm	B:min	56.388	.	voice
-2AM	<A:maj> A:maj/3	57.657	.	voice
+2AM	A:maj/3	57.657	.	voice
 =24	=24	=24	=24	=24
 2DM	D:maj	58.926	.	voice
-2AM	<A:maj> A:maj/3	60.195	.	voice
+2AM	A:maj/3	60.195	.	voice
 =25	=25	=25	=25	=25
 1GMM	G:maj7	61.464	newline	voice
 =26	=26	=26	=26	=26
@@ -119,10 +119,10 @@
 4AM	A:1	106.443	.	voice
 =43	=43	=43	=43	=43
 2.Em	E:sus4(b7,9,13)	107.08	newline	voice
-4C#mm	<C#:min7> C#:min7/b3	108.973	.	voice
+4C#mm	C#:min7/b3	108.973	.	voice
 =44	=44	=44	=44	=44
 2.Em	E:sus4(b7,9,13)	109.604	.	voice
-4C#mm	<C#:min7> C#:min7/b3	111.497	.	voice
+4C#mm	C#:min7/b3	111.497	.	voice
 =45	=45	=45	=45	=45
 2.Bm	B:1	112.128	.	voice
 4AM	A:1	114.021	.	voice
@@ -132,16 +132,16 @@
 =47	=47	=47	=47	=47
 *>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
 2Bm	B:min	117.176	newline	voice
-2AM	<A:maj> A:maj/3	118.445	.	voice
+2AM	A:maj/3	118.445	.	voice
 =48	=48	=48	=48	=48
 2DM	D:maj	119.715	.	voice
-2AM	<A:maj> A:maj/3	120.985	.	voice
+2AM	A:maj/3	120.985	.	voice
 =49	=49	=49	=49	=49
 2Bm	B:min	122.254	.	voice
-2AM	<A:maj> A:maj/3	123.524	.	voice
+2AM	A:maj/3	123.524	.	voice
 =50	=50	=50	=50	=50
 2DM	D:maj	124.794	.	voice
-2AM	<A:maj> A:maj/3	126.063	.	voice
+2AM	A:maj/3	126.063	.	voice
 =51	=51	=51	=51	=51
 1GMM	G:maj7	127.333	newline	voice
 =52	=52	=52	=52	=52
@@ -180,15 +180,15 @@
 =68	=68	=68	=68	=68
 *>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus	*>C_chorus
 2Emm	E:min7	170.396	newline	voice
-2DM	<D:maj(9)> D:maj(9)/3	171.666	.	voice
+2DM	D:maj(9)/3	171.666	.	voice
 =69	=69	=69	=69	=69
-2Em	<E:min> E:min/b3	172.936	.	voice
+2Em	E:min/b3	172.936	.	voice
 2AM	A:maj	174.206	.	voice
 =70	=70	=70	=70	=70
 2Emm	E:min7	175.476	.	voice
-2DM	<D:maj(9)> D:maj(9)/3	176.746	.	voice
+2DM	D:maj(9)/3	176.746	.	voice
 =71	=71	=71	=71	=71
-2Em	<E:min> E:min/b3	178.016	.	voice
+2Em	E:min/b3	178.016	.	voice
 2AM	A:maj	179.286	.	voice
 =72	=72	=72	=72	=72
 1Emm	E:min7	180.556	newline	voice
@@ -256,9 +256,9 @@
 1Em	E:sus4(b7,9,13)	246.4	newline	voice
 =99	=99	=99	=99	=99
 4Em	E:sus4(b7,9,13)	248.929	.	voice
-4C#mm	<C#:min7> C#:min7/b3	249.561	.	voice
+4C#mm	C#:min7/b3	249.561	.	voice
 4Em	E:sus4(b7,9,13)	250.193	.	voice
-4C#mm	<C#:min7> C#:min7/b3	250.826	.	voice
+4C#mm	C#:min7/b3	250.826	.	voice
 =100	=100	=100	=100	=100
 2.Bm	B:1	251.458	.	voice
 4AM	A:1	253.355	.	voice
@@ -269,9 +269,9 @@
 1Em	E:sus4(b7,9,13)	256.516	newline	voice
 =103	=103	=103	=103	=103
 4Em	E:sus4(b7,9,13)	259.056	.	voice
-4C#mm	<C#:min7> C#:min7/b3	259.691	.	voice
+4C#mm	C#:min7/b3	259.691	.	voice
 4Em	E:sus4(b7,9,13)	260.326	.	voice
-4C#mm	<C#:min7> C#:min7/b3	260.961	.	voice
+4C#mm	C#:min7/b3	260.961	.	voice
 =104	=104	=104	=104	=104
 2.Bm	B:1	261.596	.	voice
 4AM	A:1	263.5	.	voice
@@ -289,7 +289,7 @@
 =109	=109	=109	=109	=109
 2.Bm	B:1	273.315	.	guitar
 4AM	A:1	274.975	.	guitar
-1r;	<r> N	275.528	.	r
+1r;	N	275.528	.	r
 1r;	r	278.047	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Flesh For Fantasy

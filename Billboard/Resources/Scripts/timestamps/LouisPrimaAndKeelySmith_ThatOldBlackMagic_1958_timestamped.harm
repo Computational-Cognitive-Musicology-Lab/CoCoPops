@@ -1,7 +1,7 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *C:	*C:	*	*	*
-1r;	<r> N	<0> 0	.	r
+1r;	N	0	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1N	N	0.441	newline	r
@@ -73,9 +73,9 @@
 1FM	F:maj	31.427	newline	voice
 =34	=34	=34	=34	=34
 2FM	F:maj	32.41	.	voice
-2Fm	<F:min> F:min/b3	32.901	.	voice
+2Fm	F:min/b3	32.901	.	voice
 =35	=35	=35	=35	=35
-1CM	<C:maj6> C:maj6/5	33.392	.	voice
+1CM	C:maj6/5	33.392	.	voice
 =36	=36	=36	=36	=36
 1Cd	C:dim	34.375	.	voice
 =37	=37	=37	=37	=37
@@ -162,14 +162,14 @@
 =76	=76	=76	=76	=76
 1Dm	D:min	73.067	.	voice
 =77	=77	=77	=77	=77
-1Dmm	<D:min7> D:min7/5	74.031	newline	voice
+1Dmm	D:min7/5	74.031	newline	voice
 =78	=78	=78	=78	=78
-2Dmm	<D:min7> D:min7/5	75.003	.	voice
-2Fm	<F:min6> F:min6/b3	75.489	.	voice
+2Dmm	D:min7/5	75.003	.	voice
+2Fm	F:min6/b3	75.489	.	voice
 =79	=79	=79	=79	=79
-1Emm	<E:min7> E:min7/b3	75.975	.	voice
+1Emm	E:min7/b3	75.975	.	voice
 =80	=80	=80	=80	=80
-2Emm	<E:min7> E:min7/b3	76.947	.	voice
+2Emm	E:min7/b3	76.947	.	voice
 2F#d	F#:dim	77.434	.	voice
 =81	=81	=81	=81	=81
 1Dmm	D:min7	77.92	newline	voice
@@ -295,14 +295,14 @@
 =140	=140	=140	=140	=140
 1Dm	D:min	134.789	.	voice
 =141	=141	=141	=141	=141
-1FM	<F:maj6> F:maj6/3	135.754	newline	voice
+1FM	F:maj6/3	135.754	newline	voice
 =142	=142	=142	=142	=142
-2FM	<F:maj6> F:maj6/3	136.765	.	voice
-2Fm	<F:min6> F:min6/b3	137.27	.	voice
+2FM	F:maj6/3	136.765	.	voice
+2Fm	F:min6/b3	137.27	.	voice
 =143	=143	=143	=143	=143
-1Emm	<E:min7> E:min7/b3	137.775	.	voice
+1Emm	E:min7/b3	137.775	.	voice
 =144	=144	=144	=144	=144
-2Emm	<E:min7> E:min7/b3	138.785	.	voice
+2Emm	E:min7/b3	138.785	.	voice
 2F#d	F#:dim	139.29	.	voice
 =145	=145	=145	=145	=145
 1Dmm	D:min7	139.795	newline	voice
@@ -372,7 +372,7 @@
 1CM	C:maj	170.782	newline	voice
 =178	=178	=178	=178	=178
 1CM	C:maj	171.745	.	voice
-1r;	<r> N	174.033	.	r
+1r;	N	174.033	.	r
 1r;	r	176.616	.	r
 *-	*-	*-	*-	*-
 !!!OTL: That Old Black Magic

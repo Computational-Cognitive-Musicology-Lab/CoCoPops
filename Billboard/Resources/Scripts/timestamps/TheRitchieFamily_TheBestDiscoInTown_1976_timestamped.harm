@@ -1,26 +1,26 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *A-:	*A-:	*	*	*
-1r;	<r> N	<0> 0	.	r
+1r;	N	0	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1A-M	A-:maj	0.186	newline	synthesizer
 =2	=2	=2	=2	=2
-1D-M	<D-:maj(9)> D-:maj(9)/5	2.24	.	synthesizer
+1D-M	D-:maj(9)/5	2.24	.	synthesizer
 =3	=3	=3	=3	=3
 1A-M	A-:maj	4.294	.	synthesizer
 =4	=4	=4	=4	=4
-1D-M	<D-:maj(9)> D-:maj(9)/5	6.348	.	synthesizer
+1D-M	D-:maj(9)/5	6.348	.	synthesizer
 =5	=5	=5	=5	=5
 *>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
 2A-M	A-:maj	8.402	newline	voice
 2Fmm	F:min7	9.373	.	voice
 =6	=6	=6	=6	=6
 2D-M	D-:maj	10.343	.	voice
-2A-M	<A-:maj> A-:maj/3	11.313	.	voice
+2A-M	A-:maj/3	11.313	.	voice
 =7	=7	=7	=7	=7
 2B-mm	B-:min7	12.284	.	voice
-2A-M	<A-:maj> A-:maj/3	13.254	.	voice
+2A-M	A-:maj/3	13.254	.	voice
 =8	=8	=8	=8	=8
 2D-M	D-:maj	14.225	.	voice
 2E-M	E-:maj	15.195	.	voice
@@ -29,10 +29,10 @@
 2Fmm	F:min7	17.154	.	voice
 =10	=10	=10	=10	=10
 2D-M	D-:maj	18.143	.	voice
-2A-M	<A-:maj> A-:maj/3	19.131	.	voice
+2A-M	A-:maj/3	19.131	.	voice
 =11	=11	=11	=11	=11
 2B-mm	B-:min7	20.119	.	voice
-2A-M	<A-:maj> A-:maj/3	21.108	.	voice
+2A-M	A-:maj/3	21.108	.	voice
 =12	=12	=12	=12	=12
 2D-M	D-:maj	22.096	.	voice
 2E-M	E-:maj	23.085	.	voice
@@ -50,10 +50,10 @@
 1E-Mm	E-:7	33.778	.	voice
 =19	=19	=19	=19	=19
 2B-mm	B-:min7	35.719	newline	voice
-4A-M	<A-:maj> A-:maj/3	36.702	.	voice
+4A-M	A-:maj/3	36.702	.	voice
 4D-M	D-:maj	37.194	.	voice
 =20	=20	=20	=20	=20
-1B-Mm	<B-:7> B-:7/3	37.686	.	voice
+1B-Mm	B-:7/3	37.686	.	voice
 =21	=21	=21	=21	=21
 1E-M	E-:sus4(b7)	39.653	.	voice
 =22	=22	=22	=22	=22
@@ -64,10 +64,10 @@
 2Fmm	F:min7	44.575	.	voice
 =24	=24	=24	=24	=24
 2D-M	D-:maj	45.564	.	voice
-2A-M	<A-:maj> A-:maj/3	46.552	.	voice
+2A-M	A-:maj/3	46.552	.	voice
 =25	=25	=25	=25	=25
 2B-mm	B-:min7	47.54	.	voice
-2A-M	<A-:maj> A-:maj/3	48.529	.	voice
+2A-M	A-:maj/3	48.529	.	voice
 =26	=26	=26	=26	=26
 2D-M	D-:maj	49.517	.	voice
 2E-M	E-:maj	50.506	.	voice
@@ -76,10 +76,10 @@
 2Fmm	F:min7	52.491	.	voice
 =28	=28	=28	=28	=28
 2D-M	D-:maj	53.488	.	voice
-2A-M	<A-:maj> A-:maj/3	54.485	.	voice
+2A-M	A-:maj/3	54.485	.	voice
 =29	=29	=29	=29	=29
 2B-mm	B-:min7	55.482	.	voice
-2A-M	<A-:maj> A-:maj/3	56.479	.	voice
+2A-M	A-:maj/3	56.479	.	voice
 =30	=30	=30	=30	=30
 2D-M	D-:maj	57.476	.	voice
 2E-M	E-:maj	58.473	.	voice
@@ -97,10 +97,10 @@
 1E-Mm	E-:7	69.319	.	voice
 =37	=37	=37	=37	=37
 2B-mm	B-:min7	71.288	newline	voice
-4A-M	<A-:maj> A-:maj/3	72.273	.	voice
+4A-M	A-:maj/3	72.273	.	voice
 4D-M	D-:maj	72.766	.	voice
 =38	=38	=38	=38	=38
-1B-Mm	<B-:7> B-:7/3	73.258	.	voice
+1B-Mm	B-:7/3	73.258	.	voice
 =39	=39	=39	=39	=39
 1E-M	E-:sus4(b7)	75.228	.	voice
 =40	=40	=40	=40	=40
@@ -109,15 +109,15 @@
 *>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge	*>C_bridge
 1A-M	A-:maj	79.169	newline	voice
 =42	=42	=42	=42	=42
-1D-M	<D-:maj(9)> D-:maj(9)/5	81.149	.	voice
+1D-M	D-:maj(9)/5	81.149	.	voice
 =43	=43	=43	=43	=43
 1A-M	A-:maj	83.129	.	voice
 =44	=44	=44	=44	=44
-1D-M	<D-:maj(9)> D-:maj(9)/5	85.109	.	voice
+1D-M	D-:maj(9)/5	85.109	.	voice
 =45	=45	=45	=45	=45
 1A-M	A-:maj	87.089	newline	voice
 =46	=46	=46	=46	=46
-1D-M	<D-:maj(9)> D-:maj(9)/5	89.044	.	voice
+1D-M	D-:maj(9)/5	89.044	.	voice
 =47	=47	=47	=47	=47
 1A-M	A-:maj	90.999	.	voice
 =48	=48	=48	=48	=48
@@ -125,7 +125,7 @@
 =49	=49	=49	=49	=49
 1A-M	A-:maj	94.909	newline	voice
 =50	=50	=50	=50	=50
-1D-m	<D-:min> D-:min/5	96.882	.	voice
+1D-m	D-:min/5	96.882	.	voice
 =51	=51	=51	=51	=51
 2A-M	A-:maj	98.855	.	voice
 2A-M	A-:maj(9)	99.841	.	voice
@@ -165,7 +165,7 @@
 =66	=66	=66	=66	=66
 1Fmm	F:min7	126.249	.	strings
 =67	=67	=67	=67	=67
-2E-M	<E-:maj> E-:maj/5	128.212	.	strings
+2E-M	E-:maj/5	128.212	.	strings
 2B-Mm	B-:7	129.194	.	strings
 =68	=68	=68	=68	=68
 1Fm	F:sus4(b7)	130.176	newline	voice
@@ -181,9 +181,9 @@
 1Cmm	C:min7	140.083	.	strings
 =74	=74	=74	=74	=74
 2Fm	F:sus4(b7,9)	142.071	newline	voice
-2Fm	<F:sus4(b7,9)> F:sus4(b7,9)/2	143.061	.	voice
+2Fm	F:sus4(b7,9)/2	143.061	.	voice
 =75	=75	=75	=75	=75
-2Fm	<F:sus4(b7,9)> F:sus4(b7,9)/2	144.051	.	voice
+2Fm	F:sus4(b7,9)/2	144.051	.	voice
 2A-M	A-:maj	145.04	.	voice
 =76	=76	=76	=76	=76
 1Amm	A:min7	146.03	.	voice
@@ -209,20 +209,20 @@
 *>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude	*>A_interlude
 1A-M	A-:maj	157.893	newline	synthesizer
 =83	=83	=83	=83	=83
-1D-M	<D-:maj(9)> D-:maj(9)/5	159.841	.	synthesizer
+1D-M	D-:maj(9)/5	159.841	.	synthesizer
 =84	=84	=84	=84	=84
 1A-M	A-:maj	161.789	.	synthesizer
 =85	=85	=85	=85	=85
-1D-M	<D-:maj(9)> D-:maj(9)/5	163.737	.	synthesizer
+1D-M	D-:maj(9)/5	163.737	.	synthesizer
 =86	=86	=86	=86	=86
 *>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
 1A-M	A-:maj	165.685	newline	voice
 =87	=87	=87	=87	=87
 2D-M	D-:maj	167.685	.	voice
-2A-M	<A-:maj> A-:maj/3	168.685	.	voice
+2A-M	A-:maj/3	168.685	.	voice
 =88	=88	=88	=88	=88
 2B-m	B-:min	169.685	.	voice
-2A-M	<A-:maj> A-:maj/3	170.685	.	voice
+2A-M	A-:maj/3	170.685	.	voice
 =89	=89	=89	=89	=89
 2D-M	D-:maj	171.685	.	voice
 2E-M	E-:maj	172.685	.	voice
@@ -230,10 +230,10 @@
 1A-M	A-:maj	173.686	newline	voice
 =91	=91	=91	=91	=91
 2D-M	D-:maj	175.686	.	voice
-2A-M	<A-:maj> A-:maj/3	176.686	.	voice
+2A-M	A-:maj/3	176.686	.	voice
 =92	=92	=92	=92	=92
 2B-m	B-:min	177.686	.	voice
-2A-M	<A-:maj> A-:maj/3	178.686	.	voice
+2A-M	A-:maj/3	178.686	.	voice
 =93	=93	=93	=93	=93
 2D-M	D-:maj	179.687	.	voice
 2E-M	E-:maj	180.687	.	voice
@@ -250,7 +250,7 @@
 1B-m	B-:min	188.272	.	voice
 =99	=99	=99	=99	=99
 1E-M	E-:maj	189.918	.	voice
-1r;	<r> N	191.565	.	r
+1r;	N	191.565	.	r
 1r;	r	193.646	.	r
 *-	*-	*-	*-	*-
 !!!OTL: The Best Disco In Town

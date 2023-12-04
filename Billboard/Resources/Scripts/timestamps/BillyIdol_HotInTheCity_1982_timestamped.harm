@@ -1,8 +1,8 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *C:	*C:	*	*	*
-1r;	<r> N	<0> 0	.	r
-1r;	<r> N	1.3	.	r
+1r;	N	0	.	r
+1r;	N	1.3	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1CM	C:maj	7.092	newline	synthesizer
@@ -40,7 +40,7 @@
 =17	=17	=17	=17	=17
 *>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
 2GM	G:maj	41.552	newline	voice
-2GM	<G:maj> G:maj/b7	42.632	.	voice
+2GM	G:maj/b7	42.632	.	voice
 =18	=18	=18	=18	=18
 1GM	G:maj	43.713	.	voice
 =19	=19	=19	=19	=19
@@ -105,7 +105,7 @@
 =43	=43	=43	=43	=43
 *>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus	*>C_prechorus
 2GM	G:maj	97.696	newline	voice
-2GM	<G:maj> G:maj/b7	98.768	.	voice
+2GM	G:maj/b7	98.768	.	voice
 =44	=44	=44	=44	=44
 1GM	G:maj	99.841	.	voice
 =45	=45	=45	=45	=45
@@ -271,7 +271,7 @@
 =98	=98	=98	=98	=98
 2CM	C:maj	213.274	.	voice
 2Am	A:min(11)	213.89	.	voice
-1r;	<r> N	214.506	.	r
+1r;	N	214.506	.	r
 1r;	r	218.096	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Hot In The City

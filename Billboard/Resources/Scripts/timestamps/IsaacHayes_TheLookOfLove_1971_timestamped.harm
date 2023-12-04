@@ -1,7 +1,7 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *c#:	*c#:	*c#:	*c#:	*c#:
-1r;	<r> N	<0> 0	.	r
+1r;	N	0	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 2C#m	C#:min	0.65	newline	r
@@ -84,26 +84,26 @@
 4BM	B:maj	83.157	.	trumpet
 =27	=27	=27	=27	=27
 *>C_interlude	*>C_interlude	*>C_interlude	*>C_interlude	*>C_interlude
-2C#m	<C#:min> C#:min/b7	83.956	newline	trumpet
-2BM	<B:maj> B:maj/b7	85.548	.	trumpet
+2C#m	C#:min/b7	83.956	newline	trumpet
+2BM	B:maj/b7	85.548	.	trumpet
 =28	=28	=28	=28	=28
 2G#m	G#:min	87.14	.	trumpet
 2C#m	C#:min	88.731	.	trumpet
 =29	=29	=29	=29	=29
-2C#m	<C#:min> C#:min/b7	90.323	.	trumpet
-2BM	<B:maj> B:maj/b7	91.915	.	trumpet
+2C#m	C#:min/b7	90.323	.	trumpet
+2BM	B:maj/b7	91.915	.	trumpet
 =30	=30	=30	=30	=30
 2G#m	G#:min	93.506	.	trumpet
 2C#m	C#:min	95.098	.	trumpet
 =31	=31	=31	=31	=31
-2C#m	<C#:min> C#:min/b7	96.69	newline	trumpet
-2BM	<B:maj> B:maj/b7	98.258	.	trumpet
+2C#m	C#:min/b7	96.69	newline	trumpet
+2BM	B:maj/b7	98.258	.	trumpet
 =32	=32	=32	=32	=32
 2G#m	G#:min	99.827	.	trumpet
 2C#m	C#:min	101.395	.	trumpet
 =33	=33	=33	=33	=33
-2C#m	<C#:min> C#:min/b7	102.963	.	trumpet
-2BM	<B:maj> B:maj/b7	104.532	.	trumpet
+2C#m	C#:min/b7	102.963	.	trumpet
+2BM	B:maj/b7	104.532	.	trumpet
 =34	=34	=34	=34	=34
 2G#m	G#:min	106.1	.	trumpet
 2C#m	C#:min	107.669	.	trumpet
@@ -133,7 +133,7 @@
 1C#m	C#:min	140.318	newline	voice
 =46	=46	=46	=46	=46
 2C#m	C#:min	143.326	.	voice
-2C#m	<C#:min> C#:min/b7	144.83	.	voice
+2C#m	C#:min/b7	144.83	.	voice
 =47	=47	=47	=47	=47
 1AMM	A:maj7	146.334	.	voice
 =48	=48	=48	=48	=48
@@ -141,8 +141,8 @@
 =49	=49	=49	=49	=49
 1AMM	A:maj7	152.349	newline	voice
 =50	=50	=50	=50	=50
-2EM	<E:maj> E:maj/3	155.355	.	voice
-2EMm	<E:7> E:7/3	156.857	.	voice
+2EM	E:maj/3	155.355	.	voice
+2EMm	E:7/3	156.857	.	voice
 =51	=51	=51	=51	=51
 1AMM	A:maj7	158.36	newline	voice
 =52	=52	=52	=52	=52
@@ -154,7 +154,7 @@
 2F#Mm	F#:7	168.839	.	voice
 =55	=55	=55	=55	=55
 *>F_chorus	*>F_chorus	*>F_chorus	*>F_chorus	*>F_chorus
-1C#m	<C#:min> C#:min/b7	170.336	newline	voice
+1C#m	C#:min/b7	170.336	newline	voice
 =56	=56	=56	=56	=56
 1BM	B:sus4(b7)	173.311	.	voice
 =57	=57	=57	=57	=57
@@ -164,7 +164,7 @@
 2BM	B:sus4(b7)	179.261	.	voice
 =59	=59	=59	=59	=59
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
-1C#m	<C#:min> C#:min/b7	180.749	newline	voice
+1C#m	C#:min/b7	180.749	newline	voice
 =60	=60	=60	=60	=60
 1BM	B:sus4(b7)	183.809	.	voice
 =61	=61	=61	=61	=61
@@ -190,7 +190,7 @@
 1C#m	C#:min	213.518	newline	voice
 =71	=71	=71	=71	=71
 2C#m	C#:min	216.424	.	voice
-2C#m	<C#:min> C#:min/b7	217.877	.	voice
+2C#m	C#:min/b7	217.877	.	voice
 =72	=72	=72	=72	=72
 1AMM	A:maj7	219.331	.	voice
 =73	=73	=73	=73	=73
@@ -198,8 +198,8 @@
 =74	=74	=74	=74	=74
 1AMM	A:maj7	225.143	newline	voice
 =75	=75	=75	=75	=75
-2EM	<E:maj> E:maj/3	228.004	.	voice
-2EMm	<E:7> E:7/3	229.434	.	voice
+2EM	E:maj/3	228.004	.	voice
+2EMm	E:7/3	229.434	.	voice
 =76	=76	=76	=76	=76
 1AMM	A:maj7	230.864	newline	voice
 =77	=77	=77	=77	=77
@@ -211,7 +211,7 @@
 2F#Mm	F#:7	240.952	.	voice
 =80	=80	=80	=80	=80
 *>F_chorus	*>F_chorus	*>F_chorus	*>F_chorus	*>F_chorus
-1C#m	<C#:min> C#:min/b7	242.393	newline	voice
+1C#m	C#:min/b7	242.393	newline	voice
 =81	=81	=81	=81	=81
 1BM	B:sus4(b7)	245.209	.	voice
 =82	=82	=82	=82	=82
@@ -221,7 +221,7 @@
 2BM	B:sus4(b7)	250.841	.	voice
 =84	=84	=84	=84	=84
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
-1C#m	<C#:min> C#:min/b7	252.249	newline	voice
+1C#m	C#:min/b7	252.249	newline	voice
 =85	=85	=85	=85	=85
 1BM	B:sus4(b7)	255.049	.	voice
 =86	=86	=86	=86	=86
@@ -473,7 +473,7 @@
 2F#M	F#:maj	563.09	.	flute
 =205	=205	=205	=205	=205
 *>F_chorus	*>F_chorus	*>F_chorus	*>F_chorus	*>F_chorus
-1C#m	<C#:min> C#:min/b7	564.39	newline	voice
+1C#m	C#:min/b7	564.39	newline	voice
 =206	=206	=206	=206	=206
 1BM	B:sus4(b7)	566.98	.	voice
 =207	=207	=207	=207	=207
@@ -483,7 +483,7 @@
 2BM	B:sus4(b7)	572.161	.	voice
 =209	=209	=209	=209	=209
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
-1C#m	<C#:min> C#:min/b7	573.456	newline	voice
+1C#m	C#:min/b7	573.456	newline	voice
 =210	=210	=210	=210	=210
 1BM	B:sus4(b7)	576.031	.	voice
 =211	=211	=211	=211	=211
@@ -561,7 +561,7 @@
 =235	=235	=235	=235	=235
 2G#m	G#:min	661.004	.	guitar
 2AMM	A:maj7	663.193	.	guitar
-1r;	<r> N	671.405	.	r
+1r;	N	671.405	.	r
 1r;	r	673.802	.	r
 *-	*-	*-	*-	*-
 !!!OTL: The Look Of Love

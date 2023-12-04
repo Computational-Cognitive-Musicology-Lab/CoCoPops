@@ -1,7 +1,7 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *g:	*g:	*g:	*g:	*g:
-1r;	<r> N	<0> 0	.	r
+1r;	N	0	.	r
 =1	=1	=1	=1	=1
 *>A_maintheme	*>A_maintheme	*>A_maintheme	*>A_maintheme	*>A_maintheme
 2.Gm	G:5	0.279	newline	r
@@ -26,15 +26,15 @@
 2GMm	G:7(#9)	19.876	.	guitar
 =9	=9	=9	=9	=9
 2CMm	C:7(#9)	21.127	newline	guitar
-2FM	<F:maj> F:maj/5	22.394	.	guitar
+2FM	F:maj/5	22.394	.	guitar
 =10	=10	=10	=10	=10
 2CMm	C:7(#9)	23.662	.	guitar
-2FM	<F:maj> F:maj/5	24.929	.	guitar
+2FM	F:maj/5	24.929	.	guitar
 =11	=11	=11	=11	=11
-2Gmm	<G:min7> G:min7/5	26.196	newline	guitar
+2Gmm	G:min7/5	26.196	newline	guitar
 2Dmm	D:min7	27.448	.	guitar
 =12	=12	=12	=12	=12
-2Gmm	<G:min7> G:min7/5	28.7	.	guitar
+2Gmm	G:min7/5	28.7	.	guitar
 2Dmm	D:min9	29.951	.	guitar
 =13	=13	=13	=13	=13
 *>C_transition	*>C_transition	*>C_transition	*>C_transition	*>C_transition
@@ -43,11 +43,11 @@
 2Gmm	G:min7	33.764	.	guitar
 2CMm	C:7	35.045	.	guitar
 =15	=15	=15	=15	=15
-2E-M	<E-:maj> E-:maj/b7	36.325	newline	guitar
-2Gm	<G:min> G:min/5	37.574	.	guitar
+2E-M	E-:maj/b7	36.325	newline	guitar
+2Gm	G:min/5	37.574	.	guitar
 =16	=16	=16	=16	=16
 2E-M	E-:maj(9,#11)	38.822	.	guitar
-2CMm	<C:7> C:7/3	40.071	.	guitar
+2CMm	C:7/3	40.071	.	guitar
 =17	=17	=17	=17	=17
 *>A_maintheme	*>A_maintheme	*>A_maintheme	*>A_maintheme	*>A_maintheme
 2.Gm	G:5	41.32	newline	guitar
@@ -100,11 +100,11 @@
 4B-M	B-:maj6	77.471	.	guitar saxophone
 4CMm	C:7(#9)	77.86	.	guitar saxophone
 4Dmm	D:min7	78.248	.	guitar saxophone
-4CM	<C:maj6> C:maj6/3	78.637	.	guitar saxophone
+4CM	C:maj6/3	78.637	.	guitar saxophone
 4FM	F:maj	79.025	.	guitar saxophone
 4Gm	G:sus4(b7,9)	79.414	.	guitar saxophone
 4CM	C:maj6	79.803	.	guitar saxophone
-1r;	<r> N	80.191	.	r
+1r;	N	80.191	.	r
 =32	=32	=32	=32	=32
 *>F_transition	*>F_transition	*>F_transition	*>F_transition	*>F_transition
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
@@ -121,23 +121,23 @@
 1Gmm	G:min7	94.388	.	guitar
 =38	=38	=38	=38	=38
 2Gmm	G:min7	96.912	.	guitar
-2CM	<C:maj> C:maj/5	98.174	.	guitar
+2CM	C:maj/5	98.174	.	guitar
 =39	=39	=39	=39	=39
 2Gm	G:min	99.436	.	guitar
-2CM	<C:maj> C:maj/5	100.698	.	guitar
+2CM	C:maj/5	100.698	.	guitar
 =40	=40	=40	=40	=40
 *>G_solo	*>G_solo	*>G_solo	*>G_solo	*>G_solo
 2Gmm	G:min7	101.96	newline	drums
-2CM	<C:maj> C:maj/5	103.295	.	drums
+2CM	C:maj/5	103.295	.	drums
 =41	=41	=41	=41	=41
 2Gm	G:min	104.63	.	drums
-2CM	<C:maj> C:maj/5	105.965	.	drums
+2CM	C:maj/5	105.965	.	drums
 =42	=42	=42	=42	=42
 2Gmm	G:min7	107.3	.	drums
-2CM	<C:maj> C:maj/5	108.635	.	drums
+2CM	C:maj/5	108.635	.	drums
 =43	=43	=43	=43	=43
 2Gm	G:min	109.97	.	drums
-2CM	<C:maj> C:maj/5	111.305	.	drums
+2CM	C:maj/5	111.305	.	drums
 =44	=44	=44	=44	=44
 1Gmm	G:min7	112.64	.	drums
 =45	=45	=45	=45	=45
@@ -219,7 +219,7 @@
 1B-Mm	B-:7	183.643	.	guitar
 =74	=74	=74	=74	=74
 1Gmm	G:min7	186.166	.	guitar
-1r;	<r> N	204.456	.	r
+1r;	N	204.456	.	r
 1r;	r	208.144	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Frankenstein

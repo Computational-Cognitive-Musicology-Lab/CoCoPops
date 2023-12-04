@@ -1,7 +1,7 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *c:	*c:	*c:	*c:	*c:
-1r;	<r> N	<0> 0	.	r
+1r;	N	0	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1Cm	C:min	2.319	newline	guitar
@@ -11,45 +11,45 @@
 1Cm	C:min	7.661	.	guitar
 =4	=4	=4	=4	=4
 1Cm	C:min	10.332	.	guitar
-1r;	<r> N	13.003	.	r
+1r;	N	13.003	.	r
 =5	=5	=5	=5	=5
 *>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-1E-M	<E-:maj> E-:maj/5	15.673	newline	voice
-1r;	<r> N	18.332	.	r
+1E-M	E-:maj/5	15.673	newline	voice
+1r;	N	18.332	.	r
 =6	=6	=6	=6	=6
-1Cm	<C:min> C:min/5	20.991	newline	r
-1r;	<r> N	25.739	.	r
+1Cm	C:min/5	20.991	newline	r
+1r;	N	25.739	.	r
 =7	=7	=7	=7	=7
-1E-M	<E-:maj> E-:maj/5	30.488	newline	r
-1r;	<r> N	31.974	.	r
+1E-M	E-:maj/5	30.488	newline	r
+1r;	N	31.974	.	r
 =8	=8	=8	=8	=8
 1Gm	G:min	33.46	newline	r
-1r;	<r> N	35.143	.	r
+1r;	N	35.143	.	r
 =9	=9	=9	=9	=9
 1E-M	E-:maj	36.827	newline	r
-1r;	<r> N	38.185	.	r
+1r;	N	38.185	.	r
 =10	=10	=10	=10	=10
 1Gm	G:min	39.544	newline	r
-1r;	<r> N	40.937	.	r
+1r;	N	40.937	.	r
 =11	=11	=11	=11	=11
 1B-M	B-:maj	42.33	newline	r
-1r;	<r> N	45.07	.	r
+1r;	N	45.07	.	r
 =12	=12	=12	=12	=12
 1Gm	G:min	47.81	newline	r
-1r;	<r> N	49.435	.	r
+1r;	N	49.435	.	r
 =13	=13	=13	=13	=13
 1E-M	E-:maj	51.061	newline	r
-1r;	<r> N	52.454	.	r
+1r;	N	52.454	.	r
 =14	=14	=14	=14	=14
 1Gm	G:min	53.847	newline	r
-1r;	<r> N	55.182	.	r
+1r;	N	55.182	.	r
 =15	=15	=15	=15	=15
 1B-M	B-:maj	56.517	newline	r
-1r;	<r> N	57.446	.	r
+1r;	N	57.446	.	r
 =16	=16	=16	=16	=16
 2A-M	A-:maj	58.375	newline	r
 2B-M	B-:maj	59.809	.	r
-1r;	<r> N	61.243	.	r
+1r;	N	61.243	.	r
 =17	=17	=17	=17	=17
 *>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
 2Cm	C:min	64.11	newline	r
@@ -78,7 +78,7 @@
 =25	=25	=25	=25	=25
 *>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
 2Cm	C:min	81.157	newline	r
-2A-M	<A-:maj> A-:maj/3	82.216	.	r
+2A-M	A-:maj/3	82.216	.	r
 =26	=26	=26	=26	=26
 2Cm	C:min	83.275	.	r
 2E-M	E-:maj	84.333	.	r
@@ -118,7 +118,7 @@
 =38	=38	=38	=38	=38
 *>D2_chorus	*>D2_chorus	*>D2_chorus	*>D2_chorus	*>D2_chorus
 2Cm	C:min	108.142	newline	r
-2A-M	<A-:maj> A-:maj/3	109.186	.	r
+2A-M	A-:maj/3	109.186	.	r
 =39	=39	=39	=39	=39
 2Cm	C:min	110.23	.	r
 2E-M	E-:maj	111.274	.	r
@@ -133,10 +133,10 @@
 =43	=43	=43	=43	=43
 *>E_bridge	*>E_bridge	*>E_bridge	*>E_bridge	*>E_bridge
 2Cm	C:sus4	118.629	newline	r
-2Cm	<C:sus4> C:sus4/7	119.665	.	r
+2Cm	C:sus4/7	119.665	.	r
 =44	=44	=44	=44	=44
-2Gm	<G:sus4> G:sus4/2	120.7	.	r
-2GM	<G:maj> G:maj/3	121.735	.	r
+2Gm	G:sus4/2	120.7	.	r
+2GM	G:maj/3	121.735	.	r
 =45	=45	=45	=45	=45
 1Cm	C:sus4	122.771	.	r
 =46	=46	=46	=46	=46
@@ -205,7 +205,7 @@
 =69	=69	=69	=69	=69
 *>D3_chorus	*>D3_chorus	*>D3_chorus	*>D3_chorus	*>D3_chorus
 2Cm	C:min	172.025	newline	r
-2A-M	<A-:maj> A-:maj/3	173.065	.	r
+2A-M	A-:maj/3	173.065	.	r
 =70	=70	=70	=70	=70
 2Cm	C:min	174.105	.	r
 2E-M	E-:maj	175.145	.	r
@@ -218,7 +218,7 @@
 2B-M	B-:maj	179.733	.	r
 =74	=74	=74	=74	=74
 2Cm	C:min	180.442	newline	r
-2A-M	<A-:maj> A-:maj/3	181.499	.	r
+2A-M	A-:maj/3	181.499	.	r
 =75	=75	=75	=75	=75
 2Cm	C:min	182.557	.	r
 2E-M	E-:maj	183.614	.	r
@@ -231,21 +231,21 @@
 =78	=78	=78	=78	=78
 *>E_outro	*>E_outro	*>E_outro	*>E_outro	*>E_outro
 2Cm	C:min	188.944	newline	r
-2A-M	<A-:maj> A-:maj/3	189.973	.	r
+2A-M	A-:maj/3	189.973	.	r
 =79	=79	=79	=79	=79
 2Cm	C:min	191.002	.	r
-2A-M	<A-:maj> A-:maj/3	192.031	.	r
+2A-M	A-:maj/3	192.031	.	r
 =80	=80	=80	=80	=80
 2Cm	C:min	193.06	.	r
-2A-M	<A-:maj> A-:maj/3	194.089	.	r
+2A-M	A-:maj/3	194.089	.	r
 =81	=81	=81	=81	=81
 2Cm	C:min	195.118	newline	voice
-2A-M	<A-:maj> A-:maj/3	196.149	.	voice
+2A-M	A-:maj/3	196.149	.	voice
 =82	=82	=82	=82	=82
 2Cm	C:min	197.18	.	voice
 4B-M	B-:maj	198.21	.	voice
 4GM	G:maj	198.726	.	voice
-1r;	<r> N	209.034	.	r
+1r;	N	209.034	.	r
 1r;	r	212.398	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Hair

@@ -1,7 +1,7 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *C#:	*C#:	*	*	*
-1r;	<r> N	<0> 0	.	r
+1r;	N	0	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1C#mm	C#:min9	0.441	newline	saxophone
@@ -28,7 +28,7 @@
 1C#mm	C#:min9	21.068	.	voice
 =12	=12	=12	=12	=12
 2C#mm	C#:min9	23.138	.	voice
-2C#mm	<C#:min9> C#:min9/b7	24.173	.	voice
+2C#mm	C#:min9/b7	24.173	.	voice
 =13	=13	=13	=13	=13
 1AMM	A:maj7(#11)	25.208	newline	voice
 =14	=14	=14	=14	=14
@@ -37,7 +37,7 @@
 1C#mm	C#:min9	29.325	.	voice
 =16	=16	=16	=16	=16
 2C#mm	C#:min9	31.383	.	voice
-2C#mm	<C#:min9> C#:min9/b7	32.412	.	voice
+2C#mm	C#:min9/b7	32.412	.	voice
 =17	=17	=17	=17	=17
 *>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
 1AMM	A:maj7	33.442	newline	voice
@@ -69,7 +69,7 @@
 1C#mm	C#:min9	53.923	.	voice
 =28	=28	=28	=28	=28
 2C#mm	C#:min9	55.989	.	voice
-2C#mm	<C#:min9> C#:min9/b7	57.022	.	voice
+2C#mm	C#:min9/b7	57.022	.	voice
 =29	=29	=29	=29	=29
 1AMM	A:maj7(#11)	58.055	newline	voice
 =30	=30	=30	=30	=30
@@ -78,7 +78,7 @@
 1C#mm	C#:min9	62.141	.	voice
 =32	=32	=32	=32	=32
 2C#mm	C#:min9	64.183	.	voice
-2C#mm	<C#:min9> C#:min9/b7	65.205	.	voice
+2C#mm	C#:min9/b7	65.205	.	voice
 =33	=33	=33	=33	=33
 *>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
 1AMM	A:maj7	66.226	newline	voice
@@ -118,8 +118,8 @@
 1BM	B:maj	94.718	.	saxophone
 =48	=48	=48	=48	=48
 4BM	B:maj	96.701	.	saxophone
-2BM	<B:sus4> B:sus4/b7	97.197	.	saxophone
-4BM	<B:maj> B:maj/b7	98.188	.	saxophone
+2BM	B:sus4/b7	97.197	.	saxophone
+4BM	B:maj/b7	98.188	.	saxophone
 =49	=49	=49	=49	=49
 1C#mm	C#:min9	98.684	newline	saxophone
 =50	=50	=50	=50	=50
@@ -146,7 +146,7 @@
 1C#mm	C#:min9	118.658	.	saxophone
 =60	=60	=60	=60	=60
 2C#mm	C#:min9	120.689	.	saxophone
-2C#mm	<C#:min9> C#:min9/b7	121.704	.	saxophone
+2C#mm	C#:min9/b7	121.704	.	saxophone
 =61	=61	=61	=61	=61
 1AMM	A:maj7(#11)	122.72	newline	saxophone
 =62	=62	=62	=62	=62
@@ -155,7 +155,7 @@
 1C#mm	C#:min9	126.742	.	saxophone
 =64	=64	=64	=64	=64
 2C#mm	C#:min9	128.753	.	saxophone
-2C#mm	<C#:min9> C#:min9/b7	129.758	.	saxophone
+2C#mm	C#:min9/b7	129.758	.	saxophone
 =65	=65	=65	=65	=65
 *>C2_verse	*>C2_verse	*>C2_verse	*>C2_verse	*>C2_verse
 1AMM	A:maj7	130.764	newline	saxophone
@@ -201,7 +201,7 @@
 =83	=83	=83	=83	=83
 4BM	B:maj	167.153	.	saxophone
 2AM	A:sus2	167.649	.	saxophone
-4BM	<B:maj> B:maj/b7	168.643	.	saxophone
+4BM	B:maj/b7	168.643	.	saxophone
 =84	=84	=84	=84	=84
 1C#mm	C#:min9	169.139	newline	saxophone
 =85	=85	=85	=85	=85
@@ -219,7 +219,7 @@
 =91	=91	=91	=91	=91
 4BM	B:maj	183.001	.	saxophone
 2AM	A:sus2	183.496	.	saxophone
-4BM	<B:maj> B:maj/b7	184.485	.	saxophone
+4BM	B:maj/b7	184.485	.	saxophone
 =92	=92	=92	=92	=92
 1C#mm	C#:min9	184.98	newline	saxophone
 =93	=93	=93	=93	=93
@@ -237,7 +237,7 @@
 =99	=99	=99	=99	=99
 4BM	B:maj	198.685	.	saxophone
 2AM	A:sus2	199.176	.	saxophone
-4BM	<B:maj> B:maj/b7	200.157	.	saxophone
+4BM	B:maj/b7	200.157	.	saxophone
 =100	=100	=100	=100	=100
 *>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
 1C#mm	C#:min9	200.647	newline	saxophone
@@ -256,8 +256,8 @@
 =107	=107	=107	=107	=107
 4BM	B:maj	211.664	.	saxophone voice
 2AM	A:sus2	211.932	.	saxophone voice
-4BM	<B:maj> B:maj/b7	212.468	.	saxophone voice
-1r;	<r> N	212.736	.	r
+4BM	B:maj/b7	212.468	.	saxophone voice
+1r;	N	212.736	.	r
 1r;	r	216.483	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Can We Still Be Friends

@@ -1,8 +1,8 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *d:	*d:	*d:	*d:	*d:
-1r;	<r> N	<0> 0	.	r
-1r;	<r> N	0.209	.	r
+1r;	N	0	.	r
+1r;	N	0.209	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1N	N	8.94	newline	r
@@ -59,12 +59,12 @@
 *>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
 1DM	D:maj	58.576	newline	voice
 =26	=26	=26	=26	=26
-2FM	<F:maj> F:maj/5	60.608	.	voice
+2FM	F:maj/5	60.608	.	voice
 2CM	C:maj	61.625	.	voice
 =27	=27	=27	=27	=27
 1DM	D:maj	62.641	.	voice
 =28	=28	=28	=28	=28
-2FM	<F:maj> F:maj/5	64.674	.	voice
+2FM	F:maj/5	64.674	.	voice
 2CM	C:maj	65.691	.	voice
 =29	=29	=29	=29	=29
 1DM	D:maj	66.707	newline	voice
@@ -83,19 +83,19 @@
 1N	N	76.872	.	synthesizer
 =35	=35	=35	=35	=35
 *>B_verse	*>B_verse	*>B_verse	*>B_verse	*>B_verse
-1Bmm	<B:min7> B:min7/b3	78.887	newline	voice
+1Bmm	B:min7/b3	78.887	newline	voice
 =36	=36	=36	=36	=36
 1CM	C:maj6	80.922	.	voice
 =37	=37	=37	=37	=37
-1Bmm	<B:min7> B:min7/b3	82.958	.	voice
+1Bmm	B:min7/b3	82.958	.	voice
 =38	=38	=38	=38	=38
 1B-MM	B-:maj7	84.993	.	voice
 =39	=39	=39	=39	=39
-1Bmm	<B:min7> B:min7/b3	87.028	newline	voice
+1Bmm	B:min7/b3	87.028	newline	voice
 =40	=40	=40	=40	=40
 1CM	C:maj6	89.064	.	voice
 =41	=41	=41	=41	=41
-1Bmm	<B:min7> B:min7/b3	91.101	.	voice
+1Bmm	B:min7/b3	91.101	.	voice
 =42	=42	=42	=42	=42
 1B-M	B-:maj6	93.137	.	voice
 =43	=43	=43	=43	=43
@@ -154,22 +154,22 @@
 1N	N	139.989	.	synthesizer
 =66	=66	=66	=66	=66
 2Em	E:min	142.026	newline	voice
-2Em	<E:min> E:min/2	143.042	.	voice
+2Em	E:min/2	143.042	.	voice
 =67	=67	=67	=67	=67
-2Emm	<E:min9> E:min9/b3	144.057	.	voice
-2Emm	<E:min9> E:min9/4	145.073	.	voice
+2Emm	E:min9/b3	144.057	.	voice
+2Emm	E:min9/4	145.073	.	voice
 =68	=68	=68	=68	=68
 2Dm	D:min	146.089	.	voice
-2Dm	<D:min> D:min/2	147.105	.	voice
+2Dm	D:min/2	147.105	.	voice
 =69	=69	=69	=69	=69
-2Dmm	<D:min7> D:min7/b3	148.121	.	voice
+2Dmm	D:min7/b3	148.121	.	voice
 2Dmm	D:min7	149.136	.	voice
 =70	=70	=70	=70	=70
 2Em	E:min	150.152	newline	voice
-2Em	<E:min> E:min/2	151.169	.	voice
+2Em	E:min/2	151.169	.	voice
 =71	=71	=71	=71	=71
-2Emm	<E:min9> E:min9/b3	152.185	.	voice
-2Emm	<E:min9> E:min9/4	153.201	.	voice
+2Emm	E:min9/b3	152.185	.	voice
+2Emm	E:min9/4	153.201	.	voice
 =72	=72	=72	=72	=72
 1Dmm	D:min7	154.217	.	voice
 =73	=73	=73	=73	=73
@@ -189,12 +189,12 @@
 *>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
 1DM	D:maj	168.441	newline	voice
 =80	=80	=80	=80	=80
-2FM	<F:maj> F:maj/5	170.485	.	voice
+2FM	F:maj/5	170.485	.	voice
 2CM	C:maj	171.507	.	voice
 =81	=81	=81	=81	=81
 1DM	D:maj	172.528	.	voice
 =82	=82	=82	=82	=82
-2FM	<F:maj> F:maj/5	174.572	.	voice
+2FM	F:maj/5	174.572	.	voice
 2CM	C:maj	175.594	.	voice
 =83	=83	=83	=83	=83
 1DM	D:maj	176.616	newline	voice
@@ -210,12 +210,12 @@
 *>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
 1DM	D:maj	184.737	newline	voice
 =88	=88	=88	=88	=88
-2FM	<F:maj> F:maj/5	186.77	.	voice
+2FM	F:maj/5	186.77	.	voice
 2CM	C:maj	187.786	.	voice
 =89	=89	=89	=89	=89
 1DM	D:maj	188.802	.	voice
 =90	=90	=90	=90	=90
-2FM	<F:maj> F:maj/5	190.835	.	voice
+2FM	F:maj/5	190.835	.	voice
 2CM	C:maj	191.851	.	voice
 =91	=91	=91	=91	=91
 1DM	D:maj	192.868	newline	voice
@@ -231,12 +231,12 @@
 *>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
 1DM	D:maj	201.034	newline	voice
 =96	=96	=96	=96	=96
-2FM	<F:maj> F:maj/5	203.066	.	voice
+2FM	F:maj/5	203.066	.	voice
 2CM	C:maj	204.082	.	voice
 =97	=97	=97	=97	=97
 1DM	D:maj	205.098	.	voice
 =98	=98	=98	=98	=98
-2FM	<F:maj> F:maj/5	207.13	.	voice
+2FM	F:maj/5	207.13	.	voice
 2CM	C:maj	208.146	.	voice
 =99	=99	=99	=99	=99
 1DM	D:maj	209.162	newline	voice
@@ -252,12 +252,12 @@
 *>D_fadeout	*>D_fadeout	*>D_fadeout	*>D_fadeout	*>D_fadeout
 1DM	D:maj	217.314	newline	voice
 =104	=104	=104	=104	=104
-2FM	<F:maj> F:maj/5	219.348	.	voice
+2FM	F:maj/5	219.348	.	voice
 2CM	C:maj	220.365	.	voice
 =105	=105	=105	=105	=105
 1DM	D:maj	221.382	.	voice
 =106	=106	=106	=106	=106
-2FM	<F:maj> F:maj/5	223.416	.	voice
+2FM	F:maj/5	223.416	.	voice
 2CM	C:maj	224.432	.	voice
 =107	=107	=107	=107	=107
 1DM	D:maj	225.449	newline	voice
@@ -271,7 +271,7 @@
 4GM	G:maj	232.671	.	voice
 =111	=111	=111	=111	=111
 1DM	D:maj	233.153	.	voice
-1r;	<r> N	235.079	.	r
+1r;	N	235.079	.	r
 1r;	r	237.401	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Kisses On The Wind

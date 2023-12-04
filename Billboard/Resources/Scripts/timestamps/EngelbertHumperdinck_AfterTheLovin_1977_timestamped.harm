@@ -1,7 +1,7 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M6/8	*M6/8	*	*	*
 *C:	*C:	*	*	*
-1r;	<r> N	<0> 0	.	r
+1r;	N	0	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 2.Am	A:min	0.255	newline	synthesizer
@@ -48,9 +48,9 @@
 =20	=20	=20	=20	=20
 2.Dmm	D:min7	30.088	newline	voice
 =21	=21	=21	=21	=21
-2.B-M	<B-:maj> B-:maj/3	31.619	.	voice
+2.B-M	B-:maj/3	31.619	.	voice
 =22	=22	=22	=22	=22
-2.GM	<G:maj> G:maj/5	33.151	.	voice
+2.GM	G:maj/5	33.151	.	voice
 =23	=23	=23	=23	=23
 2.GM	G:maj	34.682	.	voice
 =24	=24	=24	=24	=24
@@ -81,9 +81,9 @@
 =36	=36	=36	=36	=36
 2.Dmm	D:min7	54.431	newline	voice
 =37	=37	=37	=37	=37
-2.B-M	<B-:maj> B-:maj/3	55.936	.	voice
+2.B-M	B-:maj/3	55.936	.	voice
 =38	=38	=38	=38	=38
-2.GM	<G:maj> G:maj/5	57.441	.	voice
+2.GM	G:maj/5	57.441	.	voice
 =39	=39	=39	=39	=39
 2.GM	G:maj	58.947	.	voice
 =40	=40	=40	=40	=40
@@ -118,7 +118,7 @@
 =54	=54	=54	=54	=54
 2.Am	A:min	81.945	.	voice
 =55	=55	=55	=55	=55
-2.F#dm	<F#:hdim7> F#:hdim7/b3	83.493	.	voice
+2.F#dm	F#:hdim7/b3	83.493	.	voice
 =56	=56	=56	=56	=56
 2.Dmm	D:min7	85.04	newline	voice
 =57	=57	=57	=57	=57
@@ -147,9 +147,9 @@
 =68	=68	=68	=68	=68
 2.Dmm	D:min7	103.547	newline	voice
 =69	=69	=69	=69	=69
-2.B-M	<B-:maj> B-:maj/3	105.055	.	voice
+2.B-M	B-:maj/3	105.055	.	voice
 =70	=70	=70	=70	=70
-2.GM	<G:maj> G:maj/5	106.562	.	voice
+2.GM	G:maj/5	106.562	.	voice
 =71	=71	=71	=71	=71
 2.GM	G:maj	108.07	.	voice
 =72	=72	=72	=72	=72
@@ -168,7 +168,7 @@
 =78	=78	=78	=78	=78
 2.EMm	E:7	118.836	.	voice
 =79	=79	=79	=79	=79
-2.EMm	<E:7> E:7/3	120.365	.	voice
+2.EMm	E:7/3	120.365	.	voice
 =80	=80	=80	=80	=80
 2.Am	A:min	121.894	newline	voice
 =81	=81	=81	=81	=81
@@ -213,7 +213,7 @@
 =100	=100	=100	=100	=100
 2.E-mm	E-:min7	153.19	newline	voice
 =101	=101	=101	=101	=101
-2.BM	<B:maj> B:maj/b4	154.779	.	voice
+2.BM	B:maj/b4	154.779	.	voice
 =102	=102	=102	=102	=102
 2.A-M	A-:maj	156.368	.	voice
 =103	=103	=103	=103	=103
@@ -223,9 +223,9 @@
 =105	=105	=105	=105	=105
 2.B-Mm	B-:11	161.07	.	voice
 =106	=106	=106	=106	=106
-2.A-dd	<A-:dim7> A-:dim7/2	162.594	.	voice
+2.A-dd	A-:dim7/2	162.594	.	voice
 =107	=107	=107	=107	=107
-2.A-dd	<A-:dim7> A-:dim7/2	164.118	.	voice
+2.A-dd	A-:dim7/2	164.118	.	voice
 =108	=108	=108	=108	=108
 *>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus	*>D_chorus
 2.G-MM	G-:maj7	165.642	newline	voice
@@ -297,14 +297,14 @@
 =141	=141	=141	=141	=141
 2.Fmm	F:min7	218.896	.	voice
 =142	=142	=142	=142	=142
-4.D-M	<D-:maj> D-:maj/3	220.476	.	voice
-4.A-M	<A-:maj> A-:maj/2	221.265	.	voice
+4.D-M	D-:maj/3	220.476	.	voice
+4.A-M	A-:maj/2	221.265	.	voice
 =143	=143	=143	=143	=143
 4.E-mm	E-:min7	222.055	.	voice
 4.A-Mm	A-:11	222.845	.	voice
 =144	=144	=144	=144	=144
 2.D-MM	D-:maj7	223.634	newline	fadeout
-1r;	<r> N	232.632	.	r
+1r;	N	232.632	.	r
 1r;	r	236.46	.	r
 *-	*-	*-	*-	*-
 !!!OTL: After The Lovin'

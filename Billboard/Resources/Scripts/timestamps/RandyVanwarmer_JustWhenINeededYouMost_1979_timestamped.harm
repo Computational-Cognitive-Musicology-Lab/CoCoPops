@@ -1,7 +1,7 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *A:	*A:	*	*	*
-1r;	<r> N	<0> 0	.	r
+1r;	N	0	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1AM	A:maj	0.302	newline	r
@@ -27,7 +27,7 @@
 =11	=11	=11	=11	=11
 1AM	A:maj6	25.418	.	voice
 =12	=12	=12	=12	=12
-1DM	<D:maj> D:maj/5	27.905	.	voice
+1DM	D:maj/5	27.905	.	voice
 =13	=13	=13	=13	=13
 1DM	D:maj	30.393	newline	voice
 =14	=14	=14	=14	=14
@@ -35,7 +35,7 @@
 =15	=15	=15	=15	=15
 1Bm	B:min	35.358	.	voice
 =16	=16	=16	=16	=16
-2AM	<A:maj> A:maj/5	37.841	.	voice
+2AM	A:maj/5	37.841	.	voice
 2EM	E:maj	39.082	.	voice
 =17	=17	=17	=17	=17
 1AM	A:maj	40.324	newline	voice
@@ -44,7 +44,7 @@
 =19	=19	=19	=19	=19
 1AM	A:maj6	45.278	.	voice
 =20	=20	=20	=20	=20
-1DM	<D:maj> D:maj/5	47.755	.	voice
+1DM	D:maj/5	47.755	.	voice
 =21	=21	=21	=21	=21
 1DM	D:maj	50.232	newline	voice
 =22	=22	=22	=22	=22
@@ -53,8 +53,8 @@
 1EM	E:maj	55.177	.	voice
 =24	=24	=24	=24	=24
 2AM	A:maj	57.65	.	voice
-4EM	<E:maj> E:maj/5	58.886	.	voice
-4AM	<A:maj> A:maj/3	59.504	.	voice
+4EM	E:maj/5	58.886	.	voice
+4AM	A:maj/3	59.504	.	voice
 =25	=25	=25	=25	=25
 *>C_trans	*>C_trans	*>C_trans	*>C_trans	*>C_trans
 1DM	D:maj	60.122	newline	voice
@@ -90,7 +90,7 @@
 =40	=40	=40	=40	=40
 1AM	A:maj6	97.407	.	voice
 =41	=41	=41	=41	=41
-1DM	<D:maj> D:maj/5	99.89	.	voice
+1DM	D:maj/5	99.89	.	voice
 =42	=42	=42	=42	=42
 1DM	D:maj	102.372	newline	voice
 =43	=43	=43	=43	=43
@@ -99,8 +99,8 @@
 1EM	E:maj	107.326	.	voice
 =45	=45	=45	=45	=45
 2AM	A:maj	109.803	.	voice
-4EM	<E:maj> E:maj/5	111.042	.	voice
-4AM	<A:maj> A:maj/3	111.661	.	voice
+4EM	E:maj/5	111.042	.	voice
+4AM	A:maj/3	111.661	.	voice
 =46	=46	=46	=46	=46
 *>C_trans	*>C_trans	*>C_trans	*>C_trans	*>C_trans
 1DM	D:maj	112.28	newline	voice
@@ -120,7 +120,7 @@
 =53	=53	=53	=53	=53
 1AM	A:maj6	129.683	.	guitar
 =54	=54	=54	=54	=54
-1DM	<D:maj> D:maj/5	132.172	.	guitar
+1DM	D:maj/5	132.172	.	guitar
 =55	=55	=55	=55	=55
 1DM	D:maj	134.661	newline	guitar
 =56	=56	=56	=56	=56
@@ -136,7 +136,7 @@
 =61	=61	=61	=61	=61
 1AM	A:maj6	149.493	.	guitar
 =62	=62	=62	=62	=62
-1DM	<D:maj> D:maj/5	151.993	.	guitar
+1DM	D:maj/5	151.993	.	guitar
 =63	=63	=63	=63	=63
 1DM	D:maj	154.494	newline	guitar
 =64	=64	=64	=64	=64
@@ -155,7 +155,7 @@
 =70	=70	=70	=70	=70
 1AM	A:maj6	171.744	.	voice
 =71	=71	=71	=71	=71
-1DM	<D:maj> D:maj/5	174.205	.	voice
+1DM	D:maj/5	174.205	.	voice
 =72	=72	=72	=72	=72
 1DM	D:maj	176.666	newline	voice
 =73	=73	=73	=73	=73
@@ -171,7 +171,7 @@
 =78	=78	=78	=78	=78
 1AM	A:maj6	191.495	.	voice
 =79	=79	=79	=79	=79
-1DM	<D:maj> D:maj/5	193.961	.	voice
+1DM	D:maj/5	193.961	.	voice
 =80	=80	=80	=80	=80
 1DM	D:maj	196.427	newline	voice
 =81	=81	=81	=81	=81
@@ -180,8 +180,8 @@
 1EM	E:maj	201.349	.	voice
 =83	=83	=83	=83	=83
 2AM	A:maj	203.81	.	voice
-4EM	<E:maj> E:maj/5	205.041	.	voice
-4AM	<A:maj> A:maj/3	205.656	.	voice
+4EM	E:maj/5	205.041	.	voice
+4AM	A:maj/3	205.656	.	voice
 =84	=84	=84	=84	=84
 1DM	D:maj	206.271	newline	voice
 =85	=85	=85	=85	=85
@@ -190,8 +190,8 @@
 1EM	E:maj	211.215	.	voice
 =87	=87	=87	=87	=87
 2AM	A:maj	213.687	.	voice
-4EM	<E:maj> E:maj/5	214.923	.	voice
-4AM	<A:maj> A:maj/3	215.541	.	voice
+4EM	E:maj/5	214.923	.	voice
+4AM	A:maj/3	215.541	.	voice
 =88	=88	=88	=88	=88
 1DM	D:maj	216.159	newline	voice
 =89	=89	=89	=89	=89
@@ -207,7 +207,7 @@
 1AM	A:maj6	228.546	.	piano
 =94	=94	=94	=94	=94
 1AM	A:maj	231.021	.	piano
-1r;	<r> N	238.446	.	r
+1r;	N	238.446	.	r
 1r;	r	243.513	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Just When I Needed You Most

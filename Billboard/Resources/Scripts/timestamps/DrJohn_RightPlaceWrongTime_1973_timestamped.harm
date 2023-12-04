@@ -1,8 +1,8 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *E-:	*E-:	*	*	*
-1r;	<r> N	<0> 0	.	r
-1r;	<r> N	0.029	.	r
+1r;	N	0	.	r
+1r;	N	0.029	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1N	N	0.325	newline	synthesizer
@@ -24,19 +24,19 @@
 *>B_instrumental	*>B_instrumental	*>B_instrumental	*>B_instrumental	*>B_instrumental
 1E-mm	E-:min7	21.736	newline	synthesizer
 =10	=10	=10	=10	=10
-1A-Mm	<A-:7> A-:7/5	24.24	.	synthesizer
+1A-Mm	A-:7/5	24.24	.	synthesizer
 =11	=11	=11	=11	=11
 1E-mm	E-:min7	26.743	.	synthesizer
 =12	=12	=12	=12	=12
-1A-Mm	<A-:7> A-:7/5	29.246	.	synthesizer
+1A-Mm	A-:7/5	29.246	.	synthesizer
 =13	=13	=13	=13	=13
 1E-mm	E-:min7	31.749	newline	synthesizer
 =14	=14	=14	=14	=14
-1A-Mm	<A-:7> A-:7/5	34.287	.	synthesizer
+1A-Mm	A-:7/5	34.287	.	synthesizer
 =15	=15	=15	=15	=15
 1E-mm	E-:min7	36.825	.	synthesizer
 =16	=16	=16	=16	=16
-1A-Mm	<A-:7> A-:7/5	39.363	.	synthesizer
+1A-Mm	A-:7/5	39.363	.	synthesizer
 =17	=17	=17	=17	=17
 *>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
 1E-mm	E-:min7	41.9	newline	voice
@@ -70,7 +70,7 @@
 1E-mm	E-:min7	72.743	newline	voice
 =30	=30	=30	=30	=30
 2E-mm	E-:min7	75.313	.	voice
-2A-Mm	<A-:7> A-:7/b7	76.598	.	voice
+2A-Mm	A-:7/b7	76.598	.	voice
 =31	=31	=31	=31	=31
 1E-mm	E-:min7	77.883	.	voice
 =32	=32	=32	=32	=32
@@ -79,7 +79,7 @@
 1E-mm	E-:min7	83.023	newline	voice
 =34	=34	=34	=34	=34
 2E-mm	E-:min7	85.626	.	voice
-2A-Mm	<A-:7> A-:7/b7	86.927	.	voice
+2A-Mm	A-:7/b7	86.927	.	voice
 =35	=35	=35	=35	=35
 1E-mm	E-:min7	88.228	.	voice
 =36	=36	=36	=36	=36
@@ -182,7 +182,7 @@
 1E-mm	E-:min7	202.434	newline	voice
 =80	=80	=80	=80	=80
 2E-mm	E-:min7	205.039	.	voice
-2A-Mm	<A-:7> A-:7/b7	206.341	.	voice
+2A-Mm	A-:7/b7	206.341	.	voice
 =81	=81	=81	=81	=81
 1E-mm	E-:min7	207.644	.	voice
 =82	=82	=82	=82	=82
@@ -191,7 +191,7 @@
 1E-mm	E-:min7	212.854	newline	voice
 =84	=84	=84	=84	=84
 2E-mm	E-:min7	215.481	.	voice
-2A-Mm	<A-:7> A-:7/b7	216.794	.	voice
+2A-Mm	A-:7/b7	216.794	.	voice
 =85	=85	=85	=85	=85
 1E-mm	E-:min7	218.108	.	voice
 =86	=86	=86	=86	=86
@@ -270,7 +270,7 @@
 1E-mm	E-:min7	306.61	newline	guitar
 =120	=120	=120	=120	=120
 2E-mm	E-:min7	309.196	.	guitar
-2A-Mm	<A-:7> A-:7/b7	310.489	.	guitar
+2A-Mm	A-:7/b7	310.489	.	guitar
 =121	=121	=121	=121	=121
 1E-mm	E-:min7	311.782	.	guitar
 =122	=122	=122	=122	=122
@@ -279,9 +279,9 @@
 1E-mm	E-:min7	316.954	newline	guitar
 =124	=124	=124	=124	=124
 2E-mm	E-:min7	319.515	.	guitar
-2A-Mm	<A-:7> A-:7/b7	320.795	.	guitar
-1r;	<r> N	322.076	.	r
-1r;	<r> N	331.999	.	r
+2A-Mm	A-:7/b7	320.795	.	guitar
+1r;	N	322.076	.	r
+1r;	N	331.999	.	r
 1r;	r	335.02	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Right Place Wrong Time

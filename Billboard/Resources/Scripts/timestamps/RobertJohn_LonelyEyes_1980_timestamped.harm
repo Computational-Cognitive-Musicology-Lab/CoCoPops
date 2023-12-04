@@ -1,7 +1,7 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *F:	*F:	*	*	*
-1r;	<r> N	<0> 0	.	r
+1r;	N	0	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 1N	N	0.325	newline	r
@@ -13,17 +13,17 @@
 =4	=4	=4	=4	=4
 1B-M	B-:maj	18.168	.	guitar
 =5	=5	=5	=5	=5
-1B-M	<B-:maj> B-:maj/2	20.707	.	guitar
+1B-M	B-:maj/2	20.707	.	guitar
 =6	=6	=6	=6	=6
 *>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
 1FM	F:maj	23.247	newline	voice
 =7	=7	=7	=7	=7
-1CM	<C:maj> C:maj/4	25.768	.	voice
+1CM	C:maj/4	25.768	.	voice
 =8	=8	=8	=8	=8
 1B-M	B-:maj	28.29	.	voice
 =9	=9	=9	=9	=9
 2Gm	G:min	30.811	.	voice
-2B-M	<B-:maj> B-:maj/2	32.072	.	voice
+2B-M	B-:maj/2	32.072	.	voice
 =10	=10	=10	=10	=10
 *>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
 1Dm	D:min	33.332	newline	voice
@@ -32,7 +32,7 @@
 =12	=12	=12	=12	=12
 1B-M	B-:maj	38.333	.	voice
 =13	=13	=13	=13	=13
-1B-M	<B-:maj> B-:maj/2	40.833	.	voice
+1B-M	B-:maj/2	40.833	.	voice
 =14	=14	=14	=14	=14
 *>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus	*>B_chorus
 1FM	F:maj	43.333	newline	voice
@@ -41,7 +41,7 @@
 =16	=16	=16	=16	=16
 1B-M	B-:maj	48.376	.	voice
 =17	=17	=17	=17	=17
-1B-M	<B-:maj> B-:maj/2	50.898	.	voice
+1B-M	B-:maj/2	50.898	.	voice
 =18	=18	=18	=18	=18
 1FM	F:maj	53.419	newline	voice
 =19	=19	=19	=19	=19
@@ -51,26 +51,26 @@
 2B-m	B-:min	59.756	.	voice
 =21	=21	=21	=21	=21
 2FM	F:maj	61.024	.	voice
-2B-M	<B-:maj> B-:maj/2	62.291	.	voice
+2B-M	B-:maj/2	62.291	.	voice
 =22	=22	=22	=22	=22
 *>C_verse	*>C_verse	*>C_verse	*>C_verse	*>C_verse
 1FM	F:maj	63.559	newline	voice
 =23	=23	=23	=23	=23
-1CM	<C:maj> C:maj/4	66.099	.	voice
+1CM	C:maj/4	66.099	.	voice
 =24	=24	=24	=24	=24
 1B-M	B-:maj	68.639	.	voice
 =25	=25	=25	=25	=25
 2Gm	G:min	71.179	.	voice
-2B-M	<B-:maj> B-:maj/2	72.45	.	voice
+2B-M	B-:maj/2	72.45	.	voice
 =26	=26	=26	=26	=26
 1FM	F:maj	73.72	newline	voice
 =27	=27	=27	=27	=27
-1CM	<C:maj> C:maj/4	76.235	.	voice
+1CM	C:maj/4	76.235	.	voice
 =28	=28	=28	=28	=28
 1B-M	B-:maj	78.75	.	voice
 =29	=29	=29	=29	=29
 2Gm	G:min	81.266	.	voice
-2B-M	<B-:maj> B-:maj/2	82.523	.	voice
+2B-M	B-:maj/2	82.523	.	voice
 =30	=30	=30	=30	=30
 *>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge	*>D_bridge
 1Dm	D:min	83.781	newline	voice
@@ -88,7 +88,7 @@
 =36	=36	=36	=36	=36
 1B-M	B-:maj	98.753	.	voice
 =37	=37	=37	=37	=37
-1B-M	<B-:maj> B-:maj/2	101.27	.	voice
+1B-M	B-:maj/2	101.27	.	voice
 =38	=38	=38	=38	=38
 1FM	F:maj	103.788	newline	voice
 =39	=39	=39	=39	=39
@@ -103,12 +103,12 @@
 *>C2_verse	*>C2_verse	*>C2_verse	*>C2_verse	*>C2_verse
 1GM	G:maj	113.841	newline	voice
 =43	=43	=43	=43	=43
-1DM	<D:maj> D:maj/4	116.338	.	voice
+1DM	D:maj/4	116.338	.	voice
 =44	=44	=44	=44	=44
 1CM	C:maj	118.835	.	voice
 =45	=45	=45	=45	=45
 2Am	A:min	121.332	.	voice
-2CM	<C:maj> C:maj/2	122.581	.	voice
+2CM	C:maj/2	122.581	.	voice
 =46	=46	=46	=46	=46
 *>D2_bridge	*>D2_bridge	*>D2_bridge	*>D2_bridge	*>D2_bridge
 1Em	E:min	123.83	newline	voice
@@ -119,7 +119,7 @@
 =49	=49	=49	=49	=49
 1DMm	D:7	131.351	.	voice
 =50	=50	=50	=50	=50
-1CM	<C:maj> C:maj/2	133.858	.	voice
+1CM	C:maj/2	133.858	.	voice
 =51	=51	=51	=51	=51
 *>B2_chorus	*>B2_chorus	*>B2_chorus	*>B2_chorus	*>B2_chorus
 1GM	G:maj	136.365	newline	voice
@@ -128,7 +128,7 @@
 =53	=53	=53	=53	=53
 1CM	C:maj	141.393	.	voice
 =54	=54	=54	=54	=54
-1CM	<C:maj> C:maj/2	143.907	.	voice
+1CM	C:maj/2	143.907	.	voice
 =55	=55	=55	=55	=55
 1GM	G:maj	146.421	newline	voice
 =56	=56	=56	=56	=56
@@ -138,7 +138,7 @@
 2Cm	C:min	152.728	.	voice
 =58	=58	=58	=58	=58
 2GM	G:maj	153.989	.	voice
-2CM	<C:maj> C:maj/2	155.251	.	voice
+2CM	C:maj/2	155.251	.	voice
 =59	=59	=59	=59	=59
 *>B2_outro	*>B2_outro	*>B2_outro	*>B2_outro	*>B2_outro
 1GM	G:maj	156.512	newline	voice
@@ -147,7 +147,7 @@
 =61	=61	=61	=61	=61
 1CM	C:maj	161.536	.	voice
 =62	=62	=62	=62	=62
-1CM	<C:maj> C:maj/2	164.049	.	voice
+1CM	C:maj/2	164.049	.	voice
 =63	=63	=63	=63	=63
 1GM	G:maj	166.561	newline	voice
 =64	=64	=64	=64	=64
@@ -155,7 +155,7 @@
 =65	=65	=65	=65	=65
 1CM	C:maj	171.565	.	voice
 =66	=66	=66	=66	=66
-1CM	<C:maj> C:maj/2	174.068	.	voice
+1CM	C:maj/2	174.068	.	voice
 =67	=67	=67	=67	=67
 *>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout	*>_fadeout
 1GM	G:maj	176.57	newline	voice
@@ -164,8 +164,8 @@
 =69	=69	=69	=69	=69
 1CM	C:maj	181.684	.	voice
 =70	=70	=70	=70	=70
-1CM	<C:maj> C:maj/2	184.242	.	voice
-1r;	<r> N	186.799	.	r
+1CM	C:maj/2	184.242	.	voice
+1r;	N	186.799	.	r
 1r;	r	190.276	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Lonely Eyes
