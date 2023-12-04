@@ -5,13 +5,13 @@
 *A:	*A:	*A:	*	*A:	*	*	*	*	*
 *	*	*M4/4	*	*M4/4	*	*	*	*	*
 *	*	*clefG2	*	*clefG2	*	*	*	*	*
-1r;	<r> N	r;	.	r;	.	.	0	.	r
+1r;	N	r;	.	r;	.	.	0	.	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
-1AM	<A:1> A:1/1	1r	.	1r	.	.	0.441	newline	bass
+1AM	<A:1> A:1	1r	.	1r	.	.	0.441	newline	bass
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-1AM	<A:1> A:1/1	1r	.	1r	.	.	2.421	.	bass
+1AM	<A:1> A:1	1r	.	1r	.	.	2.421	.	bass
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 1AM	<A:maj> A:maj	1r	.	1r	.	.	4.4	.	bass
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
@@ -290,9 +290,9 @@
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude	*>Label>Interlude
-1AM	<A:1> A:1/1	1r	.	1r	.	.	78.615	newline	bass
+1AM	<A:1> A:1	1r	.	1r	.	.	78.615	newline	bass
 =42	=42	=42	=42	=42	=42	=42	=42	=42	=42
-1AM	<A:1> A:1/1	1r	.	1r	.	.	80.55	.	bass
+1AM	<A:1> A:1	1r	.	1r	.	.	80.55	.	bass
 =43	=43	=43	=43	=43	=43	=43	=43	=43	=43
 1AM	<A:maj> A:maj	1r	.	1r	.	.	82.485	.	bass
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44
@@ -508,7 +508,7 @@
 =73	=73	=73	=73	=73	=73	=73	=73	=73	=73
 *>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-1AM	<A:1> A:1/1	8a]	_	8r	.	.	140.989	newline	voice
+1AM	<A:1> A:1	8a]	_	8r	.	.	140.989	newline	voice
 .	.	8r	.	4f#	Mm-	.	.	.	.
 .	.	4r	.	.	.	.	.	.	.
 .	.	.	.	4.a	-hm	.	.	.	.
@@ -517,7 +517,7 @@
 .	.	.	.	4f#	_	.	.	.	.
 .	.	[8a	-hm	.	.	.	.	.	.
 =74	=74	=74	=74	=74	=74	=74	=74	=74	=74
-1DM	<D:1> D:1/1	8a]	_	8r	.	.	142.952	.	voice
+1DM	<D:1> D:1	8a]	_	8r	.	.	142.952	.	voice
 .	.	8r	.	4f#	Mm-	.	.	.	.
 .	.	4r	.	.	.	.	.	.	.
 .	.	.	.	4.a	-hm	.	.	.	.
@@ -526,7 +526,7 @@
 .	.	8a	me	4f#	_	.	.	.	.
 .	.	[8a	ba-	.	.	.	.	.	.
 =75	=75	=75	=75	=75	=75	=75	=75	=75	=75
-1AM	<A:1> A:1/1	8a]	_	8r	.	.	144.915	.	voice
+1AM	<A:1> A:1	8a]	_	8r	.	.	144.915	.	voice
 .	.	4f#	-by	8cc	Take	.	.	.	.
 .	.	.	.	8f#	me	.	.	.	.
 .	.	8r	.	4a	ba-	.	.	.	.
@@ -535,7 +535,7 @@
 .	.	8f#	me	.	.	.	.	.	.
 .	.	[8a	ba-	8r	.	.	.	.	.
 =76	=76	=76	=76	=76	=76	=76	=76	=76	=76
-1DM	<D:1> D:1/1	8a]	_	8r	.	.	146.878	.	voice
+1DM	<D:1> D:1	8a]	_	8r	.	.	146.878	.	voice
 .	.	4f#	-by	8f#	Love	.	.	.	.
 .	.	.	.	8f#	me	.	.	.	.
 .	.	8r	.	4a	ba-	.	.	.	.
@@ -544,7 +544,7 @@
 .	.	8dd	me	.	.	.	.	.	.
 .	.	[8cc	ba-	8r	.	.	.	.	.
 =77	=77	=77	=77	=77	=77	=77	=77	=77	=77
-1AM	<A:1> A:1/1	8cc]	_	8r	.	.	148.84	newline	voice
+1AM	<A:1> A:1	8cc]	_	8r	.	.	148.84	newline	voice
 .	.	4a	-by	8dd	Need	.	.	.	.
 .	.	.	.	8dd	me	.	.	.	.
 .	.	8r	.	4cc	ba-	.	.	.	.
@@ -552,7 +552,7 @@
 .	.	4f#	Mm-	4a	-by	.	.	.	.
 .	.	[8a	-hm	8r	.	.	.	.	.
 =78	=78	=78	=78	=78	=78	=78	=78	=78	=78
-1DM	<D:1> D:1/1	8a]	_	8r	.	.	150.806	.	voice
+1DM	<D:1> D:1	8a]	_	8r	.	.	150.806	.	voice
 .	.	8r	.	4f#	Mm-	.	.	.	.
 .	.	4r	.	.	.	.	.	.	.
 .	.	.	.	4.a	-hm	.	.	.	.
@@ -561,14 +561,14 @@
 .	.	.	.	4f#	_	.	.	.	.
 .	.	8a	-hm	.	.	.	.	.	.
 =79	=79	=79	=79	=79	=79	=79	=79	=79	=79
-1DM	<D:1> D:1/1	8cc	Can't	8cc	Can't	.	152.771	.	voice
+1DM	<D:1> D:1	8cc	Can't	8cc	Can't	.	152.771	.	voice
 .	.	4b	you	4b	you	.	.	.	.
 .	.	4a	see	4a	see	C	.	.	.
 .	.	8f#	that	8f#	that	.	.	.	.
 .	.	8a	I'm	8a	I'm	.	.	.	.
 .	.	8f#	_	8f#	_	.	.	.	.
 =80	=80	=80	=80	=80	=80	=80	=80	=80	=80
-1EM	<E:1> E:1/1	4cc#	lone-	4cc#	lone-	.	154.736	.	voice
+1EM	<E:1> E:1	4cc#	lone-	4cc#	lone-	.	154.736	.	voice
 .	.	4cc#	-ly	4cc#	-ly	C	.	.	.
 .	.	8r	.	2r	.	.	.	.	.
 .	.	4b	Res-	.	.	.	.	.	.
@@ -576,43 +576,43 @@
 =81	=81	=81	=81	=81	=81	=81	=81	=81	=81
 *>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2	*>Letter>C2
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
-1AM	<A:1> A:1/1	8a	me	1r	.	C	156.701	newline	bass
+1AM	<A:1> A:1	8a	me	1r	.	C	156.701	newline	bass
 .	.	4f#	_	.	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.	.
 .	.	4f#	Res-	.	.	.	.	.	.
 .	.	8f#	-cue	.	.	.	.	.	.
 =82	=82	=82	=82	=82	=82	=82	=82	=82	=82
-1DM	<D:1> D:1/1	8a	me	1r	.	C	158.602	.	bass
+1DM	<D:1> D:1	8a	me	1r	.	C	158.602	.	bass
 .	.	4f#	_	.	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.	.
 .	.	[4.f#	Mm-	.	.	.	.	.	.
 =83	=83	=83	=83	=83	=83	=83	=83	=83	=83
-1AM	<A:1> A:1/1	8f#]	_	1r	.	.	160.503	.	bass
+1AM	<A:1> A:1	8f#]	_	1r	.	.	160.503	.	bass
 .	.	4a	-hm	.	.	.	.	.	.
 .	.	8f#	_	.	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.	.
 .	.	4f#	Mm-	.	.	.	.	.	.
 .	.	8a	-hm	.	.	.	.	.	.
 =84	=84	=84	=84	=84	=84	=84	=84	=84	=84
-1DM	<D:1> D:1/1	4cc	_	1r	.	.	162.404	.	bass
+1DM	<D:1> D:1	4cc	_	1r	.	.	162.404	.	bass
 .	.	4cc	_	.	.	.	.	.	.
 .	.	4a	_	.	.	.	.	.	.
 .	.	4f#	_	.	.	.	.	.	.
 =85	=85	=85	=85	=85	=85	=85	=85	=85	=85
 *>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
-1AM	<A:1> A:1/1	4a	_	1r	.	.	164.305	newline	bass
+1AM	<A:1> A:1	4a	_	1r	.	.	164.305	newline	bass
 .	.	4r	.	.	.	.	.	.	.
 .	.	2r	.	.	.	.	.	.	.
 =86	=86	=86	=86	=86	=86	=86	=86	=86	=86
-1DM	<D:1> D:1/1	1r	.	1r	.	.	165.959	.	bass
+1DM	<D:1> D:1	1r	.	1r	.	.	165.959	.	bass
 =87	=87	=87	=87	=87	=87	=87	=87	=87	=87
-1DM	<D:1> D:1/1	1r	.	1r	.	.	167.614	.	bass
+1DM	<D:1> D:1	1r	.	1r	.	.	167.614	.	bass
 =88	=88	=88	=88	=88	=88	=88	=88	=88	=88
-1EM	<E:1> E:1/1	1r	.	1r	.	.	169.268	.	bass
-1r;	<r> N	r;	.	r;	.	.	170.922	.	r
-1r;	<r> N	r;	.	r;	.	.	173.244	.	r
+1EM	<E:1> E:1	1r	.	1r	.	.	169.268	.	bass
+1r;	N	r;	.	r;	.	.	170.922	.	r
+1r;	N	r;	.	r;	.	.	173.244	.	r
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1965/10/30
 !!!BillboardPeak: 4
