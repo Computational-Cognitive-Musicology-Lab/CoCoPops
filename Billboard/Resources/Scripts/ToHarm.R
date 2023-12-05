@@ -3,7 +3,7 @@ library(humdrumR)
 
 
 
-bb <- readHumdrum('~/Bridge/Research/Data/CoCoPops/Billboard/Data/.*hum|.*harm')
+bb <- readHumdrum('~/Bridge/Research/Data/CoCoPops/Billboard/Resources/Scripts/timestamps/.*hum|.*harm')
 
 
 bb |> 
