@@ -16,7 +16,7 @@ sampleData$MirexFile <- mirexfiles[match(sampleData$ID, mirexid)]
 generateTS <- function(humfile, mirexfile, file) {
   ###
    hummat <- stringi::stri_list2matrix(strsplit(humfile, split = '\t')) |> t()
-   humchord <- hummat[ , hummat[grepl('^\\*\\*', humfile), ] == '**chordsym']
+   humchord <- hummat[ , hummat[grepl('^\\*\\*', humfile), ] == '**harte']
    humchord <- ifelse(grepl('^[.*=!]', humchord), NA, humchord)
    humchord <- gsub(' \\(.*', '', humchord)
    
@@ -36,25 +36,28 @@ generateTS <- function(humfile, mirexfile, file) {
    mirexmat <- stringi::stri_list2matrix(strsplit(mirexfile, split = '\t')) |> t()
 
    mirexchord <- mirexmat[, 3]
-   mirexchord <- gsub('/[^_]*(_*)', '\\1', mirexchord)
+   # mirexchord <- gsub('/[^_]*(_*)', '\\1', mirexchord)
+   mirexchord <- gsub('1/1', '1', mirexchord)
    mirexchord[mirexchord == 'X'] <- 'N'
    mirexchord <- gsub('b:', '-:', mirexchord)
    mir <- data.table(Time =  round(as.numeric(mirexmat[, 1]), 3), Chord = mirexchord)
    if (is.na(tail(mir$Time, 1) )) mir$Time[nrow(mir)] <- round(as.numeric(mirexmat[nrow(mir) - 1,2]), 3) # last timestamp is from "end" column
    
+   thresh <- .25 #max(mir[, (mean(diff(Time)) / 2)], .5)
+   mir <- mir[!(c(diff(Time), 1) < thresh & Chord == c('', head(Chord, -1)))] # remove short repeated chords
    #
    
-   if (!file %in% c("SimonAndGarfunkel_ElCondorPasa_1970", "JohnnyHorton_TheBattleOfNewOrleans_1959" )) {
+   if (!file %in% c()) {
       humfirstchord <- which(!is.na(hum$Chord) & !hum$Chord %in% c('r', 'N'))[1]
       mirfirstchord <- which(mir$Chord != 'N')[1]
       humfirsttime <- hum$Time[humfirstchord]
       mirfirsttime <- mir$Time[mirfirstchord]
-      if (!is.na(humfirsttime) && chordsMatch(hum$Chord[humfirstchord], mir$Chord[mirfirstchord])$Match && abs(humfirsttime- mirfirsttime) < 10 && abs(humfirsttime- mirfirsttime) > 0) {
-         
-         cat('\tChanging first timestamp in .hum file by', humfirsttime - mirfirsttime,'\n')
+      if (!is.na(humfirsttime) && chordsMatch(hum$Chord[humfirstchord], mir$Chord[mirfirstchord])$Match && abs(humfirsttime- mirfirsttime) < 20 && abs(humfirsttime- mirfirsttime) > 0) {
+
+         cat('\tChanging first timestamp in .hum file by', humfirsttime - mirfirsttime)
          hum$Time[humfirstchord] <- mir$Time[mirfirstchord]
-         
-         
+
+
       }
    }
    
@@ -69,7 +72,6 @@ generateTS <- function(humfile, mirexfile, file) {
              .hum <- hum[Spans == span]
              .mir <- mir[Spans == span]
              
-             if (inspect) browser()
              if (nrow(.mir) == 0) {
                 .hum$NewTime <- .hum$NewChord <- NA
                 .hum$Extra <- ''
@@ -90,15 +92,14 @@ generateTS <- function(humfile, mirexfile, file) {
    
    
    hum <- cbind(hum, hum[, chordsMatch(Chord, NewChord)])
-   
-   hum <- blankend(hum, file == 'StephanieMills_NeverKnewLoveLikeThisBefore_1980', 260)
-   hum <- blankend(hum, file == 'Madonna_OhFather_1990', 557)
-   hum <- blankend(hum, file == 'LedZeppelin_OverTheHillsAndFarAway_1973', 315)
-   hum <- blankend(hum, file == 'SpandauBallet_True_1983', 106)
-   hum <- blankend(hum, file == 'EricClapton_WillieAndTheHandJive_1974', 32)
-   hum <- blankend(hum, file == 'EarthWindAndFire_September_1979', 466)
-   hum <- blankend(hum, file == 'Heart_MagicMan_1976', 565)
-   hum <- blankend(hum, file == 'TheBeachBoys_Kokomo_1988', 514)
+   # hum <- blankend(hum, file == 'StephanieMills_NeverKnewLoveLikeThisBefore_1980', 260)
+   # hum <- blankend(hum, file == 'Madonna_OhFather_1990', 557)
+   # hum <- blankend(hum, file == 'LedZeppelin_OverTheHillsAndFarAway_1973', 315)
+   # hum <- blankend(hum, file == 'SpandauBallet_True_1983', 106)
+   # hum <- blankend(hum, file == 'EricClapton_WillieAndTheHandJive_1974', 32)
+   # hum <- blankend(hum, file == 'EarthWindAndFire_September_1979', 466)
+   # hum <- blankend(hum, file == 'Heart_MagicMan_1976', 565)
+   # hum <- blankend(hum, file == 'TheBeachBoys_Kokomo_1988', 514)
    hum
           
 }
@@ -117,7 +118,6 @@ chordsMatch <- function(old, new) {
    newroot <- semits(new, simple = TRUE, Exclusive = 'kern')
    oldroot[old %in% c('r', 'N')] <- -10
    newroot[new == 'N'] <- -10
-   
    override <- grepl('_XXX', new)
    
    oldqual <- gsub('^.*:', '', old)
@@ -136,34 +136,48 @@ generateFiles <- function(tsTable, filename, humfile) {
    if (!dir.exists('Resources/Scripts/timestamps')) dir.create('Resources/Scripts/timestamps')
    
    filename <- paste0('Resources/Scripts/timestamps/', filename)
-   
    if (tsTable[ , any(!Match, na.rm = TRUE)]) {
       return(tsTable[!is.na(NewTime)])
    } else {
       # fwrite(tsTable, file = paste0(filename, '.good'))
      newspine <- tsTable[ , ifelse(is.na(NewTime), Slate, NewTime)]
-     newlines <- humfile
-     newlines[tsTable$Record] <- paste0(humfile[tsTable$Record], '\t', newspine)
+     
+     hummat <- stringi::stri_list2matrix(strsplit(humfile, split = '\t')) |> t()
+     hummat[,3] <- newspine
+     newlines <- apply(hummat, 1, paste, collapse = '\t')
+     # newlines[tsTable$Record] <- paste0(humfile[tsTable$Record], '\t', newspine)
      newlines[grepl('^!!!', humfile)] <- humfile[grepl('!!!', humfile)] 
      
-     writeLines(newlines, paste0(filename, '_timestamped.hum'))
+     writeLines(newlines, paste0(filename, '_timestamped.harm'))
    }
    NULL
 }
 
-i <- 1:nrow(sampleData)
 inspect <- FALSE
+i <- 49:nrow(sampleData)
+i <- 76 ; inspect <- TRUE
+badcount <- c()
 sampleData[i, {
-   cat(i, ': ' , Filename, '\n', sep = '')
+   cat(i, ': ' , Filename, sep = '')
   humfile <- readLines(paste0('Data/', Filename, '.harm'))
   mirexfile <- readLines(paste0('Resources/McGill_Data/MirexFiles/', stringr::str_pad(ID, width=4, pad = '0'), 'full.lab'))
   
   tsTable <- generateTS(humfile, mirexfile, Filename)
-  if (is.null(tsTable)) file.copy(paste0('Data/', Filename, '.harm'), paste0('Resources/Scripts/timestamps/', Filename, '_timestamped.hum'))
+  if (is.null(tsTable)) file.copy(paste0('Data/', Filename, '.harm'), paste0('Resources/Scripts/timestamps/', Filename, '_timestamped.harm'))
   bad <- generateFiles(tsTable, Filename, humfile)
-  if (is.null(bad)) NULL else list(File = Filename, Bad = list(bad), ID = ID, N = sum(!bad$Match, na.rm = TRUE), P = mean(!bad$Match, na.rm = TRUE))
+  output <- if (is.null(bad)) {
+     badcount <- c(badcount, FALSE) 
+     NULL
+     } else {
+     badcount <- c(badcount, TRUE)
+     cat('->BAD\t', sum(badcount), '/', length(badcount))
+      list(File = Filename, Bad = list(bad), ID = ID, N = sum(!bad$Match, na.rm = TRUE), P = mean(!bad$Match, na.rm = TRUE))
+      
+  } 
   
+  cat('\n')
   
+  output
 }, by = i ] -> bad
 
 
