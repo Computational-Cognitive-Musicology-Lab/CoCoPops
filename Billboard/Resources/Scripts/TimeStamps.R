@@ -154,34 +154,40 @@ generateFiles <- function(tsTable, filename, humfile) {
 }
 
 inspect <- FALSE
-i <- 49:nrow(sampleData)
-i <- 76 ; inspect <- TRUE
-badcount <- c()
-sampleData[i, {
-   cat(i, ': ' , Filename, sep = '')
-  humfile <- readLines(paste0('Data/', Filename, '.harm'))
-  mirexfile <- readLines(paste0('Resources/McGill_Data/MirexFiles/', stringr::str_pad(ID, width=4, pad = '0'), 'full.lab'))
-  
-  tsTable <- generateTS(humfile, mirexfile, Filename)
-  if (is.null(tsTable)) file.copy(paste0('Data/', Filename, '.harm'), paste0('Resources/Scripts/timestamps/', Filename, '_timestamped.harm'))
-  bad <- generateFiles(tsTable, Filename, humfile)
-  output <- if (is.null(bad)) {
-     badcount <- c(badcount, FALSE) 
-     NULL
-     } else {
-     badcount <- c(badcount, TRUE)
-     cat('->BAD\t', sum(badcount), '/', length(badcount))
-      list(File = Filename, Bad = list(bad), ID = ID, N = sum(!bad$Match, na.rm = TRUE), P = mean(!bad$Match, na.rm = TRUE))
+i <- 0
+go <- TRUE
+while(go) {
+   i <- i + 1
+   go <- i < nrow(sampleData)
+   with(sampleData[i],  {
+      cat(i, ': ' , Filename, sep = '')
+      humfile <- readLines(paste0('Data/', Filename, '.harm'))
+      mirexfile <- readLines(paste0('Resources/McGill_Data/MirexFiles/', stringr::str_pad(ID, width=4, pad = '0'), 'full.lab'))
       
-  } 
-  
-  cat('\n')
-  
-  output
-}, by = i ] -> bad
+      tsTable <- generateTS(humfile, mirexfile, Filename)
+      if (is.null(tsTable)) file.copy(paste0('Data/', Filename, '.harm'), paste0('Resources/Scripts/timestamps/', Filename, '_timestamped.harm'))
+      bad <- generateFiles(tsTable, Filename, humfile)
+      output <- if (is.null(bad)) {
+         badcount <- c(badcount, FALSE) 
+         NULL
+      } else {
+         
+         cat('->BAD')
+         list(File = Filename, Bad = list(bad), ID = ID, N = sum(!bad$Match, na.rm = TRUE), P = mean(!bad$Match, na.rm = TRUE)) ->> bad
+         go <<- FALSE
+      } 
+      
+      cat('\n')
+      
+      output
+   }) 
+}
 
 
-which <- bad[1]$Bad[[1]][, which(!Match)]
-print(bad[1]$ID)
 
-if (diff(range(which)) < 20) bad[1]$Bad[[1]][Filter(\(x) x >0, (min(which) - 10):(max(which) + 5))] |> print() else print(which)
+which <- bad$Bad[[1]][, which(!Match)]
+
+if (diff(range(which)) < 20) bad$Bad[[1]][Filter(\(x) x >0, (min(which) - 10):(max(which) + 5))] |> print() else bad$Bad[[1]][Filter(\(x) x >0, (which[1]- 10):(which[1] + 10))] |> print()
+paste('vim -O ../../../Data/', bad$File, '.harm ', '../../McGill_Data/MirexFiles/', stringr::str_pad(bad$ID, width=4, pad = '0'), 'full.lab', sep ='') |> clipr::write_clip()
+
+print(i)
