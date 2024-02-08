@@ -18,7 +18,8 @@ bbharm |> filter(Exclusive == 'harmony') |>
    pull_data.table() |> 
    unique() -> checktab
 
-
+checktab[, Root := tertianSet(Harm)@Root]
+setorder(checktab, Root)
 
 bbharm |> within(Harm2 <- {
    inversion <- str_extract(Token[Exclusive == 'harte'], '/.*') |> str_extract('[1-7]') |> chartr(old = '1234567', new = 'aebfcgd')
