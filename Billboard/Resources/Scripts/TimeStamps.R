@@ -37,25 +37,31 @@ generateTS <- function(humfile, mirexfile, file) {
    mirexmat <- stringi::stri_list2matrix(strsplit(mirexfile, split = '\t')) |> t()
 
    mirexchord <- mirexmat[, 3]
+
+   # mirexchord <- gsub('/[^_]*(_*)', '\\1', mirexchord)
+   mirexchord <- gsub('1/1', '1', mirexchord)
+
    mirexchord[mirexchord == 'X'] <- 'N'
    mirexchord <- gsub(':1/1', ':1', mirexchord)
    mirexchord <- gsub('b:', '-:', mirexchord)
    mir <- data.table(Time =  round(as.numeric(mirexmat[, 1]), 3), Chord = mirexchord)
    if (is.na(tail(mir$Time, 1) )) mir$Time[nrow(mir)] <- round(as.numeric(mirexmat[nrow(mir) - 1,2]), 3) # last timestamp is from "end" column
    
+   thresh <- .25 #max(mir[, (mean(diff(Time)) / 2)], .5)
+   mir <- mir[!(c(diff(Time), 1) < thresh & Chord == c('', head(Chord, -1)))] # remove short repeated chords
    #
    
-   if (!file %in% c("SimonAndGarfunkel_ElCondorPasa_1970", "JohnnyHorton_TheBattleOfNewOrleans_1959" )) {
+   if (!file %in% c()) {
       humfirstchord <- which(!is.na(hum$Chord) & !hum$Chord %in% c('r', 'N'))[1]
       mirfirstchord <- which(mir$Chord != 'N')[1]
       humfirsttime <- hum$Time[humfirstchord]
       mirfirsttime <- mir$Time[mirfirstchord]
-      if (!is.na(humfirsttime) && chordsMatch(hum$Chord[humfirstchord], mir$Chord[mirfirstchord])$Match && abs(humfirsttime- mirfirsttime) < 10 && abs(humfirsttime- mirfirsttime) > 0) {
-         
-         cat('\tChanging first timestamp in .hum file by', humfirsttime - mirfirsttime,'\n')
+      if (!is.na(humfirsttime) && chordsMatch(hum$Chord[humfirstchord], mir$Chord[mirfirstchord])$Match && abs(humfirsttime- mirfirsttime) < 20 && abs(humfirsttime- mirfirsttime) > 0) {
+
+         cat('\tChanging first timestamp in .hum file by', humfirsttime - mirfirsttime)
          hum$Time[humfirstchord] <- mir$Time[mirfirstchord]
-         
-         
+
+
       }
    }
    
@@ -70,7 +76,6 @@ generateTS <- function(humfile, mirexfile, file) {
              .hum <- hum[Spans == span]
              .mir <- mir[Spans == span]
              
-             if (inspect) browser()
              if (nrow(.mir) == 0) {
                 .hum$NewTime <- .hum$NewChord <- NA
                 .hum$Extra <- ''
@@ -92,6 +97,7 @@ generateTS <- function(humfile, mirexfile, file) {
    hum <- cbind(hum, hum[, chordsMatch(Chord, gsub('/[^_]*(_*)', '\\1', NewChord))])
    
    hum$Chord <- gsub('_XXX$', '', hum$Chord)
+   hum <- cbind(hum, hum[, chordsMatch(Chord, NewChord)])
    # hum <- blankend(hum, file == 'StephanieMills_NeverKnewLoveLikeThisBefore_1980', 260)
    # hum <- blankend(hum, file == 'Madonna_OhFather_1990', 557)
    # hum <- blankend(hum, file == 'LedZeppelin_OverTheHillsAndFarAway_1973', 315)
@@ -118,7 +124,6 @@ chordsMatch <- function(old, new) {
    newroot <- semits(new, simple = TRUE, Exclusive = 'kern')
    oldroot[old %in% c('r', 'N')] <- -10
    newroot[new == 'N'] <- -10
-   
    override <- grepl('_XXX', new)
    
    oldqual <- gsub('^.*:', '', old)
@@ -141,42 +146,54 @@ generateFiles <- function(tsTable, filename, humfile) {
       return(tsTable[!is.na(NewTime)])
    } else {
       # fwrite(tsTable, file = paste0(filename, '.good'))
+     newspine <- tsTable[ , ifelse(is.na(NewTime), Slate, NewTime)]
      
      hummat <- stringi::stri_list2matrix(strsplit(humfile, split = '\t')) |> t()
-     hartej <- hummat[grepl('^\\*\\*', humfile), ] == '**harte'
-     timej  <- hummat[grepl('^\\*\\*', humfile), ] == '**timestamp'
-     
-     hummat[ , timej] <- tsTable[ , ifelse(is.na(NewTime), Slate, paste0('<', hummat[, timej], '> ', NewTime))]
-     hummat[ , hartej] <- tsTable[ , ifelse(hummat[ , hartej] == NewChord | is.na(NewChord), hummat[, hartej], paste0('<', hummat[, hartej], '> ', NewChord))]
-     
+     hummat[,3] <- newspine
      newlines <- apply(hummat, 1, paste, collapse = '\t')
-     newlines[grepl('^!!', humfile)] <- humfile[grepl('!!', humfile)] 
+     # newlines[tsTable$Record] <- paste0(humfile[tsTable$Record], '\t', newspine)
+     newlines[grepl('^!!!', humfile)] <- humfile[grepl('!!!', humfile)] 
      
      writeLines(newlines, paste0(filename, '_timestamped.harm'))
    }
    NULL
 }
-i <- 1:nrow(sampleData)
-# i <- which(grepl('Zepp', sampleData$Filename))
+
 inspect <- FALSE
-sampleData[i, {
-   cat(i, ': ' , Filename, '\n', sep = '')
-  humfile <- readLines(paste0('Data/', Filename, '.harm'))
-  mirexfile <- readLines(paste0('Resources/McGill_Data/MirexFiles/', stringr::str_pad(ID, width=4, pad = '0'), 'full.lab'))
-  
-  tsTable <- generateTS(humfile, mirexfile, Filename)
-  if (is.null(tsTable)) file.copy(paste0('Data/', Filename, '.harm'), paste0('Resources/Scripts/timestamps/', Filename, '_timestamped.hum'))
-  bad <- generateFiles(tsTable, Filename, humfile)
-  if (is.null(bad)) NULL else list(File = Filename, Bad = list(bad), ID = ID, N = sum(!bad$Match, na.rm = TRUE), P = mean(!bad$Match, na.rm = TRUE), I = i)
-  
-  
-}, by = i ] -> bad
+i <- 0
+go <- TRUE
+while(go) {
+   i <- i + 1
+   go <- i < nrow(sampleData)
+   with(sampleData[i],  {
+      cat(i, ': ' , Filename, sep = '')
+      humfile <- readLines(paste0('Data/', Filename, '.harm'))
+      mirexfile <- readLines(paste0('Resources/McGill_Data/MirexFiles/', stringr::str_pad(ID, width=4, pad = '0'), 'full.lab'))
+      
+      tsTable <- generateTS(humfile, mirexfile, Filename)
+      if (is.null(tsTable)) file.copy(paste0('Data/', Filename, '.harm'), paste0('Resources/Scripts/timestamps/', Filename, '_timestamped.harm'))
+      bad <- generateFiles(tsTable, Filename, humfile)
+      output <- if (is.null(bad)) {
+         badcount <- c(badcount, FALSE) 
+         NULL
+      } else {
+         
+         cat('->BAD')
+         list(File = Filename, Bad = list(bad), ID = ID, N = sum(!bad$Match, na.rm = TRUE), P = mean(!bad$Match, na.rm = TRUE)) ->> bad
+         go <<- FALSE
+      } 
+      
+      cat('\n')
+      
+      output
+   }) 
+}
 
 
-which <- bad[1]$Bad[[1]][, which(!Match)]
-bad[1]$Bad[[1]][Filter(\(x) x >0, (min(which) - 10):(max(which) + 8))] |> print()
-print(bad[1]$ID)
-print(bad[1]$Fi)
-bad[1]$Bad[[1]][1:100]
 
-# 
+which <- bad$Bad[[1]][, which(!Match)]
+
+if (diff(range(which)) < 20) bad$Bad[[1]][Filter(\(x) x >0, (min(which) - 10):(max(which) + 5))] |> print() else bad$Bad[[1]][Filter(\(x) x >0, (which[1]- 10):(which[1] + 10))] |> print()
+paste('vim -O ../../../Data/', bad$File, '.harm ', '../../McGill_Data/MirexFiles/', stringr::str_pad(bad$ID, width=4, pad = '0'), 'full.lab', sep ='') |> clipr::write_clip()
+
+print(i)
