@@ -2,8 +2,8 @@
 
 ## Changes
 
-In the Billboard dataset, we have finished the process of translating our previous `**harmony` chord symbols into [roman numerals](https://en.wikipedia.org/wiki/Roman_numerals).
-Specifically, we are using a [slightly modified](Billboard/README.md###Harm) version of humdrum's standard [`**harm` interpretation](https://www.humdrum.org/rep/harm/index.html).
+In the Billboard dataset, we have finished the process of translating our previous `**harmony` chord symbols into [roman numerals](https://en.wikipedia.org/wiki/Roman_numeral_analysis).
+Specifically, we are using a [slightly modified](Billboard/README.md#Harm) version of humdrum's standard [`**harm` interpretation](https://www.humdrum.org/rep/harm/index.html).
 
 In order to create accurate roman numerals, we made numerous small fixes to the harmonic transcriptions, mostly regarding the *keys* of the transcriptions.
 The original McGill harmonic transcriptions often omit key changes, an in a few cases simply mislabel the key.
