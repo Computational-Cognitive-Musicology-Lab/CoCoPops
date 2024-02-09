@@ -21,6 +21,19 @@ bbharm |> filter(Exclusive == 'harmony') |>
 checktab[, Root := tertianSet(Harm)@Root]
 setorder(checktab, Root)
 
+checktab <- checktab[!Filename %in% c("CheapTrick_DreamPolice_1979.hum",
+                                      "PeachesAndHerb_ShakeYourGrooveThing_1978.harm",
+                                      "LesleyGore_CaliforniaNights_1967.varms.hum",
+                                      "RitaCoolidge_TheWayYouDoTheThingsYouDo_1978.harm",
+                                      "StevieWonder_DoIDo_1982.harm",
+                                      "TheElectricPrunes_IHadTooMuchToDream_1967.hum",
+                                      "DavidBowie_GoldenYears_1976.harm",
+                                      "FreddieJackson_HaveYouEverLovedSomebody_1987.harm",
+                                      "BlueCheer_SummertimeBlues_1968.harm"
+                                      
+                                      )]
+checktab[!is.na(Root)][1:40]
+
 bbharm |> within(Harm2 <- {
    inversion <- str_extract(Token[Exclusive == 'harte'], '/.*') |> str_extract('[1-7]') |> chartr(old = '1234567', new = 'aebfcgd')
    
