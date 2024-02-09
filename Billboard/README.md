@@ -198,7 +198,10 @@ The `**leadinstrument` spine is also copied directly from the original transcrip
 
 ### Timestamp
 
-The `**timestamp` simply copies the timestamps from the original files, rounded to the nearest one-hundredth of a second.
+The `**timestamp` simply copies the timestamps from the original McGill "Mirex" files, rounded to the nearest one-hundredth of a second.
+This means there is a timestamp associated with nearly every chord.
+The only exception is a few songs (~14) which have been retranscribed because McGill originally transcribed the wrong recording.
+We have timestamps in those files as well, but not for every chord.
 
 ### Formal Sections
 
