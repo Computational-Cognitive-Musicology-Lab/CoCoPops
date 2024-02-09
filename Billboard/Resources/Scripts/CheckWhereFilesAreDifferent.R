@@ -41,7 +41,7 @@ comp <- function(i) {
   diff <- !is.na(file) & !is.na(orig) & file != orig
   output[diff] <- paste(file[diff], orig[diff], sep = ':::')
   
-  good <- all(output[diff] %in% c('r:::N', '1N:::1r', '2N:::2r', '4N:::4r', '2.N:::2.r'))
+  good <- all(output[diff] %in% c('r:::N', '1N:::1r', '2N:::2r', '4N:::4r', '2.N:::2.r', '1.N:::1.r'))
   
   if (!good) print(unique(output[diff]))
   good
@@ -55,5 +55,5 @@ comp <- function(i) {
 
 
 nontrivial <- which(!sapply(seq_along(files),comp))
-
-k <- 1; paste0('vimdiff ', files[nontrivial[k]], ' ', comparisons[nontrivial[k]]) |> clipr::write_clip()
+print(length(nontrivial))
+k <- length(nontrivial); paste0('vimdiff ', files[nontrivial[k]], ' ', comparisons[nontrivial[k]]) |> clipr::write_clip()
