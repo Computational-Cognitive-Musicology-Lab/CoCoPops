@@ -1,11 +1,11 @@
 **harmony	**harte	**timestamp	**phrase	**leadinstrument
 *M4/4	*M4/4	*	*	*
 *F:	*F:	*	*	*
-1r;	r	0	.	r
+1r;	N	0	.	r
 =1	=1	=1	=1	=1
 *>A_intro	*>A_intro	*>A_intro	*>A_intro	*>A_intro
 *M2/4	*M2/4	*M2/4	*M2/4	*M2/4
-2N	N	0.07	newline	synthesizer
+2r	N	0.07	newline	synthesizer
 =2	=2	=2	=2	=2
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 2FM	F:sus4	0.986	.	synthesizer
@@ -316,8 +316,8 @@
 2CM	C:maj/3	204.111	.	voice
 4Dm	D:sus4(b7,9)	204.994	.	voice
 4DM	D:maj	205.436	.	voice
-1r;	r	205.878	.	r
-1r;	r	209.345	.	r
+1r;	N	205.878	.	r
+1r;	N	209.345	.	r
 *-	*-	*-	*-	*-
 !!!OTL: Invisible Touch
 !!!COC: Genesis

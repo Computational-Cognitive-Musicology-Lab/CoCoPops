@@ -39,12 +39,16 @@ comp <- function(i) {
   
   
   diff <- !is.na(file) & !is.na(orig) & file != orig
+  
+  if (!any(diff)) {print('yay!');return(TRUE)}
   output[diff] <- paste(file[diff], orig[diff], sep = ':::')
   
   good <- all(output[diff] %in% c('r:::N', '1N:::1r', '2N:::2r', '4N:::4r', '2.N:::2.r', '1.N:::1.r'))
   
   if (!good) print(unique(output[diff]))
-  good
+ 
+  cat('Copying', comp, 'to', file, '\n')
+  file.rename(comp, files[i])
   } else {
     FALSE
   }
