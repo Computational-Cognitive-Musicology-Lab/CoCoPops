@@ -128,13 +128,35 @@ These tandem interpretations may dynamically jump between spines on a measure-by
 ### Harm
 
 Harmony information is encoded in two seprate spines: `**harm` and `**harte`.
-
-The `**harm` interpretation is humdrum's standard representation of harmonic Roman numerals ("functional harmony").
-Note that these were *not* manually added via expert annotation, but rather **created by conversion** from an interpreted version of the **harte. (See below for additional details.)
+The harmonic rhythm is encoded as humdrum-standard `**recip` rhythm tokens attached to the `**harm` tokens.
 
 The `**harte` interpretation is a newer humdrum implementation of Harte's common chord syntax, which the original McGill encodings are also based on. (See the [Star Wars Thematic Corpus](https://github.com/Computational-Cognitive-Musicology-Lab/Star-Wars-Thematic-Corpus) repo for full details on the encoding.)
 
-The harmonic rhythm is encoded as humdrum-standard `**recip` rhythm tokens attached to the `**harm` tokens.
+The `**harm` interpretation is humdrum's standard representation of harmonic Roman numerals ("functional harmony").
+These were *not* manually added via expert annotation, but rather **created by conversion** from an interpreted version of the harte indication. (See below for additional details.)
+
+*Note*: Our `**harm` notation differs slightly from the humdrum standard, in a way which (we believe) reflects standard practices.
+In the official `**harm` [specification](https://www.humdrum.org/rep/harm/index.html), the root of each chord is indicated relative to the prevailing key.
+Thus, an Eb major chord is `-III` in the key of C major but `III` in the key of C minor.
+We instead specify the roots of each chord absolutely relative to the major scale, regardless of the key.
+Thus, if the root of the key is C, a major chord built on Eb is always written `-III`, regardless of whether the key is C major or C minor.
+The table below elucidates the differences between our `**harm` annotations and the `**harm` standard:
+
+|Key       |Chord    |Standard **harm |CoCoPops **harm |
+|:---------|--------:|---------------:|---------------:|
+|*G major* |B♯ major |`#III`          |`#III`          |
+|          |B major  |`III`           |`III`           |
+|          |B♭ major |`-III`          |`-III`          |
+|          |B𝄫 major |`--III`         |`--III`         |
+|*G minor* |B♯ major |`##III`         |`#III`          |
+|          |B major  |`#III`          |`III`           |
+|          |B♭ major |`III`           |`-III`          |
+|          |B𝄫 major |`-III`          |`--III`         |
+
+This approach is easier to parse and analyze, because each chord can be understood without having to reference the key interpretation.
+It also means that the sometimes-subjective determinination of mode ("is it major or minor here?") has less influence on the content of the data.
+
+
 
 #### Differences between harm and harte
 
