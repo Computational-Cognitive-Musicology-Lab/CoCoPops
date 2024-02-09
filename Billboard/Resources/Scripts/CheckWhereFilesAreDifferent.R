@@ -12,10 +12,10 @@ comparisons <-  dir(path = '~/Bridge/Research/Data/CoCoPops/Billboard/Resources/
 
 if (any(!file.exists(comparisons))) stop("This requires that all your 'files' have equivalent files in the path.to.compare.")
 
-files <- files[basename(files) %in% gsub('_timestamped', '', basename(comparisons))]
+files <- files[basename(files) %in% gsub('_timestamped', '.varms', basename(comparisons))]
 
-comparisons <- comparisons[gsub('_timestamped', '', basename(comparisons)) %in% basename(files)]
-comparisons <- comparisons[match(basename(files), gsub('_timestamped', '', basename(comparisons)))]
+comparisons <- comparisons[gsub('_timestamped', '.varms', basename(comparisons)) %in% basename(files)]
+comparisons <- comparisons[match(basename(files), gsub('_timestamped', '.varms', basename(comparisons)))]
 
 comp <- function(i) {
   file <- files[i]
@@ -43,12 +43,13 @@ comp <- function(i) {
   if (!any(diff)) {print('yay!');return(TRUE)}
   output[diff] <- paste(file[diff], orig[diff], sep = ':::')
   
-  good <- all(output[diff] %in% c('r:::N', '1N:::1r', '2N:::2r', '4N:::4r', '2.N:::2.r', '1.N:::1.r'))
+  good <- all(output[diff] %in% c('r:::N', '1N:::1r', '2N:::2r', '4N:::4r', '2.N:::2.r', '1.N:::1.r', '4.N:::4.r'))
   
   if (!good) print(unique(output[diff]))
  
   cat('Copying', comp, 'to', file, '\n')
   file.rename(comp, files[i])
+  good
   } else {
     FALSE
   }
