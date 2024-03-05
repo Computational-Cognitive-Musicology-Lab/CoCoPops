@@ -6,7 +6,7 @@ This directory contains the *Billboard* subset of the **Coordinated Corpus of Po
 This Billboard subset includes harmonic and melodic transcriptions of popular songs which charted on Billboard Hot 100 list between 1959 and 1991.
 This dataset is based off an existing dataset of 739 harmonic annotations created at McGill University in the period 2010-2012: the [McGill Billboard Project]("https://ddmal.music.mcgill.ca/research/The_McGill_Billboard_Project_(Chord_Analysis_Dataset)/").
 We have (as of now) added melodic transcriptions to 214 of these transcriptions and human arousal/valence ratings to 100.
-We've also made a number of other edits, fixes, and modifications ot the McGill data.
+We've also made a number of other edits, fixes, and modifications to the McGill data.
 The dataset is encoded in a [humdrum format](humdrum.org).
 
 This project started at Ohio State, led by Hubert Gauvin, Claire Arthur, and Nat Condit-Schultz, with the help of Gary Yim and Dana Devlieger.
@@ -32,7 +32,7 @@ In the `Billboard_Sample.tsv` file, songs which are sampled more than once have 
 
 This directory contains two subdirectories:
 
-+ The `Data` directory contains the humdrum data for the CoCoPops Billboard subset.
++ The `Data` directory contains the humdrum data for the CoCoPops *Billboard* subset.
 + The `Resources` directory contains various other (potentially) useful information related to the creation of the dataset, including raw Sibelius, Musescore, and XML files. (Note, the original raw transcription files are not maintained and likely contain some errors).
 
 # Data 
@@ -41,9 +41,10 @@ The dataset includes transcriptions/annotations of 739 unique songs, each in its
 
 Currently, 214 files contain complete melodic *and* harmonic transcriptions (and additional metadata).
 These files have the file extension `.hum`.
-A 100-file subset of these will soon include real-time human-participant valence and arousal data, as well as rolling RMS signal level.
+A 100-file subset includes real-time human-participant valence and arousal data, as well as rolling RMS signal level.
 These files have the extension `.varms.hum`.
-The remaining 525 files contain "only" the harmonic transcription data. These are essentially the original McGill Billboard files converted to humdrum format, with some corrections added as necessary.
+The remaining 525 files contain "only" the harmonic transcription data. 
+These are essentially the original McGill Billboard files converted to humdrum format, with some corrections added as necessary.
 These files (without melodic transcriptions) have the extension `harm`.
 
 All the files share the same humdrum-structure, with differing columns of data depending on what is included.
@@ -125,9 +126,9 @@ This notation refers to the German term [Haupstimme](https://en.wikipedia.org/wi
 `*]stimme` can be used to indicate the end of the previous stimme indication---traditionally marked &#119208; in scores.
 These tandem interpretations may dynamically jump between spines on a measure-by-measure basis, sometimes even changing within a vocal phrase.
 
-### Harm
+### Harmony
 
-Harmony information is encoded in two seprate spines: `**harm` and `**harte`.
+Harmony information is encoded in two separate spines: `**harm` and `**harte`.
 The harmonic rhythm is encoded as humdrum-standard `**recip` rhythm tokens attached to the `**harm` tokens.
 
 The `**harte` interpretation is a newer humdrum implementation of Harte's common chord syntax, which the original McGill encodings are also based on. (See the [Star Wars Thematic Corpus](https://github.com/Computational-Cognitive-Musicology-Lab/Star-Wars-Thematic-Corpus) repo for full details on the encoding.)

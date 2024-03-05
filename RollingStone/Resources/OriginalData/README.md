@@ -1,7 +1,7 @@
 # CoCoPops/RollingStone/OriginalData/
 
 This directory contains the original data created by Temperley, de Clercq, Lustig, and Tan.
-These files were accessed from (http://rockcorpus.midside.com/){target="\_blank"} in 2019.
+These files were accessed from <http://rockcorpus.midside.com/> in 2019.
 
 ---
 
