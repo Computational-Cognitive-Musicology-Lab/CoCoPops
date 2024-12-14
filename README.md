@@ -21,7 +21,7 @@ Many other wonderful people have contributed to CoCoPops as well, both directly 
 
 # Contents and Format
 
-The goal of CoCoPops is to make a large ammount of comparable melodic/harmonic data available in a consistent, standardized format.
+The goal of CoCoPops is to make a large amount of comparable melodic/harmonic data available in a consistent, standardized format.
 All CoCoPops files are stored in [humdrum format](www.humdrum.org).
 CoCoPops currently includes of two main sub-corpora, the *Billboard* subset and the *Rolling Stone* subset.
 We plan on continuing to add more as additional datasets and corpora of popular music with melodic transcriptions become available.
