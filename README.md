@@ -58,7 +58,8 @@ The `Year` part of the filename is the year the song was sampled, which is not n
 
 # References 
 
-To cite this work (and for suggestions on how or who to cite depending on usage), please see [our 2023 ISMIR paper](https://www.academia.edu/108502759/THE_COORDINATED_CORPUS_OF_POPULAR_MUSICS_COCOPOPS_A_META_CORPUS_OF_MELODIC_AND_HARMONIC_TRANSCRIPTIONS) full citation reference below.
+To cite this work (and for suggestions on how or who to cite depending on usage), please see [our 2023 ISMIR paper](https://zenodo.org/records/10265267) full citation reference below.
+
 
 + Claire Arthur and Nathaniel Condit-Schultz (2023). The Coordinated Corpus of Popular Musics (CoCoPops): A meta-corpus of melodic and harmonic transcriptions.<br />
   *Proceedings of the 24th International Society for Music Information Retrieval Conference (ISMIR)*, Milan, Italy.
