@@ -68,4 +68,14 @@ To cite this work (and for suggestions on how or who to cite depending on usage)
 + John Ashley Burgoyne, Jonathan Wild, and Ichiro Fujinaga (2011). An Expert Ground Truth Set for Audio Chord Recognition and Music Analysis.<br />
   *Proceedings of the International Society for Music Information Retrieval* pp. 24–28 
 
+# Licence
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+This dataset is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to share and adapt the data for non-commercial purposes, provided you
+give appropriate credit, link to the license, and indicate if changes were made.
+Commercial use is not permitted without prior written permission from the authors.
 
